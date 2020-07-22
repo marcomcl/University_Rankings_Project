@@ -45,7 +45,7 @@ function initMap(){
 	        .scaleExtent([0,20])
 	        .on('zoom', zoomed); //sullo zoom action chiamo zoomed()
       
-	d3.json("/data/countries.topo.json", function(error, us,names) {
+	d3.json("./data/countries.topo.json", function(error, us,names) {
 	     
 		 //disegno la mappa
 		 svg_map.append("g")
