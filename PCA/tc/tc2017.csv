@@ -1,0 +1,608 @@
+the_Rank,the_institution,the_Overall,the_Teaching,the_Reseach,the_Citations,the_Industry Income,the_International Outlook,the_Country,year,cwur_year,cwur_institution,cwur_location,cwur_world_rank,cwur_national_rank,cwur_quality_of_education,cwur_alumni_employment,cwur_quality_of_faculty,cwur_research_performance,cwur_publications,cwur_influence,cwur_citations,cwur_broad_impact,cwur_patents,cwur_score
+1,University of Oxford,95.0,89.6,99.1,99.2,62.5,94.5,United Kingdom,2017.0,2017,University of Oxford,United Kingdom,5,2,7,14,9,-,6,6,4,9,19,92.2
+2,California Institute of Technology,94.3,95.5,95.7,99.8,90.8,63.4,United States,2017.0,2017,California Institute of Technology,USA,11,9,5,339,7,-,82,13,23,28,13,80.46
+3,Stanford University,93.8,92.6,95.9,99.9,60.9,76.5,United States,2017.0,2017,Stanford University,USA,2,2,8,2,2,-,5,3,2,3,7,96.86
+4,University of Cambridge,93.6,90.6,97.2,96.8,50.4,92.4,United Kingdom,2017.0,2017,University of Cambridge,United Kingdom,4,1,3,10,6,-,10,7,17,13,52,93.14
+5,Massachusetts Institute of Technology,93.4,90.3,92.3,99.9,88.4,85.6,United States,2017.0,2017,Massachusetts Institute of Technology,USA,3,3,2,12,3,-,14,2,3,2,1,95.72
+6,Harvard University,92.7,87.5,98.3,99.7,47.3,77.9,United States,2017.0,2017,Harvard University,USA,1,1,1,1,1,-,1,1,1,1,2,100.0
+7,Princeton University,90.2,89.5,88.4,99.2,49.9,77.2,United States,2017.0,2017,Princeton University,USA,9,7,4,15,4,-,99,26,23,39,122,86.04
+8,Imperial College London,90.0,86.4,86.6,97.3,67.5,96.5,United Kingdom,2017.0,2017,Imperial College London,United Kingdom,34,4,60,68,39,-,18,24,18,21,33,57.23
+10,University of Chicago,88.9,88.1,89.1,99.1,37.7,67.8,United States,2017.0,2017,University of Chicago,USA,8,6,11,13,8,-,23,17,11,16,85,87.13
+12,Yale University,88.2,88.5,87.8,97.8,44.5,64.3,United States,2017.0,2017,Yale University,USA,10,8,9,27,11,-,17,10,32,18,48,81.2
+13,University of Pennsylvania,87.1,85.9,88.9,98.6,49.9,50.1,United States,2017.0,2017,University of Pennsylvania,USA,14,11,24,4,27,-,11,18,12,11,11,73.9
+16,Columbia University,86.1,86.9,78.9,98.6,44.9,75.3,United States,2017.0,2017,Columbia University,USA,6,4,13,6,10,-,13,12,13,14,4,90.8
+17,Johns Hopkins University,85.9,77.4,84.3,98.4,100.0,71.1,United States,2017.0,2017,Johns Hopkins University,USA,16,13,17,91,18,-,4,11,4,4,3,67.15
+18,Duke University,84.7,80.7,80.0,98.8,100.0,58.2,United States,2017.0,2017,Duke University,USA,29,21,85,32,49,-,19,23,13,15,26,58.84
+19,Cornell University,84.6,79.7,86.5,97.2,36.0,62.2,United States,2017.0,2017,Cornell University,USA,12,10,10,17,16,-,22,15,37,22,12,79.73
+20,Northwestern University,83.7,75.8,85.0,97.0,85.8,56.1,United States,2017.0,2017,Northwestern University,USA,17,14,150,11,43,-,27,37,29,25,46,65.02
+22,University of Toronto,83.0,74.6,86.3,91.9,48.8,78.3,Canada,2017.0,2017,University of Toronto,Canada,28,1,44,71,22,-,2,16,8,6,205,59.09
+23,Carnegie Mellon University,81.8,70.2,84.0,99.3,51.8,59.6,United States,2017.0,2017,Carnegie Mellon University,USA,67,41,29,106,25,-,225,233,138,154,122,50.89
+24,National University of Singapore,81.7,76.7,86.9,79.7,61.3,96.0,Singapore,2017.0,2017,National University of Singapore,Singapore,61,1,383+,79,240+,-,34,107,81,84,26,51.56
+27,University of Edinburgh,79.2,67.5,74.7,96.0,35.0,91.5,United Kingdom,2017.0,2017,University of Edinburgh,United Kingdom,44,5,31,158,32,-,55,30,45,38,161,53.52
+28,Karolinska Institute,77.6,62.1,76.0,95.9,72.1,74.2,Sweden,2017.0,2017,Karolinska Institute,Sweden,72,1,116,616+,41,-,47,46,62,33,613,50.42
+29,Peking University,77.2,84.6,80.3,71.6,100.0,50.3,China,2017.0,2017,Peking University,China,54,1,174,34,240+,-,46,99,144,104,30,52.34
+32,New York University,76.7,75.1,68.8,95.3,33.6,54.3,United States,2017.0,2017,New York University,USA,19,16,35,21,20,-,48,29,32,32,51,64.36
+33,Georgia Institute of Technology,76.3,60.8,79.2,90.8,62.3,72.8,United States,2017.0,2017,Georgia Institute of Technology,USA,95,52,130,75,128,-,113,173,105,108,43,49.29
+33,University of Melbourne,76.3,65.4,73.6,88.1,63.7,88.3,Australia,2017.0,2017,University of Melbourne,Australia,82,2,88,133,141,-,38,60,50,50,240,50.11
+35,Tsinghua University,76.2,78.9,89.6,67.4,99.7,39.4,China,2017.0,2017,Tsinghua University,China,65,2,334,53,240+,-,52,130,89,113,28,51.04
+36,University of British Columbia,75.9,61.2,72.5,92.9,41.1,92.0,Canada,2017.0,2017,University of British Columbia,Canada,55,3,75,329,97,-,26,36,28,31,75,52.24
+36,King's College London,75.9,61.5,71.0,93.5,42.5,93.8,United Kingdom,2017.0,2017,King's College London,United Kingdom,78,7,28,167,109,-,68,83,62,58,199,50.17
+42,McGill University,73.1,66.4,70.3,81.8,41.9,86.4,Canada,2017.0,2017,McGill University,Canada,41,2,33,38,56,-,37,52,40,41,99,54.17
+43,University of Hong Kong,73.0,66.5,74.5,73.2,52.9,99.4,Hong Kong,2017.0,2017,University of Hong Kong,Hong Kong,158,1,233,87,240+,-,128,185,105,162,210,46.77
+46,Technical University of Munich,71.6,61.0,70.5,82.0,100.0,66.6,Germany,2017.0,2017,Technical University of Munich,Germany,111,3,47,146,181,-,102,89,126,90,132,48.3
+47,Australian National University,71.3,54.0,73.9,81.7,53.5,93.9,Australia,2017.0,2017,Australian National University,Australia,163,6,134,350,45,-,138,98,144,185,382,46.68
+50,University of Texas at Austin,70.8,63.9,65.9,93.0,51.3,35.7,United States,2017.0,2017,University of Texas at Austin,USA,30,22,71,29,28,-,60,57,27,66,31,58.3
+51,Brown University,70.4,66.3,54.4,96.7,33.9,58.0,United States,2017.0,2017,Brown University,USA,81,49,80,39,46,-,120,87,97,105,208,50.12
+53,University of Minnesota,70.3,60.3,69.8,87.0,94.2,38.2,United States,2017.0,2017,University of Minnesota,USA,46,29,67,141,69,-,20,34,34,28,57,53.41
+55,University of Manchester,69.7,58.2,66.3,82.3,45.1,87.0,United Kingdom,2017.0,2017,University of Manchester,United Kingdom,62,6,111,92,80,-,45,67,23,43,134,51.55
+56,University of North Carolina at Chapel Hill,69.3,61.9,59.6,96.1,41.0,40.0,United States,2017.0,2017,University of North Carolina at Chapel Hill,USA,38,25,144,70,62,-,28,31,15,20,40,55.19
+57,Humboldt University of Berlin,69.2,62.5,69.0,79.9,39.4,64.4,Germany,2017.0,2017,Humboldt University of Berlin,Germany,124,5,319,616+,182,-,76,76,73,71,499,47.87
+57,Washington University in St. Louis,69.2,60.7,56.2,99.1,36.9,45.5,United States,2017.0,2017,Washington University in St. Louis,USA,53,34,118,96,81,-,41,21,29,19,112,52.6
+59,Delft University of Technology,67.9,56.2,72.9,67.3,99.9,85.9,Netherlands,2017.0,2017,Delft University of Technology,Netherlands,256,10,329,252,240+,-,228,266,357,266,103,44.8
+60,University of Southern California,67.2,50.5,60.0,94.7,39.4,62.7,United States,2017.0,2017,University of Southern California,USA,45,28,143,58,37,-,62,63,73,56,29,53.49
+60,University of Sydney,67.2,51.3,63.2,83.2,63.9,83.7,Australia,2017.0,2017,University of Sydney,Australia,74,1,123,274,167,-,35,77,40,57,83,50.3
+63,University of Amsterdam,67.1,49.4,62.0,90.3,54.6,69.3,Netherlands,2017.0,2017,University of Amsterdam,Netherlands,109,5,126,409,234,-,57,79,81,60,262,48.36
+64,Boston University,66.9,60.2,48.5,97.7,34.4,54.6,United States,2017.0,2017,Boston University,USA,57,35,328,56,92,-,72,45,22,37,91,52.07
+69,Erasmus University Rotterdam,64.6,38.8,56.8,95.6,57.7,77.1,Netherlands,2017.0,2017,Erasmus University Rotterdam,Netherlands,85,2,383+,42,207,-,81,118,97,46,166,49.68
+71,University of Bristol,64.4,45.9,51.7,92.7,40.9,83.2,United Kingdom,2017.0,2017,University of Bristol,United Kingdom,119,8,221,182,67,-,96,66,89,93,349,48.08
+72,Ohio State University,64.2,57.0,53.1,86.2,50.6,54.6,United States,2017.0,2017,Ohio State University,USA,48,31,83,97,60,-,30,51,35,35,47,53.33
+72,Seoul National University,64.2,70.2,69.8,58.8,85.2,32.4,South Korea,2017.0,2017,Seoul National University,South Korea,23,1,383+,9,240+,-,40,159,153,113,9,62.23
+74,Monash University,64.0,49.5,57.4,78.5,76.0,87.1,Australia,2017.0,2017,Monash University,Australia,136,5,302,153,240+,-,66,110,153,136,118,47.47
+75,Free University of Berlin,63.7,58.1,67.3,66.9,38.9,67.2,Germany,2017.0,2017,Free University of Berlin,Germany,112,4,84,551,107,-,73,75,73,75,355,48.27
+76,Chinese University of Hong Kong,63.6,52.2,60.4,74.6,44.7,84.0,Hong Kong,2017.0,2017,Chinese University of Hong Kong,Hong Kong,231,2,127,505,119,-,154,301,213,219,178,45.2
+77,Leiden University,63.3,46.1,57.9,86.1,47.3,68.1,Netherlands,2017.0,2017,Leiden University,Netherlands,115,7,155,583,104,-,80,84,81,66,151,48.22
+78,RWTH Aachen University,63.0,53.3,63.7,71.3,99.4,53.4,Germany,2017.0,2017,RWTH Aachen University,Germany,213,16,374,168,193,-,195,374,138,205,162,45.48
+80,University of Groningen,62.2,41.9,55.1,87.1,79.9,66.4,Netherlands,2017.0,2017,University of Groningen,Netherlands,102,3,190,237,111,-,56,86,66,69,382,48.56
+82,Dartmouth College,62.0,58.6,41.1,94.2,39.9,37.9,United States,2017.0,2017,Dartmouth College,USA,47,30,54,16,240+,-,248,179,213,182,78,53.35
+82,Emory University,62.0,52.9,39.7,97.4,43.2,52.7,United States,2017.0,2017,Emory University,USA,79,47,383+,127,131,-,64,53,70,36,63,50.17
+82,Technical University of Berlin,62.0,49.8,59.3,74.3,98.0,60.8,Germany,2017.0,2017,Technical University of Berlin,Germany,367,32,86,248,240+,-,376,479,415,394,239,43.77
+82,University of Warwick,62.0,46.8,52.6,80.9,40.8,91.4,United Kingdom,2017.0,2017,University of Warwick,United Kingdom,261,22,158,202,131,-,190,203,183,290,247,44.73
+86,Utrecht University,61.9,46.1,48.5,90.7,80.7,57.6,Netherlands,2017.0,2017,Utrecht University,Netherlands,83,1,91,185,118,-,36,43,55,51,286,49.97
+87,Rice University,61.7,46.9,38.7,99.1,43.4,69.5,United States,2017.0,2017,Rice University,USA,120,59,57,95,70,-,286,162,62,151,72,48.03
+88,University of Glasgow,61.4,40.6,47.8,90.6,39.4,88.6,United Kingdom,2017.0,2017,University of Glasgow,United Kingdom,141,9,140,121,240+,-,124,112,89,99,387,47.28
+89,KAIST,61.3,55.7,53.2,78.5,100.0,34.3,South Korea,2017.0,2017,KAIST,South Korea,140,4,383+,140,240+,-,197,309,709,260,17,47.34
+89,University of Tübingen,61.3,46.0,56.2,82.9,56.3,57.8,Germany,2017.0,2017,University of Tübingen,Germany,151,6,63,504,106,-,144,124,167,108,142,46.93
+91,University of Helsinki,61.2,47.0,57.6,83.5,34.9,52.2,Finland,2017.0,2017,University of Helsinki,Finland,114,1,58,507,113,-,79,78,103,61,482,48.22
+91,Kyoto University,61.2,70.2,70.1,50.4,75.1,28.0,Japan,2017.0,2017,Kyoto University,Japan,21,2,18,18,23,-,43,49,103,93,14,64.06
+93,Uppsala University,61.1,43.0,57.1,85.2,40.4,59.9,Sweden,2017.0,2017,Uppsala University,Sweden,125,2,53,278,79,-,104,70,126,100,842,47.84
+94,Maastricht University,61.0,39.2,48.6,84.4,85.7,96.0,Netherlands,2017.0,2017,Maastricht University,Netherlands,215,8,383+,616+,240+,-,163,284,153,166,355,45.42
+96,Durham University,60.6,43.0,49.0,85.0,37.4,87.0,United Kingdom,2017.0,2017,Durham University,United Kingdom,246,21,82,223,85,-,249,229,252,253,382,45.0
+96,Lund University,60.6,41.3,53.1,83.2,68.5,74.6,Sweden,2017.0,2017,Lund University,Sweden,128,3,162,427,171,-,87,129,70,75,887,47.71
+98,Aarhus University,60.3,39.0,54.7,83.0,65.4,75.7,Denmark,2017.0,2017,Aarhus University,Denmark,121,2,335,184,103,-,78,81,97,102,151,48.0
+98,University of Basel,60.3,40.1,36.8,92.4,99.3,94.4,Switzerland,2017.0,2017,University of Basel,Switzerland,147,5,92,255,50,-,160,91,126,141,445,47.04
+101,Michigan State University,59.9,51.6,48.9,81.1,38.5,58.8,United States,2017.0,2017,Michigan State University,USA,130,61,113,137,240+,-,103,141,89,130,85,47.6
+102,University of Mannheim,59.8,39.1,51.3,88.3,76.4,57.7,Germany,2017.0,2017,University of Mannheim,Germany,896,57,383+,567,240+,-,896,910,482,851,862,42.58
+103,University of Montreal,59.7,46.8,47.8,77.4,67.7,85.0,Canada,2017.0,2017,University of Montreal,Canada,129,5,347,197,240+,-,85,94,119,90,186,47.62
+104,Georgetown University,59.6,56.7,39.3,84.6,74.4,47.3,United States,2017.0,2017,Georgetown University,USA,131,62,157,31,240+,-,319,318,252,221,138,47.59
+104,Pohang University of Science and Technology,59.6,53.8,48.7,79.2,99.6,34.2,South Korea,2017.0,2017,Pohang University of Science and Technology,South Korea,212,7,383+,616+,240+,-,318,357,319,327,39,45.48
+106,University of Zurich,59.5,46.4,38.5,87.5,44.2,89.3,Switzerland,2017.0,2017,University of Zurich,Switzerland,91,3,135,388,93,-,63,47,43,59,143,49.46
+107,University of Alberta,59.4,49.5,53.0,69.9,61.3,82.7,Canada,2017.0,2017,University of Alberta,Canada,106,4,187,163,156,-,67,117,73,98,100,48.44
+108,Vanderbilt University,59.3,50.1,37.3,96.7,73.5,29.8,United States,2017.0,2017,Vanderbilt University,USA,63,38,94,76,116,-,59,54,38,46,69,51.23
+109,University of Sheffield,59.1,42.3,47.6,82.7,44.7,83.1,United Kingdom,2017.0,2017,University of Sheffield,United Kingdom,170,14,168,231,218,-,143,151,105,146,168,46.37
+110,University of Bern,58.9,43.2,43.0,82.8,75.5,83.8,Switzerland,2017.0,2017,University of Bern,Switzerland,203,7,208,575,235,-,149,108,119,173,433,45.7
+110,University of St Andrews,58.9,45.2,44.3,80.3,33.7,94.3,United Kingdom,2017.0,2017,University of St Andrews,United Kingdom,312,30,177,474,240+,-,314,204,357,273,252,44.18
+112,University of Göttingen,58.8,49.7,48.0,81.1,34.8,56.6,Germany,2017.0,2017,University of Göttingen,Germany,171,10,40,161,180,-,165,142,278,176,320,46.36
+113,University of Bonn,58.7,47.2,40.8,88.3,37.3,64.6,Germany,2017.0,2017,University of Bonn,Germany,157,7,62,251,91,-,156,116,116,127,349,46.82
+113,McMaster University,58.7,43.5,45.4,82.3,66.1,76.2,Canada,2017.0,2017,McMaster University,Canada,137,6,247,328,163,-,126,126,66,69,217,47.46
+113,Queen Mary University of London,58.7,34.0,39.7,95.1,40.0,94.3,United Kingdom,2017.0,2017,Queen Mary University of London,United Kingdom,195,16,119,420,240+,-,224,164,183,122,280,45.79
+116,University of Colorado Boulder,58.6,42.5,43.7,96.1,38.0,39.4,United States,2017.0,2017,University of Colorado Boulder,USA,69,43,65,86,42,-,107,40,50,83,143,50.71
+116,École Polytechnique,58.6,58.6,40.6,67.2,71.9,92.3,France,2017.0,2017,École Polytechnique,France,35,1,107,7,187,-,394,334,234,313,209,56.63
+118,Ghent University,58.5,43.0,55.5,75.7,84.4,55.1,Belgium,2017.0,2017,Ghent University,Belgium,100,2,149,325,152,-,71,95,60,80,114,48.6
+119,City University of Hong Kong,58.4,42.1,44.5,81.6,66.4,83.5,Hong Kong,2017.0,2017,City University of Hong Kong,Hong Kong,366,5,383+,580,240+,-,236,818,415,337,410,43.77
+120,University of Copenhagen,58.2,46.8,33.1,89.8,44.2,82.3,Denmark,2017.0,2017,University of Copenhagen,Denmark,60,1,146,166,73,-,29,27,35,27,255,51.58
+121,Radboud University Nijmegen,58.1,35.0,50.6,87.2,45.2,68.3,Netherlands,2017.0,2017,Radboud University Nijmegen,Netherlands,108,4,132,291,240+,-,83,102,45,61,298,48.4
+121,University of Southampton,58.1,39.2,46.1,82.8,39.2,90.2,United Kingdom,2017.0,2017,University of Southampton,United Kingdom,161,12,350,125,192,-,111,123,119,141,199,46.74
+125,University of Western Australia,58.0,32.3,44.9,89.0,48.8,92.9,Australia,2017.0,2017,University of Western Australia,Australia,206,7,138,338,197,-,121,154,194,176,438,45.66
+126,Case Western Reserve University,57.9,50.2,38.9,90.2,36.8,42.0,United States,2017.0,2017,Case Western Reserve University,USA,118,58,50,227,217,-,146,111,81,90,91,48.09
+126,University of Exeter,57.9,34.6,39.2,94.3,34.9,87.6,United Kingdom,2017.0,2017,University of Exeter,United Kingdom,298,28,289,378,240+,-,272,165,357,256,441,44.3
+128,Université catholique de Louvain,57.8,39.6,51.3,78.5,51.5,75.6,Belgium,2017.0,2017,Université catholique de Louvain,Belgium,248,4,269,268,100,-,293,307,144,221,247,44.96
+129,University of York,57.7,42.5,45.9,79.8,34.1,84.5,United Kingdom,2017.0,2017,University of York,United Kingdom,318,31,383+,616+,240+,-,279,209,167,296,320,44.14
+130,University of Birmingham,57.6,38.6,42.4,86.8,38.0,84.2,United Kingdom,2017.0,2017,University of Birmingham,United Kingdom,167,13,81,165,228,-,119,160,194,141,186,46.53
+131,Arizona State University,57.2,38.5,48.9,87.7,36.6,49.7,United States,2017.0,2017,Arizona State University,USA,110,56,383+,266,95,-,139,109,105,173,23,48.34
+132,University of Oslo,56.9,39.7,43.1,85.5,42.9,71.2,Norway,2017.0,2017,University of Oslo,Norway,99,1,61,322,47,-,98,114,89,93,201,48.64
+133,University of Leeds,56.8,42.3,43.0,81.3,39.0,78.2,United Kingdom,2017.0,2017,University of Leeds,United Kingdom,156,11,56,190,240+,-,130,138,126,133,245,46.82
+134,University of Florida,56.6,53.6,48.1,72.9,65.7,35.2,United States,2017.0,2017,University of Florida,USA,59,37,234,219,99,-,42,88,55,55,5,52.05
+135,Tufts University,56.5,48.1,34.3,88.5,58.5,50.5,United States,2017.0,2017,Tufts University,USA,98,54,76,43,185,-,185,171,81,113,71,48.94
+137,University of Geneva,56.4,37.4,41.1,79.3,66.7,98.3,Switzerland,2017.0,2017,University of Geneva,Switzerland,92,4,39,220,40,-,132,82,97,84,379,49.42
+137,Lancaster University,56.4,37.0,40.9,84.7,35.6,89.1,United Kingdom,2017.0,2017,Lancaster University,United Kingdom,422,34,383+,363,240+,-,386,430,252,372,556,43.49
+142,University of Adelaide,56.1,37.1,43.9,78.8,67.5,86.3,Australia,2017.0,2017,University of Adelaide,Australia,280,8,245,428,240+,-,205,211,194,266,306,44.48
+143,University of Notre Dame,55.9,50.2,40.7,80.2,37.4,48.2,United States,2017.0,2017,University of Notre Dame,USA,93,51,246,25,157,-,271,263,252,236,275,49.3
+144,Karlsruhe Institute of Technology,55.8,41.3,45.2,76.4,98.3,59.5,Germany,2017.0,2017,Karlsruhe Institute of Technology,Germany,233,18,373,191,193,-,218,327,213,234,114,45.15
+144,Stockholm University,55.8,32.2,46.2,86.8,33.8,72.1,Sweden,2017.0,2017,Stockholm University,Sweden,178,5,152,98,206,-,198,103,73,190,887,46.22
+147,University of Nottingham,55.5,41.0,41.3,78.9,39.8,81.6,United Kingdom,2017.0,2017,University of Nottingham,United Kingdom,146,10,156,144,89,-,116,182,119,130,148,47.04
+148,University of Cape Town,55.3,32.4,37.2,87.3,88.8,80.1,South Africa,2017.0,2017,University of Cape Town,South Africa,259,2,125,164,150,-,302,197,252,252,314,44.77
+149,University of Sussex,55.1,32.6,37.9,88.1,33.7,88.8,United Kingdom,2017.0,2017,University of Sussex,United Kingdom,275,25,117,232,63,-,363,267,183,323,492,44.58
+151,University of Lausanne,54.9,31.8,46.6,75.6,76.1,90.1,Switzerland,2017.0,2017,University of Lausanne,Switzerland,187,6,96,412,240+,-,213,125,138,122,541,45.96
+151,University of Rochester,54.9,43.4,32.4,89.4,38.9,58.9,United States,2017.0,2017,University of Rochester,USA,73,44,70,49,117,-,137,133,60,84,49,50.41
+153,University of Science and Technology of China,54.7,51.8,43.4,74.7,77.6,24.2,China,2017.0,2017,University of Science and Technology of China,China,219,7,383+,201,240+,-,125,265,302,199,576,45.39
+153,University of Twente,54.7,36.8,46.7,70.8,84.6,83.6,Netherlands,2017.0,2017,University of Twente,Netherlands,413,12,383+,473,240+,-,354,494,278,368,366,43.52
+155,Fudan University,54.6,55.3,47.0,65.7,53.2,37.5,China,2017.0,2017,Fudan University,China,172,5,383+,143,240+,-,97,210,234,168,175,46.35
+156,University of Arizona,54.5,42.9,42.2,83.2,35.6,41.7,United States,2017.0,2017,University of Arizona,USA,75,45,102,63,68,-,88,41,55,61,137,50.3
+158,University of Liverpool,54.3,35.1,35.2,85.7,37.4,87.7,United Kingdom,2017.0,2017,University of Liverpool,United Kingdom,207,18,207,239,230,-,157,143,153,176,401,45.6
+161,University of Münster,53.9,40.8,38.3,84.4,62.6,44.3,Germany,2017.0,2017,University of Münster,Germany,194,12,105,386,177,-,172,188,167,151,219,45.8
+161,University of Vienna,53.9,41.1,46.6,65.9,33.5,93.0,Austria,2017.0,2017,University of Vienna,Austria,250,2,215,205,114,-,243,158,194,229,521,44.89
+163,Autonomous University of Barcelona,53.7,39.4,36.4,86.7,39.9,52.3,Spain,2017.0,2017,Autonomous University of Barcelona,Spain,229,2,383+,616+,240+,-,136,212,278,197,280,45.24
+165,University of Auckland,53.4,32.8,40.8,75.8,70.5,90.5,New Zealand,2017.0,2017,University of Auckland,New Zealand,234,1,260,272,240+,-,237,238,119,243,120,45.12
+165,University of East Anglia,53.4,30.7,31.1,92.4,32.4,84.3,United Kingdom,2017.0,2017,University of East Anglia,United Kingdom,325,32,222,616+,183,-,341,224,153,293,592,44.08
+169,Texas A&M University,53.2,53.1,57.0,50.7,46.9,50.1,United States,2017.0,2017,Texas A&M University,USA,101,55,359,89,51,-,92,132,81,154,89,48.58
+170,University of Cologne,53.1,40.2,38.3,79.2,64.3,55.9,Germany,2017.0,2017,University of Cologne,Germany,200,15,383+,134,221,-,204,137,153,165,492,45.73
+170,University of Gothenburg,53.1,30.3,40.5,87.9,39.9,59.6,Sweden,2017.0,2017,University of Gothenburg,Sweden,227,6,279,228,119,-,186,175,167,199,913+,45.24
+172,University of Leicester,53.0,30.9,32.4,88.4,35.1,87.6,United Kingdom,2017.0,2017,University of Leicester,United Kingdom,226,19,383+,616+,240+,-,260,136,183,159,347,45.25
+173,University of Waterloo,52.9,37.8,44.9,70.8,41.0,77.5,Canada,2017.0,2017,University of Waterloo,Canada,263,12,383+,113,240+,-,189,332,357,278,726,44.71
+175,Pompeu Fabra University,52.8,30.3,33.0,93.1,40.5,65.1,Spain,2017.0,2017,Pompeu Fabra University,Spain,368,7,383+,616+,240+,-,387,161,576,313,649,43.76
+176,Technical University of Denmark,52.5,38.3,30.0,80.2,60.6,85.8,Denmark,2017.0,2017,Technical University of Denmark,Denmark,144,3,368,475,224,-,200,207,119,190,32,47.09
+177,Eindhoven University of Technology,52.4,36.6,43.5,71.7,56.9,72.0,Netherlands,2017.0,2017,Eindhoven University of Technology,Netherlands,376,11,383+,389,203,-,329,536,415,331,329,43.71
+180,University of Dundee,52.0,26.7,31.0,92.3,43.8,79.1,United Kingdom,2017.0,2017,University of Dundee,United Kingdom,272,24,191,616+,240+,-,360,189,213,213,240,44.63
+180,University of Hamburg,52.0,42.0,41.6,70.5,60.6,56.7,Germany,2017.0,2017,University of Hamburg,Germany,168,9,339,169,138,-,147,128,144,122,333,46.42
+182,Cardiff University,51.7,31.8,36.9,80.9,37.0,78.9,United Kingdom,2017.0,2017,Cardiff University,United Kingdom,184,15,342,238,147,-,173,146,119,151,201,46.01
+182,University of Miami,51.7,43.1,17.1,92.5,38.1,65.8,United States,2017.0,2017,University of Miami,USA,155,70,383+,204,240+,-,167,134,126,111,87,46.83
+182,Northeastern University,51.7,38.2,25.7,89.8,35.5,63.0,United States,2017.0,2017,Northeastern University,USA,258,100,337,112,240+,-,362,281,252,337,81,44.78
+601-800,Northeastern University,18.6—27.5,21.0,22.0,7.8,98.6,24.8,China,2017.0,2017,Northeastern University,USA,258,100,337,112,240+,-,362,281,252,337,81,44.78
+182,University of the Witwatersrand,51.7,26.4,37.3,82.9,100.0,69.4,South Africa,2017.0,2017,University of the Witwatersrand,South Africa,181,1,79,36,174,-,389,199,302,385,292,46.13
+186,Hebrew University of Jerusalem,51.6,44.3,39.6,71.1,35.4,56.1,Israel,2017.0,2017,Hebrew University of Jerusalem,Israel,27,1,16,217,15,-,133,119,278,168,37,59.12
+188,University of Aberdeen,51.5,31.0,31.2,82.6,44.5,92.0,United Kingdom,2017.0,2017,University of Aberdeen,United Kingdom,270,23,377,340,176,-,277,213,234,219,355,44.65
+188,Lomonosov Moscow State University,51.5,75.2,61.6,12.5,89.1,59.9,Russian Federation,2017.0,2017,Lomonosov Moscow State University,Russia,97,1,15,206,59,-,309,259,302,363,766,49.19
+190,Newcastle University,51.3,33.6,32.1,81.0,38.7,84.9,United Kingdom,2017.0,2017,Newcastle University,United Kingdom,204,17,383+,262,204,-,182,147,194,146,340,45.69
+192,Hong Kong Polytechnic University,51.2,35.0,41.8,69.9,47.9,79.7,Hong Kong,2017.0,2017,Hong Kong Polytechnic University,Hong Kong,337,4,383+,162,240+,-,245,828,482,363,255,43.97
+192,University of Reading,51.2,36.8,37.5,71.6,36.6,86.6,United Kingdom,2017.0,2017,University of Reading,United Kingdom,279,26,280,64,240+,-,373,380,319,368,649,44.55
+194,University of Konstanz,51.1,39.8,44.5,64.4,73.1,62.6,Germany,2017.0,2017,University of Konstanz,Germany,549,42,383+,616+,240+,-,505,351,482,485,450,43.07
+195,University of Calgary,51.0,34.8,35.2,77.9,48.8,71.5,Canada,2017.0,2017,University of Calgary,Canada,177,8,383+,105,240+,-,141,166,213,139,842,46.24
+195,National Taiwan University of Science and Technology,51.0,51.4,52.5,54.5,47.8,29.9,Taiwan,2017.0,2017,National Taiwan University of Science and Technology,Taiwan,874,13,383+,616+,240+,-,583,953,853+,851,862,42.59
+198,Brandeis University,50.8,29.8,24.6,99.7,33.8,49.2,United States,2017.0,2017,Brandeis University,USA,232,91,38,301,57,-,606,217,357,348,255,45.18
+198,Tilburg University,50.8,38.8,50.2,57.0,58.0,74.3,Netherlands,2017.0,2017,Tilburg University,Netherlands,675,13,383+,270,240+,-,543,872,576,715,913+,42.83
+200,University of Illinois at Chicago,50.6,46.0,35.3,69.6,41.6,57.1,United States,2017.0,2017,University of Illinois at Chicago,USA,185,78,383+,544,240+,-,140,194,126,185,91,45.99
+201-250,Aalborg University,46.3—50.4,24.2,35.2,80.1,44.8,71.7,Denmark,2017.0,2017,Aalborg University,Denmark,532,5,383+,419,240+,-,487,545,357,495,391,43.11
+201-250,Aalto University,46.3—50.4,34.4,29.0,75.0,52.5,69.6,Finland,2017.0,2017,Aalto University,Finland,392,5,383+,192,240+,-,344,394,415,385,377,43.64
+201-250,University of Antwerp,46.3—50.4,34.5,39.8,73.0,54.6,64.9,Belgium,2017.0,2017,University of Antwerp,Belgium,305,6,383+,493,240+,-,266,302,194,266,465,44.25
+201-250,University of Barcelona,46.3—50.4,33.7,33.0,81.3,35.3,49.3,Spain,2017.0,2017,University of Barcelona,Spain,103,1,383+,236,240+,-,50,92,89,51,250,48.56
+201-250,University of Bergen,46.3—50.4,29.8,29.3,86.2,36.6,74.0,Norway,2017.0,2017,University of Bergen,Norway,273,3,383+,616+,240+,-,239,190,213,221,508,44.61
+201-250,University of Bologna,46.3—50.4,35.6,27.5,81.7,37.4,42.8,Italy,2017.0,2017,University of Bologna,Italy,193,4,367,343,240+,-,131,260,126,159,292,45.84
+201-250,Boston College,46.3—50.4,47.3,19.3,79.9,43.8,60.2,United States,2017.0,2017,Boston College,USA,354,121,383+,102,240+,-,584,362,302,399,391,43.85
+201-250,CentraleSupélec,46.3—50.4,35.8,14.7,78.1,56.4,84.0,France,2017.0,2017,CentraleSupélec,France,319,14,383+,47,240+,-,729,840,853+,764,794,44.14
+201-250,University of Cincinnati,46.3—50.4,37.8,29.6,75.4,41.9,31.8,United States,2017.0,2017,University of Cincinnati,USA,176,75,133,110,240+,-,174,183,144,146,232,46.25
+201-250,University College Dublin,46.3—50.4,31.5,37.8,72.5,37.4,88.1,Ireland,2017.0,2017,University College Dublin,Ireland,252,2,267,145,240+,-,284,295,153,243,266,44.86
+201-250,University of Delaware,46.3—50.4,26.9,36.8,78.1,92.5,44.0,United States,2017.0,2017,University of Delaware,USA,297,110,341,355,138,-,294,322,357,286,160,44.3
+201-250,Florida State University,46.3—50.4,40.8,39.5,67.1,34.2,45.7,United States,2017.0,2017,Florida State University,USA,249,96,251,324,240+,-,227,222,105,229,349,44.95
+201-250,George Washington University,46.3—50.4,47.1,27.7,70.7,32.9,48.0,United States,2017.0,2017,George Washington University,USA,235,92,214,74,240+,-,298,230,319,260,410,45.12
+201-250,Goethe University Frankfurt,46.3—50.4,32.4,27.5,79.7,38.2,59.4,Germany,2017.0,2017,Goethe University Frankfurt,Germany,186,11,97,276,94,-,199,153,213,136,373,45.99
+201-250,University of Iceland,46.3—50.4,16.9,27.6,92.0,52.7,60.3,Iceland,2017.0,2017,University of Iceland,Iceland,369,1,383+,616+,240+,-,590,277,319,296,807,43.75
+201-250,Indian Institute of Science,46.3—50.4,50.1,49.2,47.3,48.0,18.1,India,2017.0,2017,Indian Institute of Science,India,470,3,383+,423,240+,-,337,632,482,455,306,43.27
+201-250,University of Iowa,46.3—50.4,40.9,27.1,74.9,53.8,34.6,United States,2017.0,2017,University of Iowa,USA,139,66,137,240,169,-,112,101,153,111,79,47.34
+201-250,University of Kiel,46.3—50.4,31.6,27.2,90.8,33.5,51.2,Germany,2017.0,2017,University of Kiel,Germany,223,17,217,451,219,-,242,170,167,159,404,45.29
+201-250,Korea University,46.3—50.4,40.9,45.4,49.2,98.6,44.0,South Korea,2017.0,2017,Korea University,South Korea,123,3,383+,45,240+,-,170,396,252,236,36,47.94
+201-250,Université libre de Bruxelles,46.3—50.4,26.3,42.8,74.4,44.5,83.3,Belgium,2017.0,2017,Université libre de Bruxelles,Belgium,190,3,192,128,76,-,254,221,153,176,194,45.91
+201-250,Nanjing University,46.3—50.4,41.7,36.9,61.5,73.9,51.4,China,2017.0,2017,Nanjing University,China,217,6,270,326,240+,-,115,340,153,221,221,45.41
+201-250,University of Newcastle,46.3—50.4,29.3,28.5,73.5,63.7,79.8,Australia,2017.0,2017,University of Newcastle,Australia,458,11,383+,616+,240+,-,372,420,576,415,333,43.31
+201-250,North Carolina State University,46.3—50.4,37.5,32.7,68.4,42.0,50.2,United States,2017.0,2017,North Carolina State University,USA,205,83,66,230,119,-,168,227,234,236,101,45.67
+201-250,University of Otago,46.3—50.4,30.5,30.7,80.1,35.6,88.6,New Zealand,2017.0,2017,University of Otago,New Zealand,343,2,383+,418,240+,-,301,289,357,302,499,43.91
+201-250,University of Oulu,46.3—50.4,30.3,32.6,75.1,39.9,54.2,Finland,2017.0,2017,University of Oulu,Finland,358,2,300,371,240+,-,394,311,278,311,592,43.81
+201-250,Paris Descartes University,46.3—50.4,24.6,32.5,84.6,38.6,51.7,France,2017.0,2017,Paris Descartes University,France,192,10,383+,471,240+,-,134,106,234,136,521,45.87
+201-250,Polytechnic University of Milan,46.3—50.4,32.6,30.3,76.4,59.3,52.6,Italy,2017.0,2017,Polytechnic University of Milan,Italy,405,20,121,244,212,-,347,550,415,449,236,43.56
+201-250,Queensland University of Technology,46.3—50.4,28.4,37.9,67.4,58.9,77.9,Australia,2017.0,2017,Queensland University of Technology,Australia,574,17,383+,555,240+,-,392,548,482,535,456,43.02
+201-250,Queen's University,46.3—50.4,38.9,34.8,60.9,41.7,64.7,Canada,2017.0,2017,Queen's University,Canada,291,13,344,188,119,-,269,296,357,286,325,44.36
+201-250,Queen's University Belfast,46.3—50.4,31.2,31.9,78.3,37.1,94.3,United Kingdom,2017.0,2017,Queen's University Belfast,United Kingdom,311,29,204,385,240+,-,302,274,278,286,214,44.19
+201-250,Shanghai Jiao Tong University,46.3—50.4,51.9,56.5,41.5,90.5,29.3,China,2017.0,2017,Shanghai Jiao Tong University,China,142,3,356,108,240+,-,58,239,194,168,158,47.14
+201-250,Simon Fraser University,46.3—50.4,23.8,31.9,77.0,47.5,89.3,Canada,2017.0,2017,Simon Fraser University,Canada,350,16,383+,616+,240+,-,296,268,319,311,422,43.87
+201-250,Stony Brook University,46.3—50.4,34.7,24.5,86.8,35.6,55.6,United States,2017.0,2017,Stony Brook University,USA,165,72,206,616+,55,-,196,105,167,154,96,46.59
+201-250,University of Stuttgart,46.3—50.4,42.3,44.5,53.4,100.0,47.2,Germany,2017.0,2017,University of Stuttgart,Germany,352,29,90,180,189,-,433,373,319,375,314,43.86
+201-250,Tel Aviv University,46.3—50.4,41.0,51.1,55.1,45.3,49.1,Israel,2017.0,2017,Tel Aviv University,Israel,87,3,72,82,53,-,109,122,183,146,45,49.61
+201-250,University of Texas at Dallas,46.3—50.4,26.9,32.5,90.4,43.3,53.1,United States,2017.0,2017,University of Texas at Dallas,USA,420,137,216,222,240+,-,430,404,482,399,391,43.5
+201-250,Tohoku University,46.3—50.4,48.6,47.3,50.4,69.5,32.4,Japan,2017.0,2017,Tohoku University,Japan,88,6,49,131,195,-,95,152,183,141,21,49.57
+201-250,University of Trento,46.3—50.4,23.6,27.7,89.3,41.3,57.3,Italy,2017.0,2017,University of Trento,Italy,546,28,383+,616+,240+,-,500,482,576,464,887,43.07
+201-250,University of Utah,46.3—50.4,37.9,30.5,86.7,47.8,32.5,United States,2017.0,2017,University of Utah,USA,68,42,95,100,74,-,101,65,89,88,20,50.87
+201-250,Wake Forest University,46.3—50.4,37.8,20.3,92.6,41.3,26.1,United States,2017.0,2017,Wake Forest University,USA,154,69,291,67,240+,-,259,236,144,141,103,46.85
+201-250,Zhejiang University,46.3—50.4,51.7,54.2,44.5,89.2,22.0,China,2017.0,2017,Zhejiang University,China,166,4,383+,277,240+,-,53,244,415,197,148,46.58
+251-300,University of Bath,43.5—46.2,31.8,31.0,65.1,37.2,85.5,United Kingdom,2017.0,2017,University of Bath,United Kingdom,423,35,383+,373,240+,-,385,371,357,368,401,43.49
+251-300,University of Bayreuth,43.5—46.2,32.6,31.4,66.3,63.5,53.8,Germany,2017.0,2017,University of Bayreuth,Germany,567,43,383+,616+,240+,-,501,345,319,509,663,43.03
+251-300,Bielefeld University,43.5—46.2,37.6,43.7,55.6,59.3,46.2,Germany,2017.0,2017,Bielefeld University,Germany,510,38,383+,616+,240+,-,519,392,415,437,686,43.15
+251-300,University at Buffalo,43.5—46.2,38.0,29.0,66.1,42.8,64.6,United States,2017.0,2017,University at Buffalo,USA,277,106,257,403,240+,-,210,283,252,258,183,44.56
+251-300,Chalmers University of Technology,43.5—46.2,38.8,28.5,61.9,70.8,75.8,Sweden,2017.0,2017,Chalmers University of Technology,Sweden,449,10,378,311,240+,-,383,480,576,405,842,43.34
+251-300,Charles Darwin University,43.5—46.2,18.4,19.0,91.7,44.3,77.2,Australia,2017.0,2017,Charles Darwin University,Australia,956,27,383+,616+,240+,-,953,725,709,903,913+,42.53
+251-300,Colorado School of Mines,43.5—46.2,32.6,27.8,73.5,74.9,39.9,United States,2017.0,2017,Colorado School of Mines,USA,346,120,383+,69,240+,-,703,588,482,601,663,43.88
+251-300,Dalhousie University,43.5—46.2,29.1,29.6,70.7,47.6,80.1,Canada,2017.0,2017,Dalhousie University,Canada,302,14,139,176,240+,-,295,223,278,302,429,44.27
+251-300,Deakin University,43.5—46.2,23.0,24.5,75.5,34.1,76.8,Australia,2017.0,2017,Deakin University,Australia,536,16,383+,430,240+,-,406,542,302,509,576,43.1
+251-300,University of Fribourg,43.5—46.2,33.7,32.7,56.8,59.7,86.8,Switzerland,2017.0,2017,University of Fribourg,Switzerland,604,8,262,289,240+,-,714,482,709,601,825,42.94
+251-300,Griffith University,43.5—46.2,22.6,28.5,74.8,41.3,82.3,Australia,2017.0,2017,Griffith University,Australia,499,14,383+,616+,240+,-,391,397,252,469,613,43.17
+251-300,University of Hohenheim,43.5—46.2,34.1,30.1,66.5,49.6,51.1,Germany,2017.0,2017,University of Hohenheim,Germany,808,52,383+,616+,240+,-,777,703,576,744,825,42.66
+251-300,James Cook University,43.5—46.2,21.7,22.3,84.2,43.2,74.1,Australia,2017.0,2017,James Cook University,Australia,481,13,383+,581,240+,-,451,273,302,437,673,43.21
+251-300,Johannes Gutenberg University of Mainz,43.5—46.2,35.8,22.0,76.3,57.8,54.5,Germany,2017.0,2017,Johannes Gutenberg University of Mainz,Germany,245,20,313,616+,216,-,217,193,213,185,427,45.0
+251-300,Laval University,43.5—46.2,37.0,27.3,67.2,54.7,65.5,Canada,2017.0,2017,Laval University,Canada,238,10,317,254,240+,-,208,245,213,214,156,45.09
+251-300,Macquarie University,43.5—46.2,32.5,36.5,62.3,41.3,75.0,Australia,2017.0,2017,Macquarie University,Australia,434,9,383+,356,240+,-,348,306,415,394,482,43.41
+251-300,University of Marburg,43.5—46.2,35.1,27.2,73.7,37.4,49.6,Germany,2017.0,2017,University of Marburg,Germany,365,31,330,616+,239,-,346,246,482,317,320,43.78
+251-300,Mines ParisTech,43.5—46.2,43.5,20.3,64.5,98.6,63.4,France,2017.0,2017,Mines ParisTech,France,117,5,306,23,171,-,962,863,853+,887,887,48.11
+251-300,National Tsing Hua University,43.5—46.2,38.7,40.1,55.8,47.3,26.6,Taiwan,2017.0,2017,National Tsing Hua University,Taiwan,386,3,179,568,240+,-,255,459,709,348,825,43.66
+251-300,Norwegian University of Science and Technology,43.5—46.2,30.1,32.8,65.5,46.5,65.3,Norway,2017.0,2017,Norwegian University of Science and Technology,Norway,267,2,287,174,83,-,276,325,234,278,289,44.69
+251-300,Oregon Health & Science University,43.5—46.2,29.7,15.3,97.6,44.9,23.2,United States,2017.0,2017,Oregon Health & Science University,USA,159,71,383+,616+,135,-,193,113,97,100,128,46.75
+251-300,Osaka University,43.5—46.2,52.6,49.6,38.2,73.9,28.8,Japan,2017.0,2017,Osaka University,Japan,50,5,51,35,78,-,77,68,167,103,16,53.22
+251-300,University of Ottawa,43.5—46.2,38.1,21.0,67.5,41.5,71.8,Canada,2017.0,2017,University of Ottawa,Canada,183,9,244,198,240+,-,153,168,194,125,521,46.03
+251-300,Rensselaer Polytechnic Institute,43.5—46.2,33.6,33.5,67.3,79.1,43.1,United States,2017.0,2017,Rensselaer Polytechnic Institute,USA,301,111,109,156,240+,-,472,385,194,324,194,44.27
+251-300,Ruhr University Bochum,43.5—46.2,36.7,36.2,56.9,59.2,51.6,Germany,2017.0,2017,Ruhr University Bochum,Germany,288,26,383+,170,240+,-,265,271,357,266,741,44.41
+251-300,Rush University,43.5—46.2,38.4,13.6,89.8,44.0,22.3,United States,2017.0,2017,Rush University,USA,332,118,383+,616+,240+,-,435,401,194,273,410,44.04
+251-300,Sapienza University of Rome,43.5—46.2,38.3,35.3,67.2,41.0,37.6,Italy,2017.0,2017,Sapienza University of Rome,Italy,84,1,52,200,30,-,100,181,105,127,306,49.78
+251-300,University of South Australia,43.5—46.2,29.9,29.9,58.4,82.9,90.1,Australia,2017.0,2017,University of South Australia,Australia,591,18,383+,279,240+,-,506,647,576,630,355,42.97
+251-300,University of Southern Denmark,43.5—46.2,21.4,23.6,81.6,69.9,76.9,Denmark,2017.0,2017,University of Southern Denmark,Denmark,363,4,383+,616+,240+,-,334,338,302,317,401,43.79
+251-300,University of Surrey,43.5—46.2,30.0,32.6,60.9,37.6,91.8,United Kingdom,2017.0,2017,University of Surrey,United Kingdom,520,40,231,300,240+,-,455,524,709,522,347,43.13
+251-300,Swedish University of Agricultural Sciences,43.5—46.2,31.3,22.3,77.7,98.9,46.8,Sweden,2017.0,2017,Swedish University of Agricultural Sciences,Sweden,441,9,166,616+,240+,-,370,287,357,394,913+,43.38
+251-300,Syracuse University,43.5—46.2,32.9,25.9,75.4,36.4,41.4,United States,2017.0,2017,Syracuse University,USA,443,141,160,181,240+,-,517,502,576,469,422,43.38
+251-300,University of São Paulo,43.5—46.2,57.2,60.2,25.7,39.6,28.3,Brazil,2017.0,2017,University of São Paulo,Brazil,145,1,325,94,145,-,65,176,167,168,673,47.09
+251-300,University of Tampere,43.5—46.2,26.2,29.3,75.9,52.2,40.1,Finland,2017.0,2017,University of Tampere,Finland,435,6,383+,383,240+,-,518,377,482,363,686,43.41
+251-300,Tokyo Institute of Technology,43.5—46.2,48.4,50.5,41.7,64.1,32.9,Japan,2017.0,2017,Tokyo Institute of Technology,Japan,134,9,195,51,82,-,223,205,213,214,61,47.54
+251-300,Umeå University,43.5—46.2,22.6,28.6,79.7,35.2,59.9,Sweden,2017.0,2017,Umeå University,Sweden,295,7,383+,616+,189,-,268,196,213,253,913+,44.34
+251-300,Virginia Polytechnic Institute and State University,43.5—46.2,34.9,39.9,62.1,44.1,31.4,United States,2017.0,2017,Virginia Polytechnic Institute and State University,USA,268,102,307,150,240+,-,207,278,415,290,158,44.68
+251-300,University of Wollongong,43.5—46.2,28.3,32.1,64.1,49.2,87.0,Australia,2017.0,2017,University of Wollongong,Australia,436,10,383+,273,240+,-,388,403,319,415,456,43.4
+251-300,Yonsei University,43.5—46.2,44.2,40.1,44.0,79.8,48.3,South Korea,2017.0,2017,Yonsei University,South Korea,104,2,383+,50,240+,-,127,341,415,221,24,48.53
+301-350,Aberystwyth University,40.7—43.3,20.5,21.3,77.5,34.9,75.1,United Kingdom,2017.0,2017,Aberystwyth University,United Kingdom,780,58,383+,524,240+,-,856,604,576,715,673,42.69
+301-350,University of Alaska Fairbanks,40.7—43.3,28.3,24.0,70.5,50.5,55.0,United States,2017.0,2017,University of Alaska Fairbanks,USA,569,169,383+,397,240+,-,646,408,415,502,766,43.03
+301-350,Bangor University,40.7—43.3,25.2,21.9,65.9,33.6,81.3,United Kingdom,2017.0,2017,Bangor University,United Kingdom,641,45,283,437,240+,-,618,582,576,601,477,42.88
+301-350,University of Bordeaux,40.7—43.3,29.8,19.6,76.6,34.6,54.4,France,2017.0,2017,University of Bordeaux,France,335,15,371,616+,240+,-,358,303,357,273,387,44.0
+301-350,University of Bremen,40.7—43.3,36.2,29.4,61.7,47.0,50.4,Germany,2017.0,2017,University of Bremen,Germany,525,39,383+,616+,240+,-,464,293,319,469,499,43.12
+301-350,Brunel University,40.7—43.3,24.9,26.0,61.3,37.2,92.3,United Kingdom,2017.0,2017,Brunel University,United Kingdom,474,37,383+,297,240+,-,567,679,576,431,521,43.25
+301-350,University of Connecticut,40.7—43.3,37.0,28.2,62.5,35.1,40.6,United States,2017.0,2017,University of Connecticut,USA,240,94,326,218,240+,-,180,198,213,232,170,45.06
+301-350,University of Crete,40.7—43.3,18.7,19.1,83.0,37.8,46.9,Greece,2017.0,2017,University of Crete,Greece,485,3,383+,616+,240+,-,542,486,576,405,887,43.2
+301-350,University of Denver,40.7—43.3,37.7,23.6,67.2,34.9,28.7,United States,2017.0,2017,University of Denver,USA,465,149,333,118,240+,-,873,513,709,574,521,43.29
+301-350,University of Essex,40.7—43.3,32.3,36.0,47.7,32.8,95.2,United Kingdom,2017.0,2017,University of Essex,United Kingdom,715,55,145,366,240+,-,705,748,415,764,913+,42.77
+301-350,George Mason University,40.7—43.3,28.1,24.6,73.4,33.4,38.7,United States,2017.0,2017,George Mason University,USA,404,131,383+,616+,101,-,468,372,357,368,410,43.56
+301-350,University of Georgia,40.7—43.3,33.0,35.0,57.2,34.9,41.7,United States,2017.0,2017,University of Georgia,USA,209,84,99,157,174,-,181,155,278,243,98,45.55
+301-350,Grenoble Alpes University,40.7—43.3,26.7,21.9,71.7,34.3,60.0,France,2017.0,2017,Grenoble Alpes University,France,162,8,163,605,128,-,110,97,153,113,176,46.7
+301-350,Gwangju Institute of Science and Technology,40.7—43.3,39.5,39.9,51.9,44.9,35.2,South Korea,2017.0,2017,Gwangju Institute of Science and Technology,South Korea,426,11,383+,616+,240+,-,605,628,415,539,88,43.46
+301-350,University of Innsbruck,40.7—43.3,26.1,18.7,70.8,43.1,96.2,Austria,2017.0,2017,University of Innsbruck,Austria,371,3,218,393,115,-,445,237,252,331,477,43.74
+301-350,Justus Liebig University Giessen,40.7—43.3,33.2,29.4,60.5,41.5,46.9,Germany,2017.0,2017,Justus Liebig University Giessen,Germany,353,30,383+,616+,240+,-,355,363,278,306,373,43.85
+301-350,University of Kent,40.7—43.3,22.8,22.3,68.7,32.5,89.3,United Kingdom,2017.0,2017,University of Kent,United Kingdom,707,54,383+,415,240+,-,603,438,576,667,627,42.78
+301-350,Linköping University,40.7—43.3,23.9,15.3,79.6,41.7,62.1,Sweden,2017.0,2017,Linköping University,Sweden,370,8,383+,287,240+,-,326,389,319,331,913+,43.75
+301—350,University of Liège,40.7—43.3,27.1,33.3,55.4,99.4,70.3,Belgium,2017.0,2017,University of Liège,Belgium,315,7,189,616+,148,-,328,240,252,283,306,44.16
+301-350,Loughborough University,40.7—43.3,32.9,34.4,54.0,37.0,73.2,United Kingdom,2017.0,2017,Loughborough University,United Kingdom,688,53,383+,616+,240+,-,561,837,482,644,508,42.81
+301-350,University of Milan,40.7—43.3,32.8,24.5,69.9,42.9,39.4,Italy,2017.0,2017,University of Milan,Italy,169,3,182,357,185,-,122,186,126,113,355,46.39
+301-350,Nagoya University,40.7—43.3,44.4,41.8,41.2,83.6,28.3,Japan,2017.0,2017,Nagoya University,Japan,133,8,42,263,58,-,161,163,213,205,64,47.54
+301-350,University of Navarra,40.7—43.3,29.7,23.9,65.3,55.6,55.6,Spain,2017.0,2017,University of Navarra,Spain,326,6,383+,66,240+,-,555,650,709,495,663,44.08
+301-350,University of Oregon,40.7—43.3,24.8,24.5,77.7,33.3,35.5,United States,2017.0,2017,University of Oregon,USA,378,127,363,616+,240+,-,423,270,415,313,499,43.71
+301-350,Oregon State University,40.7—43.3,29.3,28.2,69.7,36.0,46.0,United States,2017.0,2017,Oregon State University,USA,257,99,165,256,240+,-,257,167,153,236,282,44.79
+301-350,University of Padua,40.7—43.3,24.5,20.4,80.6,35.5,39.0,Italy,2017.0,2017,University of Padua,Italy,164,2,305,610,240+,-,106,140,105,107,404,46.67
+301-350,University of Pavia,40.7—43.3,25.3,22.1,73.6,59.3,43.3,Italy,2017.0,2017,University of Pavia,Italy,339,13,321,351,237,-,349,410,278,290,686,43.95
+301-350,Saint Louis University,40.7—43.3,36.0,11.9,80.4,33.9,28.9,United States,2017.0,2017,Saint Louis University,USA,374,124,383+,257,224,-,491,312,482,327,382,43.73
+301-350,University of Stirling,40.7—43.3,22.6,24.7,69.6,33.7,75.1,United Kingdom,2017.0,2017,University of Stirling,United Kingdom,771,57,383+,360,240+,-,752,663,482,764,887,42.7
+301-350,University of Strasbourg,40.7—43.3,27.2,21.3,67.8,35.7,69.6,France,2017.0,2017,University of Strasbourg,France,180,9,69,616+,44,-,194,156,234,226,262,46.15
+301-350,Swansea University,40.7—43.3,21.0,26.1,71.8,35.7,75.8,United Kingdom,2017.0,2017,Swansea University,United Kingdom,681,52,383+,483,240+,-,522,448,576,644,541,42.82
+301-350,University of Tartu,40.7—43.3,23.6,23.1,80.9,34.5,48.4,Estonia,2017.0,2017,University of Tartu,Estonia,477,1,318,616+,240+,-,576,290,482,405,470,43.23
+301-350,University of Tasmania,40.7—43.3,22.3,29.6,66.3,51.7,77.3,Australia,2017.0,2017,University of Tasmania,Australia,473,12,383+,616+,240+,-,397,253,576,415,766,43.25
+301-350,Temple University,40.7—43.3,37.2,21.6,68.4,37.4,31.1,United States,2017.0,2017,Temple University,USA,396,130,297,414,240+,-,323,292,576,372,217,43.61
+301-350,University of Turku,40.7—43.3,27.0,22.7,72.6,34.5,49.6,Finland,2017.0,2017,University of Turku,Finland,359,3,383+,582,240+,-,320,286,319,313,613,43.8
+301-350,University of Victoria,40.7—43.3,22.1,22.5,77.9,37.9,73.7,Canada,2017.0,2017,University of Victoria,Canada,355,17,383+,616+,240+,-,343,367,252,306,754,43.83
+301-350,Vrije Universiteit Brussel,40.7—43.3,27.3,23.7,66.7,48.3,70.0,Belgium,2017.0,2017,Vrije Universiteit Brussel,Belgium,299,5,120,616+,240+,-,310,261,252,260,329,44.3
+301-350,York University,40.7—43.3,29.9,39.7,50.7,37.4,73.5,Canada,2017.0,2017,York University,Canada,347,15,383+,104,240+,-,390,412,234,405,913+,43.88
+351-400,Aston University,37.6—40.6,20.6,23.9,56.2,34.3,93.5,United Kingdom,2017.0,2017,Aston University,United Kingdom,786,59,383+,396,240+,-,835,886,709,842,289,42.68
+351-400,Bilkent University,37.6—40.6,23.4,19.9,68.3,39.7,51.9,Turkey,2017.0,2017,Bilkent University,Turkey,832,8,383+,480,240+,-,781,702,576,793,913+,42.64
+351-400,University of Calabria,37.6—40.6,14.7,25.8,84.2,33.4,31.1,Italy,2017.0,2017,University of Calabria,Italy,760,43,383+,616+,240+,-,595,818,415,715,673,42.71
+351-400,University of Canterbury,37.6—40.6,23.8,26.8,56.2,40.5,89.7,New Zealand,2017.0,2017,University of Canterbury,New Zealand,493,3,175,199,119,-,591,437,482,586,887,43.18
+351-400,Claude Bernard University Lyon 1,37.6—40.6,21.1,16.9,73.1,37.6,47.8,France,2017.0,2017,Claude Bernard University Lyon 1,France,221,12,383+,553,240+,-,151,144,234,194,178,45.37
+351-400,University College Cork,37.6—40.6,27.7,25.7,54.1,50.6,76.0,Ireland,2017.0,2017,University College Cork,Ireland,418,3,383+,486,240+,-,434,441,319,375,210,43.51
+351-400,University of Cyprus,37.6—40.6,19.1,25.4,66.6,34.7,75.0,Cyprus,2017.0,2017,University of Cyprus,Cyprus,848,1,383+,616+,240+,-,828,855,576,793,862,42.63
+351-400,Drexel University,37.6—40.6,32.6,16.0,62.0,37.9,47.8,United States,2017.0,2017,Drexel University,USA,251,97,383+,177,240+,-,367,368,213,293,79,44.87
+351-400,University of Eastern Finland,37.6—40.6,25.0,20.5,74.5,35.6,48.0,Finland,2017.0,2017,University of Eastern Finland,Finland,361,4,383+,616+,240+,-,366,347,302,306,862,43.79
+351-400,Flinders University,37.6—40.6,22.3,11.3,74.9,36.5,66.1,Australia,2017.0,2017,Flinders University,Australia,614,19,131,616+,240+,-,484,471,576,612,713,42.92
+351-400,Graz University of Technology,37.6—40.6,28.5,15.4,60.0,67.8,71.2,Austria,2017.0,2017,Graz University of Technology,Austria,734,10,383+,616+,240+,-,692,777,415,705,404,42.74
+351-400,University of Guelph,37.6—40.6,26.1,33.0,48.7,46.9,55.4,Canada,2017.0,2017,University of Guelph,Canada,437,18,383+,543,240+,-,338,304,278,405,410,43.39
+351-400,Hanyang University,37.6—40.6,35.0,35.6,35.6,81.8,51.5,South Korea,2017.0,2017,Hanyang University,South Korea,208,6,383+,130,240+,-,280,446,482,385,43,45.56
+351-400,Hong Kong Baptist University,37.6—40.6,23.3,13.6,67.4,32.9,79.1,Hong Kong,2017.0,2017,Hong Kong Baptist University,Hong Kong,656,6,383+,565,240+,-,617,867,576,586,686,42.85
+351-400,University of Houston,37.6—40.6,35.4,29.4,54.3,40.6,36.8,United States,2017.0,2017,University of Houston,USA,237,93,383+,59,240+,-,311,275,357,352,128,45.1
+351-400,Indian Institute of Technology Bombay,37.6—40.6,39.2,31.1,52.8,46.9,19.2,India,2017.0,2017,Indian Institute of Technology Bombay,India,683,10,383+,522,240+,-,523,815,709,667,329,42.82
+351-400,Iowa State University,37.6—40.6,31.2,25.3,60.6,47.5,37.9,United States,2017.0,2017,Iowa State University,USA,211,86,315,148,112,-,188,195,167,194,325,45.5
+351-400,University of Kansas,37.6—40.6,36.7,24.5,54.5,38.3,33.7,United States,2017.0,2017,University of Kansas,USA,198,81,169,124,240+,-,214,178,116,210,154,45.74
+351-400,University of Kentucky,37.6—40.6,36.6,29.3,51.4,39.0,38.2,United States,2017.0,2017,University of Kentucky,USA,276,105,352,290,240+,-,203,252,278,253,299,44.57
+351-400,Kyung Hee University,37.6—40.6,28.5,35.5,48.5,79.3,51.5,South Korea,2017.0,2017,Kyung Hee University,South Korea,384,9,268,550,240+,-,353,586,415,437,105,43.66
+351-400,Kyushu University,37.6—40.6,41.9,35.1,35.7,70.8,31.2,Japan,2017.0,2017,Kyushu University,Japan,126,7,298,55,240+,-,169,220,319,236,38,47.75
+351-400,La Trobe University,37.6—40.6,26.7,29.7,49.0,45.5,78.7,Australia,2017.0,2017,La Trobe University,Australia,629,20,383+,508,240+,-,496,426,709,574,754,42.9
+351-400,University of Macau,37.6—40.6,21.5,22.0,53.3,46.3,98.8,Macao,2017.0,2017,University of Macau,Macau,1000,1,383+,333,240+,-,892,989,853+,998,862,42.49
+351-400,Autonomous University of Madrid,37.6—40.6,32.3,28.3,57.4,35.8,51.6,Spain,2017.0,2017,Autonomous University of Madrid,Spain,304,5,383+,468,240+,-,244,269,252,266,425,44.26
+351-400,Maynooth University,37.6—40.6,25.5,24.2,61.0,37.5,77.6,Ireland,2017.0,2017,Maynooth University,Ireland,818,7,273,616+,240+,-,997,670,482,775,515,42.65
+351-400,Norwegian University of Life Sciences,37.6—40.6,25.7,13.2,68.3,37.9,78.0,Norway,2017.0,2017,Norwegian University of Life Sciences,Norway,695,5,383+,616+,240+,-,616,520,709,630,766,42.8
+351-400,University of Oklahoma,37.6—40.6,33.5,17.9,64.1,37.3,33.6,United States,2017.0,2017,University of Oklahoma,USA,269,103,383+,171,240+,-,250,262,234,256,262,44.65
+351-400,Polytechnic University of Turin,37.6—40.6,25.8,19.0,66.8,49.4,48.5,Italy,2017.0,2017,Polytechnic University of Turin,Italy,657,35,383+,410,240+,-,494,854,709,667,325,42.85
+351-400,University of Salerno,37.6—40.6,18.2,13.1,86.7,39.2,30.8,Italy,2017.0,2017,University of Salerno,Italy,679,37,383+,616+,240+,-,573,780,576,621,576,42.83
+351-400,Swinburne University of Technology,37.6—40.6,22.9,24.0,60.3,35.5,74.5,Australia,2017.0,2017,Swinburne University of Technology,Australia,677,21,383+,616+,240+,-,635,484,482,612,686,42.83
+351-400,University of Texas at San Antonio,37.6—40.6,17.3,16.2,85.0,32.4,32.6,United States,2017.0,2017,University of Texas at San Antonio,USA,652,181,383+,616+,240+,-,633,496,709,601,404,42.87
+351-400,University of Trieste,37.6—40.6,26.1,17.9,74.9,35.7,46.0,Italy,2017.0,2017,University of Trieste,Italy,331,12,383+,494,240+,-,452,297,252,260,649,44.04
+351-400,Tulane University,37.6—40.6,41.4,15.7,61.0,35.5,37.9,United States,2017.0,2017,Tulane University,USA,306,113,346,172,240+,-,384,294,415,278,320,44.24
+351-400,University of Turin,37.6—40.6,21.2,20.4,72.9,45.4,38.9,Italy,2017.0,2017,University of Turin,Italy,220,5,336,458,163,-,206,257,213,150,477,45.38
+351-400,Victoria University of Wellington,37.6—40.6,23.3,30.2,48.4,53.6,88.6,New Zealand,2017.0,2017,Victoria University of Wellington,New Zealand,712,5,340,309,240+,-,594,450,709,744,470,42.78
+351-400,Washington State University,37.6—40.6,29.6,29.6,59.8,56.9,43.3,United States,2017.0,2017,Washington State University,USA,357,122,383+,342,136,-,308,279,357,352,214,43.82
+351-400,Wayne State University,37.6—40.6,33.0,15.7,71.9,42.2,33.3,United States,2017.0,2017,Wayne State University,USA,201,82,383+,142,240+,-,219,264,138,193,130,45.72
+351-400,Örebro University,37.6—40.6,17.7,5.9,91.7,33.7,43.6,Sweden,2017.0,2017,Örebro University,Sweden,630,11,383+,484,240+,-,807,685,415,552,913+,42.9
+401-500,Aristotle University of Thessaloniki,32.6—37.5,20.0,15.8,61.8,37.3,39.9,Greece,2017.0,2017,Aristotle University of Thessaloniki,Greece,432,2,383+,616+,240+,-,364,610,278,372,766,43.44
+401-500,University of Aveiro,32.6—37.5,30.2,26.2,44.5,41.5,46.5,Portugal,2017.0,2017,University of Aveiro,Portugal,581,4,383+,616+,240+,-,425,728,576,552,355,42.99
+401-500,University of Bari Aldo Moro,32.6—37.5,26.0,17.0,61.5,40.4,33.2,Italy,2017.0,2017,University of Bari Aldo Moro,Italy,400,19,383+,616+,240+,-,396,335,482,327,604,43.59
+401-500,University of Brescia,32.6—37.5,15.1,14.1,74.5,38.2,37.9,Italy,2017.0,2017,University of Brescia,Italy,488,26,383+,616+,240+,-,588,577,709,405,754,43.19
+401-500,University of Campinas,32.6—37.5,44.9,39.6,28.0,46.5,24.1,Brazil,2017.0,2017,University of Campinas,Brazil,425,3,383+,616+,240+,-,307,504,482,405,228,43.46
+401-500,Polytechnic University of Catalonia,32.6—37.5,27.1,17.5,51.2,41.5,51.4,Spain,2017.0,2017,Polytechnic University of Catalonia,Spain,462,14,383+,320,240+,-,368,617,482,574,145,43.3
+401-500,Charles University in Prague,32.6—37.5,30.5,21.4,54.6,32.4,54.6,Czech Republic,2017.0,2017,Charles University in Prague,Czech Republic,255,1,263,607,191,-,234,225,183,205,627,44.81
+401-500,University of Coimbra,32.6—37.5,24.1,27.2,44.6,38.2,51.3,Portugal,2017.0,2017,University of Coimbra,Portugal,457,3,376,539,240+,-,418,415,357,394,499,43.32
+401-500,Curtin University,32.6—37.5,21.0,23.5,52.1,39.5,93.8,Australia,2017.0,2017,Curtin University,Australia,535,15,383+,608,240+,-,365,346,709,495,564,43.1
+401-500,Dublin City University,32.6—37.5,26.7,26.7,42.7,46.7,78.6,Ireland,2017.0,2017,Dublin City University,Ireland,748,5,383+,477,240+,-,820,937,576,793,255,42.73
+401-500,Ewha Womans University,32.6—37.5,28.4,23.9,46.7,68.7,41.4,South Korea,2017.0,2017,Ewha Womans University,South Korea,440,13,383+,616+,240+,-,463,560,709,469,130,43.38
+401-500,Federico Santa María Technical University,32.6—37.5,14.2,10.8,69.0,41.0,54.7,Chile,2017.0,2017,Federico Santa María Technical University,Chile,799,4,383+,616+,240+,-,989,948,234,828,686,42.67
+401-500,University of Ferrara,32.6—37.5,18.8,17.2,68.4,40.3,42.8,Italy,2017.0,2017,University of Ferrara,Italy,383,15,383+,616+,240+,-,465,399,302,317,726,43.67
+401-500,University of Florence,32.6—37.5,20.0,14.0,72.6,38.1,40.4,Italy,2017.0,2017,University of Florence,Italy,254,6,237,347,96,-,219,285,213,229,541,44.82
+401-500,Florida International University,32.6—37.5,25.4,20.1,57.7,35.2,35.3,United States,2017.0,2017,Florida International University,USA,572,170,383+,558,240+,-,497,508,415,509,499,43.02
+401-500,University of Genoa,32.6—37.5,27.7,16.7,64.3,45.2,40.2,Italy,2017.0,2017,University of Genoa,Italy,317,11,383+,616+,240+,-,316,336,252,260,556,44.14
+401-500,Georgia State University,32.6—37.5,28.1,23.7,60.2,32.3,30.5,United States,2017.0,2017,Georgia State University,USA,514,159,383+,345,240+,-,446,424,415,502,320,43.15
+401-500,University of Graz,32.6—37.5,23.1,17.0,56.2,33.2,69.5,Austria,2017.0,2017,University of Graz,Austria,619,7,366,462,226,-,596,575,709,552,704,42.91
+401-500,University of Greifswald,32.6—37.5,30.3,19.7,60.6,37.7,43.8,Germany,2017.0,2017,University of Greifswald,Germany,636,46,383+,616+,233,-,675,492,576,565,492,42.89
+401-500,Hasselt University,32.6—37.5,21.7,20.9,61.6,49.7,55.2,Belgium,2017.0,2017,Hasselt University,Belgium,732,9,383+,344,240+,-,809,875,709,705,825,42.74
+401-500,Hokkaido University,32.6—37.5,42.2,36.2,30.9,55.0,29.8,Japan,2017.0,2017,Hokkaido University,Japan,189,10,228,210,138,-,166,191,319,283,55,45.92
+401-500,Huazhong University of Science and Technology,32.6—37.5,31.0,24.7,43.6,68.0,19.9,China,2017.0,2017,Huazhong University of Science and Technology,China,300,11,383+,149,240+,-,150,571,482,385,233,44.28
+401-500,Indian Institute of Technology Delhi,32.6—37.5,37.5,23.9,47.0,71.7,15.9,India,2017.0,2017,Indian Institute of Technology Delhi,India,399,2,383+,78,240+,-,633,899,853+,728,627,43.6
+401-500,Indian Institute of Technology Kanpur,32.6—37.5,34.6,22.9,38.4,98.8,17.9,India,2017.0,2017,Indian Institute of Technology Kanpur,India,831,13,199,561,240+,-,598,913,853+,842,492,42.64
+401-500,Indian Institute of Technology Madras,32.6—37.5,38.3,22.3,41.2,81.1,17.5,India,2017.0,2017,Indian Institute of Technology Madras,India,607,5,383+,196,240+,-,569,951,709,764,391,42.93
+401-500,University of Jyväskylä,32.6—37.5,27.7,13.9,55.4,35.4,48.2,Finland,2017.0,2017,University of Jyväskylä,Finland,638,7,383+,597,240+,-,514,499,709,574,754,42.89
+401-500,Keele University,32.6—37.5,18.3,20.4,53.6,33.2,73.6,United Kingdom,2017.0,2017,Keele University,United Kingdom,663,48,383+,616+,240+,-,681,526,415,601,627,42.85
+401-500,Kent State University,32.6—37.5,22.3,17.1,64.6,32.4,34.3,United States,2017.0,2017,Kent State University,USA,566,168,383+,616+,240+,-,673,457,576,485,470,43.03
+401-500,King Fahd University of Petroleum and Minerals,32.6—37.5,28.7,16.8,36.7,92.8,86.8,Saudi Arabia,2017.0,2017,King Fahd University of Petroleum and Minerals,Saudi Arabia,612,3,383+,129,240+,-,871,902,576,936,913+,42.92
+401-500,Lehigh University,32.6—37.5,24.9,18.5,63.2,38.0,39.1,United States,2017.0,2017,Lehigh University,USA,285,108,203,46,240+,-,664,525,357,565,465,44.43
+401-500,University of Lisbon,32.6—37.5,26.3,24.0,59.0,37.8,47.6,Portugal,2017.0,2017,University of Lisbon,Portugal,266,1,357,447,227,-,162,282,194,243,638,44.69
+401-500,Makerere University,32.6—37.5,15.1,11.8,78.0,36.7,58.3,Uganda,2017.0,2017,Makerere University,Uganda,860,1,226,616+,240+,-,776,470,709,828,913+,42.61
+401-500,University of Manitoba,32.6—37.5,28.7,26.3,53.4,40.6,42.2,Canada,2017.0,2017,University of Manitoba,Canada,243,11,153,101,157,-,256,276,302,283,138,45.03
+401-500,Marche Polytechnic University,32.6—37.5,21.2,7.2,85.8,37.5,28.1,Italy,2017.0,2017,Marche Polytechnic University,Italy,678,36,383+,616+,240+,-,686,690,853+,601,726,42.83
+401-500,Massey University,32.6—37.5,22.5,19.6,43.3,39.1,92.2,New Zealand,2017.0,2017,Massey University,New Zealand,635,4,383+,466,240+,-,567,503,576,574,726,42.89
+401-500,University of Modena and Reggio Emilia,32.6—37.5,16.2,10.2,76.2,36.0,36.0,Italy,2017.0,2017,University of Modena and Reggio Emilia,Italy,430,22,383+,535,240+,-,469,481,252,363,741,43.44
+401-500,University of Montana,32.6—37.5,34.4,15.4,64.8,36.0,25.4,United States,2017.0,2017,University of Montana,USA,603,175,370,490,240+,-,723,352,302,552,649,42.94
+401-500,Murdoch University,32.6—37.5,17.9,23.5,57.3,42.8,90.7,Australia,2017.0,2017,Murdoch University,Australia,811,24,383+,443,240+,-,795,530,576,775,663,42.66
+401-500,University of Nantes,32.6—37.5,17.3,15.5,64.9,35.5,45.4,France,2017.0,2017,University of Nantes,France,469,21,383+,616+,240+,-,493,463,415,394,541,43.27
+401-500,University of Naples Federico II,32.6—37.5,21.6,12.4,76.3,40.1,22.2,Italy,2017.0,2017,University of Naples Federico II,Italy,264,7,351,446,240+,-,177,331,234,226,842,44.7
+401-500,National Chiao Tung University,32.6—37.5,33.0,40.2,35.3,89.3,33.4,Taiwan,2017.0,2017,National Chiao Tung University,Taiwan,415,4,383+,221,240+,-,264,649,576,431,913+,43.52
+401-500,National Research Nuclear University MEPhI,32.6—37.5,38.0,27.2,41.9,99.7,35.9,Russian Federation,2017.0,2017,National Research Nuclear University MEPhI,Russia,733,4,338,616+,240+,-,927,643,482,661,913+,42.74
+401-500,University of Neuchâtel,32.6—37.5,24.9,17.6,46.1,34.0,91.4,Switzerland,2017.0,2017,University of Neuchâtel,Switzerland,779,9,369,616+,240+,-,892,711,853+,705,686,42.69
+401-500,New Mexico State University,32.6—37.5,19.8,21.0,59.3,36.9,33.0,United States,2017.0,2017,New Mexico State University,USA,620,178,383+,491,240+,-,758,634,482,539,913+,42.91
+401-500,University of Nice Sophia Antipolis,32.6—37.5,21.9,8.0,58.1,32.5,79.2,France,2017.0,2017,University of Nice Sophia Antipolis,France,468,20,292,616+,240+,-,444,255,576,399,576,43.28
+401-500,Northern Arizona University,32.6—37.5,18.8,11.2,82.7,32.6,26.9,United States,2017.0,2017,Northern Arizona University,USA,801,207,383+,546,240+,-,912,476,482,744,673,42.67
+401-500,Novosibirsk State University,32.6—37.5,43.2,28.3,33.6,36.3,36.0,Russian Federation,2017.0,2017,Novosibirsk State University,Russia,918,5,186,616+,240+,-,741,706,576,936,913+,42.56
+401-500,University of Pisa,32.6—37.5,20.4,18.5,73.3,36.5,34.3,Italy,2017.0,2017,University of Pisa,Italy,289,8,296,452,240+,-,253,337,234,236,564,44.4
+401-500,Pontifical Catholic University of Chile,32.6—37.5,27.5,23.0,41.8,35.7,53.2,Chile,2017.0,2017,Pontifical Catholic University of Chile,Chile,345,1,170,117,188,-,430,314,357,383,410,43.88
+401-500,University of Porto,32.6—37.5,28.6,26.2,42.3,39.9,45.3,Portugal,2017.0,2017,University of Porto,Portugal,313,2,103,330,155,-,246,353,252,321,400,44.18
+401-500,University of Portsmouth,32.6—37.5,16.7,13.2,61.8,32.6,82.4,United Kingdom,2017.0,2017,University of Portsmouth,United Kingdom,582,43,383+,496,240+,-,803,682,319,509,842,42.99
+401-500,RMIT University,32.6—37.5,23.0,20.7,53.6,40.0,85.6,Australia,2017.0,2017,RMIT University,Australia,837,25,383+,530,240+,-,658,940,709,810,604,42.64
+401-500,Renmin University of China,32.6—37.5,42.5,19.4,35.4,43.2,46.0,China,2017.0,2017,Renmin University of China,China,385,22,383+,65,240+,-,878,856,853+,842,825,43.66
+401-500,Rovira i Virgili University,32.6—37.5,21.5,15.8,72.1,35.2,45.5,Spain,2017.0,2017,Rovira i Virgili University,Spain,647,20,383+,616+,240+,-,535,559,576,586,576,42.87
+401-500,Saint Petersburg State University,32.6—37.5,48.4,30.7,34.0,33.3,34.0,Russian Federation,2017.0,2017,Saint Petersburg State University,Russia,417,3,43,241,240+,-,636,561,853+,728,842,43.51
+401-500,University of Salento,32.6—37.5,25.0,11.8,65.6,37.6,25.2,Italy,2017.0,2017,University of Salento,Italy,738,40,383+,616+,240+,-,724,693,482,667,754,42.74
+401-500,San Diego State University,32.6—37.5,20.9,28.8,64.4,33.2,27.3,United States,2017.0,2017,San Diego State University,USA,377,126,274,226,240+,-,492,343,302,340,470,43.71
+401-500,University of Saskatchewan,32.6—37.5,34.2,25.0,43.5,69.0,64.4,Canada,2017.0,2017,University of Saskatchewan,Canada,472,19,358,332,240+,-,339,458,415,469,349,43.26
+401-500,University of Siegen,32.6—37.5,22.2,24.0,60.8,40.7,50.1,Germany,2017.0,2017,University of Siegen,Germany,802,51,383+,577,240+,-,901,787,415,744,766,42.67
+401-500,Stellenbosch University,32.6—37.5,28.6,24.8,53.0,32.1,50.3,South Africa,2017.0,2017,Stellenbosch University,South Africa,330,3,383+,81,240+,-,509,429,357,469,240,44.05
+401-500,University of Strathclyde,32.6—37.5,24.2,31.2,36.2,46.6,75.1,United Kingdom,2017.0,2017,University of Strathclyde,United Kingdom,450,36,383+,235,240+,-,403,539,357,469,299,43.34
+401-500,Tokyo Medical and Dental University,32.6—37.5,39.4,19.5,50.1,58.2,23.2,Japan,2017.0,2017,Tokyo Medical and Dental University,Japan,379,15,383+,616+,240+,-,467,354,482,331,183,43.7
+401-500,Tokyo Metropolitan University,32.6—37.5,22.6,13.4,68.5,34.0,21.4,Japan,2017.0,2017,Tokyo Metropolitan University,Japan,554,26,181,472,240+,-,695,509,319,502,627,43.05
+401-500,University of Tsukuba,32.6—37.5,40.1,32.7,35.1,42.4,37.1,Japan,2017.0,2017,University of Tsukuba,Japan,283,11,225,616+,110,-,270,258,278,258,205,44.45
+401-500,University of Waikato,32.6—37.5,20.9,23.2,49.5,34.7,87.8,New Zealand,2017.0,2017,University of Waikato,New Zealand,928,6,383+,406,240+,-,954,900,709,936,576,42.55
+401-500,Western Sydney University,32.6—37.5,17.9,24.4,57.9,35.6,77.5,Australia,2017.0,2017,Western Sydney University,Australia,791,23,383+,616+,240+,-,544,451,709,764,673,42.68
+401-500,Wuhan University,32.6—37.5,40.9,30.2,29.2,91.1,37.5,China,2017.0,2017,Wuhan University,China,351,19,383+,186,240+,-,230,511,853+,363,604,43.86
+401-500,Xiamen University,32.6—37.5,26.7,21.6,54.2,7.7,25.5,China,2017.0,2017,Xiamen University,China,293,10,383+,90,240+,-,281,465,709,348,445,44.35
+501-600,American University of Beirut,27.6—32.5,28.5,12.8,38.4,38.5,88.1,Lebanon,2017.0,2017,American University of Beirut,Lebanon,597,1,136,160,240+,-,831,721,853+,828,913+,42.96
+501-600,University of the Basque Country,27.6—32.5,20.9,14.3,50.2,34.7,37.9,Spain,2017.0,2017,University of the Basque Country,Spain,447,11,383+,556,240+,-,317,328,482,431,306,43.35
+501-600,University of Cagliari,27.6—32.5,19.0,12.2,56.6,35.2,34.5,Italy,2017.0,2017,University of Cagliari,Italy,562,30,383+,616+,240+,-,541,613,576,485,741,43.03
+501-600,Carleton University,27.6—32.5,19.5,25.6,33.9,33.9,63.6,Canada,2017.0,2017,Carleton University,Canada,639,24,383+,587,240+,-,527,765,357,586,913+,42.89
+501-600,University of Catania,27.6—32.5,15.3,12.9,68.3,34.6,26.8,Italy,2017.0,2017,University of Catania,Italy,524,27,238,616+,240+,-,462,727,415,455,862,43.12
+501-600,Catholic University of the Sacred Heart,27.6—32.5,18.0,7.6,56.4,40.3,39.1,Italy,2017.0,2017,Catholic University of the Sacred Heart,Italy,388,16,383+,511,240+,-,416,417,357,321,766,43.65
+501-600,University of Chile,27.6—32.5,25.4,18.4,36.9,32.1,46.7,Chile,2017.0,2017,University of Chile,Chile,442,2,266,207,240+,-,414,316,576,449,482,43.38
+501-600,China Agricultural University,27.6—32.5,33.9,21.8,29.4,47.8,18.6,China,2017.0,2017,China Agricultural University,China,528,34,383+,492,240+,-,350,376,853+,495,598,43.12
+501-600,China Medical University (PRC),27.6—32.5,24.0,24.4,45.2,69.6,27.0,Taiwan,2017.0,2017,China Medical University (PRC),China,891,72,383+,616+,240+,-,718,737,709,851,913+,42.58
+501-600,Complutense University of Madrid,27.6—32.5,30.7,27.1,36.7,36.0,40.1,Spain,2017.0,2017,Complutense University of Madrid,Spain,230,3,89,57,237,-,211,326,357,356,265,45.23
+501-600,Concordia University,27.6—32.5,19.2,24.7,40.9,34.4,79.2,Canada,2017.0,2017,Concordia University,Canada,494,20,383+,132,240+,-,534,804,853+,655,726,43.18
+501-600,Creighton University,27.6—32.5,42.3,9.7,45.1,35.7,27.8,United States,2017.0,2017,Creighton University,USA,545,163,383+,616+,240+,-,884,694,415,455,456,43.07
+501-600,East China Normal University,27.6—32.5,27.4,18.7,46.7,45.1,41.6,China,2017.0,2017,East China Normal University,China,513,33,383+,261,240+,-,405,615,853+,514,673,43.15
+501-600,East China University of Science and Technology,27.6—32.5,22.5,15.2,51.9,60.7,25.6,China,2017.0,2017,East China University of Science and Technology,China,416,28,383+,616+,240+,-,375,752,709,375,201,43.51
+501-600,University of Granada,27.6—32.5,21.9,16.8,46.3,33.2,43.1,Spain,2017.0,2017,University of Granada,Spain,373,8,383+,616+,240+,-,288,477,194,375,194,43.73
+501-600,Harbin Institute of Technology,27.6—32.5,31.1,27.7,24.4,97.7,27.9,China,2017.0,2017,Harbin Institute of Technology,China,334,15,383+,247,240+,-,191,738,415,348,306,44.01
+501-600,University of Hertfordshire,27.6—32.5,15.9,11.5,56.2,33.0,77.5,United Kingdom,2017.0,2017,University of Hertfordshire,United Kingdom,575,42,383+,616+,240+,-,801,464,576,485,807,43.0
+501-600,Hiroshima University,27.6—32.5,30.0,14.0,41.2,45.4,24.0,Japan,2017.0,2017,Hiroshima University,Japan,321,13,383+,616+,240+,-,356,298,576,306,122,44.12
+501-600,University of Hull,27.6—32.5,19.9,20.8,46.4,34.2,73.3,United Kingdom,2017.0,2017,University of Hull,United Kingdom,516,39,324,246,162,-,587,547,709,535,556,43.13
+501-600,Indian Institute of Technology Kharagpur,27.6—32.5,31.0,19.4,44.5,49.5,16.0,India,2017.0,2017,Indian Institute of Technology Kharagpur,India,616,6,383+,260,240+,-,495,980,853+,661,704,42.92
+501-600,Indian Institute of Technology Roorkee,27.6—32.5,26.9,15.8,55.1,64.3,15.2,India,2017.0,2017,Indian Institute of Technology Roorkee,India,617,7,383+,306,240+,-,862,945,319,612,913+,42.92
+501-600,University of Ioannina,27.6—32.5,14.3,14.8,64.8,35.5,40.3,Greece,2017.0,2017,University of Ioannina,Greece,585,4,383+,616+,240+,-,641,762,482,502,913+,42.99
+501-600,Iran University of Science and Technology,27.6—32.5,23.2,23.7,41.8,50.7,13.9,Iran,2017.0,2017,Iran University of Science and Technology,Iran,969,8,383+,616+,240+,-,754,995+,482,947,913+,42.52
+501-600,Istanbul Technical University,27.6—32.5,24.0,24.6,32.4,100.0,24.8,Turkey,2017.0,2017,Istanbul Technical University,Turkey,676,4,383+,408,240+,-,676,860,415,630,794,42.83
+501-600,Jadavpur University,27.6—32.5,32.1,15.4,37.6,39.1,14.1,India,2017.0,2017,Jadavpur University,India,907,14,383+,529,240+,-,811,995+,482,876,825,42.57
+501-600,Kansas State University,27.6—32.5,25.0,17.9,40.7,44.4,43.9,United States,2017.0,2017,Kansas State University,USA,362,123,154,242,240+,-,399,350,252,352,314,43.79
+501-600,King Saud University,27.6—32.5,24.0,27.9,28.7,96.4,76.0,Saudi Arabia,2017.0,2017,King Saud University,Saudi Arabia,560,1,383+,193,240+,-,448,490,709,667,441,43.04
+501-600,University of Limerick,27.6—32.5,18.5,19.0,44.3,36.0,82.6,Ireland,2017.0,2017,University of Limerick,Ireland,988,8,383+,484,240+,-,858,862,709,989,450,42.49
+501-600,Liverpool John Moores University,27.6—32.5,16.1,13.3,56.7,32.7,65.0,United Kingdom,2017.0,2017,Liverpool John Moores University,United Kingdom,671,51,383+,616+,240+,-,697,428,576,601,649,42.84
+501-600,Louisiana State University,27.6—32.5,31.1,20.2,42.1,32.1,29.7,United States,2017.0,2017,Louisiana State University,USA,191,80,303,152,240+,-,183,184,126,176,145,45.89
+501-600,Mahidol University,27.6—32.5,29.4,13.4,36.8,50.8,42.9,Thailand,2017.0,2017,Mahidol University,Thailand,518,2,383+,616+,240+,-,443,317,709,449,887,43.13
+501-600,University of Maribor,27.6—32.5,16.0,13.1,51.2,39.6,35.5,Slovenia,2017.0,2017,University of Maribor,Slovenia,819,2,383+,616+,240+,-,945,844,709,744,794,42.65
+501-600,Memorial University of Newfoundland,27.6—32.5,18.8,16.8,50.9,52.1,37.9,Canada,2017.0,2017,Memorial University of Newfoundland,Canada,624,23,383+,489,240+,-,580,505,482,565,673,42.9
+501-600,University of Minho,27.6—32.5,22.2,22.1,39.2,50.3,46.3,Portugal,2017.0,2017,University of Minho,Portugal,592,5,383+,616+,240+,-,546,654,302,565,366,42.97
+501-600,Missouri University of Science and Technology,27.6—32.5,20.0,24.7,34.0,45.4,65.3,United States,2017.0,2017,Missouri University of Science and Technology,USA,773,203,383+,285,240+,-,803,927,709,842,521,42.7
+501-600,Montana State University,27.6—32.5,18.7,20.7,56.7,43.3,26.2,United States,2017.0,2017,Montana State University,USA,606,176,383+,540,240+,-,611,329,482,539,521,42.94
+501-600,National Autonomous University of Mexico,27.6—32.5,36.8,33.0,17.8,60.2,37.2,Mexico,2017.0,2017,National Autonomous University of Mexico,Mexico,341,1,259,566,240+,-,221,242,415,324,366,43.92
+501-600,National Taiwan Normal University,27.6—32.5,28.2,31.1,17.6,78.3,44.4,Taiwan,2017.0,2017,National Taiwan Normal University,Taiwan,952,16,383+,532,240+,-,740,911,853+,920,913+,42.53
+501-600,National and Kapodistrian University of Athens,27.6—32.5,27.0,16.4,46.8,38.0,43.0,Greece,2017.0,2017,National and Kapodistrian University of Athens,Greece,292,1,383+,216,240+,-,252,409,278,266,913+,44.36
+501-600,University of Nebraska Medical Center,27.6—32.5,36.4,12.9,35.8,37.1,36.8,United States,2017.0,2017,University of Nebraska Medical Center,USA,427,139,383+,616+,240+,-,479,364,415,356,355,43.45
+501-600,New Jersey Institute of Technology,27.6—32.5,21.3,17.8,47.9,47.6,55.1,United States,2017.0,2017,New Jersey Institute of Technology,USA,747,199,284,436,240+,-,839,666,357,851,233,42.73
+501-600,Old Dominion University,27.6—32.5,23.1,17.7,53.2,1.7,27.5,United States,2017.0,2017,Old Dominion University,USA,660,182,383+,616+,240+,-,784,612,482,601,429,42.85
+501-600,University of Palermo,27.6—32.5,17.8,11.1,70.5,34.2,24.1,Italy,2017.0,2017,University of Palermo,Italy,553,29,383+,616+,240+,-,481,556,482,485,623,43.05
+501-600,University of Parma,27.6—32.5,15.1,19.8,58.2,37.2,36.4,Italy,2017.0,2017,University of Parma,Italy,478,25,383+,367,240+,-,458,500,319,437,713,43.22
+501-600,Pusan National University,27.6—32.5,27.8,27.1,25.6,63.8,33.9,South Korea,2017.0,2017,Pusan National University,South Korea,393,10,383+,369,240+,-,335,488,482,415,138,43.62
+501-600,University of Regina,27.6—32.5,16.5,11.9,48.8,34.8,50.9,Canada,2017.0,2017,University of Regina,Canada,826,26,383+,616+,240+,-,888,661,357,793,663,42.64
+501-600,University of Rennes 1,27.6—32.5,22.3,17.0,50.7,41.6,54.9,France,2017.0,2017,University of Rennes 1,France,482,23,383+,616+,240+,-,342,360,576,464,340,43.21
+501-600,Sejong University,27.6—32.5,21.5,15.7,47.4,35.6,29.8,South Korea,2017.0,2017,Sejong University,South Korea,840,28,383+,616+,240+,-,799,837,709,793,521,42.64
+501-600,Semmelweis University,27.6—32.5,24.0,12.8,50.2,34.5,71.3,Hungary,2017.0,2017,Semmelweis University,Hungary,611,2,383+,616+,240+,-,650,442,576,535,704,42.92
+501-600,Sharif University of Technology,27.6—32.5,25.1,27.4,37.6,85.3,17.9,Iran,2017.0,2017,Sharif University of Technology,Iran,648,1,128,616+,240+,-,563,962,482,644,913+,42.87
+501-600,University of Siena,27.6—32.5,20.7,13.8,52.2,34.7,42.4,Italy,2017.0,2017,University of Siena,Italy,428,21,383+,537,240+,-,442,387,319,356,508,43.45
+501-600,Sogang University,27.6—32.5,24.9,27.5,32.7,48.4,26.0,South Korea,2017.0,2017,Sogang University,South Korea,740,22,383+,400,240+,-,850,794,853+,903,180,42.74
+501-600,Soochow University (Suzhou),27.6—32.5,19.7,15.8,58.8,68.1,18.3,China,2017.0,2017,Soochow University (Suzhou),China,475,30,383+,616+,240+,-,306,722,415,455,508,43.24
+501-600,Southeast University,27.6—32.5,27.2,30.4,28.9,92.7,22.0,China,2017.0,2017,Southeast University,China,401,25,201,478,240+,-,312,622,709,399,173,43.58
+501-600,Tampere University of Technology,27.6—32.5,23.0,14.9,44.3,64.6,56.1,Finland,2017.0,2017,Tampere University of Technology,Finland,690,8,383+,250,240+,-,841,678,482,764,754,42.8
+501-600,University of Texas at Arlington,27.6—32.5,20.0,17.4,48.3,40.7,36.3,United States,2017.0,2017,University of Texas at Arlington,USA,561,166,383+,593,240+,-,520,563,415,522,299,43.03
+501-600,Tianjin University,27.6—32.5,32.6,29.2,21.9,99.3,16.5,China,2017.0,2017,Tianjin University,China,324,13,383+,84,240+,-,285,816,482,495,282,44.1
+501-600,University of Toledo,27.6—32.5,32.8,14.1,33.6,44.3,38.8,United States,2017.0,2017,University of Toledo,USA,584,171,383+,616+,240+,-,637,567,576,612,192,42.99
+501-600,Tongji University,27.6—32.5,32.4,35.2,22.3,98.7,39.2,China,2017.0,2017,Tongji University,China,408,27,188,136,240+,-,278,421,482,539,445,43.54
+501-600,University of Ulsan,27.6—32.5,19.4,18.8,60.8,54.7,18.7,South Korea,2017.0,2017,University of Ulsan,South Korea,451,14,383+,417,240+,-,381,497,576,405,340,43.34
+501-600,United Arab Emirates University,27.6—32.5,24.0,16.0,38.7,33.2,95.4,United Arab Emirates,2017.0,2017,United Arab Emirates University,United Arab Emirates,957,1,383+,570,240+,-,977,884,853+,920,556,42.53
+501-600,University of Valencia,27.6—32.5,20.9,18.4,50.5,34.4,41.7,Spain,2017.0,2017,University of Valencia,Spain,287,4,383+,531,240+,-,238,370,234,243,450,44.41
+501-600,Polytechnic University of Valencia,27.6—32.5,22.1,24.8,43.9,44.3,41.9,Spain,2017.0,2017,Polytechnic University of Valencia,Spain,455,12,383+,616+,240+,-,359,568,576,455,180,43.33
+501-600,University of Warsaw,27.6—32.5,25.0,16.5,45.2,32.7,44.2,Poland,2017.0,2017,University of Warsaw,Poland,464,2,110,517,153,-,461,414,415,455,673,43.3
+501-600,Warsaw University of Technology,27.6—32.5,18.4,9.9,59.0,36.7,21.5,Poland,2017.0,2017,Warsaw University of Technology,Poland,666,3,362,548,240+,-,737,768,302,621,862,42.84
+501-600,Xi'an Jiaotong University,27.6—32.5,35.3,26.3,32.9,54.9,26.2,China,2017.0,2017,Xi'an Jiaotong University,China,348,18,383+,114,240+,-,212,469,576,495,275,43.88
+501-600,University of Zaragoza,27.6—32.5,20.3,12.5,49.7,38.6,35.1,Spain,2017.0,2017,University of Zaragoza,Spain,456,13,382,440,240+,-,345,605,482,437,266,43.33
+601-800,University of A Coruña,18.6—27.5,17.6,10.9,23.7,35.5,27.3,Spain,2017.0,2017,University of A Coruña,Spain,978,40,383+,616+,240+,-,818,921,853+,947,726,42.51
+601-800,AGH University of Science and Technology,18.6—27.5,16.1,11.0,40.3,36.6,19.4,Poland,2017.0,2017,AGH University of Science and Technology,Poland,857,4,288,334,240+,-,726,808,576,903,576,42.62
+601-800,Ajou University,18.6—27.5,20.8,12.4,28.1,48.4,22.2,South Korea,2017.0,2017,Ajou University,South Korea,508,15,383+,482,240+,-,620,747,853+,655,116,43.16
+601-800,University of Alcalá,18.6—27.5,19.6,11.5,31.8,42.2,55.8,Spain,2017.0,2017,University of Alcalá,Spain,815,30,383+,616+,240+,-,709,596,482,775,627,42.65
+601-800,Amirkabir University of Technology,18.6—27.5,22.7,18.9,35.5,59.9,15.4,Iran,2017.0,2017,Amirkabir University of Technology,Iran,882,6,383+,616+,240+,-,656,967,709,851,913+,42.58
+601-800,Auburn University,18.6—27.5,31.7,18.3,24.2,40.0,30.9,United States,2017.0,2017,Auburn University,USA,491,152,198,173,240+,-,499,585,415,630,296,43.19
+601-800,Nicolaus Copernicus University in Toruń,18.6—27.5,14.9,10.0,22.6,32.8,73.1,United Kingdom,2017.0,2017,Nicolaus Copernicus University in Toruń,Poland,944,6,383+,616+,240+,-,920,743,853+,887,807,42.54
+801+,Nicolaus Copernicus University in Toruń,8.3—18.5,18.6,8.0,16.3,33.7,22.6,Poland,2017.0,2017,Nicolaus Copernicus University in Toruń,Poland,944,6,383+,616+,240+,-,920,743,853+,887,807,42.54
+601-800,Beijing Institute of Technology,18.6—27.5,30.0,24.7,13.0,78.4,19.2,China,2017.0,2017,Beijing Institute of Technology,China,618,40,383+,603,240+,-,440,973,709,574,556,42.92
+601-800,University of Bradford,18.6—27.5,17.9,14.4,25.9,36.0,78.2,United Kingdom,2017.0,2017,University of Bradford,United Kingdom,797,61,383+,225,240+,-,892,807,853+,967,564,42.67
+601-800,University of Brighton,18.6—27.5,15.8,12.3,37.4,33.5,64.7,United Kingdom,2017.0,2017,University of Brighton,United Kingdom,792,60,383+,616+,240+,-,854,751,853+,715,741,42.68
+601-800,Budapest University of Technology and Economics,18.6—27.5,15.8,13.6,32.2,45.8,28.5,Hungary,2017.0,2017,Budapest University of Technology and Economics,Hungary,898,6,278,616+,240+,-,834,781,576,864,663,42.57
+601-800,University of Calcutta,18.6—27.5,32.6,11.1,16.6,33.5,14.0,India,2017.0,2017,University of Calcutta,India,922,15,159,321,232,-,944,913,853+,998,576,42.55
+601-800,Capital Medical University,18.6—27.5,27.1,18.2,17.1,34.2,19.1,China,2017.0,2017,Capital Medical University,China,642,43,383+,616+,240+,-,439,618,415,612,794,42.88
+601-800,University of Central Lancashire,18.6—27.5,15.4,11.1,33.0,32.7,55.7,United Kingdom,2017.0,2017,University of Central Lancashire,United Kingdom,903,62,383+,541,240+,-,926,674,576,864,663,42.57
+601-800,Chang Gung University,18.6—27.5,21.3,25.1,30.3,36.4,17.1,Taiwan,2017.0,2017,Chang Gung University,Taiwan,551,6,383+,616+,240+,-,330,614,853+,522,887,43.06
+601-800,Carlos III University of Madrid,18.6—27.5,24.7,15.9,29.6,37.2,53.1,Spain,2017.0,2017,Carlos III University of Madrid,Spain,964,38,383+,616+,240+,-,667,955,576,967,456,42.52
+601-800,Chiang Mai University,18.6—27.5,18.6,11.5,29.7,35.9,33.7,Thailand,2017.0,2017,Chiang Mai University,Thailand,846,3,383+,592,240+,-,825,701,576,793,887,42.63
+601-800,Chiba University,18.6—27.5,27.6,16.3,32.7,51.7,23.1,Japan,2017.0,2017,Chiba University,Japan,439,16,383+,616+,240+,-,408,365,709,425,186,43.38
+601-800,Chonnam National University,18.6—27.5,17.5,13.4,31.1,35.6,22.5,South Korea,2017.0,2017,Chonnam National University,South Korea,431,12,383+,615,240+,-,411,611,357,455,135,43.44
+601-800,Chulalongkorn University,18.6—27.5,26.6,16.8,19.0,50.2,33.0,Thailand,2017.0,2017,Chulalongkorn University,Thailand,308,1,383+,54,240+,-,579,603,482,586,887,44.2
+601-800,Chung Yuan Christian University,18.6—27.5,14.9,23.2,17.7,43.2,21.5,Taiwan,2017.0,2017,Chung Yuan Christian University,Taiwan,901,14,272,319,240+,-,832,967,853+,967,913+,42.57
+601-800,Clemson University,18.6—27.5,23.5,22.0,33.0,38.8,35.6,United States,2017.0,2017,Clemson University,USA,497,155,383+,499,240+,-,450,529,576,449,373,43.18
+601-800,Comenius University in Bratislava,18.6—27.5,21.9,11.7,24.0,32.4,47.9,Slovakia,2017.0,2017,Comenius University in Bratislava,Slovak Republic,658,1,383+,616+,240+,-,763,655,576,574,862,42.85
+601-800,University of Concepción,18.6—27.5,15.5,13.0,20.8,56.4,46.2,Chile,2017.0,2017,University of Concepción,Chile,785,3,383+,616+,240+,-,739,507,853+,728,541,42.68
+601-800,Czech Technical University in Prague,18.6—27.5,18.9,20.8,36.4,38.5,42.4,Czech Republic,2017.0,2017,Czech Technical University in Prague,Czech Republic,661,3,364,616+,240+,-,712,763,482,586,638,42.85
+601-800,Dalian University of Technology,18.6—27.5,21.8,20.1,29.3,81.5,21.0,China,2017.0,2017,Dalian University of Technology,China,327,14,383+,122,240+,-,287,673,482,356,240,44.07
+601-800,University of Delhi,18.6—27.5,39.0,17.3,21.9,32.1,15.9,India,2017.0,2017,University of Delhi,India,397,1,261,85,240+,-,608,809,853+,655,794,43.61
+601-800,Ehime University,18.6—27.5,24.3,29.5,18.2,37.5,24.5,Japan,2017.0,2017,Ehime University,Japan,693,39,383+,526,240+,-,660,578,709,644,456,42.8
+601-800,Eötvös Loránd University,18.6—27.5,20.7,11.8,34.8,32.9,46.5,Hungary,2017.0,2017,Eötvös Loránd University,Hungary,515,1,101,616+,119,-,611,491,319,539,794,43.15
+601-800,Federal University of Minas Gerais,18.6—27.5,30.6,14.3,25.5,33.6,22.7,Brazil,2017.0,2017,Federal University of Minas Gerais,Brazil,521,4,383+,314,240+,-,415,532,482,586,210,43.13
+601-800,Federal University of Paraná,18.6—27.5,24.3,23.9,8.0,32.1,17.2,Brazil,2017.0,2017,Federal University of Paraná,Brazil,938,11,383+,512,240+,-,678,796,853+,920,766,42.54
+601-800,Federal University of Rio Grande do Sul,18.6—27.5,31.0,10.8,23.9,32.1,21.5,Brazil,2017.0,2017,Federal University of Rio Grande do Sul,Brazil,570,5,383+,590,240+,-,409,501,415,514,807,43.02
+601-800,Federal University of Rio de Janeiro,18.6—27.5,31.1,15.7,20.1,41.7,27.9,Brazil,2017.0,2017,Federal University of Rio de Janeiro,Brazil,340,2,148,154,240+,-,313,342,415,356,333,43.95
+601-800,Federal University of Santa Catarina,18.6—27.5,25.3,12.4,20.1,54.0,24.4,Brazil,2017.0,2017,Federal University of Santa Catarina,Brazil,909,10,383+,616+,240+,-,589,876,853+,887,754,42.56
+601-800,Federal University of São Paulo,18.6—27.5,37.5,19.1,26.8,32.1,22.3,Brazil,2017.0,2017,Federal University of São Paulo,Brazil,610,6,383+,616+,240+,-,482,557,357,565,794,42.93
+601-800,Feng Chia University,18.6—27.5,14.8,15.6,36.0,38.0,26.0,Taiwan,2017.0,2017,Feng Chia University,Taiwan,987,18,383+,379,240+,-,915,995+,853+,989,862,42.5
+601-800,Florida Institute of Technology,18.6—27.5,25.5,13.4,28.8,36.6,60.6,United States,2017.0,2017,Florida Institute of Technology,USA,728,195,383+,616+,240+,-,977,718,278,694,913+,42.75
+601-800,Hacettepe University,18.6—27.5,20.3,10.5,36.5,32.6,21.9,Turkey,2017.0,2017,Hacettepe University,Turkey,634,2,383+,616+,240+,-,653,551,482,552,913+,42.9
+601-800,University of Haifa,18.6—27.5,22.2,24.7,27.7,33.7,35.3,Israel,2017.0,2017,University of Haifa,Israel,754,7,383+,444,240+,-,550,510,853+,728,564,42.72
+601-800,Hunan University,18.6—27.5,17.0,17.0,34.8,45.2,16.2,China,2017.0,2017,Hunan University,China,512,32,383+,310,240+,-,427,873,482,485,713,43.15
+601-800,Inha University,18.6—27.5,21.3,19.8,23.3,59.9,25.2,South Korea,2017.0,2017,Inha University,South Korea,579,19,383+,352,240+,-,581,826,482,574,282,43.0
+601-800,Isfahan University of Technology,18.6—27.5,19.5,20.0,38.4,89.8,18.9,Iran,2017.0,2017,Isfahan University of Technology,Iran,854,4,383+,616+,240+,-,731,902,357,828,913+,42.62
+601-800,Istanbul University,18.6—27.5,22.5,23.6,11.8,52.4,22.2,Turkey,2017.0,2017,Istanbul University,Turkey,643,3,236,425,240+,-,698,517,709,586,913+,42.88
+601-800,Jagiellonian University,18.6—27.5,23.8,14.7,38.1,33.6,34.6,Poland,2017.0,2017,Jagiellonian University,Poland,421,1,383+,616+,240+,-,407,416,482,356,299,43.49
+601-800,University of Jaén,18.6—27.5,13.7,10.9,50.1,34.2,25.9,Spain,2017.0,2017,University of Jaén,Spain,914,36,383+,616+,240+,-,904,889,482,876,613,42.56
+601-800,Jikei University School of Medicine,18.6—27.5,32.4,10.9,15.2,35.3,13.9,Japan,2017.0,2017,Jikei University School of Medicine,Japan,853,60,383+,616+,240+,-,965,745,709,793,842,42.62
+601-800,Jilin University,18.6—27.5,28.1,15.9,20.5,42.2,25.2,China,2017.0,2017,Jilin University,China,342,17,230,275,240+,-,202,460,709,340,627,43.92
+601-800,University of Johannesburg,18.6—27.5,16.7,18.4,23.5,37.4,43.2,South Africa,2017.0,2017,University of Johannesburg,South Africa,951,6,383+,516,240+,-,920,675,482,920,766,42.53
+601-800,Juntendo University,18.6—27.5,34.5,11.3,23.5,49.1,18.3,Japan,2017.0,2017,Juntendo University,Japan,539,24,383+,616+,240+,-,654,543,576,449,649,43.08
+601-800,Kanazawa University,18.6—27.5,27.5,16.0,36.6,34.2,20.3,Japan,2017.0,2017,Kanazawa University,Japan,463,17,383+,394,240+,-,523,473,576,425,252,43.3
+601-800,Kaohsiung Medical University,18.6—27.5,20.5,18.5,25.4,35.2,22.1,Taiwan,2017.0,2017,Kaohsiung Medical University,Taiwan,727,10,383+,616+,240+,-,513,846,709,682,726,42.75
+601-800,Keio University,18.6—27.5,30.3,20.7,30.5,40.9,25.9,Japan,2017.0,2017,Keio University,Japan,32,3,308,5,240+,-,315,256,415,286,72,57.63
+601-800,Kindai University,18.6—27.5,18.8,8.3,33.0,35.6,17.9,Japan,2017.0,2017,Kindai University,Japan,698,40,383+,616+,240+,-,728,699,482,644,456,42.8
+601-800,Kobe University,18.6—27.5,29.3,19.2,25.3,41.5,22.7,Japan,2017.0,2017,Kobe University,Japan,338,14,100,264,119,-,400,308,278,346,286,43.96
+601-800,Konkuk University,18.6—27.5,23.8,24.5,20.2,36.7,24.0,South Korea,2017.0,2017,Konkuk University,South Korea,587,20,383+,407,240+,-,514,789,576,621,224,42.98
+601-800,Kumamoto University,18.6—27.5,25.8,12.3,31.3,43.4,24.3,Japan,2017.0,2017,Kumamoto University,Japan,484,18,331,392,240+,-,532,475,709,522,162,43.21
+601-800,Kyungpook National University,18.6—27.5,19.2,17.9,21.4,39.6,23.4,South Korea,2017.0,2017,Kyungpook National University,South Korea,320,8,383+,376,240+,-,378,652,319,385,76,44.13
+601-800,University of La Laguna,18.6—27.5,16.9,9.6,48.5,32.7,47.1,Spain,2017.0,2017,University of La Laguna,Spain,557,17,383+,616+,240+,-,511,348,319,502,741,43.04
+601-800,University of Ljubljana,18.6—27.5,24.0,14.7,27.3,35.4,35.8,Slovenia,2017.0,2017,University of Ljubljana,Slovenia,467,1,383+,616+,240+,-,370,390,357,415,592,43.28
+601-800,Manchester Metropolitan University,18.6—27.5,18.2,11.4,32.8,32.3,57.2,United Kingdom,2017.0,2017,Manchester Metropolitan University,United Kingdom,926,64,383+,434,240+,-,955,750,709,903,766,42.55
+601-800,Masaryk University,18.6—27.5,20.8,18.1,34.3,33.5,54.3,Czech Republic,2017.0,2017,Masaryk University,Czech Republic,686,4,383+,616+,240+,-,614,436,709,621,663,42.81
+601-800,Miami University,18.6—27.5,21.3,18.5,40.1,34.2,28.0,United States,2017.0,2017,Miami University,USA,380,128,383+,73,240+,-,775,653,482,667,862,43.7
+601-800,Middle East Technical University,18.6—27.5,27.3,19.5,31.4,58.8,27.8,Turkey,2017.0,2017,Middle East Technical University,Turkey,498,1,383+,155,240+,-,607,861,415,586,913+,43.17
+601-800,University of Murcia,18.6—27.5,18.4,12.7,31.0,33.5,32.0,Spain,2017.0,2017,University of Murcia,Spain,817,31,383+,616+,240+,-,547,769,576,810,556,42.65
+601-800,Nagasaki University,18.6—27.5,25.1,10.8,17.9,35.0,23.7,Japan,2017.0,2017,Nagasaki University,Japan,537,22,327,215,240+,-,638,648,576,644,226,43.09
+601-800,Nagoya City University,18.6—27.5,26.1,12.2,31.2,41.5,18.4,Japan,2017.0,2017,Nagoya City University,Japan,737,43,383+,424,240+,-,829,621,576,694,499,42.74
+601-800,Nagoya Institute of Technology,18.6—27.5,19.1,18.7,18.5,48.0,19.7,Japan,2017.0,2017,Nagoya Institute of Technology,Japan,937,69,383+,560,240+,-,907,930,853+,981,289,42.54
+601-800,Nanjing Agricultural University,18.6—27.5,22.8,15.2,38.6,42.9,16.4,China,2017.0,2017,Nanjing Agricultural University,China,805,57,383+,616+,240+,-,502,709,709,793,686,42.66
+601-800,Nanjing Medical University,18.6—27.5,27.2,22.9,33.0,33.2,18.2,China,2017.0,2017,Nanjing Medical University,China,753,50,383+,616+,240+,-,485,672,853+,715,825,42.72
+601-800,Nanjing Normal University,18.6—27.5,17.9,9.0,33.8,46.9,15.7,China,2017.0,2017,Nanjing Normal University,China,849,64,383+,463,240+,-,710,676,709,820,704,42.63
+601-800,National Central University,18.6—27.5,26.6,23.6,21.3,65.8,28.4,Taiwan,2017.0,2017,National Central University,Taiwan,571,8,249,616+,240+,-,422,433,482,514,887,43.02
+601-800,National Chung Cheng University,18.6—27.5,19.6,21.6,17.5,39.7,18.5,Taiwan,2017.0,2017,National Chung Cheng University,Taiwan,936,15,383+,616+,240+,-,838,995+,709,887,913+,42.54
+601-800,National Chung Hsing University,18.6—27.5,18.8,15.4,25.5,42.1,18.5,Taiwan,2017.0,2017,National Chung Hsing University,Taiwan,526,5,383+,224,240+,-,436,669,576,552,913+,43.12
+601-800,National Taiwan Ocean University,18.6—27.5,16.3,18.7,23.0,51.3,21.1,Taiwan,2017.0,2017,National Taiwan Ocean University,Taiwan,958,17,383+,470,240+,-,839,927,853+,936,913+,42.53
+601-800,Niigata University,18.6—27.5,23.7,10.6,19.1,36.1,22.2,Japan,2017.0,2017,Niigata University,Japan,543,25,312,337,240+,-,626,472,853+,552,224,43.08
+601-800,University of North Carolina at Greensboro,18.6—27.5,19.3,15.5,41.6,33.2,19.4,United States,2017.0,2017,University of North Carolina at Greensboro,USA,935,222,383+,616+,240+,-,883,864,709,887,686,42.54
+601-800,Northeast Normal University,18.6—27.5,19.0,5.1,54.2,34.0,15.0,China,2017.0,2017,Northeast Normal University,China,646,44,383+,616+,240+,-,632,805,853+,565,913+,42.87
+601-800,Northwestern Polytechnical University,18.6—27.5,26.3,27.2,8.4,78.3,16.4,China,2017.0,2017,Northwestern Polytechnical University,China,868,68,383+,341,240+,-,476,948,709,957,887,42.6
+601-800,Oakland University,18.6—27.5,17.4,11.8,24.5,33.5,24.5,United States,2017.0,2017,Oakland University,USA,966,224,383+,616+,240+,-,899,857,853+,920,862,42.52
+601-800,Ohio University,18.6—27.5,24.9,14.2,28.5,34.2,29.5,United States,2017.0,2017,Ohio University,USA,495,153,241,175,240+,-,669,553,853+,661,198,43.18
+601-800,Okayama University,18.6—27.5,26.1,14.6,26.4,44.0,21.9,Japan,2017.0,2017,Okayama University,Japan,290,12,383+,298,240+,-,398,369,415,346,72,44.36
+601-800,Osaka City University,18.6—27.5,28.5,13.4,33.6,40.2,21.8,Japan,2017.0,2017,Osaka City University,Japan,534,21,115,387,240+,-,643,624,415,522,433,43.1
+601-800,University of Oviedo,18.6—27.5,18.3,12.4,44.2,33.4,30.5,Spain,2017.0,2017,University of Oviedo,Spain,519,16,383+,503,240+,-,449,423,319,464,604,43.13
+601-800,Panjab University,18.6—27.5,23.8,9.2,46.2,32.3,15.2,India,2017.0,2017,Panjab University,India,550,4,353,214,240+,-,847,775,415,565,825,43.06
+601-800,University of Patras,18.6—27.5,15.3,11.4,35.9,43.6,34.6,Greece,2017.0,2017,University of Patras,Greece,622,5,383+,616+,240+,-,553,830,576,552,794,42.91
+601-800,University of Pretoria,18.6—27.5,22.7,24.1,25.6,63.2,47.1,South Africa,2017.0,2017,University of Pretoria,South Africa,726,5,383+,312,240+,-,563,566,482,775,576,42.75
+601-800,University of Pécs,18.6—27.5,20.0,9.1,33.1,38.2,55.9,Hungary,2017.0,2017,University of Pécs,Hungary,885,5,383+,616+,240+,-,960,821,576,842,623,42.58
+601-800,Rochester Institute of Technology,18.6—27.5,19.8,16.2,30.9,33.7,33.8,United States,2017.0,2017,Rochester Institute of Technology,USA,739,198,383+,445,240+,-,936,601,482,682,598,42.74
+601-800,University of Salamanca,18.6—27.5,23.3,14.4,32.2,35.2,44.5,Spain,2017.0,2017,University of Salamanca,Spain,589,18,383+,461,240+,-,570,487,357,522,713,42.98
+601-800,University of Santiago de Compostela,18.6—27.5,19.8,14.9,40.9,35.7,42.4,Spain,2017.0,2017,University of Santiago de Compostela,Spain,414,9,383+,454,240+,-,401,537,319,399,166,43.52
+601-800,University of Science and Technology Beijing,18.6—27.5,26.8,22.4,10.8,63.3,16.3,China,2017.0,2017,University of Science and Technology Beijing,China,479,31,383+,107,240+,-,477,935,482,744,541,43.22
+601-800,University of Seville,18.6—27.5,19.5,13.9,33.1,37.9,34.4,Spain,2017.0,2017,University of Seville,Spain,444,10,383+,612,240+,-,340,581,415,539,122,43.38
+601-800,Shantou University,18.6—27.5,17.5,10.2,33.3,35.1,32.4,China,2017.0,2017,Shantou University,China,925,79,383+,616+,240+,-,951,730,576,876,913+,42.55
+601-800,Shinshu University,18.6—27.5,22.3,11.4,26.2,37.3,21.1,Japan,2017.0,2017,Shinshu University,Japan,533,20,383+,564,240+,-,659,677,415,469,299,43.1
+601-800,Shiraz University,18.6—27.5,19.1,19.4,17.7,54.7,15.2,Iran,2017.0,2017,Shiraz University,Iran,949,7,383+,616+,240+,-,867,967,576,903,913+,42.53
+601-800,Sichuan University,18.6—27.5,26.1,21.2,20.1,76.3,18.3,China,2017.0,2017,Sichuan University,China,407,26,383+,611,240+,-,209,382,576,405,438,43.55
+601-800,South China University of Technology,18.6—27.5,20.3,19.4,39.5,67.9,18.6,China,2017.0,2017,South China University of Technology,China,356,20,383+,189,240+,-,275,627,357,405,173,43.83
+601-800,University of Szeged,18.6—27.5,20.6,11.0,30.0,36.1,50.8,Hungary,2017.0,2017,University of Szeged,Hungary,762,4,383+,616+,228,-,701,760,853+,705,492,42.71
+601-800,Taipei Medical University,18.6—27.5,26.4,21.1,27.3,97.9,28.4,Taiwan,2017.0,2017,Taipei Medical University,Taiwan,836,12,383+,616+,240+,-,453,850,853+,842,766,42.64
+601-800,Tata Institute of Fundamental Research,18.6—27.5,24.4,10.0,45.1,32.1,37.2,India,2017.0,2017,Tata Institute of Fundamental Research,India,631,8,383+,616+,240+,-,545,440,357,574,825,42.9
+601-800,Technical University of Madrid,18.6—27.5,21.9,13.7,30.8,39.1,41.9,Spain,2017.0,2017,Technical University of Madrid,Spain,501,15,235,267,240+,-,459,696,576,728,132,43.17
+601-800,University of Tehran,18.6—27.5,27.8,12.6,22.1,32.1,19.1,Iran,2017.0,2017,University of Tehran,Iran,723,2,213,616+,198,-,441,904,853+,728,913+,42.76
+601-800,Tehran University of Medical Sciences,18.6—27.5,50.2,14.2,14.1,33.6,15.5,Iran,2017.0,2017,Tehran University of Medical Sciences,Iran,781,3,383+,616+,240+,-,716,733,709,715,887,42.69
+601-800,Texas Tech University,18.6—27.5,27.7,16.6,25.4,33.6,41.1,United States,2017.0,2017,Texas Tech University,USA,500,156,383+,213,240+,-,473,583,319,539,515,43.17
+601-800,University of Texas at El Paso,18.6—27.5,20.7,20.9,20.9,32.1,33.0,United States,2017.0,2017,University of Texas at El Paso,USA,995,225,383+,500,240+,-,885,877,853+,974,649,42.49
+601-800,Tokyo University of Agriculture and Technology,18.6—27.5,26.4,22.9,20.8,44.6,20.9,Japan,2017.0,2017,Tokyo University of Agriculture and Technology,Japan,580,29,383+,616+,240+,-,725,847,482,682,151,42.99
+601-800,Tokyo University of Science,18.6—27.5,21.1,23.7,22.5,37.8,16.8,Japan,2017.0,2017,Tokyo University of Science,Japan,538,23,250,616+,240+,-,601,600,709,522,210,43.09
+601-800,University of Vigo,18.6—27.5,15.5,11.7,33.2,37.0,36.5,Spain,2017.0,2017,University of Vigo,Spain,687,22,383+,616+,240+,-,571,843,576,630,613,42.81
+601-800,Vilnius University,18.6—27.5,19.2,12.7,35.0,40.2,40.4,Lithuania,2017.0,2017,Vilnius University,Lithuania,742,1,360,616+,240+,-,812,607,482,667,713,42.74
+601-800,Waseda University,18.6—27.5,25.9,20.0,30.1,35.6,32.4,Japan,2017.0,2017,Waseda University,Japan,37,4,311,8,240+,-,466,439,576,375,221,55.67
+601-800,University of Windsor,18.6—27.5,18.0,13.7,24.7,35.3,48.3,Canada,2017.0,2017,University of Windsor,Canada,548,22,383+,109,240+,-,806,947,853+,851,686,43.07
+601-800,Yamagata University,18.6—27.5,22.3,10.0,22.8,50.4,19.4,Japan,2017.0,2017,Yamagata University,Japan,794,47,383+,616+,240+,-,837,770,853+,728,564,42.67
+601-800,University of Yamanashi,18.6—27.5,25.3,10.2,19.5,35.9,19.8,Japan,2017.0,2017,University of Yamanashi,Japan,768,46,293,616+,240+,-,912,888,853+,793,272,42.7
+601-800,Yeungnam University,18.6—27.5,33.1,11.4,35.0,38.9,28.0,South Korea,2017.0,2017,Yeungnam University,South Korea,778,26,383+,304,240+,-,698,978,853+,887,333,42.69
+601-800,Yokohama City University,18.6—27.5,23.8,6.4,38.0,39.4,16.9,Japan,2017.0,2017,Yokohama City University,Japan,556,27,383+,271,240+,-,707,381,709,552,387,43.04
+601-800,Yuan Ze University,18.6—27.5,17.1,14.1,25.3,45.7,20.9,Taiwan,2017.0,2017,Yuan Ze University,Taiwan,989,19,383+,616+,240+,-,937,989,853+,957,913+,42.49
+801+,Adam Mickiewicz University in Poznań,8.3—18.5,17.6,10.4,20.4,32.7,28.1,Poland,2017.0,2017,Adam Mickiewicz University in Poznań,Poland,954,7,161,616+,240+,-,701,790,853+,981,686,42.53
+801+,Ain Shams University,8.3—18.5,19.2,7.9,9.6,33.3,31.2,Egypt,2017.0,2017,Ain Shams University,Egypt,943,2,383+,616+,240+,-,853,776,482,903,913+,42.54
+801+,Alexandria University,8.3—18.5,16.2,8.7,20.6,34.8,42.2,Egypt,2017.0,2017,Alexandria University,Egypt,980,3,256,614,240+,-,906,895,853+,957,913+,42.5
+801+,Ankara University,8.3—18.5,18.0,5.3,10.4,32.6,18.8,Turkey,2017.0,2017,Ankara University,Turkey,685,5,383+,361,240+,-,785,664,482,644,913+,42.82
+801+,University of Belgrade,8.3—18.5,17.4,12.5,20.7,36.7,32.2,Serbia,2017.0,2017,University of Belgrade,Serbia,544,1,301,616+,240+,-,379,528,319,509,862,43.08
+801+,University of Bucharest,8.3—18.5,22.3,7.4,9.4,32.2,25.5,Romania,2017.0,2017,University of Bucharest,Romania,975,2,253,616+,240+,-,879,795,576,957,913+,42.51
+801+,Cairo University,8.3—18.5,18.2,11.8,15.8,33.4,30.6,Egypt,2017.0,2017,Cairo University,Egypt,721,1,310,465,184,-,624,625,482,694,913+,42.76
+801+,Central South University,8.3—18.5,23.7,11.3,18.5,48.7,14.6,China,2017.0,2017,Central South University,China,391,23,383+,116,240+,-,299,651,482,485,598,43.64
+801+,Chungnam National University,8.3—18.5,23.6,9.2,13.0,48.5,20.5,South Korea,2017.0,2017,Chungnam National University,South Korea,699,21,383+,616+,240+,-,489,606,853+,682,397,42.79
+801+,University of Debrecen,8.3—18.5,17.5,4.3,23.4,37.1,48.7,Hungary,2017.0,2017,University of Debrecen,Hungary,694,3,383+,616+,240+,-,742,626,482,630,564,42.8
+801+,University of Electronic Science and Technology of China,8.3—18.5,16.0,6.6,15.0,32.1,17.2,China,2017.0,2017,University of Electronic Science and Technology of China,China,710,47,383+,346,240+,-,437,865,709,744,521,42.78
+801+,Federal University of Bahia,8.3—18.5,18.5,5.2,14.4,1.1,22.2,Brazil,2017.0,2017,Federal University of Bahia,Brazil,982,15,383+,599,240+,-,931,798,853+,947,842,42.5
+801+,Federal University of Ceará,8.3—18.5,22.9,4.7,16.6,1.5,19.8,Brazil,2017.0,2017,Federal University of Ceará,Brazil,998,18,383+,604,240+,-,842,792,853+,967,887,42.49
+801+,Federal University of Pernambuco,8.3—18.5,23.5,5.0,11.5,32.1,18.5,Brazil,2017.0,2017,Federal University of Pernambuco,Brazil,992,16,383+,598,240+,-,774,841,853+,974,592,42.49
+801+,Federal University of Santa Maria,8.3—18.5,20.3,5.0,7.2,32.8,14.5,Brazil,2017.0,2017,Federal University of Santa Maria,Brazil,993,17,383+,405,240+,-,910,980,853+,989,913+,42.49
+801+,Federal University of São Carlos,8.3—18.5,23.0,6.8,12.9,32.1,21.4,Brazil,2017.0,2017,Federal University of São Carlos,Brazil,960,12,383+,616+,240+,-,758,912,853+,936,638,42.52
+801+,Fluminense Federal University,8.3—18.5,18.4,7.9,8.5,32.3,22.7,Brazil,2017.0,2017,Fluminense Federal University,Brazil,962,13,383+,348,240+,-,824,913,853+,981,913+,42.52
+801+,Gazi University,8.3—18.5,17.5,9.1,9.6,36.8,14.5,Turkey,2017.0,2017,Gazi University,Turkey,850,9,383+,536,240+,-,780,931,576,810,913+,42.62
+801+,Gifu University,8.3—18.5,21.8,12.0,16.2,36.0,19.7,Japan,2017.0,2017,Gifu University,Japan,730,42,383+,518,240+,-,766,785,853+,705,355,42.75
+801+,Gunma University,8.3—18.5,22.3,11.5,13.1,44.1,17.1,Japan,2017.0,2017,Gunma University,Japan,628,33,383+,616+,240+,-,706,590,709,630,236,42.9
+801+,Hallym University,8.3—18.5,18.6,7.2,11.3,33.3,17.7,South Korea,2017.0,2017,Hallym University,South Korea,950,35,383+,616+,240+,-,852,932,853+,903,686,42.53
+801+,Jiangsu University,8.3—18.5,20.5,8.5,11.6,52.8,25.2,China,2017.0,2017,Jiangsu University,China,887,71,383+,602,240+,-,649,913,853+,876,465,42.58
+801+,Jinan University,8.3—18.5,19.1,13.2,14.8,36.7,41.9,China,2017.0,2017,Jinan University,China,838,63,383+,303,240+,-,670,772,853+,903,754,42.64
+801+,Mansoura University,8.3—18.5,15.7,2.6,19.0,32.1,37.1,Egypt,2017.0,2017,Mansoura University,Egypt,983,4,383+,616+,240+,-,908,923,853+,947,913+,42.5
+801+,Ocean University of China,8.3—18.5,18.9,11.4,21.0,46.6,17.2,China,2017.0,2017,Ocean University of China,China,777,55,383+,595,240+,-,585,736,853+,728,649,42.69
+801+,Osaka Prefecture University,8.3—18.5,23.2,11.5,16.9,39.8,19.1,Japan,2017.0,2017,Osaka Prefecture University,Japan,700,41,383+,384,240+,-,765,836,853+,744,247,42.79
+801+,Rio de Janeiro State University,8.3—18.5,20.9,10.8,17.8,49.2,17.8,Brazil,2017.0,2017,Rio de Janeiro State University,Brazil,709,8,383+,586,240+,-,732,659,482,644,807,42.78
+801+,Ritsumeikan University,8.3—18.5,15.6,8.5,12.8,33.5,24.3,Japan,2017.0,2017,Ritsumeikan University,Japan,852,59,383+,313,240+,-,942,858,482,920,482,42.62
+801+,Saitama University,8.3—18.5,19.1,11.0,22.8,33.3,22.6,Japan,2017.0,2017,Saitama University,Japan,899,63,129,432,240+,-,986,697,709,981,492,42.57
+801+,Saitama Medical University,8.3—18.5,22.8,7.3,21.3,37.2,13.5,Japan,2017.0,2017,Saitama Medical University,Japan,834,54,383+,616+,240+,-,984,635,709,775,521,42.64
+801+,University of Seoul,8.3—18.5,22.0,8.7,20.1,33.0,21.2,South Korea,2017.0,2017,University of Seoul,South Korea,843,29,383+,616+,240+,-,979,889,576,828,366,42.63
+801+,Shanghai University,8.3—18.5,18.1,14.7,19.8,44.5,16.0,China,2017.0,2017,Shanghai University,China,576,38,383+,469,240+,-,454,940,576,514,842,43.0
+801+,Shimane University,8.3—18.5,22.5,9.1,10.1,35.4,17.3,Japan,2017.0,2017,Shimane University,Japan,968,70,383+,616+,240+,-,983,799,709,920,766,42.52
+801+,Shizuoka University,8.3—18.5,17.4,12.2,15.0,36.2,22.7,Japan,2017.0,2017,Shizuoka University,Japan,841,55,383+,527,240+,-,940,791,853+,981,194,42.63
+801+,Showa University,8.3—18.5,28.2,8.3,10.5,35.8,14.4,Japan,2017.0,2017,Showa University,Japan,845,57,383+,616+,240+,-,975,803,709,775,766,42.63
+801+,Sofia University,8.3—18.5,18.8,10.8,9.5,33.7,38.0,Bulgaria,2017.0,2017,Sofia University,Bulgaria,856,1,282,616+,240+,-,925,793,576,810,913+,42.62
+801+,University of Southern Mississippi,8.3—18.5,20.1,8.5,23.0,38.3,22.6,United States,2017.0,2017,University of Southern Mississippi,USA,880,214,383+,616+,240+,-,956,830,853+,828,726,42.59
+801+,Southwest Jiaotong University,8.3—18.5,18.1,12.1,5.8,76.5,18.5,China,2017.0,2017,Southwest Jiaotong University,China,985,92,383+,359,240+,-,869,989,853+,992,807,42.5
+801+,Tokai University,8.3—18.5,19.5,8.6,20.7,36.4,20.2,Japan,2017.0,2017,Tokai University,Japan,655,35,383+,616+,240+,-,793,698,709,586,429,42.86
+801+,Tottori University,8.3—18.5,25.0,8.4,11.4,36.7,17.9,Japan,2017.0,2017,Tottori University,Japan,847,58,383+,382,240+,-,947,779,576,864,404,42.63
+801+,University of Toyama,8.3—18.5,21.4,12.0,17.7,41.9,24.5,Japan,2017.0,2017,University of Toyama,Japan,691,37,383+,308,240+,-,733,849,709,682,842,42.8
+801+,Wuhan University of Technology,8.3—18.5,18.3,11.1,15.8,59.2,16.5,China,2017.0,2017,Wuhan University of Technology,China,559,36,383+,520,240+,-,631,945,576,469,741,43.04
+801+,Xiangtan University,8.3—18.5,13.3,8.9,31.5,36.4,14.6,China,2017.0,2017,Xiangtan University,China,934,82,383+,441,240+,-,817,948,853+,920,807,42.54
+801+,Xidian University,8.3—18.5,17.5,13.4,12.4,78.2,14.5,China,2017.0,2017,Xidian University,China,920,78,383+,589,240+,-,629,980,853+,903,627,42.55
+801+,Yamaguchi University,8.3—18.5,21.5,11.5,11.9,41.0,20.3,Japan,2017.0,2017,Yamaguchi University,Japan,764,45,383+,616+,240+,-,814,883,709,887,192,42.71
+801+,Yokohama National University,8.3—18.5,20.9,17.2,11.9,45.4,23.1,Japan,2017.0,2017,Yokohama National University,Japan,621,32,93,249,195,-,968,889,853+,920,340,42.91
+801+,University of Zagreb,8.3—18.5,20.4,11.6,17.1,44.6,25.4,Croatia,2017.0,2017,University of Zagreb,Croatia,588,1,383+,616+,240+,-,572,495,357,514,766,42.98

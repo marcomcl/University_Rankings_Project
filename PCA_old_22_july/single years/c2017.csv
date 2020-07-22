@@ -1,0 +1,1001 @@
+cwur_year,cwur_institution,cwur_location,cwur_world_rank,cwur_national_rank,cwur_quality_of_education,cwur_alumni_employment,cwur_quality_of_faculty,cwur_research_performance,cwur_publications,cwur_influence,cwur_citations,cwur_broad_impact,cwur_patents,cwur_score
+2017,Harvard University,USA,1,1,1,1,1,-,1,1,1,1,2,100.00
+2017,Stanford University,USA,2,2,8,2,2,-,5,3,2,3,7,96.86
+2017,Massachusetts Institute of Technology,USA,3,3,2,12,3,-,14,2,3,2,1,95.72
+2017,University of Cambridge,United Kingdom,4,1,3,10,6,-,10,7,17,13,52,93.14
+2017,University of Oxford,United Kingdom,5,2,7,14,9,-,6,6,4,9,19,92.20
+2017,Columbia University,USA,6,4,13,6,10,-,13,12,13,14,4,90.80
+2017,University of California - Berkeley,USA,7,5,6,24,5,-,12,4,7,7,22,88.26
+2017,University of Chicago,USA,8,6,11,13,8,-,23,17,11,16,85,87.13
+2017,Princeton University,USA,9,7,4,15,4,-,99,26,23,39,122,86.04
+2017,Yale University,USA,10,8,9,27,11,-,17,10,32,18,48,81.20
+2017,California Institute of Technology,USA,11,9,5,339,7,-,82,13,23,28,13,80.46
+2017,Cornell University,USA,12,10,10,17,16,-,22,15,37,22,12,79.73
+2017,University of Tokyo,Japan,13,1,14,3,29,-,16,22,29,33,8,76.80
+2017,University of Pennsylvania,USA,14,11,24,4,27,-,11,18,12,11,11,73.90
+2017,University of California - Los Angeles,USA,15,12,37,28,12,-,8,14,9,8,6,71.83
+2017,Johns Hopkins University,USA,16,13,17,91,18,-,4,11,4,4,3,67.15
+2017,Northwestern University,USA,17,14,150,11,43,-,27,37,29,25,46,65.02
+2017,University of California - San Diego,USA,18,15,23,616+,17,-,15,5,18,17,15,64.87
+2017,New York University,USA,19,16,35,21,20,-,48,29,32,32,51,64.36
+2017,University of California - San Francisco,USA,20,17,383+,616+,14,-,21,8,16,9,60,64.36
+2017,Kyoto University,Japan,21,2,18,18,23,-,43,49,103,93,14,64.06
+2017,University of Michigan,USA,22,18,27,20,141,-,3,20,10,12,10,63.90
+2017,Seoul National University,South Korea,23,1,383+,9,240+,-,40,159,153,113,9,62.23
+2017,Swiss Federal Institute of Technology in Zurich,Switzerland,24,1,19,52,19,-,44,25,50,81,50,61.18
+2017,University of Washington,USA,25,19,46,115,24,-,9,9,6,5,25,60.66
+2017,University of Wisconsin - Madison,USA,26,20,32,30,36,-,24,28,20,30,18,60.46
+2017,Hebrew University of Jerusalem,Israel,27,1,16,217,15,-,133,119,278,168,37,59.12
+2017,University of Toronto,Canada,28,1,44,71,22,-,2,16,8,6,205,59.09
+2017,Duke University,USA,29,21,85,32,49,-,19,23,13,15,26,58.84
+2017,University of Texas at Austin,USA,30,22,71,29,28,-,60,57,27,66,31,58.30
+2017,University College London,United Kingdom,31,3,20,439,35,-,7,19,26,22,77,58.14
+2017,Keio University,Japan,32,3,308,5,240+,-,315,256,415,286,72,57.63
+2017,Rockefeller University,USA,33,23,36,616+,13,-,412,33,302,105,255,57.53
+2017,Imperial College London,United Kingdom,34,4,60,68,39,-,18,24,18,21,33,57.23
+2017,École Polytechnique,France,35,1,107,7,187,-,394,334,234,313,209,56.63
+2017,University of Illinois at Urbana - Champaign,USA,36,24,26,77,26,-,49,59,45,75,56,56.10
+2017,Waseda University,Japan,37,4,311,8,240+,-,466,439,576,375,221,55.67
+2017,University of North Carolina at Chapel Hill,USA,38,25,144,70,62,-,28,31,15,20,40,55.19
+2017,Weizmann Institute of Science,Israel,39,2,21,616+,21,-,282,71,234,162,35,54.75
+2017,University of Virginia,USA,40,26,147,19,133,-,108,90,97,108,65,54.28
+2017,McGill University,Canada,41,2,33,38,56,-,37,52,40,41,99,54.17
+2017,École normale supérieure - Paris,France,42,2,12,514,75,-,413,172,576,317,913+,54.01
+2017,University of Pittsburgh,USA,43,27,87,147,240+,-,25,55,21,24,42,53.55
+2017,University of Edinburgh,United Kingdom,44,5,31,158,32,-,55,30,45,38,161,53.52
+2017,University of Southern California,USA,45,28,143,58,37,-,62,63,73,56,29,53.49
+2017,University of Minnesota,USA,46,29,67,141,69,-,20,34,34,28,57,53.41
+2017,Dartmouth College,USA,47,30,54,16,240+,-,248,179,213,182,78,53.35
+2017,Ohio State University,USA,48,31,83,97,60,-,30,51,35,35,47,53.33
+2017,Rutgers University,USA,49,32,106,41,31,-,74,62,66,61,66,53.31
+2017,Osaka University,Japan,50,5,51,35,78,-,77,68,167,103,16,53.22
+2017,University of California - Davis,USA,51,33,41,280,66,-,33,38,38,51,53,52.73
+2017,National Taiwan University,Taiwan,52,1,74,22,240+,-,54,202,167,182,726,52.64
+2017,Washington University in St. Louis,USA,53,34,118,96,81,-,41,21,29,19,112,52.60
+2017,Peking University,China,54,1,174,34,240+,-,46,99,144,104,30,52.34
+2017,University of British Columbia,Canada,55,3,75,329,97,-,26,36,28,31,75,52.24
+2017,Pierre - and - Marie - Curie University,France,56,3,25,464,98,-,31,32,62,46,138,52.08
+2017,Boston University,USA,57,35,328,56,92,-,72,45,22,37,91,52.07
+2017,Pennsylvania State University,USA,58,36,172,61,72,-,39,42,43,51,68,52.07
+2017,University of Florida,USA,59,37,234,219,99,-,42,88,55,55,5,52.05
+2017,University of Copenhagen,Denmark,60,1,146,166,73,-,29,27,35,27,255,51.58
+2017,National University of Singapore,Singapore,61,1,383+,79,240+,-,34,107,81,84,26,51.56
+2017,University of Manchester,United Kingdom,62,6,111,92,80,-,45,67,23,43,134,51.55
+2017,Vanderbilt University,USA,63,38,94,76,116,-,59,54,38,46,69,51.23
+2017,Purdue University,USA,64,39,78,44,52,-,86,100,126,130,34,51.06
+2017,Tsinghua University,China,65,2,334,53,240+,-,52,130,89,113,28,51.04
+2017,University of California - Santa Barbara,USA,66,40,112,335,38,-,145,73,45,68,57,50.89
+2017,Carnegie Mellon University,USA,67,41,29,106,25,-,225,233,138,154,122,50.89
+2017,University of Utah,USA,68,42,95,100,74,-,101,65,89,88,20,50.87
+2017,University of Colorado Boulder,USA,69,43,65,86,42,-,107,40,50,83,143,50.71
+2017,University of Paris - Sud,France,70,4,30,402,33,-,91,93,105,93,418,50.67
+2017,Ludwig Maximilian University of Munich,Germany,71,1,45,123,77,-,61,50,45,40,186,50.48
+2017,Karolinska Institute,Sweden,72,1,116,616+,41,-,47,46,62,33,613,50.42
+2017,University of Rochester,USA,73,44,70,49,117,-,137,133,60,84,49,50.41
+2017,University of Sydney,Australia,74,1,123,274,167,-,35,77,40,57,83,50.30
+2017,University of Arizona,USA,75,45,102,63,68,-,88,41,55,61,137,50.30
+2017,University of Texas Southwestern Medical Center,USA,76,46,73,616+,34,-,142,35,105,41,145,50.23
+2017,Katholieke Universiteit Leuven,Belgium,77,1,383+,194,240+,-,32,80,54,49,82,50.18
+2017,King's College London,United Kingdom,78,7,28,167,109,-,68,83,62,58,199,50.17
+2017,Emory University,USA,79,47,383+,127,131,-,64,53,70,36,63,50.17
+2017,University of Maryland - College Park,USA,80,48,59,203,54,-,75,44,40,71,201,50.13
+2017,Brown University,USA,81,49,80,39,46,-,120,87,97,105,208,50.12
+2017,University of Melbourne,Australia,82,2,88,133,141,-,38,60,50,50,240,50.11
+2017,Utrecht University,Netherlands,83,1,91,185,118,-,36,43,55,51,286,49.97
+2017,Sapienza University of Rome,Italy,84,1,52,200,30,-,100,181,105,127,306,49.78
+2017,Erasmus University Rotterdam,Netherlands,85,2,383+,42,207,-,81,118,97,46,166,49.68
+2017,Ruprecht Karl University of Heidelberg,Germany,86,2,48,370,64,-,69,58,70,44,214,49.66
+2017,Tel Aviv University,Israel,87,3,72,82,53,-,109,122,183,146,45,49.61
+2017,Tohoku University,Japan,88,6,49,131,195,-,95,152,183,141,21,49.57
+2017,Swiss Federal Institute of Technology in Lausanne,Switzerland,89,2,383+,72,119,-,129,115,55,84,62,49.49
+2017,University of Texas MD Anderson Cancer Center,USA,90,50,383+,616+,87,-,90,72,59,26,67,49.46
+2017,University of Zurich,Switzerland,91,3,135,388,93,-,63,47,43,59,143,49.46
+2017,University of Geneva,Switzerland,92,4,39,220,40,-,132,82,97,84,379,49.42
+2017,University of Notre Dame,USA,93,51,246,25,157,-,271,263,252,236,275,49.30
+2017,University of Queensland,Australia,94,3,295,269,146,-,51,69,73,82,70,49.30
+2017,Georgia Institute of Technology,USA,95,52,130,75,128,-,113,173,105,108,43,49.29
+2017,University of California - Irvine,USA,96,53,252,616+,48,-,94,61,66,71,89,49.19
+2017,Lomonosov Moscow State University,Russia,97,1,15,206,59,-,309,259,302,363,766,49.19
+2017,Tufts University,USA,98,54,76,43,185,-,185,171,81,113,71,48.94
+2017,University of Oslo,Norway,99,1,61,322,47,-,98,114,89,93,201,48.64
+2017,Ghent University,Belgium,100,2,149,325,152,-,71,95,60,80,114,48.60
+2017,Texas A&M University,USA,101,55,359,89,51,-,92,132,81,154,89,48.58
+2017,University of Groningen,Netherlands,102,3,190,237,111,-,56,86,66,69,382,48.56
+2017,University of Barcelona,Spain,103,1,383+,236,240+,-,50,92,89,51,250,48.56
+2017,Yonsei University,South Korea,104,2,383+,50,240+,-,127,341,415,221,24,48.53
+2017,University of New South Wales,Australia,105,4,200,60,215,-,84,157,73,129,136,48.45
+2017,University of Alberta,Canada,106,4,187,163,156,-,67,117,73,98,100,48.44
+2017,Nanyang Technological University,Singapore,107,2,383+,591,240+,-,93,310,105,118,41,48.41
+2017,Radboud University Nijmegen,Netherlands,108,4,132,291,240+,-,83,102,45,61,298,48.40
+2017,University of Amsterdam,Netherlands,109,5,126,409,234,-,57,79,81,60,262,48.36
+2017,Arizona State University,USA,110,56,383+,266,95,-,139,109,105,173,23,48.34
+2017,Technical University of Munich,Germany,111,3,47,146,181,-,102,89,126,90,132,48.30
+2017,Free University of Berlin,Germany,112,4,84,551,107,-,73,75,73,75,355,48.27
+2017,VU University Amsterdam,Netherlands,113,6,383+,450,240+,-,70,120,50,71,482,48.26
+2017,University of Helsinki,Finland,114,1,58,507,113,-,79,78,103,61,482,48.22
+2017,Leiden University,Netherlands,115,7,155,583,104,-,80,84,81,66,151,48.22
+2017,Baylor College of Medicine,USA,116,57,383+,616+,119,-,114,39,73,44,157,48.17
+2017,Mines ParisTech,France,117,5,306,23,171,-,962,863,853+,887,887,48.11
+2017,Case Western Reserve University,USA,118,58,50,227,217,-,146,111,81,90,91,48.09
+2017,University of Bristol,United Kingdom,119,8,221,182,67,-,96,66,89,93,349,48.08
+2017,Rice University,USA,120,59,57,95,70,-,286,162,62,151,72,48.03
+2017,Aarhus University,Denmark,121,2,335,184,103,-,78,81,97,102,151,48.00
+2017,Paris Diderot University - Paris 7,France,122,6,98,616+,88,-,105,48,81,75,541,47.95
+2017,Korea University,South Korea,123,3,383+,45,240+,-,170,396,252,236,36,47.94
+2017,Humboldt University of Berlin,Germany,124,5,319,616+,182,-,76,76,73,71,499,47.87
+2017,Uppsala University,Sweden,125,2,53,278,79,-,104,70,126,100,842,47.84
+2017,Kyushu University,Japan,126,7,298,55,240+,-,169,220,319,236,38,47.75
+2017,University of Colorado Denver | Anschutz Medical Campus,USA,127,60,383+,616+,141,-,123,104,81,75,84,47.73
+2017,Lund University,Sweden,128,3,162,427,171,-,87,129,70,75,887,47.71
+2017,University of Montreal,Canada,129,5,347,197,240+,-,85,94,119,90,186,47.62
+2017,Michigan State University,USA,130,61,113,137,240+,-,103,141,89,130,85,47.60
+2017,Georgetown University,USA,131,62,157,31,240+,-,319,318,252,221,138,47.59
+2017,Southern Methodist University,USA,132,63,205,26,240+,-,711,580,415,621,766,47.58
+2017,Nagoya University,Japan,133,8,42,263,58,-,161,163,213,205,64,47.54
+2017,Tokyo Institute of Technology,Japan,134,9,195,51,82,-,223,205,213,214,61,47.54
+2017,Indiana University - Bloomington,USA,135,64,104,37,179,-,192,150,252,205,223,47.52
+2017,Monash University,Australia,136,5,302,153,240+,-,66,110,153,136,118,47.47
+2017,McMaster University,Canada,137,6,247,328,163,-,126,126,66,69,217,47.46
+2017,Icahn School of Medicine at Mount Sinai,USA,138,65,383+,616+,240+,-,152,64,89,61,122,47.45
+2017,University of Iowa,USA,139,66,137,240,169,-,112,101,153,111,79,47.34
+2017,KAIST,South Korea,140,4,383+,140,240+,-,197,309,709,260,17,47.34
+2017,University of Glasgow,United Kingdom,141,9,140,121,240+,-,124,112,89,99,387,47.28
+2017,Shanghai Jiao Tong University,China,142,3,356,108,240+,-,58,239,194,168,158,47.14
+2017,Royal Institute of Technology,Sweden,143,4,219,33,108,-,231,315,194,273,842,47.13
+2017,Technical University of Denmark,Denmark,144,3,368,475,224,-,200,207,119,190,32,47.09
+2017,University of São Paulo,Brazil,145,1,325,94,145,-,65,176,167,168,673,47.09
+2017,University of Nottingham,United Kingdom,146,10,156,144,89,-,116,182,119,130,148,47.04
+2017,University of Basel,Switzerland,147,5,92,255,50,-,160,91,126,141,445,47.04
+2017,Technion  -  Israel Institute of Technology,Israel,148,4,55,195,61,-,215,201,194,236,59,47.03
+2017,University of Alabama at Birmingham,USA,149,67,383+,534,240+,-,148,131,144,88,95,47.03
+2017,Aix - Marseille University,France,150,7,243,426,240+,-,89,74,126,118,219,46.97
+2017,University of Tübingen,Germany,151,6,63,504,106,-,144,124,167,108,142,46.93
+2017,Western University (University of Western Ontario),Canada,152,7,242,40,240+,-,159,200,167,211,250,46.91
+2017,University of California - Santa Cruz,USA,153,68,197,616+,71,-,267,56,105,93,299,46.91
+2017,Wake Forest University,USA,154,69,291,67,240+,-,259,236,144,141,103,46.85
+2017,University of Miami,USA,155,70,383+,204,240+,-,167,134,126,111,87,46.83
+2017,University of Leeds,United Kingdom,156,11,56,190,240+,-,130,138,126,133,245,46.82
+2017,University of Bonn,Germany,157,7,62,251,91,-,156,116,116,127,349,46.82
+2017,University of Hong Kong,Hong Kong,158,1,233,87,240+,-,128,185,105,162,210,46.77
+2017,Oregon Health & Science University,USA,159,71,383+,616+,135,-,193,113,97,100,128,46.75
+2017,Albert Ludwig University of Freiburg,Germany,160,8,171,119,223,-,155,127,144,125,127,46.75
+2017,University of Southampton,United Kingdom,161,12,350,125,192,-,111,123,119,141,199,46.74
+2017,Grenoble Alpes University,France,162,8,163,605,128,-,110,97,153,113,176,46.70
+2017,Australian National University,Australia,163,6,134,350,45,-,138,98,144,185,382,46.68
+2017,University of Padua,Italy,164,2,305,610,240+,-,106,140,105,107,404,46.67
+2017,Stony Brook University,USA,165,72,206,616+,55,-,196,105,167,154,96,46.59
+2017,Zhejiang University,China,166,4,383+,277,240+,-,53,244,415,197,148,46.58
+2017,University of Birmingham,United Kingdom,167,13,81,165,228,-,119,160,194,141,186,46.53
+2017,University of Hamburg,Germany,168,9,339,169,138,-,147,128,144,122,333,46.42
+2017,University of Milan,Italy,169,3,182,357,185,-,122,186,126,113,355,46.39
+2017,University of Sheffield,United Kingdom,170,14,168,231,218,-,143,151,105,146,168,46.37
+2017,University of Göttingen,Germany,171,10,40,161,180,-,165,142,278,176,320,46.36
+2017,Fudan University,China,172,5,383+,143,240+,-,97,210,234,168,175,46.35
+2017,University of Maryland - Baltimore,USA,173,73,383+,616+,240+,-,175,148,167,121,91,46.32
+2017,Yeshiva University,USA,174,74,227,616+,208,-,201,96,138,120,110,46.31
+2017,Trinity College - Dublin,Ireland,175,1,309,62,220,-,290,214,138,185,170,46.28
+2017,University of Cincinnati,USA,176,75,133,110,240+,-,174,183,144,146,232,46.25
+2017,University of Calgary,Canada,177,8,383+,105,240+,-,141,166,213,139,842,46.24
+2017,Stockholm University,Sweden,178,5,152,98,206,-,198,103,73,190,887,46.22
+2017,University of South Florida,USA,179,76,383+,368,240+,-,232,249,194,199,54,46.17
+2017,University of Strasbourg,France,180,9,69,616+,44,-,194,156,234,226,262,46.15
+2017,University of the Witwatersrand,South Africa,181,1,79,36,174,-,389,199,302,385,292,46.13
+2017,University of Massachusetts Medical School,USA,182,77,383+,616+,86,-,304,85,167,133,112,46.12
+2017,University of Ottawa,Canada,183,9,244,198,240+,-,153,168,194,125,521,46.03
+2017,Cardiff University,United Kingdom,184,15,342,238,147,-,173,146,119,151,201,46.01
+2017,University of Illinois at Chicago,USA,185,78,383+,544,240+,-,140,194,126,185,91,45.99
+2017,Goethe University Frankfurt,Germany,186,11,97,276,94,-,199,153,213,136,373,45.99
+2017,University of Lausanne,Switzerland,187,6,96,412,240+,-,213,125,138,122,541,45.96
+2017,Indiana University - Purdue University Indianapolis,USA,188,79,383+,457,240+,-,187,180,252,133,101,45.93
+2017,Hokkaido University,Japan,189,10,228,210,138,-,166,191,319,283,55,45.92
+2017,Université libre de Bruxelles,Belgium,190,3,192,128,76,-,254,221,153,176,194,45.91
+2017,Louisiana State University,USA,191,80,303,152,240+,-,183,184,126,176,145,45.89
+2017,Paris Descartes University,France,192,10,383+,471,240+,-,134,106,234,136,521,45.87
+2017,University of Bologna,Italy,193,4,367,343,240+,-,131,260,126,159,292,45.84
+2017,University of Münster,Germany,194,12,105,386,177,-,172,188,167,151,219,45.80
+2017,Queen Mary University of London,United Kingdom,195,16,119,420,240+,-,224,164,183,122,280,45.79
+2017,TU Dresden,Germany,196,13,383+,616+,240+,-,184,177,126,166,118,45.77
+2017,University of Montpellier,France,197,11,314,513,171,-,135,135,116,175,592,45.75
+2017,University of Kansas,USA,198,81,169,124,240+,-,214,178,116,210,154,45.74
+2017,University of Erlangen - Nuremberg,Germany,199,14,258,600,240+,-,164,192,144,139,299,45.73
+2017,University of Cologne,Germany,200,15,383+,134,221,-,204,137,153,165,492,45.73
+2017,Wayne State University,USA,201,82,383+,142,240+,-,219,264,138,193,130,45.72
+2017,Sungkyunkwan University,South Korea,202,5,383+,135,240+,-,178,299,153,211,111,45.71
+2017,University of Bern,Switzerland,203,7,208,575,235,-,149,108,119,173,433,45.70
+2017,Newcastle University,United Kingdom,204,17,383+,262,204,-,182,147,194,146,340,45.69
+2017,North Carolina State University,USA,205,83,66,230,119,-,168,227,234,236,101,45.67
+2017,University of Western Australia,Australia,206,7,138,338,197,-,121,154,194,176,438,45.66
+2017,University of Liverpool,United Kingdom,207,18,207,239,230,-,157,143,153,176,401,45.60
+2017,Hanyang University,South Korea,208,6,383+,130,240+,-,280,446,482,385,43,45.56
+2017,University of Georgia,USA,209,84,99,157,174,-,181,155,278,243,98,45.55
+2017,University of Massachusetts Amherst,USA,210,85,151,126,161,-,222,208,183,194,266,45.52
+2017,Iowa State University,USA,211,86,315,148,112,-,188,195,167,194,325,45.50
+2017,Pohang University of Science and Technology,South Korea,212,7,383+,616+,240+,-,318,357,319,327,39,45.48
+2017,RWTH Aachen University,Germany,213,16,374,168,193,-,195,374,138,205,162,45.48
+2017,University of New Mexico,USA,214,87,383+,616+,240+,-,241,174,153,182,108,45.46
+2017,Maastricht University,Netherlands,215,8,383+,616+,240+,-,163,284,153,166,355,45.42
+2017,University of Missouri - Columbia,USA,216,88,276,93,101,-,229,250,194,260,148,45.41
+2017,Nanjing University,China,217,6,270,326,240+,-,115,340,153,221,221,45.41
+2017,University of California - Riverside,USA,218,89,271,616+,240+,-,235,139,183,162,205,45.39
+2017,University of Science and Technology of China,China,219,7,383+,201,240+,-,125,265,302,199,576,45.39
+2017,University of Turin,Italy,220,5,336,458,163,-,206,257,213,150,477,45.38
+2017,Claude Bernard University Lyon 1,France,221,12,383+,553,240+,-,151,144,234,194,178,45.37
+2017,University of Texas Health Science Center at Houston,USA,222,90,383+,616+,157,-,233,149,213,154,275,45.36
+2017,University of Kiel,Germany,223,17,217,451,219,-,242,170,167,159,404,45.29
+2017,Paul Sabatier University - Toulouse III,France,224,13,383+,616+,240+,-,158,121,213,185,508,45.28
+2017,Sun Yat - sen University,China,225,8,383+,259,240+,-,118,324,194,232,233,45.26
+2017,University of Leicester,United Kingdom,226,19,383+,616+,240+,-,260,136,183,159,347,45.25
+2017,University of Gothenburg,Sweden,227,6,279,228,119,-,186,175,167,199,913+,45.24
+2017,London School of Hygiene & Tropical Medicine,United Kingdom,228,20,383+,616+,201,-,251,145,183,154,663,45.24
+2017,Autonomous University of Barcelona,Spain,229,2,383+,616+,240+,-,136,212,278,197,280,45.24
+2017,Complutense University of Madrid,Spain,230,3,89,57,237,-,211,326,357,356,265,45.23
+2017,Chinese University of Hong Kong,Hong Kong,231,2,127,505,119,-,154,301,213,219,178,45.20
+2017,Brandeis University,USA,232,91,38,301,57,-,606,217,357,348,255,45.18
+2017,Karlsruhe Institute of Technology,Germany,233,18,373,191,193,-,218,327,213,234,114,45.15
+2017,University of Auckland,New Zealand,234,1,260,272,240+,-,237,238,119,243,120,45.12
+2017,George Washington University,USA,235,92,214,74,240+,-,298,230,319,260,410,45.12
+2017,Julius - Maximilian's University of Würzburg,Germany,236,19,124,398,170,-,216,187,278,190,382,45.11
+2017,University of Houston,USA,237,93,383+,59,240+,-,311,275,357,352,128,45.10
+2017,Laval University,Canada,238,10,317,254,240+,-,208,245,213,214,156,45.09
+2017,National Cheng Kung University,Taiwan,239,2,383+,48,240+,-,176,485,482,425,521,45.09
+2017,University of Connecticut,USA,240,94,326,218,240+,-,180,198,213,232,170,45.06
+2017,University of Texas Health Science Center at San Antonio,USA,241,95,383+,616+,240+,-,332,234,167,168,252,45.05
+2017,Moscow Institute of Physics and Technology,Russia,242,2,22,381,240+,-,918,668,709,998,862,45.04
+2017,University of Manitoba,Canada,243,11,153,101,157,-,256,276,302,283,138,45.03
+2017,Wageningen University and Research Centre,Netherlands,244,9,320,528,178,-,179,169,234,199,425,45.01
+2017,Johannes Gutenberg University of Mainz,Germany,245,20,313,616+,216,-,217,193,213,185,427,45.00
+2017,Durham University,United Kingdom,246,21,82,223,85,-,249,229,252,253,382,45.00
+2017,Medical University of Vienna,Austria,247,1,383+,616+,240+,-,240,216,234,176,349,45.00
+2017,Université catholique de Louvain,Belgium,248,4,269,268,100,-,293,307,144,221,247,44.96
+2017,Florida State University,USA,249,96,251,324,240+,-,227,222,105,229,349,44.95
+2017,University of Vienna,Austria,250,2,215,205,114,-,243,158,194,229,521,44.89
+2017,Drexel University,USA,251,97,383+,177,240+,-,367,368,213,293,79,44.87
+2017,University College Dublin,Ireland,252,2,267,145,240+,-,284,295,153,243,266,44.86
+2017,University of Tennessee - Knoxville,USA,253,98,343,138,240+,-,226,228,252,243,418,44.84
+2017,University of Florence,Italy,254,6,237,347,96,-,219,285,213,229,541,44.82
+2017,Charles University in Prague,Czech Republic,255,1,263,607,191,-,234,225,183,205,627,44.81
+2017,Delft University of Technology,Netherlands,256,10,329,252,240+,-,228,266,357,266,103,44.80
+2017,Oregon State University,USA,257,99,165,256,240+,-,257,167,153,236,282,44.79
+2017,Northeastern University,USA,258,100,337,112,240+,-,362,281,252,337,81,44.78
+2017,University of Cape Town,South Africa,259,2,125,164,150,-,302,197,252,252,314,44.77
+2017,University of Düsseldorf,Germany,260,21,212,616+,240+,-,305,218,183,199,470,44.75
+2017,University of Warwick,United Kingdom,261,22,158,202,131,-,190,203,183,290,247,44.73
+2017,Virginia Commonwealth University,USA,262,101,383+,460,153,-,263,247,357,214,183,44.73
+2017,University of Waterloo,Canada,263,12,383+,113,240+,-,189,332,357,278,726,44.71
+2017,University of Naples Federico II,Italy,264,7,351,446,240+,-,177,331,234,226,842,44.70
+2017,University of Duisburg - Essen,Germany,265,22,383+,476,240+,-,292,226,234,204,349,44.70
+2017,University of Lisbon,Portugal,266,1,357,447,227,-,162,282,194,243,638,44.69
+2017,Norwegian University of Science and Technology,Norway,267,2,287,174,83,-,276,325,234,278,289,44.69
+2017,Virginia Polytechnic Institute and State University,USA,268,102,307,150,240+,-,207,278,415,290,158,44.68
+2017,University of Oklahoma,USA,269,103,383+,171,240+,-,250,262,234,256,262,44.65
+2017,University of Aberdeen,United Kingdom,270,23,377,340,176,-,277,213,234,219,355,44.65
+2017,University of Ulm,Germany,271,23,383+,435,136,-,289,206,482,205,564,44.64
+2017,University of Dundee,United Kingdom,272,24,191,616+,240+,-,360,189,213,213,240,44.63
+2017,University of Bergen,Norway,273,3,383+,616+,240+,-,239,190,213,221,508,44.61
+2017,Thomas Jefferson University,USA,274,104,180,616+,240+,-,351,320,167,214,314,44.60
+2017,University of Sussex,United Kingdom,275,25,117,232,63,-,363,267,183,323,492,44.58
+2017,University of Kentucky,USA,276,105,352,290,240+,-,203,252,278,253,299,44.57
+2017,University at Buffalo,USA,277,106,257,403,240+,-,210,283,252,258,183,44.56
+2017,Colorado State University,USA,278,107,167,557,198,-,247,231,213,243,255,44.56
+2017,University of Reading,United Kingdom,279,26,280,64,240+,-,373,380,319,368,649,44.55
+2017,University of Adelaide,Australia,280,8,245,428,240+,-,205,211,194,266,306,44.48
+2017,Hannover Medical School,Germany,281,24,383+,616+,240+,-,321,219,357,214,373,44.47
+2017,Leipzig University,Germany,282,25,348,616+,231,-,273,241,278,226,418,44.46
+2017,University of Tsukuba,Japan,283,11,225,616+,110,-,270,258,278,258,205,44.45
+2017,Nankai University,China,284,9,355,111,240+,-,262,449,319,296,438,44.45
+2017,Lehigh University,USA,285,108,203,46,240+,-,664,525,357,565,465,44.43
+2017,London School of Economics,United Kingdom,286,27,64,83,84,-,490,642,194,586,913+,44.43
+2017,University of Valencia,Spain,287,4,383+,531,240+,-,238,370,234,243,450,44.41
+2017,Ruhr University Bochum,Germany,288,26,383+,170,240+,-,265,271,357,266,741,44.41
+2017,University of Pisa,Italy,289,8,296,452,240+,-,253,337,234,236,564,44.40
+2017,Okayama University,Japan,290,12,383+,298,240+,-,398,369,415,346,72,44.36
+2017,Queen's University,Canada,291,13,344,188,119,-,269,296,357,286,325,44.36
+2017,National and Kapodistrian University of Athens,Greece,292,1,383+,216,240+,-,252,409,278,266,913+,44.36
+2017,Xiamen University,China,293,10,383+,90,240+,-,281,465,709,348,445,44.35
+2017,University of Rome Tor Vergata,Italy,294,9,383+,606,240+,-,283,291,213,243,576,44.34
+2017,Umeå University,Sweden,295,7,383+,616+,189,-,268,196,213,253,913+,44.34
+2017,Medical University of South Carolina,USA,296,109,383+,616+,240+,-,327,333,194,243,397,44.32
+2017,University of Delaware,USA,297,110,341,355,138,-,294,322,357,286,160,44.30
+2017,University of Exeter,United Kingdom,298,28,289,378,240+,-,272,165,357,256,441,44.30
+2017,Vrije Universiteit Brussel,Belgium,299,5,120,616+,240+,-,310,261,252,260,329,44.30
+2017,Huazhong University of Science and Technology,China,300,11,383+,149,240+,-,150,571,482,385,233,44.28
+2017,Rensselaer Polytechnic Institute,USA,301,111,109,156,240+,-,472,385,194,324,194,44.27
+2017,Dalhousie University,Canada,302,14,139,176,240+,-,295,223,278,302,429,44.27
+2017,University of Louisville,USA,303,112,265,449,240+,-,382,418,278,302,105,44.26
+2017,Autonomous University of Madrid,Spain,304,5,383+,468,240+,-,244,269,252,266,425,44.26
+2017,University of Antwerp,Belgium,305,6,383+,493,240+,-,266,302,194,266,465,44.25
+2017,Tulane University,USA,306,113,346,172,240+,-,384,294,415,278,320,44.24
+2017,University of Chinese Academy of Sciences,China,307,12,383+,479,240+,-,117,330,357,352,807,44.21
+2017,Chulalongkorn University,Thailand,308,1,383+,54,240+,-,579,603,482,586,887,44.20
+2017,University of South Carolina,USA,309,114,383+,315,200,-,274,379,167,296,340,44.20
+2017,Hong Kong University of Science and Technology,Hong Kong,310,3,383+,318,240+,-,261,474,357,296,177,44.19
+2017,Queen's University Belfast,United Kingdom,311,29,204,385,240+,-,302,274,278,286,214,44.19
+2017,University of St Andrews,United Kingdom,312,30,177,474,240+,-,314,204,357,273,252,44.18
+2017,University of Porto,Portugal,313,2,103,330,155,-,246,353,252,321,400,44.18
+2017,Vita - Salute San Raffaele University,Italy,314,10,383+,616+,240+,-,426,251,482,234,913+,44.16
+2017,University of Liège,Belgium,315,7,189,616+,148,-,328,240,252,283,306,44.16
+2017,University of Nebraska - Lincoln,USA,316,115,194,208,240+,-,291,280,278,306,410,44.15
+2017,University of Genoa,Italy,317,11,383+,616+,240+,-,316,336,252,260,556,44.14
+2017,University of York,United Kingdom,318,31,383+,616+,240+,-,279,209,167,296,320,44.14
+2017,CentraleSupélec,France,319,14,383+,47,240+,-,729,840,853+,764,794,44.14
+2017,Kyungpook National University,South Korea,320,8,383+,376,240+,-,378,652,319,385,76,44.13
+2017,Hiroshima University,Japan,321,13,383+,616+,240+,-,356,298,576,306,122,44.12
+2017,University of Jena,Germany,322,27,383+,616+,236,-,258,272,357,273,456,44.11
+2017,City College of New York,USA,323,116,34,243,240+,-,752,478,576,621,379,44.10
+2017,Tianjin University,China,324,13,383+,84,240+,-,285,816,482,495,282,44.10
+2017,University of East Anglia,United Kingdom,325,32,222,616+,183,-,341,224,153,293,592,44.08
+2017,University of Navarra,Spain,326,6,383+,66,240+,-,555,650,709,495,663,44.08
+2017,Dalian University of Technology,China,327,14,383+,122,240+,-,287,673,482,356,240,44.07
+2017,Medical College of Wisconsin,USA,328,117,383+,616+,240+,-,361,254,278,266,673,44.05
+2017,University of Regensburg,Germany,329,28,383+,353,240+,-,331,248,319,278,482,44.05
+2017,Stellenbosch University,South Africa,330,3,383+,81,240+,-,509,429,357,469,240,44.05
+2017,University of Trieste,Italy,331,12,383+,494,240+,-,452,297,252,260,649,44.04
+2017,Rush University,USA,332,118,383+,616+,240+,-,435,401,194,273,410,44.04
+2017,University of Vermont,USA,333,119,220,296,240+,-,369,288,278,302,286,44.01
+2017,Harbin Institute of Technology,China,334,15,383+,247,240+,-,191,738,415,348,306,44.01
+2017,University of Bordeaux,France,335,15,371,616+,240+,-,358,303,357,273,387,44.00
+2017,Shandong University,China,336,16,383+,380,240+,-,171,592,357,340,541,43.98
+2017,Hong Kong Polytechnic University,Hong Kong,337,4,383+,162,240+,-,245,828,482,363,255,43.97
+2017,Kobe University,Japan,338,14,100,264,119,-,400,308,278,346,286,43.96
+2017,University of Pavia,Italy,339,13,321,351,237,-,349,410,278,290,686,43.95
+2017,Federal University of Rio de Janeiro,Brazil,340,2,148,154,240+,-,313,342,415,356,333,43.95
+2017,National Autonomous University of Mexico,Mexico,341,1,259,566,240+,-,221,242,415,324,366,43.92
+2017,Jilin University,China,342,17,230,275,240+,-,202,460,709,340,627,43.92
+2017,University of Otago,New Zealand,343,2,383+,418,240+,-,301,289,357,302,499,43.91
+2017,University of Perugia,Italy,344,14,383+,616+,240+,-,410,300,576,278,713,43.89
+2017,Pontifical Catholic University of Chile,Chile,345,1,170,117,188,-,430,314,357,383,410,43.88
+2017,Colorado School of Mines,USA,346,120,383+,69,240+,-,703,588,482,601,663,43.88
+2017,York University,Canada,347,15,383+,104,240+,-,390,412,234,405,913+,43.88
+2017,Xi'an Jiaotong University,China,348,18,383+,114,240+,-,212,469,576,495,275,43.88
+2017,Versailles Saint - Quentin - en - Yvelines University,France,349,16,383+,616+,240+,-,424,235,252,293,887,43.87
+2017,Simon Fraser University,Canada,350,16,383+,616+,240+,-,296,268,319,311,422,43.87
+2017,Wuhan University,China,351,19,383+,186,240+,-,230,511,853+,363,604,43.86
+2017,University of Stuttgart,Germany,352,29,90,180,189,-,433,373,319,375,314,43.86
+2017,Justus Liebig University Giessen,Germany,353,30,383+,616+,240+,-,355,363,278,306,373,43.85
+2017,Boston College,USA,354,121,383+,102,240+,-,584,362,302,399,391,43.85
+2017,University of Victoria,Canada,355,17,383+,616+,240+,-,343,367,252,306,754,43.83
+2017,South China University of Technology,China,356,20,383+,189,240+,-,275,627,357,405,173,43.83
+2017,Washington State University,USA,357,122,383+,342,136,-,308,279,357,352,214,43.82
+2017,University of Oulu,Finland,358,2,300,371,240+,-,394,311,278,311,592,43.81
+2017,University of Turku,Finland,359,3,383+,582,240+,-,320,286,319,313,613,43.80
+2017,Chinese Academy of Medical Sciences & Peking Union Medical College,China,360,21,383+,616+,240+,-,322,243,319,331,226,43.79
+2017,University of Eastern Finland,Finland,361,4,383+,616+,240+,-,366,347,302,306,862,43.79
+2017,Kansas State University,USA,362,123,154,242,240+,-,399,350,252,352,314,43.79
+2017,University of Southern Denmark,Denmark,363,4,383+,616+,240+,-,334,338,302,317,401,43.79
+2017,St George's - University of London,United Kingdom,364,33,383+,616+,240+,-,593,402,252,296,627,43.78
+2017,University of Marburg,Germany,365,31,330,616+,239,-,346,246,482,317,320,43.78
+2017,City University of Hong Kong,Hong Kong,366,5,383+,580,240+,-,236,818,415,337,410,43.77
+2017,Technical University of Berlin,Germany,367,32,86,248,240+,-,376,479,415,394,239,43.77
+2017,Pompeu Fabra University,Spain,368,7,383+,616+,240+,-,387,161,576,313,649,43.76
+2017,University of Iceland,Iceland,369,1,383+,616+,240+,-,590,277,319,296,807,43.75
+2017,Linköping University,Sweden,370,8,383+,287,240+,-,326,389,319,331,913+,43.75
+2017,University of Innsbruck,Austria,371,3,218,393,115,-,445,237,252,331,477,43.74
+2017,Ben - Gurion University of the Negev,Israel,372,5,383+,616+,240+,-,297,411,415,425,109,43.74
+2017,University of Granada,Spain,373,8,383+,616+,240+,-,288,477,194,375,194,43.73
+2017,Saint Louis University,USA,374,124,383+,257,224,-,491,312,482,327,382,43.73
+2017,College of William and Mary,USA,375,125,383+,88,240+,-,691,520,319,522,807,43.72
+2017,Eindhoven University of Technology,Netherlands,376,11,383+,389,203,-,329,536,415,331,329,43.71
+2017,San Diego State University,USA,377,126,274,226,240+,-,492,343,302,340,470,43.71
+2017,University of Oregon,USA,378,127,363,616+,240+,-,423,270,415,313,499,43.71
+2017,Tokyo Medical and Dental University,Japan,379,15,383+,616+,240+,-,467,354,482,331,183,43.70
+2017,Miami University,USA,380,128,383+,73,240+,-,775,653,482,667,862,43.70
+2017,Grenoble Institute of Technology,France,381,17,164,616+,204,-,352,541,278,337,404,43.69
+2017,University of Buenos Aires,Argentina,382,1,142,523,211,-,300,359,415,340,913+,43.69
+2017,University of Ferrara,Italy,383,15,383+,616+,240+,-,465,399,302,317,726,43.67
+2017,Kyung Hee University,South Korea,384,9,268,550,240+,-,353,586,415,437,105,43.66
+2017,Renmin University of China,China,385,22,383+,65,240+,-,878,856,853+,842,825,43.66
+2017,National Tsing Hua University,Taiwan,386,3,179,568,240+,-,255,459,709,348,825,43.66
+2017,University of Alabama - Tuscaloosa,USA,387,129,173,120,240+,-,530,518,319,449,306,43.66
+2017,Catholic University of the Sacred Heart,Italy,388,16,383+,511,240+,-,416,417,357,321,766,43.65
+2017,University of Lorraine,France,389,18,240,183,210,-,324,313,319,415,325,43.65
+2017,University of Milan - Bicocca,Italy,390,17,383+,616+,240+,-,377,386,357,324,445,43.65
+2017,Central South University,China,391,23,383+,116,240+,-,299,651,482,485,598,43.64
+2017,Aalto University,Finland,392,5,383+,192,240+,-,344,394,415,385,377,43.64
+2017,Pusan National University,South Korea,393,10,383+,369,240+,-,335,488,482,415,138,43.62
+2017,Saarland University,Germany,394,33,383+,327,240+,-,402,432,357,340,427,43.62
+2017,Beijing Normal University,China,395,24,68,578,240+,-,335,498,576,415,754,43.62
+2017,Temple University,USA,396,130,297,414,240+,-,323,292,576,372,217,43.61
+2017,University of Delhi,India,397,1,261,85,240+,-,608,809,853+,655,794,43.61
+2017,University of Verona,Italy,398,18,383+,616+,240+,-,521,407,213,331,726,43.60
+2017,Indian Institute of Technology Delhi,India,399,2,383+,78,240+,-,633,899,853+,728,627,43.60
+2017,University of Bari Aldo Moro,Italy,400,19,383+,616+,240+,-,396,335,482,327,604,43.59
+2017,Southeast University,China,401,25,201,478,240+,-,312,622,709,399,173,43.58
+2017,Darmstadt University of Technology,Germany,402,34,77,391,240+,-,428,535,357,415,387,43.57
+2017,Innsbruck Medical University,Austria,403,4,383+,616+,240+,-,471,406,357,327,613,43.56
+2017,George Mason University,USA,404,131,383+,616+,101,-,468,372,357,368,410,43.56
+2017,Polytechnic University of Milan,Italy,405,20,121,244,212,-,347,550,415,449,236,43.56
+2017,University of Central Florida,USA,406,132,383+,497,240+,-,404,443,576,375,169,43.56
+2017,Sichuan University,China,407,26,383+,611,240+,-,209,382,576,405,438,43.55
+2017,Tongji University,China,408,27,188,136,240+,-,278,421,482,539,445,43.54
+2017,Wesleyan University,USA,409,133,108,80,240+,-,994,572,853+,920,862,43.54
+2017,West Virginia University,USA,410,134,349,139,240+,-,456,466,357,445,613,43.54
+2017,University of Texas Medical Branch at Galveston,USA,411,135,383+,616+,240+,-,432,339,319,356,255,43.53
+2017,University of New Hampshire,USA,412,136,383+,302,105,-,582,321,302,385,592,43.53
+2017,University of Twente,Netherlands,413,12,383+,473,240+,-,354,494,278,368,366,43.52
+2017,University of Santiago de Compostela,Spain,414,9,383+,454,240+,-,401,537,319,399,166,43.52
+2017,National Chiao Tung University,Taiwan,415,4,383+,221,240+,-,264,649,576,431,913+,43.52
+2017,East China University of Science and Technology,China,416,28,383+,616+,240+,-,375,752,709,375,201,43.51
+2017,Saint Petersburg State University,Russia,417,3,43,241,240+,-,636,561,853+,728,842,43.51
+2017,University College Cork,Ireland,418,3,383+,486,240+,-,434,441,319,375,210,43.51
+2017,University of Savoy,France,419,19,383+,616+,240+,-,516,419,302,340,766,43.50
+2017,University of Texas at Dallas,USA,420,137,216,222,240+,-,430,404,482,399,391,43.50
+2017,Jagiellonian University,Poland,421,1,383+,616+,240+,-,407,416,482,356,299,43.49
+2017,Lancaster University,United Kingdom,422,34,383+,363,240+,-,386,430,252,372,556,43.49
+2017,University of Bath,United Kingdom,423,35,383+,373,240+,-,385,371,357,368,401,43.49
+2017,University at Albany - SUNY,USA,424,138,202,533,165,-,447,395,252,375,541,43.47
+2017,University of Campinas,Brazil,425,3,383+,616+,240+,-,307,504,482,405,228,43.46
+2017,Gwangju Institute of Science and Technology,South Korea,426,11,383+,616+,240+,-,605,628,415,539,88,43.46
+2017,University of Nebraska Medical Center,USA,427,139,383+,616+,240+,-,479,364,415,356,355,43.45
+2017,University of Siena,Italy,428,21,383+,537,240+,-,442,387,319,356,508,43.45
+2017,Vienna University of Technology,Austria,429,5,380,401,240+,-,419,375,357,415,186,43.45
+2017,University of Modena and Reggio Emilia,Italy,430,22,383+,535,240+,-,469,481,252,363,741,43.44
+2017,Chonnam National University,South Korea,431,12,383+,615,240+,-,411,611,357,455,135,43.44
+2017,Aristotle University of Thessaloniki,Greece,432,2,383+,616+,240+,-,364,610,278,372,766,43.44
+2017,Scuola Normale Superiore di Pisa,Italy,433,23,290,616+,65,-,696,512,415,539,887,43.42
+2017,Macquarie University,Australia,434,9,383+,356,240+,-,348,306,415,394,482,43.41
+2017,University of Tampere,Finland,435,6,383+,383,240+,-,518,377,482,363,686,43.41
+2017,University of Wollongong,Australia,436,10,383+,273,240+,-,388,403,319,415,456,43.40
+2017,University of Guelph,Canada,437,18,383+,543,240+,-,338,304,278,405,410,43.39
+2017,Illinois Institute of Technology,USA,438,140,122,99,240+,-,790,749,482,705,825,43.39
+2017,Chiba University,Japan,439,16,383+,616+,240+,-,408,365,709,425,186,43.38
+2017,Ewha Womans University,South Korea,440,13,383+,616+,240+,-,463,560,709,469,130,43.38
+2017,Swedish University of Agricultural Sciences,Sweden,441,9,166,616+,240+,-,370,287,357,394,913+,43.38
+2017,University of Chile,Chile,442,2,266,207,240+,-,414,316,576,449,482,43.38
+2017,Syracuse University,USA,443,141,160,181,240+,-,517,502,576,469,422,43.38
+2017,University of Seville,Spain,444,10,383+,612,240+,-,340,581,415,539,122,43.38
+2017,University of KwaZulu - Natal,South Africa,445,4,383+,151,240+,-,523,349,319,502,649,43.36
+2017,University of Hawaii at Manoa,USA,446,142,383+,495,90,-,438,232,482,469,445,43.36
+2017,University of the Basque Country,Spain,447,11,383+,556,240+,-,317,328,482,431,306,43.35
+2017,University of Arkansas for Medical Sciences,USA,448,143,383+,616+,240+,-,531,569,709,383,282,43.35
+2017,Chalmers University of Technology,Sweden,449,10,378,311,240+,-,383,480,576,405,842,43.34
+2017,University of Strathclyde,United Kingdom,450,36,383+,235,240+,-,403,539,357,469,299,43.34
+2017,University of Ulsan,South Korea,451,14,383+,417,240+,-,381,497,576,405,340,43.34
+2017,University of Rostock,Germany,452,35,381,616+,240+,-,483,554,709,385,292,43.34
+2017,Brigham Young University,USA,453,144,322,365,240+,-,507,452,357,469,164,43.33
+2017,University of Mississippi,USA,454,145,383+,616+,240+,-,421,413,357,385,482,43.33
+2017,Polytechnic University of Valencia,Spain,455,12,383+,616+,240+,-,359,568,576,455,180,43.33
+2017,University of Zaragoza,Spain,456,13,382,440,240+,-,345,605,482,437,266,43.33
+2017,University of Coimbra,Portugal,457,3,376,539,240+,-,418,415,357,394,499,43.32
+2017,University of Newcastle,Australia,458,11,383+,616+,240+,-,372,420,576,415,333,43.31
+2017,Oklahoma State University,USA,459,146,275,211,240+,-,470,640,357,495,333,43.31
+2017,University of Tennessee Health Science Center,USA,460,147,383+,616+,240+,-,565,366,576,399,272,43.30
+2017,Loyola University Chicago,USA,461,148,383+,413,240+,-,566,405,357,385,766,43.30
+2017,Polytechnic University of Catalonia,Spain,462,14,383+,320,240+,-,368,617,482,574,145,43.30
+2017,Kanazawa University,Japan,463,17,383+,394,240+,-,523,473,576,425,252,43.30
+2017,University of Warsaw,Poland,464,2,110,517,153,-,461,414,415,455,673,43.30
+2017,University of Denver,USA,465,149,333,118,240+,-,873,513,709,574,521,43.29
+2017,University of Udine,Italy,466,24,383+,616+,240+,-,611,391,576,375,576,43.29
+2017,University of Ljubljana,Slovenia,467,1,383+,616+,240+,-,370,390,357,415,592,43.28
+2017,University of Nice Sophia Antipolis,France,468,20,292,616+,240+,-,444,255,576,399,576,43.28
+2017,University of Nantes,France,469,21,383+,616+,240+,-,493,463,415,394,541,43.27
+2017,Indian Institute of Science,India,470,3,383+,423,240+,-,337,632,482,455,306,43.27
+2017,Lanzhou University,China,471,29,383+,547,240+,-,325,662,709,431,713,43.26
+2017,University of Saskatchewan,Canada,472,19,358,332,240+,-,339,458,415,469,349,43.26
+2017,University of Tasmania,Australia,473,12,383+,616+,240+,-,397,253,576,415,766,43.25
+2017,Brunel University,United Kingdom,474,37,383+,297,240+,-,567,679,576,431,521,43.25
+2017,Soochow University (Suzhou),China,475,30,383+,616+,240+,-,306,722,415,455,508,43.24
+2017,University of Wisconsin - Milwaukee,USA,476,150,254,212,240+,-,538,431,709,485,913+,43.24
+2017,University of Tartu,Estonia,477,1,318,616+,240+,-,576,290,482,405,470,43.23
+2017,University of Parma,Italy,478,25,383+,367,240+,-,458,500,319,437,713,43.22
+2017,University of Science and Technology Beijing,China,479,31,383+,107,240+,-,477,935,482,744,541,43.22
+2017,École normale supérieure de Lyon,France,480,22,383+,616+,213,-,460,215,576,431,541,43.21
+2017,James Cook University,Australia,481,13,383+,581,240+,-,451,273,302,437,673,43.21
+2017,University of Rennes 1,France,482,23,383+,616+,240+,-,342,360,576,464,340,43.21
+2017,University of Wyoming,USA,483,151,383+,316,240+,-,537,323,357,464,366,43.21
+2017,Kumamoto University,Japan,484,18,331,392,240+,-,532,475,709,522,162,43.21
+2017,University of Crete,Greece,485,3,383+,616+,240+,-,542,486,576,405,887,43.20
+2017,Medical University of Graz,Austria,486,6,383+,616+,240+,-,523,455,853+,415,521,43.20
+2017,NUI Galway,Ireland,487,4,383+,573,240+,-,555,467,415,455,240,43.19
+2017,University of Brescia,Italy,488,26,383+,616+,240+,-,588,577,709,405,754,43.19
+2017,Nihon University,Japan,489,19,323,559,240+,-,678,565,709,728,96,43.19
+2017,Martin Luther University of Halle - Wittenberg,Germany,490,36,375,616+,209,-,420,355,709,437,649,43.19
+2017,Auburn University,USA,491,152,198,173,240+,-,499,585,415,630,296,43.19
+2017,Technical University of Dortmund,Germany,492,37,383+,616+,240+,-,552,573,415,437,366,43.18
+2017,University of Canterbury,New Zealand,493,3,175,199,119,-,591,437,482,586,887,43.18
+2017,Concordia University,Canada,494,20,383+,132,240+,-,534,804,853+,655,726,43.18
+2017,Ohio University,USA,495,153,241,175,240+,-,669,553,853+,661,198,43.18
+2017,Augusta University,USA,496,154,383+,616+,240+,-,512,427,709,425,638,43.18
+2017,Clemson University,USA,497,155,383+,499,240+,-,450,529,576,449,373,43.18
+2017,Middle East Technical University,Turkey,498,1,383+,155,240+,-,607,861,415,586,913+,43.17
+2017,Griffith University,Australia,499,14,383+,616+,240+,-,391,397,252,469,613,43.17
+2017,Texas Tech University,USA,500,156,383+,213,240+,-,473,583,319,539,515,43.17
+2017,Technical University of Madrid,Spain,501,15,235,267,240+,-,459,696,576,728,132,43.17
+2017,University of Sherbrooke,Canada,502,21,383+,553,240+,-,475,393,319,445,638,43.17
+2017,Plymouth University,United Kingdom,503,38,383+,584,240+,-,533,454,415,431,604,43.17
+2017,University of Tromsø - The Arctic University of Norway,Norway,504,4,383+,616+,240+,-,457,398,482,437,726,43.16
+2017,Baylor University,USA,505,157,383+,282,240+,-,655,544,357,469,623,43.16
+2017,Bar - Ilan University,Israel,506,6,304,431,240+,-,429,384,576,469,355,43.16
+2017,University of Akron,USA,507,158,383+,390,240+,-,692,681,415,715,107,43.16
+2017,Ajou University,South Korea,508,15,383+,482,240+,-,620,747,853+,655,116,43.16
+2017,Chonbuk National University,South Korea,509,16,383+,616+,240+,-,507,771,709,661,116,43.16
+2017,Bielefeld University,Germany,510,38,383+,616+,240+,-,519,392,415,437,686,43.15
+2017,Lille 2 University of Health and Law,France,511,24,383+,616+,240+,-,662,453,709,425,649,43.15
+2017,Hunan University,China,512,32,383+,310,240+,-,427,873,482,485,713,43.15
+2017,East China Normal University,China,513,33,383+,261,240+,-,405,615,853+,514,673,43.15
+2017,Georgia State University,USA,514,159,383+,345,240+,-,446,424,415,502,320,43.15
+2017,Eötvös Loránd University,Hungary,515,1,101,616+,119,-,611,491,319,539,794,43.15
+2017,University of Hull,United Kingdom,516,39,324,246,162,-,587,547,709,535,556,43.13
+2017,Gyeongsang National University,South Korea,517,17,383+,616+,240+,-,656,741,482,655,120,43.13
+2017,Mahidol University,Thailand,518,2,383+,616+,240+,-,443,317,709,449,887,43.13
+2017,University of Oviedo,Spain,519,16,383+,503,240+,-,449,423,319,464,604,43.13
+2017,University of Surrey,United Kingdom,520,40,231,300,240+,-,455,524,709,522,347,43.13
+2017,Federal University of Minas Gerais,Brazil,521,4,383+,314,240+,-,415,532,482,586,210,43.13
+2017,University of Maryland - Baltimore County,USA,522,160,383+,616+,240+,-,621,388,482,445,456,43.13
+2017,University of Malaya,Malaysia,523,1,383+,178,240+,-,417,784,709,682,271,43.12
+2017,University of Catania,Italy,524,27,238,616+,240+,-,462,727,415,455,862,43.12
+2017,University of Bremen,Germany,525,39,383+,616+,240+,-,464,293,319,469,499,43.12
+2017,National Chung Hsing University,Taiwan,526,5,383+,224,240+,-,436,669,576,552,913+,43.12
+2017,Catholic University of Korea,South Korea,527,18,383+,616+,240+,-,536,712,709,586,154,43.12
+2017,China Agricultural University,China,528,34,383+,492,240+,-,350,376,853+,495,598,43.12
+2017,University of Lübeck,Germany,529,40,383+,616+,240+,-,639,344,576,445,627,43.11
+2017,University of Dayton,USA,530,161,365,103,240+,-,998,901,576,864,521,43.11
+2017,Royal Holloway - University of London,United Kingdom,531,41,239,525,240+,-,643,358,357,455,686,43.11
+2017,Aalborg University,Denmark,532,5,383+,419,240+,-,487,545,357,495,391,43.11
+2017,Shinshu University,Japan,533,20,383+,564,240+,-,659,677,415,469,299,43.10
+2017,Osaka City University,Japan,534,21,115,387,240+,-,643,624,415,522,433,43.10
+2017,Curtin University,Australia,535,15,383+,608,240+,-,365,346,709,495,564,43.10
+2017,Deakin University,Australia,536,16,383+,430,240+,-,406,542,302,509,576,43.10
+2017,Nagasaki University,Japan,537,22,327,215,240+,-,638,648,576,644,226,43.09
+2017,Tokyo University of Science,Japan,538,23,250,616+,240+,-,601,600,709,522,210,43.09
+2017,Juntendo University,Japan,539,24,383+,616+,240+,-,654,543,576,449,649,43.08
+2017,University of Nevada - Reno,USA,540,162,383+,448,240+,-,586,461,576,464,521,43.08
+2017,University Lille 1: Sciences and Technologies,France,541,25,383+,616+,240+,-,393,434,415,502,482,43.08
+2017,University of Potsdam,Germany,542,41,383+,616+,240+,-,486,319,482,469,638,43.08
+2017,Niigata University,Japan,543,25,312,337,240+,-,626,472,853+,552,224,43.08
+2017,University of Belgrade,Serbia,544,1,301,616+,240+,-,379,528,319,509,862,43.08
+2017,Creighton University,USA,545,163,383+,616+,240+,-,884,694,415,455,456,43.07
+2017,University of Trento,Italy,546,28,383+,616+,240+,-,500,482,576,464,887,43.07
+2017,University of Missouri - Kansas City,USA,547,164,332,372,240+,-,651,435,709,469,713,43.07
+2017,University of Windsor,Canada,548,22,383+,109,240+,-,806,947,853+,851,686,43.07
+2017,University of Konstanz,Germany,549,42,383+,616+,240+,-,505,351,482,485,450,43.07
+2017,Panjab University,India,550,4,353,214,240+,-,847,775,415,565,825,43.06
+2017,Chang Gung University,Taiwan,551,6,383+,616+,240+,-,330,614,853+,522,887,43.06
+2017,Fuzhou University,China,552,35,383+,399,240+,-,682,989,482,485,515,43.06
+2017,University of Palermo,Italy,553,29,383+,616+,240+,-,481,556,482,485,623,43.05
+2017,Tokyo Metropolitan University,Japan,554,26,181,472,240+,-,695,509,319,502,627,43.05
+2017,University of Arkansas - Fayetteville,USA,555,165,229,284,240+,-,592,645,482,565,391,43.04
+2017,Yokohama City University,Japan,556,27,383+,271,240+,-,707,381,709,552,387,43.04
+2017,University of La Laguna,Spain,557,17,383+,616+,240+,-,511,348,319,502,741,43.04
+2017,National Yang - Ming University,Taiwan,558,7,383+,616+,240+,-,333,516,853+,535,825,43.04
+2017,Wuhan University of Technology,China,559,36,383+,520,240+,-,631,945,576,469,741,43.04
+2017,King Saud University,Saudi Arabia,560,1,383+,193,240+,-,448,490,709,667,441,43.04
+2017,University of Texas at Arlington,USA,561,166,383+,593,240+,-,520,563,415,522,299,43.03
+2017,University of Cagliari,Italy,562,30,383+,616+,240+,-,541,613,576,485,741,43.03
+2017,National Polytechnic Institute of Toulouse,France,563,26,383+,234,240+,-,488,688,415,621,465,43.03
+2017,Utah State University,USA,564,167,185,364,240+,-,562,425,357,539,450,43.03
+2017,Nara Institute of Science and Technology,Japan,565,28,383+,616+,240+,-,836,383,576,612,164,43.03
+2017,Kent State University,USA,566,168,383+,616+,240+,-,673,457,576,485,470,43.03
+2017,University of Bayreuth,Germany,567,43,383+,616+,240+,-,501,345,319,509,663,43.03
+2017,Central China Normal University,China,568,37,383+,588,240+,-,684,787,576,469,807,43.03
+2017,University of Alaska Fairbanks,USA,569,169,383+,397,240+,-,646,408,415,502,766,43.03
+2017,Federal University of Rio Grande do Sul,Brazil,570,5,383+,590,240+,-,409,501,415,514,807,43.02
+2017,National Central University,Taiwan,571,8,249,616+,240+,-,422,433,482,514,887,43.02
+2017,Florida International University,USA,572,170,383+,558,240+,-,497,508,415,509,499,43.02
+2017,International School for Advanced Studies,Italy,573,31,383+,616+,240+,-,772,456,415,485,807,43.02
+2017,Queensland University of Technology,Australia,574,17,383+,555,240+,-,392,548,482,535,456,43.02
+2017,University of Hertfordshire,United Kingdom,575,42,383+,616+,240+,-,801,464,576,485,807,43.00
+2017,Shanghai University,China,576,38,383+,469,240+,-,454,940,576,514,842,43.00
+2017,King Abdullah University of Science and Technology,Saudi Arabia,577,2,383+,616+,133,-,498,445,709,667,191,43.00
+2017,University of Hanover,Germany,578,44,383+,502,240+,-,551,562,415,539,314,43.00
+2017,Inha University,South Korea,579,19,383+,352,240+,-,581,826,482,574,282,43.00
+2017,Tokyo University of Agriculture and Technology,Japan,580,29,383+,616+,240+,-,725,847,482,682,151,42.99
+2017,University of Aveiro,Portugal,581,4,383+,616+,240+,-,425,728,576,552,355,42.99
+2017,University of Portsmouth,United Kingdom,582,43,383+,496,240+,-,803,682,319,509,842,42.99
+2017,Beijing University of Chemical Technology,China,583,39,383+,542,240+,-,504,989,709,586,236,42.99
+2017,University of Toledo,USA,584,171,383+,616+,240+,-,637,567,576,612,192,42.99
+2017,University of Ioannina,Greece,585,4,383+,616+,240+,-,641,762,482,502,913+,42.99
+2017,University of Tokushima,Japan,586,30,114,562,240+,-,719,527,853+,655,228,42.99
+2017,Konkuk University,South Korea,587,20,383+,407,240+,-,514,789,576,621,224,42.98
+2017,University of Zagreb,Croatia,588,1,383+,616+,240+,-,572,495,357,514,766,42.98
+2017,University of Salamanca,Spain,589,18,383+,461,240+,-,570,487,357,522,713,42.98
+2017,SUNY Downstate Medical Center,USA,590,172,383+,616+,157,-,792,462,709,522,541,42.98
+2017,University of South Australia,Australia,591,18,383+,279,240+,-,506,647,576,630,355,42.97
+2017,University of Minho,Portugal,592,5,383+,616+,240+,-,546,654,302,565,366,42.97
+2017,Otto - von - Guericke University Magdeburg,Germany,593,45,383+,616+,240+,-,529,587,482,522,521,42.97
+2017,Universidade Nova de Lisboa,Portugal,594,6,383+,616+,166,-,474,519,576,552,623,42.97
+2017,"University of Eastern Piedmont ""Amedeo Avogadro""",Italy,595,32,383+,616+,240+,-,685,616,415,514,726,42.96
+2017,Mississippi State University,USA,596,173,176,233,240+,-,625,574,576,667,564,42.96
+2017,American University of Beirut,Lebanon,597,1,136,160,240+,-,831,721,853+,828,913+,42.96
+2017,Graduate University for Advanced Studies,Japan,598,31,383+,616+,240+,-,687,305,853+,514,913+,42.96
+2017,University of Angers,France,599,27,383+,616+,240+,-,674,549,709,514,604,42.95
+2017,Palacký University - Olomouc,Czech Republic,600,2,383+,616+,240+,-,726,531,415,522,541,42.95
+2017,Second University of Naples,Italy,601,33,383+,616+,240+,-,558,631,709,522,887,42.95
+2017,University of Rhode Island,USA,602,174,383+,283,240+,-,692,400,576,621,410,42.94
+2017,University of Montana,USA,603,175,370,490,240+,-,723,352,302,552,649,42.94
+2017,University of Fribourg,Switzerland,604,8,262,289,240+,-,714,482,709,601,825,42.94
+2017,China Medical University (Taiwan),Taiwan,605,9,383+,616+,240+,-,380,630,853+,574,825,42.94
+2017,Montana State University,USA,606,176,383+,540,240+,-,611,329,482,539,521,42.94
+2017,Indian Institute of Technology Madras,India,607,5,383+,196,240+,-,569,951,709,764,391,42.93
+2017,Paris - Est Créteil Val - de - Marne University,France,608,28,383+,411,240+,-,700,638,576,539,862,42.93
+2017,University of Cantabria,Spain,609,19,383+,572,240+,-,662,552,319,552,564,42.93
+2017,Federal University of São Paulo,Brazil,610,6,383+,616+,240+,-,482,557,357,565,794,42.93
+2017,Semmelweis University,Hungary,611,2,383+,616+,240+,-,650,442,576,535,704,42.92
+2017,King Fahd University of Petroleum and Minerals,Saudi Arabia,612,3,383+,129,240+,-,871,902,576,936,913+,42.92
+2017,University of Clermont Auvergne,France,613,29,383+,616+,222,-,578,589,709,539,521,42.92
+2017,Flinders University,Australia,614,19,131,616+,240+,-,484,471,576,612,713,42.92
+2017,New York Medical College,USA,615,177,383+,616+,240+,-,830,732,709,522,686,42.92
+2017,Indian Institute of Technology Kharagpur,India,616,6,383+,260,240+,-,495,980,853+,661,704,42.92
+2017,Indian Institute of Technology Roorkee,India,617,7,383+,306,240+,-,862,945,319,612,913+,42.92
+2017,Beijing Institute of Technology,China,618,40,383+,603,240+,-,440,973,709,574,556,42.92
+2017,University of Graz,Austria,619,7,366,462,226,-,596,575,709,552,704,42.91
+2017,New Mexico State University,USA,620,178,383+,491,240+,-,758,634,482,539,913+,42.91
+2017,Yokohama National University,Japan,621,32,93,249,195,-,968,889,853+,920,340,42.91
+2017,University of Patras,Greece,622,5,383+,616+,240+,-,553,830,576,552,794,42.91
+2017,UNESP - São Paulo State University,Brazil,623,7,383+,616+,240+,-,357,595,482,630,598,42.90
+2017,Memorial University of Newfoundland,Canada,624,23,383+,489,240+,-,580,505,482,565,673,42.90
+2017,National Technical University of Athens,Greece,625,6,211,433,240+,-,560,958,576,586,913+,42.90
+2017,Donghua University,China,626,41,383+,616+,240+,-,736,967,357,552,766,42.90
+2017,Polytechnic University of Bari,Italy,627,34,383+,616+,240+,-,917,514,415,539,825,42.90
+2017,Gunma University,Japan,628,33,383+,616+,240+,-,706,590,709,630,236,42.90
+2017,La Trobe University,Australia,629,20,383+,508,240+,-,496,426,709,574,754,42.90
+2017,Örebro University,Sweden,630,11,383+,484,240+,-,807,685,415,552,913+,42.90
+2017,Tata Institute of Fundamental Research,India,631,8,383+,616+,240+,-,545,440,357,574,825,42.90
+2017,Beihang University,China,632,42,383+,354,240+,-,374,801,853+,661,477,42.90
+2017,Birkbeck - University of London,United Kingdom,633,44,210,616+,168,-,748,356,709,586,887,42.90
+2017,Hacettepe University,Turkey,634,2,383+,616+,240+,-,653,551,482,552,913+,42.90
+2017,Massey University,New Zealand,635,4,383+,466,240+,-,567,503,576,574,726,42.89
+2017,University of Greifswald,Germany,636,46,383+,616+,233,-,675,492,576,565,492,42.89
+2017,Tokyo Women's Medical University,Japan,637,34,383+,616+,240+,-,819,619,576,552,521,42.89
+2017,University of Jyväskylä,Finland,638,7,383+,597,240+,-,514,499,709,574,754,42.89
+2017,Carleton University,Canada,639,24,383+,587,240+,-,527,765,357,586,913+,42.89
+2017,University of Los Andes (Colombia),Colombia,640,1,383+,187,240+,-,897,522,415,775,862,42.88
+2017,Bangor University,United Kingdom,641,45,283,437,240+,-,618,582,576,601,477,42.88
+2017,Capital Medical University,China,642,43,383+,616+,240+,-,439,618,415,612,794,42.88
+2017,Istanbul University,Turkey,643,3,236,425,240+,-,698,517,709,586,913+,42.88
+2017,Uniformed Services University of the Health Sciences,USA,644,179,383+,616+,240+,-,645,489,853+,565,913+,42.88
+2017,Northern Illinois University,USA,645,180,383+,293,240+,-,757,705,252,694,741,42.87
+2017,Northeast Normal University,China,646,44,383+,616+,240+,-,632,805,853+,565,913+,42.87
+2017,Rovira i Virgili University,Spain,647,20,383+,616+,240+,-,535,559,576,586,576,42.87
+2017,Sharif University of Technology,Iran,648,1,128,616+,240+,-,563,962,482,644,913+,42.87
+2017,University of Québec at Montreal,Canada,649,25,383+,421,240+,-,527,538,482,612,913+,42.87
+2017,Open University (UK),United Kingdom,650,46,383+,616+,240+,-,661,422,482,574,794,42.87
+2017,Braunschweig University of Technology,Germany,651,47,255,576,240+,-,599,361,709,630,340,42.87
+2017,University of Texas at San Antonio,USA,652,181,383+,616+,240+,-,633,496,709,601,404,42.87
+2017,Cranfield University,United Kingdom,653,47,383+,179,240+,-,796,913,709,828,456,42.87
+2017,University of Paris 13,France,654,30,383+,616+,240+,-,677,735,576,574,704,42.86
+2017,Tokai University,Japan,655,35,383+,616+,240+,-,793,698,709,586,429,42.86
+2017,Hong Kong Baptist University,Hong Kong,656,6,383+,565,240+,-,617,867,576,586,686,42.85
+2017,Polytechnic University of Turin,Italy,657,35,383+,410,240+,-,494,854,709,667,325,42.85
+2017,Comenius University in Bratislava,Slovak Republic,658,1,383+,616+,240+,-,763,655,576,574,862,42.85
+2017,University of Burgundy,France,659,31,248,616+,240+,-,540,558,576,612,627,42.85
+2017,Old Dominion University,USA,660,182,383+,616+,240+,-,784,612,482,601,429,42.85
+2017,Czech Technical University in Prague,Czech Republic,661,3,364,616+,240+,-,712,763,482,586,638,42.85
+2017,Louisiana Tech University,USA,662,183,383+,209,240+,-,996,897,482,764,704,42.85
+2017,Keele University,United Kingdom,663,48,383+,616+,240+,-,681,526,415,601,627,42.85
+2017,Southern Illinois University Carbondale,USA,664,184,224,574,240+,-,615,564,709,612,576,42.85
+2017,City University London,United Kingdom,665,49,383+,159,240+,-,770,908,709,920,482,42.84
+2017,Warsaw University of Technology,Poland,666,3,362,548,240+,-,737,768,302,621,862,42.84
+2017,University of the Balearic Islands,Spain,667,21,383+,616+,240+,-,689,597,576,601,564,42.84
+2017,University of Idaho,USA,668,185,383+,616+,240+,-,680,506,576,601,613,42.84
+2017,Portland State University,USA,669,186,383+,253,240+,-,789,636,709,715,521,42.84
+2017,Heriot - Watt University,United Kingdom,670,50,383+,295,240+,-,623,591,709,694,450,42.84
+2017,Liverpool John Moores University,United Kingdom,671,51,383+,616+,240+,-,697,428,576,601,649,42.84
+2017,Second Military Medical University,China,672,45,383+,616+,240+,-,509,584,576,630,477,42.83
+2017,Banaras Hindu University,India,673,9,264,299,240+,-,760,920,709,667,913+,42.83
+2017,State University of New York Upstate Medical University,USA,674,187,383+,616+,240+,-,810,602,576,601,541,42.83
+2017,Tilburg University,Netherlands,675,13,383+,270,240+,-,543,872,576,715,913+,42.83
+2017,Istanbul Technical University,Turkey,676,4,383+,408,240+,-,676,860,415,630,794,42.83
+2017,Swinburne University of Technology,Australia,677,21,383+,616+,240+,-,635,484,482,612,686,42.83
+2017,Marche Polytechnic University,Italy,678,36,383+,616+,240+,-,686,690,853+,601,726,42.83
+2017,University of Salerno,Italy,679,37,383+,616+,240+,-,573,780,576,621,576,42.83
+2017,Kitasato University,Japan,680,36,383+,616+,128,-,772,710,853+,744,245,42.82
+2017,Swansea University,United Kingdom,681,52,383+,483,240+,-,522,448,576,644,541,42.82
+2017,Binghamton University,USA,682,188,383+,245,240+,-,722,689,709,744,663,42.82
+2017,Indian Institute of Technology Bombay,India,683,10,383+,522,240+,-,523,815,709,667,329,42.82
+2017,Chongqing University,China,684,46,383+,286,240+,-,478,907,709,728,807,42.82
+2017,Ankara University,Turkey,685,5,383+,361,240+,-,785,664,482,644,913+,42.82
+2017,Masaryk University,Czech Republic,686,4,383+,616+,240+,-,614,436,709,621,663,42.81
+2017,University of Vigo,Spain,687,22,383+,616+,240+,-,571,843,576,630,613,42.81
+2017,Loughborough University,United Kingdom,688,53,383+,616+,240+,-,561,837,482,644,508,42.81
+2017,University François Rabelais - Tours,France,689,32,223,616+,240+,-,671,515,853+,630,673,42.81
+2017,Tampere University of Technology,Finland,690,8,383+,250,240+,-,841,678,482,764,754,42.80
+2017,University of Toyama,Japan,691,37,383+,308,240+,-,733,849,709,682,842,42.80
+2017,Kagoshima University,Japan,692,38,383+,358,240+,-,778,700,709,775,228,42.80
+2017,Ehime University,Japan,693,39,383+,526,240+,-,660,578,709,644,456,42.80
+2017,University of Debrecen,Hungary,694,3,383+,616+,240+,-,742,626,482,630,564,42.80
+2017,Norwegian University of Life Sciences,Norway,695,5,383+,616+,240+,-,616,520,709,630,766,42.80
+2017,University of Insubria,Italy,696,38,383+,616+,240+,-,745,570,709,621,913+,42.80
+2017,University of Girona,Spain,697,23,383+,616+,240+,-,640,829,576,630,673,42.80
+2017,Kindai University,Japan,698,40,383+,616+,240+,-,728,699,482,644,456,42.80
+2017,Chungnam National University,South Korea,699,21,383+,616+,240+,-,489,606,853+,682,397,42.79
+2017,Osaka Prefecture University,Japan,700,41,383+,384,240+,-,765,836,853+,744,247,42.79
+2017,University of Science - Malaysia,Malaysia,701,2,383+,616+,240+,-,597,881,482,764,228,42.79
+2017,Albany Medical College,USA,702,189,193,616+,240+,-,935,766,853+,644,713,42.79
+2017,University of New Orleans,USA,703,190,383+,616+,240+,-,991,865,319,644,825,42.79
+2017,University of L'Aquila,Italy,704,39,383+,616+,240+,-,712,734,709,630,766,42.79
+2017,University of Mons,Belgium,705,8,383+,616+,240+,-,855,680,576,630,604,42.79
+2017,University of Missouri - St. Louis,USA,706,191,383+,281,240+,-,927,629,576,728,576,42.78
+2017,University of Kent,United Kingdom,707,54,383+,415,240+,-,603,438,576,667,627,42.78
+2017,University of Alicante,Spain,708,24,383+,616+,240+,-,690,851,709,694,292,42.78
+2017,Rio de Janeiro State University,Brazil,709,8,383+,586,240+,-,732,659,482,644,807,42.78
+2017,University of Electronic Science and Technology of China,China,710,47,383+,346,240+,-,437,865,709,744,521,42.78
+2017,University of Picardie Jules Verne,France,711,33,383+,616+,240+,-,856,726,357,655,598,42.78
+2017,Victoria University of Wellington,New Zealand,712,5,340,309,240+,-,594,450,709,744,470,42.78
+2017,Northeastern University (China),China,713,48,383+,258,240+,-,626,980,853+,810,604,42.77
+2017,University of Technology - Sydney,Australia,714,22,383+,509,240+,-,480,608,853+,694,470,42.77
+2017,University of Essex,United Kingdom,715,55,145,366,240+,-,705,748,415,764,913+,42.77
+2017,University of Maine,USA,716,192,383+,616+,141,-,793,468,576,744,379,42.76
+2017,Johannes Kepler University of Linz,Austria,717,8,383+,416,240+,-,816,717,709,667,515,42.76
+2017,University of Alabama in Huntsville,USA,718,193,383+,616+,240+,-,952,447,709,644,766,42.76
+2017,University of Córdoba (Spain),Spain,719,25,383+,616+,240+,-,539,756,415,682,613,42.76
+2017,Kaiserslautern University of Technology,Germany,720,48,383+,481,240+,-,767,594,576,661,649,42.76
+2017,Cairo University,Egypt,721,1,310,465,184,-,624,625,482,694,913+,42.76
+2017,Jawaharlal Nehru Centre for Advanced Scientific Research,India,722,11,383+,616+,149,-,910,729,709,705,470,42.76
+2017,University of Tehran,Iran,723,2,213,616+,198,-,441,904,853+,728,913+,42.76
+2017,University of North Carolina at Charlotte,USA,724,194,383+,305,240+,-,744,671,576,744,576,42.76
+2017,National University of La Plata,Argentina,725,2,383+,563,240+,-,577,598,576,667,913+,42.75
+2017,University of Pretoria,South Africa,726,5,383+,312,240+,-,563,566,482,775,576,42.75
+2017,Kaohsiung Medical University,Taiwan,727,10,383+,616+,240+,-,513,846,709,682,726,42.75
+2017,Florida Institute of Technology,USA,728,195,383+,616+,240+,-,977,718,278,694,913+,42.75
+2017,University of Natural Resources and Life Sciences - Vienna,Austria,729,9,383+,616+,240+,-,771,686,415,667,638,42.75
+2017,Gifu University,Japan,730,42,383+,518,240+,-,766,785,853+,705,355,42.75
+2017,Zhengzhou University,China,731,49,383+,459,240+,-,548,715,853+,694,766,42.74
+2017,Hasselt University,Belgium,732,9,383+,344,240+,-,809,875,709,705,825,42.74
+2017,National Research Nuclear University MEPhI,Russia,733,4,338,616+,240+,-,927,643,482,661,913+,42.74
+2017,Graz University of Technology,Austria,734,10,383+,616+,240+,-,692,777,415,705,404,42.74
+2017,University of Nevada - Las Vegas,USA,735,196,383+,455,240+,-,665,534,853+,682,686,42.74
+2017,University of North Texas,USA,736,197,383+,552,240+,-,683,658,482,682,564,42.74
+2017,Nagoya City University,Japan,737,43,383+,424,240+,-,829,621,576,694,499,42.74
+2017,University of Salento,Italy,738,40,383+,616+,240+,-,724,693,482,667,754,42.74
+2017,Rochester Institute of Technology,USA,739,198,383+,445,240+,-,936,601,482,682,598,42.74
+2017,Sogang University,South Korea,740,22,383+,400,240+,-,850,794,853+,903,180,42.74
+2017,Ege University,Turkey,741,6,383+,616+,240+,-,783,786,357,682,825,42.74
+2017,Vilnius University,Lithuania,742,1,360,616+,240+,-,812,607,482,667,713,42.74
+2017,Jichi Medical University,Japan,743,44,383+,616+,240+,-,932,576,482,667,604,42.74
+2017,Boğaziçi University,Turkey,744,7,383+,404,240+,-,821,755,415,705,862,42.73
+2017,University of Málaga,Spain,745,26,383+,616+,240+,-,622,845,576,775,272,42.73
+2017,Ulsan National Institute of Science and Technology,South Korea,746,23,383+,616+,240+,-,746,892,709,728,314,42.73
+2017,New Jersey Institute of Technology,USA,747,199,284,436,240+,-,839,666,357,851,233,42.73
+2017,Dublin City University,Ireland,748,5,383+,477,240+,-,820,937,576,793,255,42.73
+2017,Royal College of Surgeons in Ireland,Ireland,749,6,383+,616+,240+,-,887,639,576,682,492,42.73
+2017,Kangwon National University,South Korea,750,24,383+,594,240+,-,672,714,482,744,340,42.73
+2017,University of Évry Val d'Essonne,France,751,34,383+,616+,240+,-,974,378,853+,667,913+,42.73
+2017,East Carolina University,USA,752,200,383+,395,240+,-,720,692,853+,715,541,42.73
+2017,Nanjing Medical University,China,753,50,383+,616+,240+,-,485,672,853+,715,825,42.72
+2017,University of Haifa,Israel,754,7,383+,444,240+,-,550,510,853+,728,564,42.72
+2017,Roma Tre University,Italy,755,41,383+,616+,240+,-,665,646,576,694,794,42.72
+2017,University of Poitiers,France,756,35,281,616+,151,-,648,579,482,775,741,42.72
+2017,Loma Linda University,USA,757,201,383+,616+,240+,-,873,774,853+,705,418,42.72
+2017,University of Messina,Italy,758,42,383+,616+,240+,-,651,832,709,694,913+,42.72
+2017,Jacobs University Bremen,Germany,759,49,383+,616+,240+,-,900,720,576,694,499,42.71
+2017,University of Calabria,Italy,760,43,383+,616+,240+,-,595,818,415,715,673,42.71
+2017,Nanjing University of Aeronautics and Astronautics,China,761,51,383+,545,240+,-,602,966,709,705,862,42.71
+2017,University of Szeged,Hungary,762,4,383+,616+,228,-,701,760,853+,705,492,42.71
+2017,University of Augsburg,Germany,763,50,383+,616+,240+,-,950,763,709,682,766,42.71
+2017,Yamaguchi University,Japan,764,45,383+,616+,240+,-,814,883,709,887,192,42.71
+2017,Institut national des sciences Appliquées de Lyon,France,765,36,383+,616+,240+,-,559,719,709,728,508,42.71
+2017,University of Castilla - La Mancha,Spain,766,27,383+,616+,240+,-,610,827,709,715,556,42.71
+2017,University of Ulster,United Kingdom,767,56,383+,616+,240+,-,749,853,576,744,377,42.71
+2017,University of Yamanashi,Japan,768,46,293,616+,240+,-,912,888,853+,793,272,42.70
+2017,Dongguk University,South Korea,769,25,383+,323,240+,-,881,940,853+,996,172,42.70
+2017,North Dakota State University,USA,770,202,196,616+,240+,-,735,825,853+,820,296,42.70
+2017,University of Stirling,United Kingdom,771,57,383+,360,240+,-,752,663,482,764,887,42.70
+2017,Nanjing University of Science and Technology,China,772,52,383+,362,240+,-,628,952,482,775,686,42.70
+2017,Missouri University of Science and Technology,USA,773,203,383+,285,240+,-,803,927,709,842,521,42.70
+2017,Université de Namur,Belgium,774,10,184,429,240+,-,916,687,853+,764,766,42.70
+2017,Jiangnan University,China,775,53,383+,616+,240+,-,609,935,853+,728,521,42.69
+2017,Huazhong Agricultural University,China,776,54,383+,616+,240+,-,553,540,709,744,576,42.69
+2017,Ocean University of China,China,777,55,383+,595,240+,-,585,736,853+,728,649,42.69
+2017,Yeungnam University,South Korea,778,26,383+,304,240+,-,698,978,853+,887,333,42.69
+2017,University of Neuchâtel,Switzerland,779,9,369,616+,240+,-,892,711,853+,705,686,42.69
+2017,Aberystwyth University,United Kingdom,780,58,383+,524,240+,-,856,604,576,715,673,42.69
+2017,Tehran University of Medical Sciences,Iran,781,3,383+,616+,240+,-,716,733,709,715,887,42.69
+2017,Jaume I University,Spain,782,28,383+,616+,240+,-,781,960,709,715,638,42.69
+2017,Northwest University (China),China,783,56,383+,616+,240+,-,823,842,319,744,887,42.69
+2017,G. d'Annunzio University - Chieti - Pescara,Italy,784,44,383+,616+,240+,-,734,723,853+,715,887,42.68
+2017,University of Concepción,Chile,785,3,383+,616+,240+,-,739,507,853+,728,541,42.68
+2017,Aston University,United Kingdom,786,59,383+,396,240+,-,835,886,709,842,289,42.68
+2017,Putra University - Malaysia,Malaysia,787,3,383+,616+,240+,-,708,922,853+,957,180,42.68
+2017,Michigan Technological University,USA,788,204,361,519,240+,-,812,783,482,744,508,42.68
+2017,University of Caen Normandy,France,789,37,232,616+,240+,-,668,813,853+,744,825,42.68
+2017,All India Institute of Medical Sciences - New Delhi,India,790,12,383+,616+,240+,-,880,641,576,715,862,42.68
+2017,Western Sydney University,Australia,791,23,383+,616+,240+,-,544,451,709,764,673,42.68
+2017,University of Brighton,United Kingdom,792,60,383+,616+,240+,-,854,751,853+,715,741,42.68
+2017,University of Orléans,France,793,38,383+,571,240+,-,751,444,709,728,887,42.68
+2017,Yamagata University,Japan,794,47,383+,616+,240+,-,837,770,853+,728,564,42.67
+2017,Åbo Akademi University,Finland,795,9,383+,616+,240+,-,788,637,576,728,741,42.67
+2017,University of Salzburg,Austria,796,11,383+,307,240+,-,909,758,853+,828,862,42.67
+2017,University of Bradford,United Kingdom,797,61,383+,225,240+,-,892,807,853+,967,564,42.67
+2017,University of Memphis,USA,798,205,383+,331,240+,-,791,782,853+,828,499,42.67
+2017,Federico Santa María Technical University,Chile,799,4,383+,616+,240+,-,989,948,234,828,686,42.67
+2017,Marquette University,USA,800,206,285,229,240+,-,933,806,853+,967,704,42.67
+2017,Northern Arizona University,USA,801,207,383+,546,240+,-,912,476,482,744,673,42.67
+2017,University of Siegen,Germany,802,51,383+,577,240+,-,901,787,415,744,766,42.67
+2017,Miguel Hernández University of Elche,Spain,803,29,383+,616+,240+,-,755,691,853+,744,598,42.67
+2017,Howard University,USA,804,208,209,616+,240+,-,948,683,576,793,433,42.67
+2017,Nanjing Agricultural University,China,805,57,383+,616+,240+,-,502,709,709,793,686,42.66
+2017,National Sun Yat - sen University,Taiwan,806,11,383+,616+,240+,-,503,871,576,793,913+,42.66
+2017,Fourth Military Medical University,China,807,58,383+,616+,240+,-,557,660,709,775,704,42.66
+2017,University of Hohenheim,Germany,808,52,383+,616+,240+,-,777,703,576,744,825,42.66
+2017,University of Sassari,Italy,809,45,383+,616+,240+,-,786,609,576,744,825,42.66
+2017,Sapporo Medical University,Japan,810,48,383+,616+,240+,-,990,823,853+,764,429,42.66
+2017,Murdoch University,Australia,811,24,383+,443,240+,-,795,530,576,775,663,42.66
+2017,Chung - Ang University,South Korea,812,27,383+,510,240+,-,575,858,415,903,275,42.66
+2017,École normale supérieure Paris - Saclay,France,813,39,141,336,240+,-,898,757,357,936,887,42.66
+2017,Saga University,Japan,814,49,383+,616+,240+,-,919,797,853+,793,397,42.65
+2017,University of Alcalá,Spain,815,30,383+,616+,240+,-,709,596,482,775,627,42.65
+2017,Southwest University,China,816,59,299,609,240+,-,574,905,709,793,741,42.65
+2017,University of Murcia,Spain,817,31,383+,616+,240+,-,547,769,576,810,556,42.65
+2017,Maynooth University,Ireland,818,7,273,616+,240+,-,997,670,482,775,515,42.65
+2017,University of Maribor,Slovenia,819,2,383+,616+,240+,-,945,844,709,744,794,42.65
+2017,China University of Geosciences (Wuhan),China,820,60,383+,501,240+,-,797,667,482,775,807,42.65
+2017,Hefei University of Technology,China,821,61,383+,317,240+,-,762,980,853+,851,887,42.65
+2017,National Polytechnic Institute,Mexico,822,2,354,616+,240+,-,604,593,576,793,726,42.65
+2017,University of Massachusetts Boston,USA,823,209,383+,487,240+,-,833,713,415,793,807,42.65
+2017,Toho University,Japan,824,50,383+,616+,201,-,905,812,576,775,842,42.64
+2017,Kurume University,Japan,825,51,383+,616+,240+,-,979,822,853+,851,275,42.64
+2017,University of Regina,Canada,826,26,383+,616+,240+,-,888,661,357,793,663,42.64
+2017,University of Oldenburg,Germany,827,53,383+,616+,240+,-,756,523,576,775,766,42.64
+2017,Bowling Green State University,USA,828,210,383+,374,240+,-,949,742,482,820,766,42.64
+2017,University of Hyogo,Japan,829,52,383+,616+,240+,-,923,533,853+,764,794,42.64
+2017,Nanjing University of Technology,China,830,62,383+,616+,240+,-,642,953,853+,828,391,42.64
+2017,Indian Institute of Technology Kanpur,India,831,13,199,561,240+,-,598,913,853+,842,492,42.64
+2017,Bilkent University,Turkey,832,8,383+,480,240+,-,781,702,576,793,913+,42.64
+2017,Mie University,Japan,833,53,383+,616+,240+,-,889,880,709,793,450,42.64
+2017,Saitama Medical University,Japan,834,54,383+,616+,240+,-,984,635,709,775,521,42.64
+2017,San Francisco State University,USA,835,211,294,616+,214,-,912,620,853+,775,913+,42.64
+2017,Taipei Medical University,Taiwan,836,12,383+,616+,240+,-,453,850,853+,842,766,42.64
+2017,RMIT University,Australia,837,25,383+,530,240+,-,658,940,709,810,604,42.64
+2017,Jinan University,China,838,63,383+,303,240+,-,670,772,853+,903,754,42.64
+2017,Jean Monnet University,France,839,40,383+,616+,240+,-,599,493,853+,810,713,42.64
+2017,Sejong University,South Korea,840,28,383+,616+,240+,-,799,837,709,793,521,42.64
+2017,Shizuoka University,Japan,841,55,383+,527,240+,-,940,791,853+,981,194,42.63
+2017,Kyoto Prefectural University of Medicine,Japan,842,56,383+,616+,240+,-,889,802,576,775,913+,42.63
+2017,University of Seoul,South Korea,843,29,383+,616+,240+,-,979,889,576,828,366,42.63
+2017,University of Wuppertal,Germany,844,54,383+,616+,240+,-,992,898,576,775,754,42.63
+2017,Showa University,Japan,845,57,383+,616+,240+,-,975,803,709,775,766,42.63
+2017,Chiang Mai University,Thailand,846,3,383+,592,240+,-,825,701,576,793,887,42.63
+2017,Tottori University,Japan,847,58,383+,382,240+,-,947,779,576,864,404,42.63
+2017,University of Cyprus,Cyprus,848,1,383+,616+,240+,-,828,855,576,793,862,42.63
+2017,Nanjing Normal University,China,849,64,383+,463,240+,-,710,676,709,820,704,42.63
+2017,Gazi University,Turkey,850,9,383+,536,240+,-,780,931,576,810,913+,42.62
+2017,Harbin Engineering University,China,851,65,383+,616+,240+,-,860,967,709,793,862,42.62
+2017,Ritsumeikan University,Japan,852,59,383+,313,240+,-,942,858,482,920,482,42.62
+2017,Jikei University School of Medicine,Japan,853,60,383+,616+,240+,-,965,745,709,793,842,42.62
+2017,Isfahan University of Technology,Iran,854,4,383+,616+,240+,-,731,902,357,828,913+,42.62
+2017,University of Rouen,France,855,41,379,616+,240+,-,704,731,853+,820,564,42.62
+2017,Sofia University,Bulgaria,856,1,282,616+,240+,-,925,793,576,810,913+,42.62
+2017,AGH University of Science and Technology,Poland,857,4,288,334,240+,-,726,808,576,903,576,42.62
+2017,University of the Republic (Uruguay),Uruguay,858,1,383+,613,240+,-,815,599,576,810,887,42.62
+2017,University of Veterinary Medicine Vienna,Austria,859,12,383+,616+,240+,-,826,644,709,810,649,42.62
+2017,Makerere University,Uganda,860,1,226,616+,240+,-,776,470,709,828,913+,42.61
+2017,Federal University of ABC,Brazil,861,9,383+,616+,240+,-,968,896,576,810,913+,42.61
+2017,University of California - Merced,USA,862,212,383+,616+,240+,-,858,546,853+,820,576,42.61
+2017,Magna Græcia University of Catanzaro,Italy,863,46,383+,616+,240+,-,934,870,853+,810,766,42.61
+2017,University of South Alabama,USA,864,213,383+,616+,240+,-,982,811,709,820,515,42.61
+2017,Shanghai Normal University,China,865,66,383+,515,240+,-,877,980,853+,820,913+,42.61
+2017,University of Valladolid,Spain,866,32,383+,506,240+,-,688,833,853+,851,482,42.60
+2017,North China Electric Power University,China,867,67,383+,265,240+,-,866,989,709,981,913+,42.60
+2017,Northwestern Polytechnical University,China,868,68,383+,341,240+,-,476,948,709,957,887,42.60
+2017,University of Cádiz,Spain,869,33,383+,616+,240+,-,843,885,709,936,266,42.60
+2017,Quaid - i - Azam University,Pakistan,870,1,383+,616+,240+,-,920,925,576,820,913+,42.60
+2017,Tarbiat Modares University,Iran,871,5,383+,616+,240+,-,717,962,853+,828,913+,42.60
+2017,Kōchi University,Japan,872,61,383+,616+,240+,-,979,814,709,828,515,42.60
+2017,South China Normal University,China,873,69,383+,456,240+,-,619,929,709,864,754,42.59
+2017,National Taiwan University of Science and Technology,Taiwan,874,13,383+,616+,240+,-,583,953,853+,851,862,42.59
+2017,Yangzhou University,China,875,70,383+,616+,240+,-,822,894,853+,828,913+,42.59
+2017,University of Electro - Communications,Japan,876,62,183,616+,240+,-,959,817,709,936,355,42.59
+2017,University of Perpignan Via Domitia,France,877,42,178,616+,240+,-,967,656,482,876,913+,42.59
+2017,University of Veterinary Medicine Hanover,Germany,878,55,383+,616+,240+,-,882,906,853+,828,842,42.59
+2017,Inje University,South Korea,879,30,383+,616+,240+,-,826,887,853+,887,366,42.59
+2017,University of Southern Mississippi,USA,880,214,383+,616+,240+,-,956,830,853+,828,726,42.59
+2017,Wilfrid Laurier University,Canada,881,27,383+,292,240+,-,956,938,853+,967,913+,42.59
+2017,Amirkabir University of Technology,Iran,882,6,383+,616+,240+,-,656,967,709,851,913+,42.58
+2017,University of Extremadura,Spain,883,34,383+,616+,240+,-,808,923,709,842,741,42.58
+2017,Brock University,Canada,884,28,383+,616+,240+,-,895,767,576,842,686,42.58
+2017,University of Pécs,Hungary,885,5,383+,616+,240+,-,960,821,576,842,623,42.58
+2017,Chungbuk National University,South Korea,886,31,383+,616+,240+,-,764,848,853+,876,422,42.58
+2017,Jiangsu University,China,887,71,383+,602,240+,-,649,913,853+,876,465,42.58
+2017,University of Wrocław,Poland,888,5,372,596,240+,-,750,820,576,851,807,42.58
+2017,Dankook University,South Korea,889,32,383+,616+,240+,-,876,959,576,920,329,42.58
+2017,Ryerson University,Canada,890,29,383+,616+,240+,-,743,957,415,864,807,42.58
+2017,China Medical University (PRC),China,891,72,383+,616+,240+,-,718,737,709,851,913+,42.58
+2017,University of Osnabrück,Germany,892,56,383+,616+,240+,-,891,695,709,842,842,42.58
+2017,Third Military Medical University,China,893,73,383+,616+,240+,-,630,708,709,864,713,42.58
+2017,University of North Dakota,USA,894,215,383+,569,240+,-,930,773,853+,851,521,42.58
+2017,University of New Brunswick,Canada,895,30,383+,437,240+,-,798,824,709,876,638,42.58
+2017,University of Mannheim,Germany,896,57,383+,567,240+,-,896,910,482,851,862,42.58
+2017,Tianjin Medical University,China,897,74,383+,616+,240+,-,769,839,853+,851,807,42.58
+2017,Budapest University of Technology and Economics,Hungary,898,6,278,616+,240+,-,834,781,576,864,663,42.57
+2017,Saitama University,Japan,899,63,129,432,240+,-,986,697,709,981,492,42.57
+2017,University of New England (Australia),Australia,900,26,383+,294,240+,-,901,684,853+,981,807,42.57
+2017,Chung Yuan Christian University,Taiwan,901,14,272,319,240+,-,832,967,853+,967,913+,42.57
+2017,Florida Atlantic University,USA,902,216,383+,616+,240+,-,872,716,853+,864,556,42.57
+2017,University of Central Lancashire,United Kingdom,903,62,383+,541,240+,-,926,674,576,864,663,42.57
+2017,Teikyo University,Japan,904,64,383+,616+,240+,-,964,724,709,851,794,42.57
+2017,Gachon University,South Korea,905,33,383+,616+,240+,-,799,834,709,887,441,42.57
+2017,Beijing University of Posts and Telecommunications,China,906,75,383+,288,240+,-,885,980,853+,995,433,42.57
+2017,Jadavpur University,India,907,14,383+,529,240+,-,811,995+,482,876,825,42.57
+2017,Shenzhen University,China,908,76,383+,375,240+,-,768,754,576,992,306,42.57
+2017,Federal University of Santa Catarina,Brazil,909,10,383+,616+,240+,-,589,876,853+,887,754,42.56
+2017,Royal Veterinary College - University of London,United Kingdom,910,63,277,616+,240+,-,851,555,709,876,649,42.56
+2017,University of Lleida,Spain,911,35,383+,616+,240+,-,846,878,709,864,726,42.56
+2017,Fukuoka University,Japan,912,65,383+,616+,240+,-,972,874,853+,876,465,42.56
+2017,University of the Ryukyus,Japan,913,66,383+,616+,240+,-,946,739,853+,864,613,42.56
+2017,University of Jaén,Spain,914,36,383+,616+,240+,-,904,889,482,876,613,42.56
+2017,China University of Geosciences (Beijing),China,915,77,383+,616+,240+,-,861,800,853+,864,842,42.56
+2017,Wright State University,USA,916,217,383+,616+,240+,-,865,740,853+,864,842,42.56
+2017,Hamamatsu University School of Medicine,Japan,917,67,383+,616+,240+,-,985,919,709,887,433,42.56
+2017,Novosibirsk State University,Russia,918,5,186,616+,240+,-,741,706,576,936,913+,42.56
+2017,The Catholic University of America,USA,919,218,383+,467,240+,-,988,633,576,887,686,42.55
+2017,Xidian University,China,920,78,383+,589,240+,-,629,980,853+,903,627,42.55
+2017,University of Puerto Rico at Mayagüez,Puerto Rico,921,1,383+,616+,240+,-,995,746,482,876,913+,42.55
+2017,University of Calcutta,India,922,15,159,321,232,-,944,913,853+,998,576,42.55
+2017,University of Miyazaki,Japan,923,68,316,616+,240+,-,987,744,709,903,441,42.55
+2017,Clarkson University,USA,924,219,383+,422,240+,-,993,965,853+,903,766,42.55
+2017,Shantou University,China,925,79,383+,616+,240+,-,951,730,576,876,913+,42.55
+2017,Manchester Metropolitan University,United Kingdom,926,64,383+,434,240+,-,955,750,709,903,766,42.55
+2017,Southern Medical University,China,927,80,383+,616+,240+,-,647,707,709,903,726,42.55
+2017,University of Waikato,New Zealand,928,6,383+,406,240+,-,954,900,709,936,576,42.55
+2017,Hunter College,USA,929,220,286,498,240+,-,848,623,853+,903,766,42.55
+2017,Zhejiang University of Technology,China,930,81,383+,616+,240+,-,778,995+,853+,887,704,42.55
+2017,University of Massachusetts Lowell,USA,931,221,383+,488,240+,-,939,973,482,974,333,42.55
+2017,University of Wales - Trinity Saint David,United Kingdom,932,65,383+,616+,240+,-,1000,973,576,876,913+,42.55
+2017,Trent University,Canada,933,31,383+,521,240+,-,943,809,709,887,741,42.55
+2017,Xiangtan University,China,934,82,383+,441,240+,-,817,948,853+,920,807,42.54
+2017,University of North Carolina at Greensboro,USA,935,222,383+,616+,240+,-,883,864,709,887,686,42.54
+2017,National Chung Cheng University,Taiwan,936,15,383+,616+,240+,-,838,995+,709,887,913+,42.54
+2017,Nagoya Institute of Technology,Japan,937,69,383+,560,240+,-,907,930,853+,981,289,42.54
+2017,Federal University of Paraná,Brazil,938,11,383+,512,240+,-,678,796,853+,920,766,42.54
+2017,Babeș - Bolyai University,Romania,939,1,383+,616+,240+,-,869,879,709,887,913+,42.54
+2017,University of Thessaly,Greece,940,7,383+,616+,240+,-,867,978,709,887,913+,42.54
+2017,Beijing University of Technology,China,941,83,383+,616+,240+,-,714,962,853+,920,541,42.54
+2017,University of Lethbridge,Canada,942,32,383+,616+,240+,-,971,777,576,887,862,42.54
+2017,Ain Shams University,Egypt,943,2,383+,616+,240+,-,853,776,482,903,913+,42.54
+2017,Nicolaus Copernicus University in Toruń,Poland,944,6,383+,616+,240+,-,920,743,853+,887,807,42.54
+2017,Pukyong National University,South Korea,945,34,383+,616+,240+,-,973,967,853+,957,355,42.54
+2017,University of Jinan,China,946,84,383+,549,240+,-,805,934,853+,903,913+,42.54
+2017,Northwest A&F University,China,947,85,383+,616+,240+,-,549,761,853+,947,887,42.54
+2017,University of Western Brittany,France,948,43,383+,616+,240+,-,873,704,853+,903,638,42.54
+2017,Shiraz University,Iran,949,7,383+,616+,240+,-,867,967,576,903,913+,42.53
+2017,Hallym University,South Korea,950,35,383+,616+,240+,-,852,932,853+,903,686,42.53
+2017,University of Johannesburg,South Africa,951,6,383+,516,240+,-,920,675,482,920,766,42.53
+2017,National Taiwan Normal University,Taiwan,952,16,383+,532,240+,-,740,911,853+,920,913+,42.53
+2017,Chongqing Medical University,China,953,86,383+,616+,240+,-,845,868,853+,903,862,42.53
+2017,Adam Mickiewicz University in Poznań,Poland,954,7,161,616+,240+,-,701,790,853+,981,686,42.53
+2017,Queens College - City University of New York,USA,955,223,345,377,240+,-,976,753,853+,957,713,42.53
+2017,Charles Darwin University,Australia,956,27,383+,616+,240+,-,953,725,709,903,913+,42.53
+2017,United Arab Emirates University,United Arab Emirates,957,1,383+,570,240+,-,977,884,853+,920,556,42.53
+2017,National Taiwan Ocean University,Taiwan,958,17,383+,470,240+,-,839,927,853+,936,913+,42.53
+2017,University of Almería,Spain,959,37,383+,616+,240+,-,965,980,576,920,673,42.52
+2017,Federal University of São Carlos,Brazil,960,12,383+,616+,240+,-,758,912,853+,936,638,42.52
+2017,National University of Colombia,Colombia,961,2,383+,349,240+,-,863,665,709,981,754,42.52
+2017,Fluminense Federal University,Brazil,962,13,383+,348,240+,-,824,913,853+,981,913+,42.52
+2017,Harbin Medical University,China,963,87,383+,616+,240+,-,721,869,709,936,913+,42.52
+2017,Carlos III University of Madrid,Spain,964,38,383+,616+,240+,-,667,955,576,967,456,42.52
+2017,Qingdao University,China,965,88,383+,616+,240+,-,903,980,709,920,862,42.52
+2017,Oakland University,USA,966,224,383+,616+,240+,-,899,857,853+,920,862,42.52
+2017,University of Pau and Pays de l'Adour,France,967,44,383+,616+,240+,-,970,944,853+,920,713,42.52
+2017,Shimane University,Japan,968,70,383+,616+,240+,-,983,799,709,920,766,42.52
+2017,Iran University of Science and Technology,Iran,969,8,383+,616+,240+,-,754,995+,482,947,913+,42.52
+2017,Chosun University,South Korea,970,36,383+,616+,240+,-,938,973,853+,996,266,42.52
+2017,National University of Córdoba,Argentina,971,3,383+,616+,240+,-,738,759,709,947,913+,42.51
+2017,University of Basilicata,Italy,972,47,383+,616+,240+,-,961,882,576,936,842,42.51
+2017,University of Brasília,Brazil,973,14,383+,442,240+,-,787,657,709,967,862,42.51
+2017,Dokuz Eylül University,Turkey,974,10,383+,616+,240+,-,958,943,709,936,842,42.51
+2017,University of Bucharest,Romania,975,2,253,616+,240+,-,879,795,576,957,913+,42.51
+2017,King Juan Carlos University,Spain,976,39,383+,616+,240+,-,864,893,576,947,741,42.51
+2017,South China Agricultural University,China,977,89,383+,601,240+,-,802,835,853+,947,842,42.51
+2017,University of A Coruña,Spain,978,40,383+,616+,240+,-,818,921,853+,947,726,42.51
+2017,Shanxi University,China,979,90,383+,585,240+,-,844,913,709,947,913+,42.51
+2017,Alexandria University,Egypt,980,3,256,614,240+,-,906,895,853+,957,913+,42.50
+2017,Kyoto Institute of Technology,Japan,981,71,383+,616+,240+,-,999,926,853+,992,333,42.50
+2017,Federal University of Bahia,Brazil,982,15,383+,599,240+,-,931,798,853+,947,842,42.50
+2017,Mansoura University,Egypt,983,4,383+,616+,240+,-,908,923,853+,947,913+,42.50
+2017,Henan Normal University,China,984,91,383+,616+,240+,-,929,995+,853+,947,913+,42.50
+2017,Southwest Jiaotong University,China,985,92,383+,359,240+,-,869,989,853+,992,807,42.50
+2017,Zhejiang Normal University,China,986,93,383+,616+,240+,-,849,955,709,957,913+,42.50
+2017,Feng Chia University,Taiwan,987,18,383+,379,240+,-,915,995+,853+,989,862,42.50
+2017,University of Limerick,Ireland,988,8,383+,484,240+,-,858,862,709,989,450,42.49
+2017,Yuan Ze University,Taiwan,989,19,383+,616+,240+,-,937,989,853+,957,913+,42.49
+2017,Hunan Normal University,China,990,94,383+,616+,240+,-,941,909,853+,957,913+,42.49
+2017,University of Camerino,Italy,991,48,383+,616+,240+,-,962,851,853+,957,794,42.49
+2017,Federal University of Pernambuco,Brazil,992,16,383+,598,240+,-,774,841,853+,974,592,42.49
+2017,Federal University of Santa Maria,Brazil,993,17,383+,405,240+,-,910,980,853+,989,913+,42.49
+2017,Anhui University,China,994,95,383+,453,240+,-,924,938,853+,974,913+,42.49
+2017,University of Texas at El Paso,USA,995,225,383+,500,240+,-,885,877,853+,974,649,42.49
+2017,Nanchang University,China,996,96,383+,538,240+,-,747,961,853+,974,842,42.49
+2017,China Pharmaceutical University,China,997,97,383+,578,240+,-,761,973,853+,974,638,42.49
+2017,Federal University of Ceará,Brazil,998,18,383+,604,240+,-,842,792,853+,967,887,42.49
+2017,Chung Shan Medical University,Taiwan,999,20,383+,616+,240+,-,730,933,709,974,913+,42.49
+2017,University of Macau,Macau,1000,1,383+,333,240+,-,892,989,853+,998,862,42.49

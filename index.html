@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>University Rankings - Visual Analytics</title>
+
+  <head>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"
+      integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+      <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+
+       <!--src per la mappa --> 
+    <script src="//d3js.org/topojson.v1.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
+    <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+  </head>
+
+  <body>
+    <div class='myHeader'>
+      <table id="title_table">
+        <tr>
+          <th>
+            <span class="slider" id="slider">
+              <span id="top"></span>
+              <input id = "rank" type="range" min="0" max="0" id="top" value="0" step='1'>
+            </span>
+          </th>
+          <th>
+            <span class="title_container">
+              <p id = "title"><b>University Rankings - Visual Analytics</b></p>
+            </span>
+          </th>
+
+          <th>
+            <span>
+              Year: 
+            <select id="year"></select>
+            </span>
+          </th>
+          <th>
+            <button style="display:inline-block" onclick="switchUser()" id='student_btn' class='btn'>
+              <img src="./res/student.svg" height="29" width="29" id='student_icon' />
+            </button>
+            <button style="display:inline-block" id='darkmode_btn' class='btn'>
+            <img src="./res/darkmode.svg" height="29" width="29" id='darkmode_icon' />
+            </button>
+          </th>
+        </tr>
+      </table>
+    </div>
+    <div class='myContainer'>
+      <div class = "bg" id="bg">
+        <div id="inner">
+           <select id="uni"  onchange="initTeacher()">
+            <option value="" disabled selected>-- select university</option>
+          </select>
+          <!--<button onclick = "initTeacher()">Confirm</button>-->
+        </div>
+      </div>
+      <div class='subcontainer1'>
+        <div class = "legend_area" id ="legend" style="display: none;">
+        </div>
+        <div class="map_area" id="map" style="display: block;">
+          <div class ="clear_area" id = "clear_area">
+            <input type="button" id="clear" value="Clear Map" onclick="cleanMap()">
+          </div>
+          <div class="tooltip"></div>
+        </div>
+         
+        <div class="radar_area" id="radar" style="display:none">
+          <!--<svg id="my_dataviz2" height=400 width=400></svg>-->
+        </div>
+      
+      
+        <div class="parallel_area" id="parallel">
+          <div class="tooltip_parallel"></div>
+        </div>
+
+        <div class="lollipop_area" id="lollipop" style="display:none">
+          <div class ="lollipop_button">
+            <select id="lollipopBtn"></select>
+          </div>
+        </div>
+      </div>
+      <div class='subcontainer2'>
+        <div class="bar_area">
+        </div>
+        <div class="scatterplot_area">
+          <div class="tooltip_scatter"></div>
+        </div>
+        <div class="heatmap_area" id= "heat" style="display:block"></div>
+        <div class="connected_area" id="connected" style="display:none">
+          <div class ="select_area">
+            <select id="connectedSelect"></select>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    
+    
+    <script src="./js/data_loader.js"></script>
+    <script src="./js/utils.js"></script>
+    <script src="./js/colors.js"></script>
+
+    <script src="./js/map.js"></script>
+    <script src="./js/heatmap.js"></script>
+    <script src="./js/parallel.js"></script>
+    <script src="./js/scatter.js"></script>
+    <script src="./js/bar_chart.js"></script>
+
+    <!-- parte interazione rettore --> 
+    <script src="./js/radar_chart.js"></script>
+    <script src="./js/connected.js"></script>
+    <script src="./js/lollipop.js"></script>
+    <script src="./js/legend.js"></script>
+
+
+    <script src="./js/control_center.js"></script>
+
+    
+
+  </body>
+</html>

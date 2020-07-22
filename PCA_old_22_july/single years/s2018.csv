@@ -1,0 +1,501 @@
+sha_World Rank,sha_institution,sha_Location,sha_National Rank,sha_Score, sha_Score on Alumni,sha_Score on Award,sha_Score on HiCi,sha_Score on N&S,sha_Score on PUB,sha_Score on PCP,sha_year
+1,Harvard University,USA,1,100,100,100,100,100,100,79.6,2018
+2,Stanford University,USA,2,75.6,44.5,88.5,76.6,78.6,76.5,56,2018
+3,University of Cambridge,United Kingdom,1,71.8,82.3,95.4,56.7,57.6,70.9,59.5,2018
+4,Massachusetts Institute of Technology,USA,3,69.9,70.9,83.6,52.5,71.4,64.4,70.3,2018
+5,University of California - Berkeley,USA,4,68.3,65.6,78.4,61.3,67.8,65.1,58.2,2018
+6,Princeton University,USA,5,61,55.8,97.9,44.9,47.1,44.2,73.3,2018
+7,University of Oxford,United Kingdom,2,60,50.8,54.2,61.3,52.6,77.1,46.8,2018
+8,Columbia University,USA,6,58.2,62.8,67.2,41.8,56.4,71.5,33.7,2018
+9,California Institute of Technology,USA,7,57.4,53.5,67.5,34.5,57.6,45,100,2018
+10,University of Chicago,USA,8,55.5,59.2,90.1,35.8,42.5,52,44.2,2018
+11,University of California - Los Angeles,USA,9,51.2,29.2,46.4,55.9,44.9,73.1,32.1,2018
+12,Cornell University,USA,10,50.7,43.1,49.1,46.9,47.3,61.6,43.4,2018
+12,Yale University,USA,10,50.7,47.1,49.7,44.9,53.4,58.7,35.7,2018
+14,University of Washington,USA,12,50,24.9,37.4,54.2,49.1,75.9,31.4,2018
+15,University of California - San Diego,USA,13,47.8,19,35.1,53.3,53,65.4,35.9,2018
+16,University of Pennsylvania,USA,14,46.4,31.3,33.4,46.9,41.7,69.7,39.7,2018
+17,University College London,United Kingdom,3,46.1,27.8,35.8,41.8,39,78.8,32.6,2018
+18,Johns Hopkins University,USA,15,45.4,37.3,33.2,37.1,43.4,75.7,28.7,2018
+19,Swiss Federal Institute of Technology Zurich,Switzerland,1,43.9,29.2,35.1,33.2,49.9,58.7,47.5,2018
+20,Washington University in St. Louis,USA,16,42.1,22.7,24.6,55,42.3,53.8,38.6,2018
+21,University of California - San Francisco,USA,17,41.9,0,39.4,35.8,50.9,63.2,32,2018
+22,University of Tokyo,Japan,1,41.5,38.3,25,25.3,46,72.8,29.8,2018
+23,University of Toronto,Canada,1,40.9,19.7,17,35.8,38.9,83.1,31.7,2018
+24,Imperial College London,United Kingdom,4,40.1,14.4,35.4,35.8,31,67.7,39.1,2018
+25,Northwestern University,USA,18,39.9,15.2,27.6,48.8,33.3,62.2,31.7,2018
+26,Duke University,USA,19,39.7,15.2,19,55.9,35.6,63.9,25.5,2018
+27,University of Michigan - Ann Arbor,USA,20,39.4,34.1,0,41.8,41,80.8,25,2018
+28,University of Wisconsin - Madison,USA,21,38.9,32.5,34.3,30.3,32.3,65,24.3,2018
+29,University of Copenhagen,Denmark,1,38.7,21.5,18.6,33.2,37.6,67.8,42.9,2018
+30,Rockefeller University,USA,22,37.9,16.8,61.4,33.2,42.4,19.5,41.5,2018
+30,University of North Carolina at Chapel Hill,USA,22,37.9,8.8,23.4,45.9,30.2,64.7,34.4,2018
+32,New York University,USA,24,37.2,29.6,31.5,25.3,39.5,60.6,20.8,2018
+32,University of Edinburgh,United Kingdom,5,37.2,27.3,24.6,42.8,30.9,55.9,28.7,2018
+34,University of Manchester,United Kingdom,6,37,18.3,32.2,34.5,30.9,60,28.9,2018
+35,Kyoto University,Japan,2,36.4,31.3,36.7,21.4,31.7,60.8,23.9,2018
+36,Sorbonne University,France,1,36.1,33.3,27.1,25.3,29.9,64.7,26.2,2018
+37,University of Minnesota - Twin Cities,USA,25,35.9,29.2,16.1,34.5,31.2,67.5,23.7,2018
+38,University of Melbourne,Australia,1,35.7,16.8,13.1,42.8,21.4,72.3,33.6,2018
+38,University of Colorado at Boulder,USA,26,35.7,12.4,33.6,31.8,37.4,48.5,35,2018
+40,University of Texas at Austin,USA,27,35.6,20.9,16.1,38.3,36.4,58.6,29.2,2018
+41,University of Illinois at Urbana - Champaign,USA,28,35.4,29.6,35.8,19.2,31.8,57.8,28,2018
+42,University of Paris - Sud (Paris 11),France,2,35.1,30,53.6,19.2,18.5,49,33.4,2018
+43,University of British Columbia,Canada,2,34.8,15.2,18.6,34.5,29.6,66.6,26.7,2018
+44,Karolinska Institute,Sweden,1,34.7,25.4,26.3,25.3,24.9,56.6,48.6,2018
+45,Tsinghua University,China,1,34.1,10.2,0,37.1,38.4,74.6,24.1,2018
+46,University of California - Santa Barbara,USA,29,33.4,14.4,38.6,30.3,28.7,40.1,37.5,2018
+47,Heidelberg University,Germany,1,33.2,19.7,25,28.7,27.7,53.6,35.6,2018
+48,Technical University Munich,Germany,2,33,36.6,21.3,25.3,25.2,53.6,35.5,2018
+48,University of Texas Southwestern Medical Center at Dallas,USA,30,33,18.3,34,28.7,39.4,36.7,27,2018
+50,Vanderbilt University,USA,31,32.8,15.2,28.6,30.3,23,53.4,35.3,2018
+51,University of Maryland - College Park,USA,32,32.3,19,19.7,25.3,33.5,55.3,29.3,2018
+51,Utrecht University,Netherlands,1,32.3,22.7,19.7,35.8,26.5,50.1,29.3,2018
+53,University of Munich,Germany,3,32.2,28.3,18.9,23.5,30.6,53.3,34.9,2018
+54,University of Zurich,Switzerland,2,32,5.1,23.7,30.3,29.4,54,33.8,2018
+55,University of Queensland,Australia,2,31.5,12.4,0,37.1,26.6,66.8,34.9,2018
+56,King's College London,United Kingdom,7,31.4,20.9,20.8,30.3,20.6,57.9,27.5,2018
+57,Peking University,China,2,31,11.4,0,34.5,29.5,70.7,22.6,2018
+57,University of Helsinki,Finland,1,31,18.3,20.8,28.7,21.7,54.6,34.2,2018
+59,University of Geneva,Switzerland,3,30.9,29.6,27.9,25.3,27,40.1,32.6,2018
+60,University of Southern California,USA,33,30.8,0,31.3,31.8,20.4,55.1,24.6,2018
+61,Ghent University,Belgium,1,30.7,5.1,13.1,39.5,17.5,59.1,36.7,2018
+62,University of Oslo,Norway,1,29.8,27.8,32.2,13.5,17.2,54.9,28.6,2018
+63,Uppsala University,Sweden,2,29.5,17.6,27.1,16.6,23.9,53.5,29.5,2018
+64,École Normale Superieure - Paris,France,3,29.3,48.4,27.6,0,18.8,30.3,84.8,2018
+65,Aarhus University,Denmark,2,29.2,11.4,21.8,19.2,23.3,56.6,33.4,2018
+66,University of Groningen,Netherlands,2,29,13.4,25.2,19.2,18.4,55.9,33.7,2018
+67,Zhejiang University,China,3,28.3,0,0,35.8,17.6,74.5,21.8,2018
+68,University of Sydney,Australia,3,28.1,14.4,0,28.7,17.9,69.3,28.7,2018
+69,Australian National University,Australia,4,28,13.4,19,23.5,23.9,48,31.7,2018
+70,Boston University,USA,34,27.9,11.4,11.4,30.3,24.3,53.1,23.8,2018
+70,McGill University,Canada,3,27.9,32.5,0,19.2,25.8,62.1,26.8,2018
+70,Purdue University - West Lafayette,USA,34,27.9,13.4,22.8,19.2,23.1,53.2,23.7,2018
+70,Rice University,USA,34,27.9,16.1,21.4,35.8,19.7,32.4,38.6,2018
+74,Leiden University,Netherlands,3,27.7,17.6,9.3,28.7,20.6,51.9,33,2018
+74,Pennsylvania State University - University Park,USA,37,27.7,10.2,0,34.5,28.7,55.1,24.6,2018
+74,University of Bristol,United Kingdom,8,27.7,7.2,16.1,23.5,30,48.4,28.6,2018
+77,Stockholm University,Sweden,3,27.6,23.8,27.1,16.6,22.1,43.8,27.4,2018
+77,Technion - Israel Institute of Technology,Israel,1,27.6,23.3,37.2,19.2,20.6,32.1,28.8,2018
+79,Erasmus University Rotterdam,Netherlands,4,27.5,0,14.7,48.8,14.6,36.4,40.2,2018
+79,Georgia Institute of Technology,USA,38,27.5,12.4,0,38.3,24.6,46.6,38,2018
+81,Mayo Medical School,USA,39,27.3,0,0,50.7,13.8,51.3,35.9,2018
+81,Swiss Federal Institute of Technology Lausanne,Switzerland,4,27.3,0,0,34.5,33.1,43.8,44.4,2018
+83,Nagoya University,Japan,3,27.2,28.7,25,16.6,18.8,46.2,25,2018
+83,University of California - Irvine,USA,40,27.2,0,28.9,21.4,22.7,47.6,24.8,2018
+85,National University of Singapore,Singapore,1,27.1,0,0,30.3,22.4,62.1,35.5,2018
+86,KU Leuven,Belgium,2,27,0,0,33.2,22.4,60.9,31.2,2018
+86,McMaster University,Canada,4,27,12.4,18.6,34.5,11.3,46.3,30.8,2018
+86,Moscow State University,Russia,1,27,40.9,32.6,0,9.7,52.5,33.7,2018
+86,University of Florida,USA,41,27,16.8,0,28.7,18.9,63.6,24.8,2018
+90,University of Pittsburgh - Pittsburgh Campus,USA,42,26.9,18.3,0,33.2,18.1,62,18.9,2018
+91,Carnegie Mellon University,USA,43,26.8,31.3,31.2,21.4,12.3,35.6,30.1,2018
+91,Monash University,Australia,5,26.8,0,0,28.7,23.1,64.6,29.7,2018
+93,University of Western Australia,Australia,6,26.5,13.4,13.9,25.3,15.7,51.1,33.5,2018
+94,Ohio State University - Columbus,USA,44,26.4,12.4,0,27.1,21.3,65.3,18.6,2018
+95,Hebrew University of Jerusalem,Israel,2,26.2,31.7,27.9,13.5,17.9,39,28.1,2018
+96,Nanyang Technological University,Singapore,2,25.9,0,0,35.8,19.2,55.2,33.5,2018
+96,University of Basel,Switzerland,5,25.9,23.3,16.1,13.5,27.1,40.5,36.3,2018
+96,University of California - Davis,USA,45,25.9,0,0,25.3,30.5,59.3,23.6,2018
+99,University of Goettingen,Germany,4,25.7,30.5,14.7,21.4,22.1,39,27.4,2018
+100,University of Texas MD Anderson Cancer Center,USA,46,25.1,0,0,31.8,23,42.7,50.7,2018
+101-150,Aix Marseille University,France,4-6,-,13.4,0,23.5,24.5,54.3,19.7,2018
+101-150,Arizona State University,USA,47-58,-,0,19.7,16.6,21.9,47.1,22.9,2018
+101-150,Baylor College of Medicine,USA,47-58,-,0,0,23.5,30.1,44.5,19.1,2018
+101-150,Brown University,USA,47-58,-,14.4,19.7,9.6,20.5,46.1,33,2018
+101-150,Cardiff University,United Kingdom,9-16,-,0,16.1,23.5,18,43.7,25.3,2018
+101-150,Case Western Reserve University,USA,47-58,-,32.5,10.7,19.2,15.8,40.5,24.7,2018
+101-150,Emory University,USA,47-58,-,0,0,19.2,25.3,54.8,21.8,2018
+101-150,Fudan University,China,4-7,-,0,0,23.5,15,64.6,20.8,2018
+101-150,Icahn School of Medicine at Mount Sinai,USA,47-58,-,0,0,40.6,25.8,41.2,19,2018
+101-150,Indiana University Bloomington,USA,47-58,-,10.2,21.3,13.5,18.6,40.3,19.4,2018
+101-150,King Abdulaziz University,Saudi Arabia,1-2,-,0,0,43.9,12.4,46.7,16.6,2018
+101-150,King Saud University,Saudi Arabia,1-2,-,0,0,44.9,3.9,47.8,18.2,2018
+101-150,Lund University,Sweden,4-5,-,20.9,0,16.6,19.1,53.5,23.6,2018
+101-150,Michigan State University,USA,47-58,-,8.8,0,21.4,22,54.8,19.3,2018
+101-150,Norwegian University of Science and Technology,Norway,2,-,13.4,20.8,19.2,13.8,42.2,20.5,2018
+101-150,Osaka University,Japan,4-5,-,8.8,0,27.1,21.6,52.5,21.7,2018
+101-150,Radboud University Nijmegen,Netherlands,5-8,-,16.1,0,19.2,20.2,52.8,36.2,2018
+101-150,Rutgers - The State University of New Jersey - New Brunswick,USA,47-58,-,10.2,18.6,21.4,25.3,43.8,16.9,2018
+101-150,Seoul National University,South Korea,1,-,0,0,16.6,15.9,72.2,24.5,2018
+101-150,Shanghai Jiao Tong University,China,4-7,-,0,0,16.6,13,79.4,23.6,2018
+101-150,Sun Yat - sen University,China,4-7,-,0,0,21.4,12.6,65.3,18,2018
+101-150,University of Adelaide,Australia,7-8,-,14.4,0,25.3,15.5,46.4,30.4,2018
+101-150,University of Hong Kong,Hong Kong,1,-,0,0,33.2,14.4,49.9,29.1,2018
+101-150,University of New South Wales,Australia,7-8,-,0,0,23.5,19.4,64.5,28.2,2018
+101-150,The University of Sheffield,United Kingdom,9-16,-,17.6,13.1,13.5,16.6,47.6,23.1,2018
+101-150,Tohoku University,Japan,4-5,-,14.4,0,16.6,18.2,52.1,21.6,2018
+101-150,University of Alberta,Canada,5-6,-,11.4,0,16.6,17.4,57.7,23.9,2018
+101-150,University of Amsterdam,Netherlands,5-8,-,5.1,0,25.3,19.6,52,28.5,2018
+101-150,University of Arizona,USA,47-58,-,14.4,0,23.5,27.2,50.3,23.5,2018
+101-150,University of Bern,Switzerland,6-7,-,12.4,0,28.7,23.7,45,33.5,2018
+101-150,University of Birmingham,United Kingdom,9-16,-,18.3,9.3,19.2,14.7,47.8,22.9,2018
+101-150,University of Bonn,Germany,5-7,-,15.2,19.5,21.4,19.2,40.4,26.6,2018
+101-150,University of California - Santa Cruz,USA,47-58,-,0,0,40.6,29.5,29.9,38.7,2018
+101-150,University of Frankfurt,Germany,5-7,-,30,0,16.6,21.2,39.7,25.7,2018
+101-150,University of Freiburg,Germany,5-7,-,22.1,18.6,16.6,16,38.5,25,2018
+101-150,University of Gothenburg,Sweden,4-5,-,0,15.2,19.2,13.7,45.9,21.9,2018
+101-150,University of Lausanne,Switzerland,6-7,-,12.4,17,16.6,22.5,34.9,24,2018
+101-150,University of Leeds,United Kingdom,9-16,-,16.8,0,27.1,19.5,46.8,22.8,2018
+101-150,University of Liverpool,United Kingdom,9-16,-,16.8,13.1,16.6,20.7,46.3,25.7,2018
+101-150,University of Montreal,Canada,5-6,-,11.4,0,19.2,16.2,52.9,23.9,2018
+101-150,University of Nottingham,United Kingdom,9-16,-,11.4,19.7,21.4,13.4,48.8,22.2,2018
+101-150,University of Science and Technology of China,China,4-7,-,0,0,21.4,20.4,60.6,26.2,2018
+101-150,University of Southampton,United Kingdom,9-16,-,0,0,27.1,22.5,49.4,25.9,2018
+101-150,University of Strasbourg,France,4-6,-,28.3,33.1,0,17.1,37.5,22.1,2018
+101-150,University of Utah,USA,47-58,-,0,11.4,19.2,24.6,51.6,28.3,2018
+101-150,University of Wageningen,Netherlands,5-8,-,0,0,28.7,16.6,42,35.1,2018
+101-150,University of Warwick,United Kingdom,9-16,-,13.4,29.4,9.6,16.6,43.8,26.8,2018
+101-150,University Paris Diderot - Paris 7,France,4-6,-,11.4,9.3,16.6,27.9,47.2,24.7,2018
+101-150,VU University Amsterdam,Netherlands,5-8,-,0,0,33.2,15.7,54.7,35.2,2018
+101-150,Weizmann Institute of Science,Israel,3,-,17.6,16.1,13.5,36.1,28.3,25.4,2018
+151-200,Catholic University of Louvain,Belgium,3-4,-,10.2,13.1,19.2,9.9,35.7,27.1,2018
+151-200,Curtin University,Australia,9,-,0,0,21.4,13.9,43.7,29.3,2018
+151-200,Delft University of Technology,Netherlands,9,-,11.4,0,13.5,18.2,43.2,24.8,2018
+151-200,Harbin Institute of Technology,China,8-12,-,0,0,21.4,8.7,58.6,15.6,2018
+151-200,Hokkaido University,Japan,6-7,-,11.4,16.1,9.6,11,44.8,20.1,2018
+151-200,Huazhong University of Science and Technology,China,8-12,-,0,0,9.6,8.3,63.3,17.1,2018
+151-200,London School of Economics and Political Science,United Kingdom,17-21,-,23.8,16.1,0,31.3,27.7,2018
+151-200,London School of Hygiene & Tropical Medicine,United Kingdom,17-21,-,7.2,0,27.1,10,35.2,35.4,2018
+151-200,Nanjing University,China,8-12,-,0,0,13.5,11.5,59.4,20.2,2018
+151-200,National Taiwan University,Taiwan,1,-,11.4,0,16.6,11.6,53,19.7,2018
+151-200,North Carolina State University - Raleigh,USA,59-69,-,0,0,21.4,13.5,44.7,20,2018
+151-200,Oregon Health and Science University,USA,59-69,-,0,0,16.6,24.3,37.2,21.3,2018
+151-200,Oregon State University,USA,59-69,-,10.2,0,19.2,21.9,38.8,23.8,2018
+151-200,Queen Mary University of London,United Kingdom,17-21,-,17.6,0,19.2,17.4,39.3,24,2018
+151-200,Sichuan University,China,8-12,-,0,0,13.5,9.2,61.7,14.5,2018
+151-200,Sungkyunkwan University,South Korea,2,-,0,0,16.6,13.1,51.4,22.4,2018
+151-200,Technical University of Denmark,Denmark,3,-,5.1,11.4,16.6,16.8,42.7,24.6,2018
+151-200,Tel Aviv University,Israel,4,-,0,0,9.6,18.8,51.8,27.4,2018
+151-200,Texas A&M University,USA,59-69,-,0,0,21.4,16.6,55.1,18.7,2018
+151-200,Chinese University of Hong Kong,Hong Kong,2,-,0,13.9,13.5,11.6,46.9,26.2,2018
+151-200,University of Calgary,Canada,7-9,-,0,0,19.2,14.5,48.3,20.8,2018
+151-200,University of Glasgow,United Kingdom,17-21,-,7.2,0,21.4,19.2,44.2,23.5,2018
+151-200,Tokyo Institute of Technology,Japan,6-7,-,12.4,29.4,0,14.4,37.8,28.6,2018
+151-200,Trinity College Dublin,Ireland,1,-,15.2,13.1,16.6,16.2,33.5,21.6,2018
+151-200,TU Dresden,Germany,9-14,-,0,0,21.4,17.5,43.2,25.1,2018
+151-200,Tufts University,USA,59-69,-,18.3,16.1,16.6,12.5,35.6,25.1,2018
+151-200,Université Grenoble Alpes,France,7-8,-,0,14.7,0,24.2,47,20.5,2018
+151-200,Université libre de Bruxelles,Belgium,3-4,-,19.7,26.3,0,14.6,34.6,32,2018
+151-200,University of Barcelona,Spain,1,-,0,0,27.1,12.5,53.3,23.2,2018
+151-200,University of California - Riverside,USA,59-69,-,12.4,0,27.1,16.7,35.5,25.7,2018
+151-200,University of Cologne,Germany,8-14,-,0,11.4,9.6,20,39.7,22.9,2018
+151-200,University of Exeter,United Kingdom,17-21,-,0,0,30.3,18.7,39.1,26.9,2018
+151-200,University of Hamburg,Germany,8-14,-,11.4,0,16.6,22.6,39.1,23.9,2018
+151-200,University of Iowa,USA,59-69,-,0,0,19.2,14.8,46.9,17.8,2018
+151-200,University of Leipzig,Germany,8-14,-,11.4,13.1,13.5,10.3,35.7,20.7,2018
+151-200,University of Lisbon,Portugal,1,-,0,8,9.6,12.5,50.1,26,2018
+151-200,University of Massachusetts Amherst,USA,59-69,-,13.4,0,25.3,15.7,38.5,23.2,2018
+151-200,University of Massachusetts Medical School - Worcester,USA,59-69,-,0,19.7,9.6,23.1,26.6,20.5,2018
+151-200,University of Milan,Italy,1,-,16.8,0,13.5,10.1,49.9,23.3,2018
+151-200,University of Muenster,Germany,8-14,-,19,13.1,16.6,17,35.8,22.9,2018
+151-200,University of Ottawa,Canada,7-9,-,0,0,13.5,17.8,46.8,22.3,2018
+151-200,University of Paris Descartes (Paris 5),France,7-8,-,11.4,9.3,21.4,10.8,43.5,22.9,2018
+151-200,University of Rochester,USA,59-69,-,27.8,7.6,13.5,17.5,39.9,17.9,2018
+151-200,University of São Paulo,Brazil,1,-,0,0,0,14.2,76.2,17.1,2018
+151-200,University of Tuebingen,Germany,8-14,-,22.1,0,9.6,18.9,43.1,24.7,2018
+151-200,University of Vienna,Austria,1,-,13.4,0,21.4,19.1,38.1,26.9,2018
+151-200,University of Virginia,USA,59-69,-,0,0,19.2,24.6,46.1,19.1,2018
+151-200,University of Waterloo,Canada,7-9,-,0,0,21.4,12.6,44,23.4,2018
+151-200,University of Wuerzburg,Germany,8-14,-,19,0,21.4,15.5,32.2,21.4,2018
+151-200,Xian Jiaotong University,China,8-12,-,0,0,9.6,9.3,61.1,17,2018
+201-300,Aalborg University,Denmark,4,-,0,0,25.3,6.8,36,21.8,2018
+201-300,Beihang University,China,13-23,-,0,0,16.6,6.8,49.7,16.4,2018
+201-300,Beijing Normal University,China,13-23,-,15.2,0,13.5,7.9,43.8,16.4,2018
+201-300,Brandeis University,USA,70-95,-,19,12,9.6,16.4,18.7,27.8,2018
+201-300,Central South University,China,13-23,-,0,0,13.5,4.9,59.8,16.5,2018
+201-300,Chalmers University of Technology,Sweden,6-8,-,0,0,16.6,11.8,32,24.2,2018
+201-300,Charles University in Prague,Czech Republic,1,-,8.8,0,13.5,8.9,46.9,19.9,2018
+201-300,China Medical University (Taichung),Taiwan,2,-,0,0,30.3,2.6,33.2,31,2018
+201-300,City University of Hong Kong,Hong Kong,3-5,-,0,0,25.3,6.1,41.2,27.1,2018
+201-300,Claude Bernard University Lyon 1,France,9-14,-,10.2,0,9.6,19.9,43.2,19.9,2018
+201-300,Colorado State University,USA,70-95,-,0,0,9.6,16.9,38.9,19.5,2018
+201-300,Complutense University of Madrid,Spain,2-4,-,19,0,0,12.2,44,14.5,2018
+201-300,Dalian University of Technology,China,13-23,-,0,0,13.5,7.3,47.5,15.7,2018
+201-300,Dartmouth College,USA,70-95,-,17.6,0,16.6,13.4,26.7,22.2,2018
+201-300,Deakin University,Australia,10-15,-,0,0,23.5,9.2,41.2,25.8,2018
+201-300,Durham University,United Kingdom,22-28,-,0,0,23.5,15.6,36.2,23.4,2018
+201-300,Florida State University,USA,70-95,-,0,0,13.5,15.3,39.3,20.2,2018
+201-300,George Mason University,USA,70-95,-,0,31.5,0,6.1,29.5,19.4,2018
+201-300,Georgetown University,USA,70-95,-,0,0,27.1,6,33,23.8,2018
+201-300,Hanyang University,South Korea,3-5,-,0,0,13.5,9.5,42.7,22.1,2018
+201-300,Iowa State University,USA,70-95,-,0,0,23.5,9.1,42,20.6,2018
+201-300,James Cook University,Australia,10-15,-,0,0,16.6,14.9,29.5,27.9,2018
+201-300,Jilin University,China,13-23,-,0,0,13.5,7.4,58.3,13.3,2018
+201-300,Karlsruhe Institute of Technology,Germany,15-20,-,0,0,16.6,14.4,38,21.5,2018
+201-300,King Abdullah University of Science and Technology,Saudi Arabia,3,-,0,0,27.1,14,30.8,21.2,2018
+201-300,Korea Advanced Institute of Science and Technology,South Korea,3-5,-,0,0,16.6,14,40.7,28.2,2018
+201-300,Korea University,South Korea,3-5,-,0,0,9.6,9.3,55.1,22.8,2018
+201-300,KTH Royal Institute of Technology,Sweden,6-8,-,0,14.7,0,13.8,40.8,28.5,2018
+201-300,Kyushu University,Japan,8-9,-,0,0,9.6,12.6,46.5,19,2018
+201-300,Laval University,Canada,10-12,-,0,0,16.6,10.5,39.2,18.4,2018
+201-300,Maastricht University,Netherlands,10,-,0,0,13.5,4.7,44.3,26.5,2018
+201-300,Macquarie University,Australia,10-15,-,0,0,16.6,13.1,39.3,26.6,2018
+201-300,Medical University of Vienna,Austria,2-3,-,8.8,9.3,13.5,11.8,35.5,21.5,2018
+201-300,National Autonomous University of Mexico,Mexico,1,-,12.4,0,0,11.4,52.4,26.6,2018
+201-300,Newcastle University,United Kingdom,22-28,-,0,0,13.5,17,42.2,20.9,2018
+201-300,Northeastern University (Boston),USA,70-95,-,0,0,13.5,18.7,33.9,22.5,2018
+201-300,Paul Sabatier University (Toulouse 3),France,9-14,-,0,0,13.5,18.9,37.1,17.3,2018
+201-300,Polytechnic Institute of Milan,Italy,2-8,-,7.2,14.7,9.6,5.4,35,20.3,2018
+201-300,Pompeu Fabra University,Spain,2-4,-,0,0,13.5,20.1,28.5,39.4,2018
+201-300,Queen's University,Canada,10-12,-,0,20.8,0,9.3,35,23.1,2018
+201-300,Queensland University of Technology,Australia,10-15,-,0,0,21.4,5.7,38.5,23.4,2018
+201-300,RWTH Aachen University,Germany,15-20,-,0,0,13.5,7.1,44.9,23.2,2018
+201-300,Sapienza University of Rome,Italy,2-8,-,11.4,13.1,0,8.7,51.2,18.9,2018
+201-300,Soochow University,China,13-23,-,0,0,19.2,7.8,48.1,14.4,2018
+201-300,South China University of Technology,China,13-23,-,0,0,16.6,3,50.6,15.9,2018
+201-300,Southeast University,China,13-23,-,0,0,19.2,5.9,52.6,16.4,2018
+201-300,Swedish University of Agricultural Sciences,Sweden,6-8,-,0,0,13.5,14.7,30.7,30.7,2018
+201-300,George Washington University,USA,70-95,-,11.4,0,9.6,10.9,37.9,19.5,2018
+201-300,Hong Kong Polytechnic University,Hong Kong,3-5,-,0,0,23.5,3.9,44.8,26.9,2018
+201-300,Hong Kong University of Science and Technology,Hong Kong,3-5,-,0,0,21.4,8.8,34.1,27.7,2018
+201-300,University of Auckland,New Zealand,1,-,13.4,0,16.6,9,45,20.4,2018
+201-300,University of Georgia,USA,70-95,-,0,0,13.5,17.6,44.8,18.3,2018
+201-300,University of Reading,United Kingdom,22-28,-,0,0,23.5,11.5,29,23.7,2018
+201-300,Tianjin University,China,13-23,-,0,0,0,9.3,58.2,17.7,2018
+201-300,University of Aberdeen,United Kingdom,22-28,-,0,13.1,13.5,11.1,31.6,22.7,2018
+201-300,University of Alabama at Birmingham,USA,70-95,-,0,0,16.6,9.2,43.4,15.9,2018
+201-300,University of Antwerp,Belgium,5-6,-,0,0,13.5,9.1,38.6,28.4,2018
+201-300,University of Bergen,Norway,3,-,0,0,9.6,14.7,39.1,21.3,2018
+201-300,University of Bologna,Italy,2-8,-,0,0,19.2,8.2,50,19.7,2018
+201-300,University of Bordeaux,France,9-14,-,0,0,13.5,17.2,41.2,18.1,2018
+201-300,University of Buenos Aires,Argentina,1,-,14.4,23.7,0,8.7,35.7,22,2018
+201-300,University of Colorado at Denver,USA,70-95,-,0,0,23.5,14.4,32.3,13,2018
+201-300,University of Delaware,USA,70-95,-,10.2,16.1,9.6,10.4,33.3,19,2018
+201-300,University of East Anglia,United Kingdom,22-28,-,19,0,13.5,16.4,30.5,24.9,2018
+201-300,University of Electronic Science and Technology of China,China,13-23,-,0,0,30.3,4.3,42,16.1,2018
+201-300,University of Erlangen - Nuremberg,Germany,15-20,-,0,0,19.2,15.7,41.3,23.6,2018
+201-300,University of Granada,Spain,2-4,-,0,0,23.5,4.2,40.8,16.3,2018
+201-300,University of Hawaii at Manoa,USA,70-95,-,0,0,19.2,20.8,35.9,21.6,2018
+201-300,University of Houston,USA,70-95,-,0,0,13.5,12,40.1,21.5,2018
+201-300,University of Illinois at Chicago,USA,70-95,-,0,0,13.5,13,45.5,18.3,2018
+201-300,University of Innsbruck,Austria,2-3,-,0,9.3,19.2,18.4,27,27.4,2018
+201-300,University of Kansas,USA,70-95,-,17.6,0,13.5,11.2,41.9,16.3,2018
+201-300,University of Kiel,Germany,15-20,-,10.2,13.1,16.6,12.2,31.5,19.8,2018
+201-300,University of Leicester,United Kingdom,22-28,-,0,0,13.5,16.8,32.1,20.8,2018
+201-300,University of Lorraine,France,9-14,-,11.4,16.1,9.6,11.7,36.1,14,2018
+201-300,University of Mainz,Germany,15-20,-,0,7.6,0,18.7,38.1,21.1,2018
+201-300,University of Maryland - Baltimore,USA,70-95,-,0,0,16.6,12.4,38.8,17.2,2018
+201-300,University of Miami,USA,70-95,-,0,0,16.6,13.6,42,20.7,2018
+201-300,University of Missouri - Columbia,USA,70-95,-,8.8,0,13.5,11,39.6,16.4,2018
+201-300,University of Montpellier,France,9-14,-,10.2,0,9.6,18.7,40.6,19.2,2018
+201-300,University of Naples Federico II,Italy,2-8,-,0,0,9.6,6.6,46.8,19.4,2018
+201-300,University of Nebraska - Lincoln,USA,70-95,-,16.8,0,19.2,12.3,37.4,21,2018
+201-300,University of Notre Dame,USA,70-95,-,12.4,0,16.6,14.5,32.8,20.8,2018
+201-300,University of Padua,Italy,2-8,-,0,0,9.6,13.1,51.9,22.4,2018
+201-300,University of Pisa,Italy,2-8,-,13.4,22.8,0,5.9,40.3,23.7,2018
+201-300,University of South Florida,USA,70-95,-,0,0,16.6,9.5,39.2,18.2,2018
+201-300,University of Sussex,United Kingdom,22-28,-,0,22.1,9.6,13.2,30.6,23.8,2018
+201-300,University of Tasmania,Australia,10-15,-,0,0,16.6,11.8,34.3,26.6,2018
+201-300,University of Tennessee - Knoxville,USA,70-95,-,10.2,0,13.5,13.9,42.9,21,2018
+201-300,University of the Witwatersrand,South Africa,1,-,18.3,0,13.5,10.7,38.9,21.8,2018
+201-300,University of Toulouse 1,France,9-14,-,0,29.4,9.6,11.6,32.2,2018
+201-300,University of Tsukuba,Japan,8-9,-,0,19.3,0,13.6,37.8,17.4,2018
+201-300,University of Turin,Italy,2-8,-,15.2,0,16.6,8.1,43.2,21.5,2018
+201-300,University of Ulm,Germany,15-20,-,0,0,21.4,13.6,31.8,19.9,2018
+201-300,University of Wollongong,Australia,10-15,-,0,0,19.2,12.4,36.3,26.5,2018
+201-300,Virginia Commonwealth University,USA,70-95,-,10.2,13.9,16.6,5.7,36.9,15.5,2018
+201-300,Virginia Polytechnic Institute and State University,USA,70-95,-,11.4,0,9.6,12.2,43.9,18.5,2018
+201-300,Vrije Universiteit Brussel,Bruxelles,5-6,-,13.4,0,9.6,11.6,32.9,28.6,2018
+201-300,Western University,Canada,10-12,-,0,0,13.5,11.5,45.5,21,2018
+201-300,Wuhan University,China,13-23,-,0,0,9.6,5.7,57.4,14.5,2018
+301-400,Aalto University,Finland,2-3,-,0,0,9.6,11,34.6,18.4,2018
+301-400,Autonomous University of Barcelona,Spain,5-7,-,0,0,0,11.2,47.8,22.7,2018
+301-400,Autonomous University of Madrid,Spain,5-7,-,0,0,9.6,12.8,40.3,19.5,2018
+301-400,Boston College,USA,96-117,-,0,0,13.5,16.8,23.5,17.8,2018
+301-400,Chiba University,Japan,10-12,-,0,0,13.5,10.8,29.5,17.5,2018
+301-400,China Agricultural University,China,24-35,-,0,0,9.6,12.2,37.8,15.5,2018
+301-400,Dalhousie University,Canada,13-18,-,12.4,0,0,11.4,35.7,18.9,2018
+301-400,Drexel University,USA,96-117,-,0,0,19.2,9.7,31.4,21.8,2018
+301-400,East China University of Science and Technology,China,24-35,-,0,0,13.5,3.8,37.1,14.1,2018
+301-400,École Normale Superieure - Lyon,France,15-17,-,0,19.7,0,6.6,24.4,35.6,2018
+301-400,Eindhoven University of Technology,Netherlands,11,-,0,0,13.5,8.7,31.8,23,2018
+301-400,ESPCI ParisTech,France,15-17,-,7.2,18.6,0,13.8,15.9,33.2,2018
+301-400,Federal University of Rio de Janeiro,Brazil,2-4,-,0,0,0,10,42.2,21.2,2018
+301-400,Griffith University,Australia,16-21,-,0,0,0,9.2,41.8,22.5,2018
+301-400,Hannover Medical School,Germany,21-28,-,0,0,13.5,9.5,30.8,17.1,2018
+301-400,Hunan University,China,24-35,-,0,0,13.5,5.9,40.4,15.2,2018
+301-400,Indiana University - Purdue University at Indianapolis,USA,96-117,-,0,0,9.6,12.9,40,14.9,2018
+301-400,Keio University,Japan,10-12,-,0,0,9.6,12.6,35.4,15.2,2018
+301-400,King Fahd University of Petroleum & Minerals,Saudi Arabia,4,-,0,0,23.5,2.1,24.9,21,2018
+301-400,Kyung Hee University,South Korea,6-8,-,0,0,13.5,4.8,40.7,17.3,2018
+301-400,La Trobe University,Australia,16-21,-,0,0,13.5,8.5,34.3,26.2,2018
+301-400,Lancaster University,United Kingdom,29-34,-,0,0,13.5,10.1,33.6,20.2,2018
+301-400,Lanzhou University,China,24-35,-,0,0,9.6,5.6,42.5,15,2018
+301-400,Linkoping University,Sweden,9,-,0,0,13.5,7.2,35.9,19.4,2018
+301-400,Louisiana State University - Baton Rouge,USA,96-117,-,0,0,9.6,11.2,34.8,18,2018
+301-400,Medical University of South Carolina,USA,96-117,-,0,0,9.6,7.3,31.7,38.4,2018
+301-400,Nanjing Agricultural University,China,24-35,-,0,0,9.6,9.2,35.5,14.3,2018
+301-400,Nanjing University of Science and Technology,China,24-35,-,0,0,9.6,8.1,36.6,13.3,2018
+301-400,Nankai University,China,24-35,-,0,0,16.6,3.9,40.6,15,2018
+301-400,National and Kapodistrian University of Athens,Greece,1,-,0,0,13.5,5.1,38.3,20,2018
+301-400,National Cheng Kung University,Taiwan,3,-,0,0,9.6,6.9,37.8,17,2018
+301-400,Northwestern Polytechnical University,China,24-35,-,0,0,13.5,3.1,42.5,14.7,2018
+301-400,Okayama University,Japan,10-12,-,0,0,13.5,12,29.6,14.3,2018
+301-400,Paris Dauphine University (Paris 9),France,15-17,-,20.3,26.3,0,0,14.3,29.3,2018
+301-400,Queen's University Belfast,United Kingdom,29-34,-,17.6,0,0,11.6,32.9,19.4,2018
+301-400,RMIT University,Australia,16-21,-,0,0,13.5,5.9,34.6,20.7,2018
+301-400,Saint Petersburg State University,Russia,2,-,26.4,0,0,5.7,36.4,20.2,2018
+301-400,Shandong University,China,24-35,-,0,0,0,2.1,60.5,14.2,2018
+301-400,Simon Fraser University,Canada,13-18,-,0,0,9.6,11.7,35.7,20.2,2018
+301-400,Stony Brook University,USA,96-117,-,0,0,0,21,38.7,17,2018
+301-400,Swinburne University of Technology,Australia,16-21,-,0,0,13.5,9.7,26.5,25.2,2018
+301-400,Technical University of Berlin,Germany,21-28,-,16.1,0,13.5,9,31.5,18.2,2018
+301-400,Temple University,USA,96-117,-,0,0,9.6,11,37.3,13.3,2018
+301-400,University of Dundee,United Kingdom,29-34,-,0,0,16.6,14.7,24.4,25,2018
+301-400,University of New Mexico - Albuquerque,USA,96-117,-,0,0,9.6,16.4,34.8,15.8,2018
+301-400,University of Newcastle - Australia,Australia,16-21,-,0,0,13.5,5.7,37.7,25.4,2018
+301-400,University of Texas at Dallas,USA,96-117,-,13.4,0,9.6,10.4,29.3,22.6,2018
+301-400,University of Texas Health Science Center at Houston,USA,96-117,-,0,15.2,0,13.6,34.4,15.3,2018
+301-400,University of Texas Health Science Center at San Antonio,USA,96-117,-,0,0,21.4,7.7,24.4,18.4,2018
+301-400,Tongji University,China,24-35,-,0,0,0,9.8,54.2,16.2,2018
+301-400,Ulsan National Institute of Science and Technology,South Korea,6-8,-,0,0,21.4,7.3,19.2,26.8,2018
+301-400,UNESP,Brazil,2-4,-,0,0,0,5.9,46.7,23,2018
+301-400,University at Buffalo - the State University of New York,USA,96-117,-,0,0,9.6,11.2,39.3,16.4,2018
+301-400,University College Dublin,Ireland,2,-,0,0,13.5,8.3,36.8,19.6,2018
+301-400,University of Belgrade,Serbia,1,-,0,0,13.5,4.3,43.4,22.3,2018
+301-400,University of Bochum,Belgium,21-28,-,0,0,13.5,9.6,36.4,19.6,2018
+301-400,University of Campinas,Brazil,2-4,-,0,0,0,5.7,45.2,22.3,2018
+301-400,University of Cape Town,South Africa,2,-,18.3,0,0,11.8,39.7,21.2,2018
+301-400,University of Central Florida,USA,96-117,-,0,0,9.6,10.5,33,18,2018
+301-400,University of Chile,Chile,1,-,7.2,0,0,11,36.5,18.8,2018
+301-400,University of Cincinnati,USA,96-117,-,0,0,9.6,10.7,41,15.1,2018
+301-400,University of Connecticut,USA,96-117,-,11.4,0,0,12.5,37.8,14.5,2018
+301-400,University of Duesseldorf,Germany,21-28,-,11.4,0,9.6,10.9,32.7,17.9,2018
+301-400,University of Duisburg - Essen,Germany,21-28,-,0,0,13.5,10.4,33.3,18.3,2018
+301-400,University of Florence,Italy,9-10,-,0,0,9.6,9.4,40.9,19.8,2018
+301-400,University of Fribourg,Switzerland,8,-,0,0,21.4,8.1,21.3,22.7,2018
+301-400,University of Guelph,Canada,13-18,-,0,0,16.6,9.8,32,20.3,2018
+301-400,University of Jena,Germany,21-28,-,0,0,13.5,12.8,31.9,18.1,2018
+301-400,University of Kentucky,USA,96-117,-,10.2,0,0,12.1,41.8,17.7,2018
+301-400,University of Liege,Belgium,7,-,7.2,0,0,13.2,33.4,24.5,2018
+301-400,University of Malaya,Malaysia,1,-,0,0,13.5,2.8,42.8,22,2018
+301-400,University of Manitoba,Canada,13-18,-,0,0,16.6,7.3,36.8,18.6,2018
+301-400,University of Marburg,Germany,21-28,-,10.2,0,9.6,13.1,28.9,16.6,2018
+301-400,University of North Texas,USA,96-117,-,0,0,19.2,4.6,27.8,19,2018
+301-400,University of Oregon,USA,96-117,-,8.8,0,9.6,11.6,28.4,18.2,2018
+301-400,University of Otago,New Zealand,2-3,-,0,0,9.6,8.3,36.4,21.2,2018
+301-400,University of Pavia,Italy,9-10,-,0,0,16.6,4.1,33.1,23.2,2018
+301-400,University of Porto,Portugal,2,-,0,0,0,11.8,44.6,18.9,2018
+301-400,University of Saskatchewan,Canada,13-18,-,8.8,0,13.5,6.6,34.2,18.8,2018
+301-400,University of South Carolina - Columbia,USA,96-117,-,0,0,9.6,9.4,37.4,16.2,2018
+301-400,University of Southern Denmark,Denmark,5,-,0,0,9.6,10.9,41,21.3,2018
+301-400,University of St Andrews,United Kingdom,29-34,-,10.2,0,0,17.8,31.4,23.2,2018
+301-400,University of Stuttgart,Germany,21-28,-,18.3,0,9.6,14,28,17.2,2018
+301-400,University of Surrey,United Kingdom,29-34,-,0,0,16.6,4.6,30.5,23.2,2018
+301-400,University of Tartu,Estonia,1,-,0,0,21.4,11.5,26.1,17.5,2018
+301-400,University of Technology Sydney,Australia,16-21,-,0,0,13.5,6,35.3,21.9,2018
+301-400,University of Tehran,Iran,1,-,12.4,0,0,1.5,44.3,22.1,2018
+301-400,University of the Basque Country,Spain,5-7,-,0,0,9.6,12.2,38.1,16.6,2018
+301-400,University of Turku,Finland,2-3,-,0,0,13.5,10.3,35.3,19.2,2018
+301-400,University of Vermont,USA,96-117,-,13.4,0,9.6,10.3,27.7,15.7,2018
+301-400,University of Victoria,Canada,13-18,-,0,0,16.6,12.6,31,22.5,2018
+301-400,University of Warsaw,Poland,1,-,15.2,0,9.6,11.5,32.6,18.3,2018
+301-400,University of York,United Kingdom,29-34,-,0,0,9.6,12.9,35.2,20.8,2018
+301-400,Victoria University of Wellington,New Zealand,2-3,-,11.4,0,9.6,11,26.3,19.9,2018
+301-400,Vienna University of Technology,Austria,4,-,0,0,9.6,15.1,29.2,26.4,2018
+301-400,Washington State University,USA,96-117,-,0,0,9.6,8.5,33.1,18.2,2018
+301-400,Wuhan University of Technology,China,24-35,-,0,0,21.4,4.7,35.2,11.3,2018
+301-400,Xiamen University,China,24-35,-,0,0,0,12,46.9,14.2,2018
+301-400,Yeshiva University,USA,96-117,-,0,0,0,23.6,32.2,22.6,2018
+301-400,Yonsei University,South Korea,6-8,-,0,0,0,5.9,54.9,20.5,2018
+401-500,Amirkabir University of Technology,Iran,2,-,0,0,13.5,0,33,17.4,2018
+401-500,Aristotle University of Thessaloniki,Greece,2-3,-,0,0,9.6,2.1,34.2,17.4,2018
+401-500,Bar - Ilan University,Israel,5-6,-,0,0,9.6,7.8,29.6,15.7,2018
+401-500,Beijing Institute of Technology,China,36-51,-,0,0,0,1.5,42.5,14,2018
+401-500,Beijing University of Chemical Technology,China,36-51,-,0,0,9.6,1.5,33,15.1,2018
+401-500,Ben - Gurion University of the Negev,Israel,5-6,-,0,0,0,10.2,36.3,18.4,2018
+401-500,Bielefeld University,Germany,29-36,-,0,0,13.5,9.2,24.7,14.5,2018
+401-500,Brigham Young University,USA,118-139,-,8.8,0,9.6,8.3,27.5,13.4,2018
+401-500,Brunel University,United Kingdom,35-39,-,0,0,16.6,3.3,24.1,18.4,2018
+401-500,Cairo University,Egypt,1,-,19,0,0,2.6,35.9,18.8,2018
+401-500,Capital Medical University,China,36-51,-,0,0,0,2.8,44,25.9,2018
+401-500,Catholic University of Chile,Chile,2,-,0,0,0,9.1,34,17.2,2018
+401-500,Chang Gung University,Taiwan,4-6,-,0,0,9.6,1.5,36.8,24.2,2018
+401-500,China University of Geosciences (Wuhan),China,36-51,-,0,0,13.5,6.6,31,12.9,2018
+401-500,Chongqing University,China,36-51,-,0,0,9.6,0,43,12.8,2018
+401-500,City University of New York City College,USA,118-139,-,30.9,0,0,10.4,16.5,19.2,2018
+401-500,East China Normal University,China,36-51,-,0,0,9.6,6.1,36.5,12.5,2018
+401-500,École Polytechnique,France,18-19,-,21.5,0,0,8.7,25.3,21.9,2018
+401-500,Federal University of Minas Gerais,Brazil,5-6,-,0,0,0,2.1,40.6,19.9,2018
+401-500,Federal University of Rio Grande do Sul,Brazil,5-6,-,0,0,0,5.6,41.2,20.3,2018
+401-500,Flinders University,Australia,22-23,-,15.2,0,0,6.9,30.9,23.9,2018
+401-500,Florida International University,USA,118-139,-,0,0,9.6,6.6,32.1,17.3,2018
+401-500,Harbin Engineering University,China,36-51,-,0,0,13.5,3.3,28.3,11.3,2018
+401-500,Heriot - Watt University,United Kingdom,35-39,-,0,0,13.5,5,23,20.3,2018
+401-500,Huazhong Agricultural University,China,36-51,-,0,0,13.5,6.5,32.2,14,2018
+401-500,Indian Institute of Science,India,1,-,0,0,0,0,41.3,20.2,2018
+401-500,Istanbul University,Turkey,1,-,18.3,0,0,3,34.7,18.2,2018
+401-500,Jagiellonian University,Poland,2,-,10.2,0,0,5.4,37.9,19,2018
+401-500,Kansas State University,USA,118-139,-,0,0,0,12.3,31.4,17.7,2018
+401-500,Kaohsiung Medical University,Taiwan,4-6,-,0,0,13.5,3.6,27.9,20.8,2018
+401-500,Kent State University,USA,118-139,-,0,0,13.5,9.3,24,15.6,2018
+401-500,Kobe University,Japan,13-16,-,14.4,0,0,10.5,32.9,16.3,2018
+401-500,Medical University of Innsbruck,Austria,5-6,-,0,0,9.6,7.1,22.6,23.1,2018
+401-500,MINES ParisTech,France,18-19,-,13.4,24.6,0,3.9,8.9,13.7,2018
+401-500,Mississippi State University,USA,118-139,-,0,0,13.5,5.1,25,15.9,2018
+401-500,Moscow Institute of Physics and Technology,Russia,3-4,-,20.9,0,0,6.2,28.2,15.9,2018
+401-500,Nanjing Medical University,China,36-51,-,0,0,0,3.9,41.2,21.7,2018
+401-500,NanJing Tech University,China,36-51,-,0,0,13.5,2.1,32.5,13.7,2018
+401-500,Nanjing University of Aeronautics and Astronautics,China,36-51,-,0,0,13.5,0,35.6,13.6,2018
+401-500,Nanjing University of Information Science & Technology,China,36-51,-,0,0,9.6,5.1,31.9,13.7,2018
+401-500,National Technical University of Athens,Greece,2-3,-,0,0,19.2,0,24.9,15.4,2018
+401-500,National Tsing Hua University,Taiwan,4-6,-,12.4,0,0,9.2,30.6,20.5,2018
+401-500,National University of Ireland - Galway,Ireland,3-4,-,0,0,13.5,6.7,23.8,13.8,2018
+401-500,Northeastern University (Shenyang),China,36-51,-,0,0,9.6,0,37.4,11.4,2018
+401-500,Novosibirsk State University,Russia,3-4,-,13.4,0,0,5.7,33.9,17.5,2018
+401-500,Oklahoma State University,USA,118-139,-,0,0,9.6,4.9,30.2,16.6,2018
+401-500,Peking Union Medical College,China,36-51,-,0,0,0,10.1,39.4,17.7,2018
+401-500,Pohang University of Science and Technology,South Korea,9-10,-,0,0,0,14.5,30.1,30.5,2018
+401-500,Polytechnic University of Valencia,Spain,8-10,-,0,0,9.6,8.9,32.4,15.1,2018
+401-500,Rush University,USA,118-139,-,0,0,16.6,3.6,26.9,16.5,2018
+401-500,Saint Louis University,USA,118-139,-,0,11.4,9.6,5.5,26.5,13.4,2018
+401-500,Shanghai University,China,36-51,-,0,0,0,4.9,41.3,12,2018
+401-500,St George's Hospital Medical School,United Kingdom,35-39,-,0,0,13.5,3.6,20.2,36.7,2018
+401-500,Stellenbosch University,South Africa,3-4,-,0,0,9.6,3.9,34,17.4,2018
+401-500,Stockholm School of Economics,Sweden,10-11,-,0,16.1,0,11.2,42.4,2018
+401-500,Technical University Darmstadt,Germany,29-36,-,14.4,0,0,10.6,29.1,15.9,2018
+401-500,Texas Tech University,USA,118-139,-,0,0,9.6,7,34.4,16.4,2018
+401-500,University of Texas Medical Branch at Galveston,USA,118-139,-,0,0,9.6,10.1,23.7,19.5,2018
+401-500,University of Tokushima,Japan,13-16,-,13.4,0,9.6,6.7,21.5,16.7,2018
+401-500,Thomas Jefferson University,USA,118-139,-,0,0,9.6,4.5,28.4,28.4,2018
+401-500,Tokyo University of Science,Japan,13-16,-,12.4,0,9.6,5.7,24.4,18.8,2018
+401-500,Umea University,Sweden,10-11,-,0,0,0,11.4,35.2,18,2018
+401-500,University at Albany (State University of New York),USA,118-139,-,0,0,9.6,8.5,27.3,19,2018
+401-500,University College Cork,Ireland,3-4,-,0,0,16.6,3.3,26.7,15.4,2018
+401-500,University of Aveiro,Portugal,3-4,-,0,0,9.6,3.6,30.8,21.7,2018
+401-500,University of Bath,United Kingdom,35-39,-,0,0,0,10.9,32.3,20.5,2018
+401-500,University of Bayreuth,Germany,29-36,-,0,0,9.6,14.2,22.2,13.7,2018
+401-500,University of Bremen,Germany,29-36,-,0,0,0,15.1,31.3,17,2018
+401-500,University of Canterbury,New Zealand,4,-,0,0,13.5,6.3,25.7,23.2,2018
+401-500,University of Eastern Finland,Finland,4,-,0,0,13.5,7.2,30.5,16.7,2018
+401-500,University of Ferrara,Italy,11-15,-,0,0,9.6,6.2,26.6,22.2,2018
+401-500,University of Graz,Austria,5-6,-,7.2,9.3,0,8.1,21.5,19,2018
+401-500,University of Halle - Wittenberg,Germany,29-36,-,0,6.6,9.6,9.4,26.9,15.1,2018
+401-500,University of Hannover,Germany,29-36,-,0,0,9.6,7.9,27.5,14.8,2018
+401-500,University of Kent,United Kingdom,35-39,-,13.4,0,0,9.4,27.4,17.6,2018
+401-500,University of Konstanz,Germany,29-36,-,0,0,9.6,14.5,24.4,14.6,2018
+401-500,University of Ljubljana,Slovenia,1,-,0,0,0,8.3,35.3,15.1,2018
+401-500,University of Maine,USA,118-139,-,0,17,0,6.7,18.3,19.3,2018
+401-500,University of Milan - Bicocca,Italy,11-15,-,0,0,9.6,5.5,33.6,23.1,2018
+401-500,University of Minho,Portugal,3-4,-,0,0,9.6,3.5,30,16.6,2018
+401-500,University of Montana - Missoula,USA,118-139,-,5.1,0,13.5,9.3,17.9,17,2018
+401-500,University of New Hampshire - Durham,USA,118-139,-,0,0,13.5,11.5,23.1,18,2018
+401-500,University of Oklahoma - Norman,USA,118-139,-,0,0,9.6,7.6,31.3,16.1,2018
+401-500,University of Palermo,Italy,11-15,-,0,0,9.6,6.8,30.6,17,2018
+401-500,University of Parma,Italy,11-15,-,0,0,13.5,3.5,26.1,18.5,2018
+401-500,University of Pretoria,South Africa,3-4,-,0,0,9.6,6.3,34.1,17.6,2018
+401-500,University of Rostock,Germany,29-36,-,0,0,9.6,9.6,26.3,14.5,2018
+401-500,University of Santiago Compostela,Spain,8-10,-,0,0,13.5,6.3,32.3,15.7,2018
+401-500,University of Science and Technology Beijing,China,36-51,-,0,0,0,6.1,39.4,14.6,2018
+401-500,University of Science - Malaysia,Malaysia,2,-,0,0,16.6,0,28.7,16.2,2018
+401-500,University of Ulsan,South Korea,9-10,-,0,0,9.6,4.9,35.6,17,2018
+401-500,University of Valencia,Spain,8-10,-,0,0,0,5.7,44.3,16.4,2018
+401-500,University of Western Sydney,Australia,22-23,-,0,0,9.6,7.6,31.4,20.9,2018
+401-500,University of Wisconsin - Milwaukee,USA,118-139,-,10.2,0,9.6,9.7,25.6,16.2,2018
+401-500,University of Wyoming,USA,118-139,-,0,0,9.6,11.3,24.1,17.9,2018
+401-500,Utah State University,USA,118-139,-,13.4,0,9.6,8.4,26.4,16.8,2018
+401-500,Vita - Salute San Raffaele University,Italy,11-15,-,0,0,9.6,7.5,19.8,35.3,2018
+401-500,Waseda University,Japan,13-16,-,0,0,9.6,6.8,29.5,11.6,2018
+401-500,Wayne State University,USA,118-139,-,0,0,9.6,5.4,36.6,15.3,2018
+401-500,West Virginia University,USA,118-139,-,0,0,9.6,8,31.5,11.9,2018
