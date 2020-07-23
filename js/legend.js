@@ -14,12 +14,27 @@ var svg_legend = d3.select(".legend_area").append("svg")
     .attr("height",'100%')	
 	.attr("transform", "translate(" + margin_legend.left + ", " +  margin_legend.top  + ")");
 
+
 function initLegend(){
 
 	// select the svg area
 	var Svg = d3.select("#my_dataviz2")
 
 	var keys = dl.keyLegend;
+
+	//console.log("keys: ",keys);
+
+	/*countKey = 0;
+	for (i in keys){
+		if(keys[i] == "University of Oslo"){
+			countKey += 1;
+		}
+	}
+	console.log("countKey vale: ", countKey);*/
+
+	removeDuplicates(keys);
+	//console.log("keys remove removeDuplicates: ",keys);
+
 
     var color = d3.scaleOrdinal()
 	  .domain(keys)
@@ -61,3 +76,6 @@ function removeLegend() {
 
 
 
+function removeDuplicates(array) {
+  array.splice(0, array.length, ...(new Set(array)))
+};
