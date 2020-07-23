@@ -77,7 +77,15 @@ function initParallel(){
     .enter().append("path")
     .attr("d", path)
     .attr("institution", function(d){ return d["the_institution"];})
-    .style("stroke", colors.parallelNormal())
+    .style("stroke", function(d){
+      if(dl.dotHighlighted.includes(d["the_institution"])){
+        d3.select(this).raise();
+        return colors.parallelHighlight();
+      }
+      else {
+        return colors.parallelNormal();
+      }
+    })
     .on("mouseover", highlight)
     .on("mouseleave", clearHighlight);
 
