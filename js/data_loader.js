@@ -207,6 +207,7 @@ DataLoader.prototype.changeYear = function(y){
     min_rank = undefined;
     this.data.splice(0, this.data.length);
     this.filteredPar.splice(0, this.filteredPar.length);
+    this.dotHighlighted.splice(0, this.dotHighlighted.length);
     //
     this.uniCoordinates.splice(0, this.uniCoordinates.length);
     this.coordinatesPCA.splice(0, this.coordinatesPCA.length);
@@ -351,6 +352,7 @@ DataLoader.prototype.changeFilter = function(r){
     this.filteredPar.splice(0, this.filteredPar.length);
     this.uniCoordinates.splice(0, this.uniCoordinates.length);
     this.coordinatesPCA.splice(0, this.coordinatesPCA.length);
+    this.dotHighlighted.splice(0, this.dotHighlighted.length);
 
     for(i in this.allData){
         rank = parseInt(this.allData[i].cwur_world_rank);
@@ -400,6 +402,7 @@ DataLoader.prototype.parFilter = function () {
     this.filteredPar.splice(0, this.filteredPar.length);  
     this.uniCoordinates.splice(0, this.uniCoordinates.length);
     this.coordinatesPCA.splice(0, this.coordinatesPCA.length);
+    this.dotHighlighted.splice(0, this.dotHighlighted.length);
     for (i = 0; i < this.data.length; i++) {
         if (this.filterPar(this.data[i])){
             
@@ -450,6 +453,7 @@ DataLoader.prototype.cleanMap = function(){
 
     this.filteredPar.splice(0, this.filteredPar.length);
     this.coordinatesPCA.splice(0,this.coordinatesPCA.length);
+    this.dotHighlighted.splice(0, this.dotHighlighted.length);
 
     for (i = 0; i < this.data.length; i++) {
         uni = this.data[i].the_institution;
@@ -493,6 +497,7 @@ DataLoader.prototype.mapFilter = function () {
 
     this.filteredPar.splice(0, this.filteredPar.length);
     this.coordinatesPCA.splice(0,this.coordinatesPCA.length);
+    this.dotHighlighted.splice(0, this.dotHighlighted.length);
 
 
     for (i = 0; i < this.data.length; i++) {
