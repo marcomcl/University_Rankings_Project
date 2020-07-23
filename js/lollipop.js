@@ -50,7 +50,7 @@ function initLollipop(){
       .transition().duration(1000).call(d3.axisBottom(x))
     
     xAxis.selectAll("text")
-	  .style("font-size", 8)
+	  .style("font-size", 10)
 	  .style("text-anchor", "end")
    	  .attr("transform", "translate(0,+15),rotate(-15)" );
 
