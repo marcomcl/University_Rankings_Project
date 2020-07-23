@@ -177,6 +177,7 @@ function initParallel(){
         }
         return "none";
       });
+      updateParallelByScatter()
     }
     function filterPar(d) {
       //console.log("chiamo filterPar");
@@ -204,6 +205,7 @@ function initParallel(){
         }
       }
       dl.parFilter();
+      updateParallelByScatter()
     }
 
     
