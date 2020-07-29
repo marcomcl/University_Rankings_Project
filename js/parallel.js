@@ -20,6 +20,33 @@ function initParallel(){
     dataParallel = getDataPar();
 
     countries = [];
+      /////////////////////////////////////
+    var legend = svg_par.selectAll('legend')
+        .data(['university','selected', 'selected from scatter'])
+        .enter().append('g')
+        .attr('class', 'legend')
+        .attr('transform', function (d, i) { return 'translate(500,' + i * 20 + ')'; });
+
+      legend.append('rect')
+        .attr('x', width_scatter)
+        .attr('width', 15)
+        .attr('height', 15)
+        .attr('class', 'legend_rect')
+        .style('fill', function (d) { return colors.getColorUniversity()});
+
+      legend.append('text')
+        .attr('x', width_scatter - 2)
+        .attr('y', 9)
+        .attr('dy', '.25em')
+        .style('text-anchor', 'end')
+        .style("fill", colors.getColorUniversity())
+        .text(function (d) { return d; });
+
+
+
+
+
+  ////////////////////////////////////////
 
     dimensions = ["cwur_score", "the_overall", "shg_score", "shg_score_on_alumni", "the_teaching"]
     names = ["Score [cwur]", "Score [the]", "Score [shg]", "Score on Alumni [shg]", "Teaching [the]"]

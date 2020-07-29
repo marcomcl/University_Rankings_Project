@@ -30,10 +30,45 @@ var last_zoom_transform;
 paesi_selezionati = [];
 //d.propertties name dei paesi inseriti nella mappa
 
+// Handmade legend
+/*svg_map.append("circle").attr("cx",200).attr("cy",130).attr("r", 6).style("fill", colors.getColorUniversity())
+svg_map.append("circle").attr("cx",200).attr("cy",160).attr("r", 6).style("fill", colors.getColorSelectedUniversity())
+svg_map.append("text").attr("x", 220).attr("y", 130).text("variable A").style("font-size", "15px").attr("alignment-baseline","middle")
+svg_map.append("text").attr("x", 220).attr("y", 160).text("variable B").style("font-size", "15px").attr("alignment-baseline","middle")
+*/
+
+
 paesi_nella_mappa_name = [];
 function initMap(){
 	//var tooltip = d3.select("div.tooltip");
 	//data = getDataMap();
+	/////////////////////////////////////
+	var legend = svg_map.selectAll('legend')
+	    .data(['university','selected', 'selected from scatter'])
+	    .enter().append('g')
+	    .attr('class', 'legend')
+	    .attr('transform', function (d, i) { return 'translate(20,' + i * 20 + ')'; });
+
+	  legend.append('rect')
+	    .attr('x', width_scatter)
+	    .attr('width', 15)
+	    .attr('height', 15)
+	    .attr('class', 'legend_rect')
+	    .style('fill', function (d) { return colors.getColorUniversity()});
+
+	  legend.append('text')
+	    .attr('x', width_scatter - 2)
+	    .attr('y', 9)
+	    .attr('dy', '.25em')
+	    .style('text-anchor', 'end')
+	    .style("fill", colors.getColorUniversity())
+	    .text(function (d) { return d; });
+
+
+
+
+
+	////////////////////////////////////////
 
 
 

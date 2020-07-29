@@ -16,6 +16,33 @@ var svg_heatmap = d3.select(".heatmap_area").append("svg")
 //Read the data
 function initHeat(){
 
+          /////////////////////////////////////
+    data_legend = ["min","avg","max","novalue"];
+
+  
+    var legend = svg_heatmap.selectAll('legend')
+        .data(data_legend)
+        .enter().append('g')
+        .attr('class', 'legend')
+        //.attr('transform', function (d, i) { return 'translate(20,' + i * 20 + ')'; });
+        .attr('transform', function (d, i) { return 'translate(20,' + i * 20 + ')'; });
+
+      legend.append('rect')
+        .attr('x', width_heatmap)
+        .attr('width', 15)
+        .attr('height', 15)
+        .attr('class', 'legend_rect')
+        .style('fill', function (d) { return colors.getColorUniversity()});
+
+      legend.append('text')
+        .attr('x', width_heatmap - 2)
+        .attr('y', 9)
+        .attr('dy', '.25em')
+        .style('text-anchor', 'end')
+        .style("fill", colors.getColorUniversity())
+        .text(function (d) { return d; });
+  /////////////////////////////////////////
+
   dataHeat = getDataHeat();
 
   // Labels of row and columns
@@ -44,6 +71,45 @@ function initHeat(){
     for(i in top_10_scores){
         institutions.push(top_10_scores[i][0]);
     }
+
+    //////////////////////////////////////////////////////////////////////////////////
+
+ // create a tooltip
+  var tooltipHeat = d3.select("#heat")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "2px")
+    .style("border-radius", "5px")
+    .style("padding", "5px")
+
+  // Three function that change the tooltip when user hover / move / leave a cell
+  var mouseover = function(d) {
+    tooltipHeat.style("opacity", 1)
+  }
+  var mousemove = function(d) {
+
+    console.log("d vale :", d);
+    value_rect = d3.select(this).attr("datum");
+    attr_value_rect = d3.select(this).attr("feature");
+    //console.log("d3.select(this); ",d3.select(this).attr("datum"));
+    tooltipHeat
+      .html(attr_value_rect+ " : " + value_rect)
+      .style("top", (d3.event.pageY) + "px")
+      .style("left", (d3.event.pageX + 10) + "px");
+    
+  }
+  var mouseleave = function(d) {
+    tooltipHeat.style("opacity", 0)
+  }
+
+
+
+
+  //////////////////////////////////////////////////////////////////////////////////
+
 
   // disegna asse delle x con le specifiche indicate
   var x = d3.scaleBand()
@@ -81,6 +147,7 @@ function initHeat(){
   svg_heatmap.selectAll("text").style("fill", colors.getTextColor());
 
   features.forEach((feature, i) => {
+    console.log("feature: ", feature);
     const color = d3.scaleSequential(d3.interpolateGreens)
       .domain([d3.min(dataHeat, d => +d[feature]), d3.max(dataHeat, d => +d[feature])])
     svg_heatmap.selectAll(`rect.ind-${i}`)
@@ -91,8 +158,16 @@ function initHeat(){
       .attr('y', d => y(d.the_institution))
       .attr('width', x.bandwidth())
       .attr('height', y.bandwidth())
+      .attr('datum',d => d[feature])
+      .attr('feature',feature)
       .attr('fill', d => color(+d[feature]))
+    .on("mouseover", mouseover)
+    .on("mousemove", mousemove)
+    .on("mouseleave", mouseleave)
     })
+
+
+
 }
 
 function updateHeat() {
