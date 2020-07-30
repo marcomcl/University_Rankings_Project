@@ -91,6 +91,11 @@ function initLollipop(){
         return d; 
     })
 
+    
+   //d3.select("div.tooltip_lollipop").style("visibility", "hidden");
+    //var tooltip = d3.select("div.tooltip_lollipop");
+    var tooltipLol = d3.select("body").append("div").attr("class", "toolTipLollipop");
+    //console.log("tooltip : ", tooltipLol);
     var j = svg_lollipop.selectAll(".myLine")
 	    .data(dataLollipop)
 	    j
@@ -110,10 +115,21 @@ function initLollipop(){
 	        .enter()
 	        .append("circle")
 	        .merge(u)
+	          .attr("val", function(d){ return d.cwur_quality_of_education;})
 	          .attr("cx", function(d) { return x(d.the_institution); })
 	          .attr("cy", function(d) { return y(d.cwur_quality_of_education); })
 	          .attr("r", 8)
-	          .attr("fill", "#69b3a2");
+	          .attr("fill", "#69b3a2")
+	        .on("mouseover",function(){
+	        	var attribute = d3.select(this).attr("val")
+	        	//console.log(attribute)
+	           tooltipLol
+              .style("left", d3.event.pageX - 40 + "px")
+              .style("top", d3.event.pageY - 80 + "px")
+              .style("display", "inline-block")
+              .html(attribute);
+            })
+			  .on("mouseout", function(){ tooltipLol.style("display", "none");});
 
 
 	function update(selectedVar) {
@@ -164,10 +180,21 @@ function initLollipop(){
 	      .merge(u)
 	      .transition()
 	      .duration(1000)
+	        .attr("val", function(d){ /*console.log("here: ", d.value); */return d.value;})
 	        .attr("cx", function(d) { return x(d.the_institution); })
 	        .attr("cy", function(d) { return y(d.value); })
 	        .attr("r", 8)
-			.attr("fill", "#69b3a2");
+			.attr("fill", "#69b3a2")
+        .on("mouseover",function(){
+	        	var attribute = d3.select(this).attr("val")
+	        	console.log(attribute)
+	           tooltipLol
+              .style("left", d3.event.pageX - 40 + "px")
+              .style("top", d3.event.pageY - 80 + "px")
+              .style("display", "inline-block")
+              .html(attribute);
+            })
+			  .on("mouseout", function(){ tooltipLol.style("display", "none");});
 			
 	}
 
