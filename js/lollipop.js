@@ -98,7 +98,7 @@ function initLollipop(){
 	      .append("line")
 	      .attr("class", "myLine")
 	        .merge(j)
-	        .attr("x1", function(d) { console.log(x(d.the_institution)) ; return x(d.the_institution); })
+	        .attr("x1", function(d) { return x(d.the_institution); })
 	        .attr("x2", function(d) { return x(d.the_institution); })
 	        .attr("y1", y(0))
 	        .attr("y2", function(d) { return y(d.cwur_quality_of_education); })

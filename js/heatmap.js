@@ -147,7 +147,7 @@ function initHeat(){
   svg_heatmap.selectAll("text").style("fill", colors.getTextColor());
 
   features.forEach((feature, i) => {
-    console.log("feature: ", feature);
+    
     const color = d3.scaleSequential(d3.interpolateGreens)
       .domain([d3.min(dataHeat, d => +d[feature]), d3.max(dataHeat, d => +d[feature])])
     svg_heatmap.selectAll(`rect.ind-${i}`)

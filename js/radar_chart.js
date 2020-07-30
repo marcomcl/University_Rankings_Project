@@ -41,7 +41,7 @@ function initRadarChart(){
 	    //features.forEach(f => point[f] = )
 	    data.push(point);
 	}
-	//console.log(data);
+	console.log("data  -> ",data);
 
 	//prova solo su USA
 	for( i in dataRadar){
@@ -72,7 +72,7 @@ function initRadarChart(){
 		} 
 	}
 	
-	//console.log("dataRadarPaeseSelected--> ",dataRadarPaeseSelected);
+	console.log("dataRadarPaeseSelected--> ",dataRadarPaeseSelected);
 
     dataPoints = [];
 	for( i in dataRadarPaeseSelected){
@@ -197,7 +197,7 @@ function initRadarChart(){
 	for (var i = 0; i < dataPoints.length; i ++){
 	    //let d1 = data[i];
 	    let d2 = dataPoints[i];
-	    //console.log("-----------> ",dataPoints[i]);
+	    console.log("-----------> d2 ",dataPoints[i]);
 	    let color = colors_radar[i];
 	    //let coordinates_d1 = getPathCoordinates(d1);
 	    let coordinates_d2 = getPathCoordinates(d2);
@@ -226,7 +226,7 @@ function initRadarChart(){
 
 	
 
-            console.log(d3.select(this).attr("university"));
+            //console.log(d3.select(this).attr("university"));
 		})
 		.on("mouseout", function(d) {
 		   /* d3.select(this).style("fill",color)
