@@ -33,12 +33,17 @@ function initLegend(){
 	console.log("countKey vale: ", countKey);*/
 
 	removeDuplicates(keys);
-	//console.log("keys remove removeDuplicates: ",keys);
+	console.log("keys remove removeDuplicates: ",keys);
+
+
 
 
     var color = d3.scaleOrdinal()
 	  .domain(keys)
 	  .range(d3.schemeTableau10);
+
+
+	console.log("color	-> ",color	);
 
 	Svg.selectAll("mydots")
 	  .data(keys)
@@ -47,7 +52,7 @@ function initLegend(){
 	    .attr("cx", 100)
 	    .attr("cy", function(d,i){ return 100 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
 	    .attr("r", 7)
-	    .style("fill", function(d){ return color(d)})
+	    .style("fill", function(d){ console.log("d vale ",d , " color vale ", color(d));return color(d)})
 
 	// Add one dot in the legend for each name.
 	Svg.selectAll("mylabels")

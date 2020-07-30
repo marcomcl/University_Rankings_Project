@@ -51,7 +51,7 @@ var svg_radar = d3.select(".radar_area")
 function initRadarChart(){
      dataRadar = dl.universityDelPaeseDellaMiaScelta;
 
-     console.log("dataRadar -> ",dataRadar);
+     //console.log("dataRadar -> ",dataRadar);
 
 
      countryUni = dl.universityCountry;
@@ -70,7 +70,7 @@ function initRadarChart(){
         //features.forEach(f => point[f] = )
         data2.push(point);
     }
-    console.log("data  -> ",data2);
+    //console.log("data  -> ",data2);
 
     //prova solo su USA
     for( i in dataRadar){
@@ -101,7 +101,7 @@ function initRadarChart(){
       } 
     }
     
-    console.log("dataRadarPaeseSelected--> ",dataRadarPaeseSelected);
+    //console.log("dataRadarPaeseSelected--> ",dataRadarPaeseSelected);
 
     dataPoints = [];
     for( i in dataRadarPaeseSelected){
@@ -135,7 +135,7 @@ function initRadarChart(){
       dataPoints.push(point_USA);
     }
 
-    console.log("dataPoints: ",dataPoints);
+    //console.log("dataPoints: ",dataPoints);
 
 
 
@@ -162,7 +162,7 @@ function initRadarChart(){
      ]
        ]*/
     var keysLegend = [];
-  let colors_radar = ["darkorange", "gray", "navy","blue", "green","yellow", "white","red","purple","brown"];
+    //let colors_radar = ["darkorange", "gray", "navy","blue", "green","yellow", "white","red","purple","brown"];
 
     data_new = [];
     for( i in  dataPoints){
@@ -174,7 +174,7 @@ function initRadarChart(){
       international_outlook_new = dataPoints[i].international_outlook;
       income_new = dataPoints[i].income;
 
-      console.log(teaching_new," ",research_new," ",citations_new," ",international_outlook_new," ",income_new) ;
+      //console.log(teaching_new," ",research_new," ",citations_new," ",international_outlook_new," ",income_new) ;
       data_new.push(
          [
       {"area": "teaching ", "value": teaching_new},
@@ -185,7 +185,7 @@ function initRadarChart(){
     
      
         ]);
-      let color = colors_radar[i];
+      //let color = colors_radar[i];
       instance = dataPoints[i]
      // dl.uniRadarChart.push(    [String(instance["university"]), color]     ); 
       dl.keyLegend.push(String(instance["university"]));
@@ -194,9 +194,12 @@ function initRadarChart(){
 
     }
 
+    console.log("keysLegend -> ",  dl.keyLegend);
 
-    console.log("mentre data vale : ",data);
-    console.log("e data_new vale : ",data_new);
+
+
+    //console.log("mentre data vale : ",data);
+    //console.log("e data_new vale : ",data_new);
 
 
      //////////////////////////////////////////////////////////////////////////////////////
@@ -233,7 +236,7 @@ var RadarChart = {
 
 
     };
-  
+    console.log("color: ",cfg.color);
     if('undefined' !== typeof options){
       for(var i in options){
       if('undefined' !== typeof options[i]){
@@ -243,10 +246,10 @@ var RadarChart = {
     }
     
     cfg.maxValue = 100;
-    console.log("d[0] vale ",d[0])
+    //console.log("d[0] vale ",d[0])
    // var allAxis = (d[0].map(function(i, j){return i.area}));
     var allAxis = ["teaching", "research","citations","international_outlook","income"]; //features del THE
-    console.log("allAxis ",allAxis);
+   // console.log("allAxis ",allAxis);
     var total = allAxis.length;
     var radius = cfg.factor*Math.min(cfg.w/2, cfg.h/2);
     var Format = d3.format('%');
@@ -329,22 +332,22 @@ var RadarChart = {
       dataValues = [];
       g.selectAll(".nodes")
       .data(y, function(j, i){
-        console.log("j vale -----------> ",j);
+        //console.log("j vale -----------> ",j);
         dataValues.push([
         cfg.w/2*(1-(parseFloat(Math.max(j.value, 0))/cfg.maxValue)*cfg.factor*Math.sin(i*cfg.radians/total)), 
         cfg.h/2*(1-(parseFloat(Math.max(j.value, 0))/cfg.maxValue)*cfg.factor*Math.cos(i*cfg.radians/total))
         ]);
       });
       dataValues.push(dataValues[0]);
-      console.log("-> dataValues vale: ",dataValues);
+      //console.log("-> dataValues vale: ",dataValues);
       g.selectAll(".area")
              .data([dataValues])
              .enter()
              .append("polygon")
              .attr("class", "radar-chart-serie"+series)
-             .attr("uni","BELLA CIAO CIAO")
+             .attr("uni",keysLegend[series])
              .style("stroke-width", "2px")
-             .style("stroke", cfg.color(series))
+             .style("stroke", cfg.color(keysLegend[series]))
              .attr("points",function(d) {
                var str="";
                for(var pti=0;pti<d.length;pti++){
@@ -352,10 +355,12 @@ var RadarChart = {
                }
                return str;
               })
-             .style("fill", function(j, i){return cfg.color(series)})
+             .style("fill", function(j, i){console.log("CFG keys-> ",keysLegend[series]);return cfg.color(series)})
              .style("fill-opacity", cfg.opacityArea);
+
       
       series++;
+      console.log("series : ", series);
     });
     series=0;
 
@@ -366,6 +371,7 @@ var tooltip = d3.select("body").append("div").attr("class", "toolTip");
       .data(y).enter()
       .append("svg:circle")
       .attr("class", "radar-chart-serie"+series)
+      .attr("uni",keysLegend[series])
       .attr('r', cfg.radius)
       .attr("alt", function(j){return Math.max(j.value, 0)})
       .attr("cx", function(j, i){
@@ -381,14 +387,16 @@ var tooltip = d3.select("body").append("div").attr("class", "toolTip");
       .attr("data-id", function(j){return j.area})
       .style("fill", "#fff")
       .style("stroke-width", "2px")
-      .style("stroke", cfg.color(series)).style("fill-opacity", .9)
+      .style("stroke",cfg.color(keysLegend[series])).style("fill-opacity", .9)
       .on('mouseover', function (d){
-        console.log(d.area)
+        //console.log(d.area)
+          console.log("nome uni",d3.select(this).attr("uni"));
+          var università = d3.select(this).attr("uni");
             tooltip
               .style("left", d3.event.pageX - 40 + "px")
               .style("top", d3.event.pageY - 80 + "px")
               .style("display", "inline-block")
-              .html((d.area) + "<br><span>" + (d.value) + "</span>");
+              .html(università+"<br>"+(d.area) + "<br><span>" + (d.value) + "</span>");
             })
         .on("mouseout", function(d){ tooltip.style("display", "none");});
 
