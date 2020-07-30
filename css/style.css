@@ -111,7 +111,7 @@ th {
 .bar_area {
   margin-left: 10px;
   float: left;
-  width: 41%;
+  width: 36%;
   height: 100%;
   border: 2px solid gray;
   position: relative;
@@ -120,7 +120,7 @@ th {
 .heatmap_area {
   margin-left: 10px;
   float: left;
-  width: 30%;
+  width: 35%;
   height: 100%;
   border: 2px solid gray;
 }
@@ -216,7 +216,7 @@ div.tooltip, div.tooltip_parallel, div.tooltip_scatter,div.tooltip_lollipop{
 .connected_area {
   margin-left: 10px;
   float: left;
-  width: 31%;
+  width: 36%;
   height: 100%;
   border: 2px solid gray;
   position: relative;

@@ -133,7 +133,7 @@ function initLollipop(){
 
 
 	function update(selectedVar) {
-
+		console.log(selectedVar);
 		var dataFilter;
 
         if(selectedVar == "Quality of Education") dataFilter = dataLollipop.map(function(d){return {the_institution : d.the_institution, value : +(d.cwur_quality_of_education)} });

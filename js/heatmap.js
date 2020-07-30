@@ -18,29 +18,45 @@ function initHeat(){
 
           /////////////////////////////////////
     data_legend = ["min","avg","max","novalue"];
-
+     const color = d3.scaleSequential(d3.interpolateGreens)
+      .domain([0,100]);
   
     var legend = svg_heatmap.selectAll('legend')
-        .data(data_legend)
+        .data(["min","avg","max","novalue"])
         .enter().append('g')
         .attr('class', 'legend')
-        //.attr('transform', function (d, i) { return 'translate(20,' + i * 20 + ')'; });
-        .attr('transform', function (d, i) { return 'translate(20,' + i * 20 + ')'; });
+        .attr('transform', function (d, i) { return 'translate(80,' + i * 20 + ')'; });
+        //.attr('transform', function (d, i) { console.log("i vale :" ,i);return 'translate(-400,'+10+i*20+')'; });
 
       legend.append('rect')
         .attr('x', width_heatmap)
         .attr('width', 15)
         .attr('height', 15)
         .attr('class', 'legend_rect')
-        .style('fill', function (d) { return colors.getColorUniversity()});
+        .style('fill', function (d) { 
 
-      legend.append('text')
-        .attr('x', width_heatmap - 2)
-        .attr('y', 9)
-        .attr('dy', '.25em')
-        .style('text-anchor', 'end')
-        .style("fill", colors.getColorUniversity())
-        .text(function (d) { return d; });
+          if(d == "min"){
+            return color(0);
+          }
+          else if(d == "avg"){
+            return color(50);
+          }
+          else if(d == "max"){
+            return color(100);
+          }
+          else{
+
+            return "black";
+
+          }
+
+        });
+
+
+
+
+
+
   /////////////////////////////////////////
 
   dataHeat = getDataHeat();
@@ -91,7 +107,7 @@ function initHeat(){
   }
   var mousemove = function(d) {
 
-    console.log("d vale :", d);
+    //console.log("d vale :", d);
     value_rect = d3.select(this).attr("datum");
     attr_value_rect = d3.select(this).attr("feature");
     //console.log("d3.select(this); ",d3.select(this).attr("datum"));
@@ -131,6 +147,15 @@ function initHeat(){
       .style("text-anchor", "start")
       .attr("transform", "rotate(15)" );
 
+    legend.append('text')
+        .attr('x', width_heatmap - 2)
+        .attr('y', 9)
+        .attr('dy', '.25em')
+        .style('text-anchor', 'end')
+        .style("fill", colors.getColorUniversity())
+        .text(function (d) { /*console.log(d);*/return d; });
+
+
   // disegna asse delle y con le specifiche indicate
   var y = d3.scaleBand()
     .range([height_heatmap, 0 ])
@@ -146,16 +171,33 @@ function initHeat(){
   svg_heatmap.selectAll("line").style("stroke", colors.getTextColor());
   svg_heatmap.selectAll("text").style("fill", colors.getTextColor());
 
+
+
   features.forEach((feature, i) => {
     
-    const color = d3.scaleSequential(d3.interpolateGreens)
-      .domain([d3.min(dataHeat, d => +d[feature]), d3.max(dataHeat, d => +d[feature])])
+
+   
+
+    //console.log([d3.min(dataHeat, d => +d[feature]), d3.max(dataHeat, d => +d[feature])])
     svg_heatmap.selectAll(`rect.ind-${i}`)
     .data(dataHeat)
     .enter().append('rect')
       .classed(`ind-${i}`, true)
-      .attr('x', d => x(feature))
+      //.attr('x', d => x(feature))
+      .attr('x', function(){
+
+        if(i == 3 || i == 2) return x(feature)+15;
+        if(i == 5 || i == 4) return x(feature)+30;
+        else{
+          //console.log(i);
+          //console.log(x(feature));
+          return x(feature); 
+          }      
+        
+      } )
       .attr('y', d => y(d.the_institution))
+      .attr('rx', 8)
+      .attr('rx', 8)
       .attr('width', x.bandwidth())
       .attr('height', y.bandwidth())
       .attr('datum',d => d[feature])

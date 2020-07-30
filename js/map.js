@@ -54,14 +54,49 @@ function initMap(){
 	    .attr('width', 15)
 	    .attr('height', 15)
 	    .attr('class', 'legend_rect')
-	    .style('fill', function (d) { return colors.getColorUniversity()});
+	   .style('fill', function (d) { 
+	   	  //console.log("d  ", d);
+          if(d == "university"){
+            return colors.getColorUniversity();
+          }
+          else if(d == "selected"){
+            return colors.getColorSelectedUniversity();
+          }
+          else if(d == "selected from scatter"){
+            return  colors.getColorUniversityScatter();
+          }
+          else{
+
+            return "black";
+
+          }
+
+        });
 
 	  legend.append('text')
 	    .attr('x', width_scatter - 2)
 	    .attr('y', 9)
 	    .attr('dy', '.25em')
 	    .style('text-anchor', 'end')
-	    .style("fill", colors.getColorUniversity())
+
+	        .style('fill', function (d) { 
+
+          if(d == "university"){
+            return colors.getColorUniversity();
+          }
+          else if(d == "selected"){
+            return colors.getColorSelectedUniversity();
+          }
+          else if(d == "selected from scatter"){
+            return  colors.getColorUniversityScatter();
+          }
+          else{
+
+            return "black";
+
+          }
+
+        })
 	    .text(function (d) { return d; });
 
 
