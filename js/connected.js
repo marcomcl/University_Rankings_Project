@@ -18,6 +18,16 @@ var svg_connected = d3.select(".connected_area")
 
 function initConnected(){
 
+    console.log("dl.keyLegend ", dl.keyLegend);
+    color = d3.scaleOrdinal().domain(dl.keyLegend).range(d3.schemeTableau10);
+
+    console.log("dl.universityDelPaeseDellaMiaScelta  ",dl.universityDelPaeseDellaMiaScelta);
+    console.log("dl.data -> ", dl.data);
+
+
+
+
+    //////////////////////////////////////////////////////////////////////
     dataConnected = getData();
 
     years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019];
@@ -72,34 +82,47 @@ function initConnected(){
     yAxis.selectAll("text")
     .style("fill", colors.getTextColor())
 
-    var line = svg_connected.append('g')
-      .append("path")
-      .attr("class", "connPath")
-        .datum(dataConnected)
-        .attr("d", d3.line()
-          .x(function(d) { return x( parseInt(d.year))})
-          .y(function(d) { return y(parseFloat(d.the_teaching)) })
-        )
-        .attr("stroke", colors.getAxisColor())
-        .style("stroke-width", 3)
-        .style("fill", "none")
+    series = 0;
 
-    var dot = svg_connected.append("g")
-        .selectAll('circle')
-        .data(dataConnected)
-        .enter()
-        .append('circle')
-            .attr("cx", function(d) { return x( parseInt(d.year))})
-            .attr("cy", function(d) { return y(parseFloat(d.the_teaching)) })
-            .attr("r", 6)
-            .style("fill", "#69b3a2")
+
+    for( el in dl.universityDelPaeseDellaMiaScelta){ 
+        if(series < 1){
+            var line = svg_connected.append('g')
+              .append("path")
+              .attr("class", "connPath"+series)
+                .datum(dataConnected)
+                .attr("uni", dl.keyLegend[series])
+                .attr("d", d3.line()
+                  .x(function(d) { return x( parseInt(d.year))})
+                  .y(function(d) { return y(parseFloat(d.the_teaching)) })
+                )
+                .attr("stroke", color(dl.keyLegend[series]))
+                .style("stroke-width", 3)
+                .style("fill", "none")
+
+            var dot = svg_connected.append("g")
+                .selectAll('circle')
+                .data(dataConnected)
+                .enter()
+                .append('circle')
+                    .attr("cx", function(d) { return x( parseInt(d.year))})
+                    .attr("cy", function(d) { return y(parseFloat(d.the_teaching)) })
+                    .attr("r", 6)
+                    .style("fill", color(dl.keyLegend[series]))
+
+        }
+      
+        series += 1;
+
+
+    }
 
 
     // A function that update the chart
     function update(selected) {
 
         
-
+        console.log("dl.keyLegend ", dl.keyLegend);
         var dataFilter;
         
         if(selected == "Teaching") dataFilter = dataConnected.map(function(d){return {year : d.year, value : d.the_teaching} });
@@ -130,6 +153,7 @@ function initConnected(){
 }
 
 function getData(){
+
     return dl.uniData;
 }
 
