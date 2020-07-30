@@ -194,7 +194,7 @@ function initRadarChart(){
 
     }
 
-    console.log("keysLegend -> ",  dl.keyLegend);
+    //console.log("keysLegend -> ",  dl.keyLegend);
 
 
 
@@ -236,7 +236,7 @@ var RadarChart = {
 
 
     };
-    console.log("color: ",cfg.color);
+   // console.log("color: ",cfg.color);
     if('undefined' !== typeof options){
       for(var i in options){
       if('undefined' !== typeof options[i]){
@@ -355,12 +355,12 @@ var RadarChart = {
                }
                return str;
               })
-             .style("fill", function(j, i){console.log("CFG keys-> ",keysLegend[series]);return cfg.color(series)})
+             .style("fill", function(j, i){/*console.log("CFG keys-> ",keysLegend[series]);*/return cfg.color(series)})
              .style("fill-opacity", cfg.opacityArea);
 
       
       series++;
-      console.log("series : ", series);
+      //console.log("series : ", series);
     });
     series=0;
 
@@ -390,7 +390,7 @@ var tooltip = d3.select("body").append("div").attr("class", "toolTip");
       .style("stroke",cfg.color(keysLegend[series])).style("fill-opacity", .9)
       .on('mouseover', function (d){
         //console.log(d.area)
-          console.log("nome uni",d3.select(this).attr("uni"));
+          //console.log("nome uni",d3.select(this).attr("uni"));
           var università = d3.select(this).attr("uni");
             tooltip
               .style("left", d3.event.pageX - 40 + "px")
