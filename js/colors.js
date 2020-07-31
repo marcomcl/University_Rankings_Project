@@ -77,12 +77,12 @@ Colors.prototype.getStartColorCountry= function () {
 
 Colors.prototype.getBackgroundColor = function () {
     if (this.isDarkModeEnabled()) return "#193e51";
-    else return "#fcf4d0";
+    else return "#ffffff";
 }
 
 Colors.prototype.getHeaderBackgroundColor = function () {
     if (this.isDarkModeEnabled()) return "#506a70";
-    else return "#f19008";
+    else return "#f0f0f0";
 }
 
 Colors.prototype.getTextColor = function () {
