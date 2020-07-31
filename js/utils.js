@@ -50,6 +50,7 @@ function switchUser()
 
     }else{
             dl.university = "";
+            dl.coloreUniversityRector = "";
             document.getElementById("uni").value = "";
             removeGraphsTeacher();
             initGraphsStud();
@@ -77,6 +78,7 @@ function initTeacher(){
     manageTeacherStuffs();
 
     dl.initUniData();
+    dl.initUniDataConnected();
 
     initGraphsTeacher();
     

@@ -51,6 +51,10 @@ DataLoader  = function(){
     this.colorsRadar = [];
 
     this.indice_di_range = null;
+
+    this.coloreUniversityRector = "";
+
+    this.uniDataConnected = [];
 }
 
 //year_Selezionato = 2019;
@@ -218,6 +222,8 @@ DataLoader.prototype.changeYear = function(y){
     //
     this.keyLegend.splice(0,this.keyLegend.length);
 
+    //console.log("key legend prima vale : ",this.keyLegend);
+
     var mia_uni = null;
 
     for(i in this.allData){
@@ -282,7 +288,7 @@ DataLoader.prototype.changeYear = function(y){
         }
     }
         if(dl.student == false){
-        	console.log("entro perchè dl.student è false");
+        	//console.log("entro perchè dl.student è false");
 	        for(i in this.allData){
 		        if(parseInt(this.allData[i].year) == y ){
 		            this.data.push(this.allData[i]);
@@ -343,6 +349,8 @@ DataLoader.prototype.changeYear = function(y){
 
 
     	}
+    //console.log("key legend dopo vale : ",this.keyLegend);
+
 
     obs.listeners.dispatchEvent(new Event('yearChanged'));
 }
@@ -543,11 +551,46 @@ DataLoader.prototype.scatterFilter = function () {
 }
 
 DataLoader.prototype.initUniData = function () {
+
+    //console.log("initUnitData");
     this.uniData.splice(0, this.uniData.length);
     for(i = 0; i < this.allData.length; i++){
         if(this.university == this.allData[i].the_institution)
             this.uniData.push(this.allData[i]);  
     }
+
+    console.log("uniData vale", this.uniData);
+}
+
+
+DataLoader.prototype.initUniDataConnected = function () {
+
+
+    //console.log("initUnitDataConnected");
+    this.uniDataConnected.splice(0, this.uniDataConnected.length);
+
+    stringhePaesiDellaMiaScelta = [];
+
+    for (i = 0; i < this.universityDelPaeseDellaMiaScelta.length; i++){
+        stringhePaesiDellaMiaScelta.push(this.universityDelPaeseDellaMiaScelta[i].the_institution);
+    }
+
+    //console.log("stringhe paesi della mia scelta: ",stringhePaesiDellaMiaScelta);
+    for(i = 0; i < this.allData.length; i++){
+        
+        for(j = 0 ;  j < stringhePaesiDellaMiaScelta.length; j++){
+            if(this.allData[i].the_institution == stringhePaesiDellaMiaScelta[j]){
+               // console.log("entrato");
+                this.uniDataConnected.push(this.allData[i]);
+            }
+        }
+
+
+    }
+    //console.log("uniDataConnected ", this.uniDataConnected);
+    //console.log("paesi della mia scelta: ",this.universityDelPaeseDellaMiaScelta);
+
+
 }
 
 var dl = new DataLoader();

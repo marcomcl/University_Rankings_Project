@@ -99,11 +99,17 @@ function initBar(){
         .attr("width",function(d){    return 0; })
         .attr("height", y.bandwidth())
         .attr("fill", function(d){
-
-            if(!dl.student && d[0] == dl.university)
-                return colors.barChartUni();
-            else
+            //console.log("d vale ",d);
+            if(!dl.student && d[0] == dl.university){
+                 // return colors.barChartUni();
+                //console.log("d vale ",d);
+                //console.log("--------------------->",dl.coloreUniversityRector);
+                return  dl.coloreUniversityRector;
+            }
+            else{
+                //return dl.coloreUniversityRector;
                 return colors.barChart();
+            }
         })
                
          
@@ -133,7 +139,7 @@ function getDataBar(){
     if(dl.student)
         return dl.filteredPar;
     else
-        return dl.universityDelPaeseDellaMiaScelta
+        return dl.universityDelPaeseDellaMiaScelta;
 }
 
 dl.addListener("changeColor", function (e) {

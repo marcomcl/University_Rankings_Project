@@ -18,11 +18,11 @@ var svg_connected = d3.select(".connected_area")
 
 function initConnected(){
 
-    console.log("dl.keyLegend ", dl.keyLegend);
+    //console.log("dl.keyLegend ", dl.keyLegend);
     color = d3.scaleOrdinal().domain(dl.keyLegend).range(d3.schemeTableau10);
 
-    console.log("dl.universityDelPaeseDellaMiaScelta  ",dl.universityDelPaeseDellaMiaScelta);
-    console.log("dl.data -> ", dl.data);
+    //console.log("dl.universityDelPaeseDellaMiaScelta  ",dl.universityDelPaeseDellaMiaScelta);
+    //console.log("dl.data -> ", dl.data);
 
 
 
@@ -84,66 +84,143 @@ function initConnected(){
 
     series = 0;
 
+    //console.log("--------------------------> ",dl.universityDelPaeseDellaMiaScelta);
+
+    var line1,line2,line3,line4,line5,line6,line7,line8,line9,line10;
+    list_lines = [line1 , line2 , line3, line4,line5,line6,line7,line8,line9,line10];
+
+    var dot1,dot2,dot3,dot4,dot5,dot6,dot7,dot8,dot9,dot10;
+    list_dots = [dot1,dot2,dot3,dot4,dot5,dot6,dot7,dot8,dot9,dot10];
+
 
     for( el in dl.universityDelPaeseDellaMiaScelta){ 
-        if(series < 1){
-            var line = svg_connected.append('g')
+
+    	console.log("el vale ",el);
+
+    	institution = dl.universityDelPaeseDellaMiaScelta[el].the_institution;
+    	//console.log("institution  ", institution);
+
+    	datiPerSingolaInstitution = [];
+
+    	for( i = 0; i < dl.uniDataConnected.length; i++){
+    		if(dl.uniDataConnected[i].the_institution == institution){
+    			//console.log("entrato");
+
+    			datiPerSingolaInstitution.push(dl.uniDataConnected[i]);
+    		}
+    	}
+    	//console.log("datiPerSingolaInstitution ",datiPerSingolaInstitution);
+
+        //if(series < 1){
+            list_lines[series] = svg_connected.append('g')
               .append("path")
               .attr("class", "connPath"+series)
-                .datum(dataConnected)
-                .attr("uni", dl.keyLegend[series])
+                .datum(datiPerSingolaInstitution)
+                //.attr("uni", dl.keyLegend[series])
+                .attr("uni", institution)
                 .attr("d", d3.line()
                   .x(function(d) { return x( parseInt(d.year))})
                   .y(function(d) { return y(parseFloat(d.the_teaching)) })
                 )
-                .attr("stroke", color(dl.keyLegend[series]))
+                //.attr("stroke", color(dl.university))
+                .attr("stroke", color(institution))
+                
                 .style("stroke-width", 3)
                 .style("fill", "none")
 
-            var dot = svg_connected.append("g")
+            list_dots[series] = svg_connected.append("g")
                 .selectAll('circle')
-                .data(dataConnected)
+                .data(datiPerSingolaInstitution)
                 .enter()
                 .append('circle')
                     .attr("cx", function(d) { return x( parseInt(d.year))})
                     .attr("cy", function(d) { return y(parseFloat(d.the_teaching)) })
                     .attr("r", 6)
-                    .style("fill", color(dl.keyLegend[series]))
+                    //dl.coloreUniversityRector
+                    //.style("fill", color(dl.university))
+                    .style("fill",
 
-        }
+                     color(institution));
+        //}
+        //list_lines.push(line);
       
         series += 1;
 
 
     }
 
+    console.log("list_lines: ", list_lines);
 
-    // A function that update the chart
+
+    // A function that update the chart on the single attributes
     function update(selected) {
 
         
-        console.log("dl.keyLegend ", dl.keyLegend);
-        var dataFilter;
-        
-        if(selected == "Teaching") dataFilter = dataConnected.map(function(d){return {year : d.year, value : d.the_teaching} });
-        else if(selected == "Research") dataFilter = dataConnected.map(function(d){return {year : d.year, value : d.the_reseach} });
-        else dataFilter = dataConnected.map(function(d){return {year : d.year, value : d.the_citations} });
+         
+        series = 0;
      
-        line
-            .datum(dataFilter)
-            .transition()
-            .duration(1000)
-            .attr("d", d3.line()
-                .x(function(d) { return x(parseInt(d.year)) })
-                .y(function(d) { return y(parseFloat(d.value)) })
-            )
-        dot
-            .data(dataFilter)
-            .transition()
-            .duration(1000)
-            .attr("cx", function(d) { return x(parseInt(d.year)) })
-            .attr("cy", function(d) { return y(parseFloat(d.value)) })
+        for( el in dl.universityDelPaeseDellaMiaScelta){ 
+
+	    	institution = dl.universityDelPaeseDellaMiaScelta[el].the_institution;
+	    	//console.log("institution  ", institution);
+
+	    	datiPerSingolaInstitution = [];
+
+	    	for( i = 0; i < dl.uniDataConnected.length; i++){
+	    		if(dl.uniDataConnected[i].the_institution == institution){
+	    			//console.log("entrato");
+
+	    			datiPerSingolaInstitution.push(dl.uniDataConnected[i]);
+	    		}
+	    	}
+
+
+	    	console.log("datiPerSingolaInstitution: ",datiPerSingolaInstitution);
+
+	    	//console.log("dataFilter",dataFilter);
+
+	    	//console.log(list_lines[series]);
+	    	//console.log("line: ",line);
+
+	    	 if(selected == "Teaching") dataFilter2 = datiPerSingolaInstitution.map(function(d){return {university:d.the_institution, year : d.year, value : d.the_teaching} });
+	         else if(selected == "Research") dataFilter2 = datiPerSingolaInstitution.map(function(d){return {university:d.the_institution,year : d.year, value : d.the_reseach} });
+	         else dataFilter2 = datiPerSingolaInstitution.map(function(d){return {university:d.the_institution,year : d.year, value : d.the_citations} });
+
+	        list_lines[series]
+	            .datum(dataFilter2)
+	            .transition()
+	            .duration(1000)
+	            .attr("d", d3.line()
+	                .x(function(d) { return x(parseInt(d.year)) })
+	                .y(function(d) { return y(parseFloat(d.value)) })
+	            )
+
+
+	        list_dots[series]
+		        .data(dataFilter2)
+		        .transition()
+		        .duration(1000)
+		        .attr("cx", function(d) { return x(parseInt(d.year)) })
+		        .attr("cy", function(d) { return y(parseFloat(d.value)) })
+
+	        series += 1;
+
+
+	    }
+
+
+
+
+
     }
+
+
+     
+
+
+
+
+
 
     
     d3.select("#connectedSelect").on("change", function() {
@@ -153,8 +230,10 @@ function initConnected(){
 }
 
 function getData(){
+	//console.log("uniDataConnected -> ",dl.uniDataConnected);
+    //return dl.uniData;
 
-    return dl.uniData;
+    return dl.uniDataConnected;
 }
 
 dl.addListener("changeColor", function (e) {
@@ -175,4 +254,13 @@ svg_connected.selectAll(".connPath").transition().duration(duration).attr("strok
 function removeConnected() {
     svg_connected.selectAll("*").remove();
     d3.select("#connectedSelect").selectAll("option").remove();
+}
+
+
+
+function updateConnected() {
+
+   svg_connected.selectAll("*").remove();
+   d3.select("#connectedSelect").selectAll("option").remove();
+   initConnected();
 }

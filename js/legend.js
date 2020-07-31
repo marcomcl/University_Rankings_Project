@@ -61,7 +61,16 @@ function initLegend(){
 	  .append("text")
 	    .attr("x", 120)
 	    .attr("y", function(d,i){ return 100 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
-	    .style("fill", function(d){ return color(d)})
+	    .style("fill", function(d){ 
+
+	    	//console.log("d vale: ", d);
+	    	if(dl.university == d){
+	    		dl.coloreUniversityRector = color(d);
+	    		//console.log("color(d) vale: ", color(d));
+	    	}
+	    	return color(d)}
+
+	    )
 	    .text(function(d){ return d})
 	    .attr("text-anchor", "left")
 	    .style("alignment-baseline", "middle")

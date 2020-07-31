@@ -385,7 +385,15 @@ var tooltip = d3.select("body").append("div").attr("class", "toolTip");
         return cfg.h/2*(1-(Math.max(j.value, 0)/cfg.maxValue)*cfg.factor*Math.cos(i*cfg.radians/total));
       })
       .attr("data-id", function(j){return j.area})
-      .style("fill", "#fff")
+
+
+
+
+      //.style("fill", "#fff")
+      .style("fill", cfg.color(keysLegend[series]))
+
+
+
       .style("stroke-width", "2px")
       .style("stroke",cfg.color(keysLegend[series])).style("fill-opacity", .9)
       .on('mouseover', function (d){

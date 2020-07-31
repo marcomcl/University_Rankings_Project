@@ -18,11 +18,11 @@ function removeGraphsStud(){
 
 function initGraphsTeacher(){
     initRadarChart();
+    initLegend();
     initBar();
     initScatter();
     initConnected();
     initLollipop();
-    initLegend();
 }
 
 function removeGraphsTeacher(){
@@ -79,6 +79,7 @@ function updateFilteredGraphs(e){
             updateRadarChart();
             updateLegend();
             updateLollipop();
+            updateConnected();
         }
         updateBar();
         updateScatter();
