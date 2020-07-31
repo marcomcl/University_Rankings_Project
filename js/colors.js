@@ -15,11 +15,11 @@ Colors.prototype.setDarkMode = function (enabled) {
 }
 
 Colors.prototype.parallelHighlight = function () {
-    return '#ff0000';
+    return '#99d8c9'; //prima #ff0000
 }
 
 Colors.prototype.parallelNormal = function () {
-    return "#31a354";
+    return "#2ca25f"; //prima #31a354
 }
 
 Colors.prototype.parallelBG = function () {
@@ -31,7 +31,7 @@ Colors.prototype.colorScatter = function(){
 }
 
 Colors.prototype.barChart = function () {
-    return '#8856a7';
+    return '#2ca25f'; //prima #8856a7
 }
 
 Colors.prototype.barChartUni = function () {
@@ -39,7 +39,7 @@ Colors.prototype.barChartUni = function () {
 }
 
 Colors.prototype.getColorCountry = function () {
-    return "#9ebcda";
+    return "#9ebcda"; 
 }
 
 Colors.prototype.getBgMap = function () {
@@ -49,7 +49,7 @@ Colors.prototype.getBgMap = function () {
 
 Colors.prototype.getMapOver = function () {
     if (this.isDarkModeEnabled()) return "#ebe6e6";
-    else return "#a8a8a8";
+    else return "#636363"; //prima: #a8a8a8
 }
 
 Colors.prototype.getColorMarginCountry = function () {
@@ -58,7 +58,7 @@ Colors.prototype.getColorMarginCountry = function () {
 }
 
 Colors.prototype.getColorUniversity = function () {
-    return '#f03b20';
+    return '#99d8c9'; //prima #f03b20
 }
 
 Colors.prototype.getColorUniversityScatter = function () {
