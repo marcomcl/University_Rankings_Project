@@ -1,5 +1,6 @@
 var curYear = 0;
 var curRank = 0;
+var curLifeCost = 0;
 function setYearRange(min, max){
     sel = document.getElementById("year");
     for (i = min; i<= max; i++){
@@ -14,7 +15,7 @@ function setYearRange(min, max){
         dl.changeYear(sel.value);
     });
 }
-
+//setto il rank range
 function setRankRange(min, max){
     ran = document.getElementById("rank");
     ran.min = min;
@@ -25,6 +26,23 @@ function setRankRange(min, max){
     });
     document.getElementById("top").innerHTML = "Top "+ curRank + " [cwur]";
 }
+
+function setLifeCostRange(min, max){
+    console.log("############## chiamato setLifeCostRange");
+    ran = document.getElementById("lifeCost");
+    console.log("############## ran vale:",ran);
+    ran.min = min;
+    ran.max = max;
+    ran.value = curLifeCost = parseInt(max/2);
+    console.log("############## ran.value vale ",ran.value);
+    ran.addEventListener('input', function () {
+        console.log("############## evento input");
+
+        dl.changeFilterLifeCost(curRank,ran.value);
+    });
+    document.getElementById("top2").innerHTML = "Life Cost: "+ curLifeCost + " [numbeo]";
+}
+
 
 function cleanMap(){
 

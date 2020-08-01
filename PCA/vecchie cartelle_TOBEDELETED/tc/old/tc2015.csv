@@ -1,0 +1,402 @@
+the_Rank,the_institution,the_Overall,the_Teaching,the_Reseach,the_Citations,the_Industry Income,the_International Outlook,the_Country,   the_No. Of FTTE Students,   the_No. Of Studets per staff,   the_International Students,   the_Female,Male,year,cwur_year,cwur_institution,cwur_location,cwur_world_rank,cwur_national_rank,cwur_quality_of_education,cwur_alumni_employment,cwur_quality_of_faculty,cwur_research_performance,cwur_publications,cwur_influence,cwur_citations,cwur_broad_impact,cwur_patents,cwur_score
+1,California Institute of Technology,94.3,92.2,98.1,99.7,89.1,67.0,United States,-,-,-,-,-,2015,2015.0,California Institute of Technology,USA,12.0,10.0,6,328,7,-,53.0,9,19,25.0,13,84.4
+2,Harvard University,93.3,92.9,98.6,98.9,44.0,67.6,United States,-,-,-,-,-,2015,2015.0,Harvard University,USA,1.0,1.0,1,1,1,-,1.0,1,1,1.0,3,100.0
+3,University of Oxford,93.2,88.6,97.7,95.5,72.9,90.7,United Kingdom,-,-,-,-,-,2015,2015.0,University of Oxford,United Kingdom,5.0,2.0,7,13,10,-,7.0,12,7,9.0,15,96.46
+4,Stanford University,92.9,91.5,96.7,99.1,63.1,69.0,United States,-,-,-,-,-,2015,2015.0,Stanford University,USA,2.0,2.0,9,2,4,-,5.0,3,3,4.0,10,98.66
+5,University of Cambridge,92.0,89.7,95.6,95.2,51.1,87.8,United Kingdom,-,-,-,-,-,2015,2015.0,University of Cambridge,United Kingdom,4.0,1.0,2,10,5,-,11.0,6,12,13.0,48,96.81
+6,Massachusetts Institute of Technology,91.9,89.1,88.2,100.0,95.7,84.3,United States,-,-,-,-,-,2015,2015.0,Massachusetts Institute of Technology,USA,3.0,3.0,3,11,2,-,15.0,2,2,2.0,1,97.54
+7,Princeton University,90.9,86.6,94.7,99.6,82.7,61.2,United States,-,-,-,-,-,2015,2015.0,Princeton University,USA,9.0,7.0,4,15,3,-,72.0,25,24,33.0,225,89.42
+8,University of California  Berkeley,89.5,84.2,96.7,99.1,44.8,58.5,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+9,Imperial College London,87.5,84.6,88.3,89.4,72.7,92.7,United Kingdom,-,-,-,-,-,2015,2015.0,Imperial College London,United Kingdom,35.0,4.0,90,82,30,-,19.0,26,23,19.0,47,59.61
+9,Yale University,87.5,88.5,90.8,94.0,42.0,59.8,United States,-,-,-,-,-,2015,2015.0,Yale University,USA,11.0,9.0,10,26,11,-,18.0,8,35,20.0,49,86.61
+11,University of Chicago,87.1,83.9,89.9,97.3,36.8,65.2,United States,-,-,-,-,-,2015,2015.0,University of Chicago,USA,8.0,6.0,11,14,8,-,17.0,16,12,22.0,141,90.7
+12,University of California  Los Angeles,85.5,82.4,90.5,95.3,-,49.2,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+13,ETH Zurich,84.6,78.2,90.2,83.5,73.2,96.6,Switzerland,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+14,Columbia University,84.4,83.9,79.4,95.3,-,68.3,United States,-,-,-,-,-,2015,2015.0,Columbia University,USA,6.0,4.0,13,6,9,-,13.0,13,11,12.0,4,96.14
+15,Johns Hopkins University,83.0,75.6,84.2,93.6,100.0,59.7,United States,-,-,-,-,-,2015,2015.0,Johns Hopkins University,USA,16.0,13.0,18,84,16,-,4.0,11,5,3.0,2,71.6
+16,University of Pennsylvania,81.0,79.0,82.0,94.4,43.0,43.8,United States,-,-,-,-,-,2015,2015.0,University of Pennsylvania,USA,14.0,11.0,20,4,28,-,8.0,18,14,9.0,14,77.6
+17,University of Michigan-Ann Arbor,80.9,77.0,86.5,88.9,55.7,49.8,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+18,Duke University,79.9,73.5,75.2,96.6,100.0,50.5,United States,-,-,-,-,-,2015,2015.0,Duke University,USA,28.0,20.0,74,31,56,-,19.0,23,15,16.0,33,61.55
+19,Cornell University,79.4,71.6,83.8,91.5,33.7,59.0,United States,-,-,-,-,-,2015,2015.0,Cornell University,USA,10.0,8.0,12,18,14,-,24.0,15,25,22.0,11,86.79
+20,University of Toronto,79.3,74.4,85.1,83.0,46.1,71.2,Canada,-,-,-,-,-,2015,2015.0,University of Toronto,Canada,32.0,1.0,70,51,32,-,2.0,17,9,8.0,145,60.04
+21,Northwestern University,79.2,72.7,78.9,96.9,77.0,36.7,United States,-,-,-,-,-,2015,2015.0,Northwestern University,USA,22.0,17.0,163,12,104,-,27.0,34,27,26.0,42,66.56
+22,UCL,78.7,70.4,80.4,85.1,46.2,90.6,United Kingdom,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+23,The University of Tokyo,76.1,81.4,85.1,74.7,51.2,32.4,Japan,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+24,Carnegie Mellon University,74.3,61.6,74.9,92.0,53.0,59.3,United States,-,-,-,-,-,2015,2015.0,Carnegie Mellon University,USA,61.0,39.0,25,160,23,-,211.0,225,78,150.0,165,54.0
+25,National University of Singapore,73.3,72.0,78.1,66.0,53.4,94.9,Singapore,-,-,-,-,-,2015,2015.0,National University of Singapore,Singapore,65.0,1.0,367+,98,218+,-,34.0,125,78,90.0,25,53.44
+26,University of Washington - Seattle,73.2,64.5,68.9,95.0,44.7,47.9,United States,-,-,-,-,-,2015,2015.0,University of Washington - Seattle,USA,31.0,23.0,48,103,41,-,9.0,10,10,5.0,40,60.61
+27,Georgia Institute of Technology,72.8,62.5,71.2,85.8,72.3,68.9,United States,-,-,-,-,-,2015,2015.0,Georgia Institute of Technology,USA,80.0,48.0,135,60,218+,-,107.0,152,78,106.0,36,52.08
+28,University of Texas at Austin,72.3,64.3,72.0,91.5,58.1,33.1,United States,-,-,-,-,-,2015,2015.0,University of Texas at Austin,USA,30.0,22.0,75,36,25,-,48.0,50,26,71.0,38,61.14
+29,LMU Munich,71.9,65.1,69.1,83.0,100.0,56.4,Germany,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+29,University of Illinois at Urbana–Champaign,71.9,67.7,79.0,77.8,51.7,43.9,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+29,University of Wisconsin-Madison,71.9,67.7,71.3,87.7,53.3,33.6,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+32,University of British Columbia,71.8,60.5,69.0,85.3,40.1,84.8,Canada,-,-,-,-,-,2015,2015.0,University of British Columbia,Canada,62.0,3.0,81,275,93,-,26.0,36,37,34.0,81,53.92
+33,University of Melbourne,71.2,60.4,70.9,80.6,61.2,81.3,Australia,-,-,-,-,-,2015,2015.0,University of Melbourne,Australia,93.0,2.0,141,113,218+,-,42.0,68,53,71.0,223,51.34
+34,London School of Economics and Political Science,70.9,65.4,74.2,71.3,40.6,87.4,United Kingdom,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+34,École Polytechnique Fédérale de Lausanne,70.9,54.7,56.9,95.0,61.9,98.8,Switzerland,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+36,University of Edinburgh,70.4,58.9,62.9,88.3,41.2,84.3,United Kingdom,-,-,-,-,-,2015,2015.0,University of Edinburgh,United Kingdom,55.0,5.0,44,127,33,-,54.0,37,65,43.0,228,54.39
+37,University of California  Santa Barbara,70.0,49.4,61.4,99.2,87.1,64.3,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+38,New York University,69.9,68.3,62.4,89.5,30.2,41.2,United States,-,-,-,-,-,2015,2015.0,New York University,USA,18.0,14.0,32,22,18,-,47.0,29,46,32.0,43,68.39
+39,McGill University,69.6,63.3,69.9,76.0,38.6,79.0,Canada,-,-,-,-,-,2015,2015.0,McGill University,Canada,42.0,2.0,34,37,75,-,33.0,53,44,34.0,132,56.49
+40,King's College London,69.4,55.6,62.3,88.3,39.0,87.0,United Kingdom,-,-,-,-,-,2015,2015.0,King's College London,United Kingdom,94.0,7.0,27,190,114,-,76.0,116,101,74.0,188,51.31
+41,University of California  San Diego,68.6,52.0,66.6,96.4,54.2,37.0,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+42,Washington University in St. Louis,67.8,57.6,55.2,97.1,-,46.5,United States,-,-,-,-,-,2015,2015.0,Washington University in St. Louis,USA,52.0,35.0,101,96,71,-,41.0,21,29,17.0,169,55.03
+43,University of Hong Kong,67.5,62.1,72.6,65.1,56.0,81.9,Hong Kong,-,-,-,-,-,2015,2015.0,University of Hong Kong,Hong Kong,170.0,1.0,287,128,218+,-,139.0,204,128,147.0,205,48.15
+44,Karolinska Institute,66.8,57.1,68.0,76.8,65.5,60.6,Sweden,-,-,-,-,-,2015,2015.0,Karolinska Institute,Sweden,71.0,1.0,149,567+,36,-,51.0,54,52,34.0,743,52.79
+45,Australian National University,66.5,53.7,70.9,71.1,38.9,91.3,Australia,-,-,-,-,-,2015,2015.0,Australian National University,Australia,179.0,6.0,196,379,52,-,130.0,99,197,188.0,415,47.97
+46,University of Minnesota,65.9,59.9,64.7,82.9,-,33.8,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+46,University of North Carolina at Chapel Hill,65.9,57.9,58.6,91.0,40.5,35.3,United States,-,-,-,-,-,2015,2015.0,University of North Carolina at Chapel Hill,USA,40.0,25.0,124,69,86,-,32.0,32,19,21.0,41,57.09
+48,Peking University,65.2,70.0,61.9,63.7,100.0,53.7,China,-,-,-,-,-,2015,2015.0,Peking University,China,56.0,1.0,182,38,218+,-,52.0,131,182,125.0,20,54.26
+49,Tsinghua University,65.1,64.1,68.3,65.0,99.7,44.6,China,-,-,-,-,-,2015,2015.0,Tsinghua University,China,78.0,2.0,309,73,218+,-,63.0,158,65,156.0,30,52.21
+50,Seoul National University,64.8,75.5,77.1,48.7,86.3,30.3,South Korea,-,-,-,-,-,2015,2015.0,Seoul National University,South Korea,24.0,1.0,367+,9,218+,-,36.0,163,146,112.0,6,64.82
+51,The Hong Kong University of Science and Technology,64.7,51.8,66.8,72.9,57.6,77.8,Hong Kong,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+52,KAIST,64.5,63.5,63.2,71.4,100.0,34.9,South Korea,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+52,University of Manchester,64.5,58.1,58.7,74.3,39.4,82.0,United Kingdom,-,-,-,-,-,2015,2015.0,University of Manchester,United Kingdom,67.0,6.0,99,92,72,-,43.0,70,29,53.0,142,53.38
+54,Brown University,64.1,55.5,54.2,92.0,32.7,37.0,United States,-,-,-,-,-,2015,2015.0,Brown University,USA,83.0,50.0,64,43,73,-,121.0,67,76,99.0,200,52.01
+55,KU Leuven,63.7,53.0,63.6,71.8,99.9,62.3,Belgium,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+55,University of California  Davis,63.7,54.4,59.7,80.4,55.4,52.9,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+57,Boston University,63.6,56.4,46.7,94.4,30.3,47.8,United States,-,-,-,-,-,2015,2015.0,Boston University,USA,66.0,41.0,303,54,83,-,60.0,45,37,34.0,135,53.43
+58,Penn State (Main campus),62.9,54.6,64.8,76.0,60.4,37.4,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+59,Kyoto University,62.8,70.4,68.4,57.0,73.3,29.0,Japan,-,-,-,-,-,2015,2015.0,Kyoto University,Japan,17.0,2.0,22,16,24,-,30.0,42,88,60.0,16,68.6
+60,University of Sydney,62.7,52.8,60.8,69.0,67.3,83.6,Australia,-,-,-,-,-,2015,2015.0,University of Sydney,Australia,88.0,1.0,105,198,166,-,45.0,103,46,84.0,75,51.61
+61,Nanyang Technological University  Singapore,62.2,43.9,55.9,75.9,100.0,92.5,Singapore,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+61,École Polytechnique,62.2,50.5,47.1,79.9,76.8,94.5,France,-,-,-,-,-,2015,2015.0,École Polytechnique,France,36.0,1.0,98,7,216,-,327.0,314,234,295.0,172,59.2
+63,Scuola Normale Superiore,61.9,48.2,46.0,96.4,40.1,50.1,Italy,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+64,Leiden University,61.3,45.0,58.2,82.3,47.3,59.5,Netherlands,-,-,-,-,-,2015,2015.0,Leiden University,Netherlands,108.0,3.0,120,567+,102,-,82.0,94,53,56.0,260,50.17
+65,The University of Queensland,61.2,45.8,58.4,74.2,66.2,80.4,Australia,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+66,Pohang University of Science and Technology,61.1,52.7,49.3,84.4,100.0,36.0,South Korea,-,-,-,-,-,2015,2015.0,Pohang University of Science and Technology,South Korea,165.0,5.0,367+,567+,218+,-,285.0,355,212,281.0,24,48.24
+67,University of Göttingen,61.0,46.9,48.0,92.3,32.8,53.9,Germany,-,-,-,-,-,2015,2015.0,University of Göttingen,Germany,177.0,11.0,43,171,176,-,174.0,146,264,184.0,299,47.98
+68,Ohio State University,60.7,54.0,51.1,80.4,46.8,51.5,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+69,Rice University,59.8,41.7,37.1,99.9,34.6,70.8,United States,-,-,-,-,-,2015,2015.0,Rice University,USA,120.0,61.0,52,161,95,-,255.0,150,59,130.0,76,49.73
+70,Heidelberg University,59.6,52.6,45.4,81.4,41.6,63.1,Germany,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+71,Delft University of Technology,59.2,55.5,71.4,42.6,100.0,77.9,Netherlands,-,-,-,-,-,2015,2015.0,Delft University of Technology,Netherlands,255.0,9.0,307,300,218+,-,224.0,224,264,247.0,146,46.46
+72,Erasmus University Rotterdam,59.1,39.8,53.7,82.3,54.4,66.2,Netherlands,-,-,-,-,-,2015,2015.0,Erasmus University Rotterdam,Netherlands,85.0,1.0,367+,46,189,-,87.0,147,53,44.0,227,51.78
+73,Wageningen University and Research,59.0,44.3,46.8,77.5,100.0,78.7,Netherlands,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+74,University of Bristol,58.9,43.7,44.7,85.1,42.1,76.6,United Kingdom,-,-,-,-,-,2015,2015.0,University of Bristol,United Kingdom,123.0,8.0,194,196,74,-,92.0,69,82,106.0,335,49.59
+75,University of Basel,58.4,41.2,41.1,81.4,97.7,91.2,Switzerland,-,-,-,-,-,2015,2015.0,University of Basel,Switzerland,160.0,5.0,83,363,60,-,167.0,100,136,130.0,486,48.48
+75,University of Southern California,58.4,55.2,44.6,81.3,34.4,42.7,United States,-,-,-,-,-,2015,2015.0,University of Southern California,USA,51.0,34.0,152,62,39,-,57.0,64,101,56.0,34,55.12
+77,University of Amsterdam,58.2,42.0,55.4,76.6,56.7,60.5,Netherlands,-,-,-,-,-,2015,2015.0,University of Amsterdam,Netherlands,114.0,5.0,109,317,212,-,70.0,88,93,60.0,282,49.83
+78,École Normale Supérieure,58.1,48.7,36.2,84.8,39.4,81.9,France,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+79,Utrecht University,58.0,38.2,54.8,80.0,84.1,52.9,Netherlands,-,-,-,-,-,2015,2015.0,Utrecht University,Netherlands,87.0,2.0,84,199,115,-,39.0,44,59,46.0,429,51.74
+80,Humboldt University of Berlin,57.9,51.9,52.6,71.9,31.9,55.7,Germany,-,-,-,-,-,2015,2015.0,Humboldt University of Berlin,Germany,153.0,5.0,291,567+,108,-,108.0,82,161,85.0,471,48.64
+81,Free University of Berlin,57.6,49.4,58.0,67.6,33.5,56.6,Germany,-,-,-,-,-,2015,2015.0,Free University of Berlin,Germany,147.0,4.0,76,548,128,-,109.0,80,234,90.0,461,48.78
+82,Michigan State University,57.3,51.1,49.4,74.0,31.7,55.0,United States,-,-,-,-,-,2015,2015.0,Michigan State University,USA,118.0,60.0,112,162,218+,-,88.0,123,65,111.0,136,49.74
+83,Durham University,56.9,37.2,40.7,88.9,34.8,80.4,United Kingdom,-,-,-,-,-,2015,2015.0,Durham University,United Kingdom,261.0,23.0,132,267,116,-,248.0,199,197,242.0,460,46.42
+83,Monash University,56.9,43.7,54.4,65.7,73.4,79.6,Australia,-,-,-,-,-,2015,2015.0,Monash University,Australia,145.0,5.0,277,145,218+,-,86.0,136,182,161.0,99,48.91
+85,Middle East Technical University,56.6,45.5,36.9,92.0,55.2,38.7,Turkey,-,-,-,-,-,2015,2015.0,Middle East Technical University,Turkey,470.0,1.0,367+,120,218+,-,550.0,879,511,659.0,871+,44.87
+86,University of Arizona,56.5,44.9,51.4,74.0,99.6,38.8,United States,-,-,-,-,-,2015,2015.0,University of Arizona,USA,68.0,42.0,139,55,87,-,74.0,39,31,49.0,235,53.26
+86,University of Notre Dame,56.5,43.3,38.5,90.0,-,51.4,United States,-,-,-,-,-,2015,2015.0,University of Notre Dame,USA,77.0,47.0,221,24,155,-,242.0,242,182,235.0,352,52.27
+88,Tufts University,56.4,43.6,33.9,92.9,58.7,51.1,United States,-,-,-,-,-,2015,2015.0,Tufts University,USA,95.0,54.0,60,48,182,-,166.0,160,93,85.0,84,51.22
+88,University of California  Irvine,56.4,39.5,41.7,89.5,40.0,56.1,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+90,Ghent University,56.2,42.5,51.6,73.8,85.3,49.1,Belgium,-,-,-,-,-,2015,2015.0,Ghent University,Belgium,119.0,2.0,123,329,147,-,84.0,149,68,119.0,90,49.73
+91,University of Massachusetts,56.1,44.8,49.1,78.7,52.8,40.3,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+91,University of Pittsburgh - Pittsburgh Campus,56.1,45.2,46.3,84.4,38.5,32.2,United States,-,-,-,-,-,2015,2015.0,University of Pittsburgh - Pittsburgh Campus,USA,46.0,29.0,79,169,218+,-,25.0,57,21,24.0,50,55.63
+93,Emory University,55.5,49.0,32.4,89.5,42.3,42.9,United States,-,-,-,-,-,2015,2015.0,Emory University,USA,84.0,51.0,367+,146,116,-,67.0,60,93,41.0,55,51.85
+94,McMaster University,55.3,38.1,43.2,78.8,85.0,69.4,Canada,-,-,-,-,-,2015,2015.0,McMaster University,Canada,150.0,6.0,222,268,163,-,127.0,156,101,87.0,222,48.74
+94,University of Glasgow,55.3,37.0,40.5,83.7,39.9,78.8,United Kingdom,-,-,-,-,-,2015,2015.0,University of Glasgow,United Kingdom,128.0,9.0,234,89,218+,-,123.0,144,82,87.0,402,49.45
+96,Vanderbilt University,55.2,46.0,38.2,87.7,59.4,28.3,United States,-,-,-,-,-,2015,2015.0,Vanderbilt University,USA,69.0,43.0,87,94,110,-,55.0,62,59,41.0,51,53.05
+97,University of Colorado Boulder,55.1,35.0,38.3,97.4,-,39.1,United States,-,-,-,-,-,2015,2015.0,University of Colorado Boulder,USA,54.0,37.0,80,67,31,-,96.0,38,45,74.0,133,54.62
+98,Stockholm University,54.6,30.1,45.0,90.9,32.4,53.2,Sweden,-,-,-,-,-,2015,2015.0,Stockholm University,Sweden,168.0,5.0,129,79,187,-,202.0,89,88,179.0,839,48.23
+98,Technical University of Munich,54.6,45.6,37.4,78.8,49.0,64.0,Germany,-,-,-,-,-,2015,2015.0,Technical University of Munich,Germany,101.0,3.0,37,118,177,-,104.0,90,128,95.0,119,50.58
+98,Uppsala University,54.6,40.2,53.0,70.9,39.6,57.5,Sweden,-,-,-,-,-,2015,2015.0,Uppsala University,Sweden,124.0,3.0,73,321,70,-,95.0,75,93,103.0,871+,49.57
+101,Maastricht University,54.3,32.4,48.1,70.1,96.1,89.7,Netherlands,-,-,-,-,-,2015,2015.0,Maastricht University,Netherlands,225.0,8.0,367+,567+,218+,-,185.0,354,234,156.0,281,47.0
+102,Purdue University West Lafayette,54.0,47.8,50.5,62.2,-,64.3,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+103,Pierre-and-Marie-Curie University,53.9,47.3,30.0,83.3,33.4,64.7,France,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+103,University of Helsinki,53.9,37.5,48.1,79.0,31.5,49.7,Finland,-,-,-,-,-,2015,2015.0,University of Helsinki,Finland,111.0,1.0,56,551,111,-,80.0,79,88,65.0,420,50.04
+103,University of Warwick,53.9,41.1,45.8,68.2,35.6,85.7,United Kingdom,-,-,-,-,-,2015,2015.0,University of Warwick,United Kingdom,293.0,27.0,210,444,116,-,205.0,239,161,308.0,234,46.05
+103,University of Zurich,53.9,40.2,33.1,81.4,40.1,86.9,Switzerland,-,-,-,-,-,2015,2015.0,University of Zurich,Switzerland,96.0,4.0,115,389,85,-,56.0,46,68,56.0,137,51.14
+107,Queen Mary University of London,53.8,32.4,32.9,88.9,37.1,88.6,United Kingdom,-,-,-,-,-,2015,2015.0,Queen Mary University of London,United Kingdom,209.0,17.0,147,319,218+,-,226.0,175,212,138.0,255,47.25
+107,University of Geneva,53.8,34.5,37.2,78.2,65.1,96.8,Switzerland,-,-,-,-,-,2015,2015.0,University of Geneva,Switzerland,92.0,3.0,35,191,42,-,122.0,77,115,79.0,321,51.46
+109,University of California  Santa Cruz,53.7,30.6,31.9,100.0,33.8,54.6,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+109,UNSW Sydney,53.7,41.1,51.9,61.1,47.8,83.5,Australia,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+111,University of St Andrews,53.6,35.7,35.9,81.4,39.8,90.5,United Kingdom,-,-,-,-,-,2015,2015.0,University of St Andrews,United Kingdom,309.0,28.0,145,506,218+,-,308.0,188,321,281.0,189,45.89
+111,University of Sussex,53.6,31.9,30.4,92.8,31.2,83.6,United Kingdom,-,-,-,-,-,2015,2015.0,University of Sussex,United Kingdom,253.0,22.0,151,257,57,-,359.0,250,161,308.0,553,46.49
+113,University of Montreal,53.4,43.8,44.4,62.9,91.8,76.7,Canada,-,-,-,-,-,2015,2015.0,University of Montreal,Canada,151.0,7.0,320,376,218+,-,101.0,111,101,90.0,540,48.72
+113,University of Tübingen,53.4,41.5,44.7,74.0,54.7,53.0,Germany,-,-,-,-,-,2015,2015.0,University of Tübingen,Germany,156.0,7.0,69,490,103,-,142.0,122,146,115.0,226,48.56
+113,University of York,53.4,32.2,33.8,90.5,32.2,75.0,United Kingdom,-,-,-,-,-,2015,2015.0,University of York,United Kingdom,325.0,29.0,367+,567+,218+,-,270.0,205,161,300.0,406,45.69
+116,Case Western Reserve University,53.2,46.5,37.4,82.9,-,34.4,United States,-,-,-,-,-,2015,2015.0,Case Western Reserve University,USA,105.0,57.0,50,215,195,-,137.0,106,59,74.0,111,50.28
+117,University of Groningen,53.1,36.9,50.8,68.1,88.9,56.1,Netherlands,-,-,-,-,-,2015,2015.0,University of Groningen,Netherlands,110.0,4.0,313,193,196,-,64.0,96,68,67.0,316,50.1
+118,Royal Holloway  University of London,53.0,29.1,22.4,98.9,32.8,94.4,United Kingdom,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+119,Lund University,52.9,32.6,48.5,74.9,32.6,70.1,Sweden,-,-,-,-,-,2015,2015.0,Lund University,Sweden,117.0,2.0,136,466,169,-,85.0,135,53,60.0,871+,49.75
+120,Paris-Sud University,52.8,37.3,33.1,87.7,28.9,62.7,France,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+121,Technical University of Denmark,52.7,39.9,28.2,79.6,98.6,79.7,Denmark,-,-,-,-,-,2015,2015.0,Technical University of Denmark,Denmark,174.0,3.0,351,510,202,-,220.0,230,161,216.0,46,48.06
+121,University of Rochester,52.7,41.9,29.2,87.7,36.4,55.5,United States,-,-,-,-,-,2015,2015.0,University of Rochester,USA,81.0,49.0,72,53,113,-,114.0,118,68,79.0,64,52.03
+121,University of Sheffield,52.7,40.0,39.1,74.3,43.8,74.8,United Kingdom,-,-,-,-,-,2015,2015.0,University of Sheffield,United Kingdom,173.0,14.0,142,209,196,-,129.0,137,136,147.0,179,48.07
+124,University of Alberta,52.6,43.8,47.1,61.8,51.8,73.4,Canada,-,-,-,-,-,2015,2015.0,University of Alberta,Canada,107.0,4.0,169,151,153,-,62.0,109,82,103.0,116,50.25
+124,University of Cape Town,52.6,26.8,35.3,86.6,88.0,76.7,South Africa,-,-,-,-,-,2015,2015.0,University of Cape Town,South Africa,248.0,2.0,104,126,146,-,319.0,236,234,265.0,268,46.58
+126,Boston College,52.5,32.4,29.1,95.9,46.5,54.6,United States,-,-,-,-,-,2015,2015.0,Boston College,USA,326.0,120.0,367+,97,218+,-,557.0,363,197,402.0,386,45.65
+126,KTH Royal Institute of Technology,52.5,45.7,44.8,55.1,100.0,84.0,Sweden,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+126,University of Florida,52.5,49.8,52.1,62.2,-,32.2,United States,-,-,-,-,-,2015,2015.0,University of Florida,USA,60.0,38.0,214,276,96,-,37.0,73,46,59.0,5,54.18
+129,Chinese University of Hong Kong,52.4,43.9,53.5,57.8,42.8,64.0,Hong Kong,-,-,-,-,-,2015,2015.0,Chinese University of Hong Kong,Hong Kong,220.0,2.0,100,479,116,-,162.0,356,212,209.0,168,47.05
+130,University of Virginia (Main campus),52.1,48.7,35.9,76.9,49.8,31.8,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+131,Lancaster University,52.0,35.4,36.1,78.0,34.1,84.7,United Kingdom,-,-,-,-,-,2015,2015.0,Lancaster University,United Kingdom,426.0,35.0,367+,360,218+,-,364.0,398,234,369.0,673,45.08
+132,University of Bern,51.9,42.0,36.9,70.1,47.4,80.7,Switzerland,-,-,-,-,-,2015,2015.0,University of Bern,Switzerland,200.0,7.0,184,526,213,-,163.0,128,93,159.0,433,47.49
+132,University of Maryland  College Park,51.9,36.5,39.1,83.6,33.2,44.8,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+132,University of Southampton,51.9,35.2,34.1,79.7,38.9,82.4,United Kingdom,-,-,-,-,-,2015,2015.0,University of Southampton,United Kingdom,148.0,11.0,329,95,218+,-,115.0,133,101,130.0,334,48.77
+135,Dresden University of Technology,51.6,39.8,42.0,70.8,99.5,44.7,Germany,-,-,-,-,-,2015,2015.0,Dresden University of Technology,Germany,210.0,15.0,367+,567+,218+,-,188.0,212,146,195.0,102,47.25
+136,University of Lausanne,51.4,29.4,39.9,76.5,50.9,85.1,Switzerland,-,-,-,-,-,2015,2015.0,University of Lausanne,Switzerland,186.0,6.0,102,423,218+,-,235.0,101,115,117.0,683,47.73
+136,Vrije Universiteit Amsterdam,51.4,35.5,43.2,74.9,60.0,50.6,Netherlands,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+138,Trinity College Dublin,51.2,39.4,30.3,77.6,30.6,83.9,Ireland,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+139,Bo?aziçi University,51.1,28.5,27.6,96.8,47.7,54.1,Turkey,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+140,Radboud University Nijmegen,51.0,30.5,46.7,73.9,42.8,61.6,Netherlands,-,-,-,-,-,2015,2015.0,Radboud University Nijmegen,Netherlands,134.0,7.0,128,274,218+,-,89.0,119,93,74.0,410,49.3
+141,Colorado School of Mines,50.9,26.1,26.7,97.1,79.4,52.6,United States,-,-,-,-,-,2015,2015.0,Colorado School of Mines,USA,365.0,130.0,367+,81,218+,-,668.0,601,321,565.0,690,45.39
+141,Texas A&M University,50.9,46.2,51.9,55.1,49.6,49.1,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+141,Tokyo Institute of Technology,50.9,53.5,52.9,48.1,69.4,37.0,Japan,-,-,-,-,-,2015,2015.0,Tokyo Institute of Technology,Japan,109.0,8.0,170,50,128,-,169.0,169,136,190.0,52,50.13
+144,Eindhoven University of Technology,50.5,38.3,47.1,57.3,99.9,69.0,Netherlands,-,-,-,-,-,2015,2015.0,Eindhoven University of Technology,Netherlands,348.0,11.0,367+,347,186,-,306.0,549,321,318.0,279,45.51
+144,Rutgers  the State University of New Jersey,50.5,40.5,45.3,71.0,35.2,34.3,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+146,University of Leeds,50.4,39.4,39.1,69.3,39.4,67.6,United Kingdom,-,-,-,-,-,2015,2015.0,University of Leeds,United Kingdom,161.0,13.0,62,157,218+,-,133.0,141,136,150.0,265,48.41
+147,Brandeis University,50.3,25.8,29.1,95.3,43.9,54.7,United States,-,-,-,-,-,2015,2015.0,Brandeis University,USA,274.0,107.0,51,342,78,-,549.0,195,428,330.0,249,46.29
+148,Sungkyunkwan University (SKKU),50.2,48.1,50.2,51.7,98.5,35.8,South Korea,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+148,University of Birmingham,50.2,42.8,39.8,62.7,36.0,75.8,United Kingdom,-,-,-,-,-,2015,2015.0,University of Birmingham,United Kingdom,152.0,12.0,65,158,205,-,117.0,165,146,138.0,170,48.7
+150,Indiana University,50.1,46.5,35.1,73.1,-,37.1,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+150,University of California  Riverside,50.1,29.4,27.5,91.5,39.5,61.6,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+152,Dartmouth College,50.0,38.3,35.4,80.4,49.1,33.1,United States,-,-,-,-,-,2015,2015.0,Dartmouth College,USA,44.0,28.0,40,19,218+,-,246.0,167,136,154.0,63,56.35
+153,Aarhus University,49.9,30.9,47.5,66.5,59.8,66.3,Denmark,-,-,-,-,-,2015,2015.0,Aarhus University,Denmark,122.0,2.0,310,165,106,-,91.0,81,101,95.0,154,49.65
+154,University of Exeter,49.7,32.0,32.7,78.0,35.8,79.8,United Kingdom,-,-,-,-,-,2015,2015.0,University of Exeter,United Kingdom,333.0,30.0,264,481,218+,-,293.0,174,428,295.0,353,45.59
+155,National Taiwan University of Science and Technology,49.3,48.8,57.3,47.7,43.8,27.5,Taiwan,-,-,-,-,-,2015,2015.0,National Taiwan University of Science and Technology,Taiwan,916.0,15.0,367+,567+,218+,-,598.0,991+,812+,886.0,823,44.12
+156,RWTH Aachen University,49.2,39.0,29.9,75.0,69.8,56.8,Germany,-,-,-,-,-,2015,2015.0,RWTH Aachen University,Germany,230.0,18.0,357,238,131,-,197.0,359,182,219.0,158,46.9
+157,Osaka University,49.1,51.3,48.0,51.1,73.6,29.1,Japan,-,-,-,-,-,2015,2015.0,Osaka University,Japan,45.0,5.0,46,39,75,-,50.0,58,182,67.0,18,56.03
+157,University of Liverpool,49.1,31.3,33.2,76.2,40.0,79.5,United Kingdom,-,-,-,-,-,2015,2015.0,University of Liverpool,United Kingdom,199.0,15.0,176,179,207,-,154.0,172,128,174.0,377,47.49
+157,University of Western Australia,49.1,36.3,38.1,62.2,63.3,87.3,Australia,-,-,-,-,-,2015,2015.0,University of Western Australia,Australia,216.0,7.0,156,306,145,-,146.0,181,368,179.0,399,47.1
+160,University of Copenhagen,49.0,34.0,34.4,73.5,44.4,71.8,Denmark,-,-,-,-,-,2015,2015.0,University of Copenhagen,Denmark,74.0,1.0,117,149,64,-,38.0,31,59,31.0,432,52.51
+160,École Normale Supérieure de Lyon,49.0,38.1,33.8,73.0,29.3,64.4,France,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+162,University of Utah,48.6,38.8,36.5,75.0,58.1,27.5,United States,-,-,-,-,-,2015,2015.0,University of Utah,USA,70.0,44.0,97,105,67,-,97.0,65,101,90.0,19,52.89
+163,University of Freiburg,48.3,38.0,28.1,74.0,81.4,56.7,Germany,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+164,University of Adelaide,48.2,33.8,40.4,61.1,65.3,79.3,Australia,-,-,-,-,-,2015,2015.0,University of Adelaide,Australia,335.0,8.0,219,445,218+,-,234.0,243,287,318.0,465,45.58
+165,Istanbul Technical University,48.1,30.2,36.9,79.7,51.1,37.3,Turkey,-,-,-,-,-,2015,2015.0,Istanbul Technical University,Turkey,742.0,5.0,367+,440,218+,-,646.0,875,368,699.0,839,44.31
+165,Karlsruhe Institute of Technology,48.1,40.5,34.9,62.9,82.7,60.1,Germany,-,-,-,-,-,2015,2015.0,Karlsruhe Institute of Technology,Germany,213.0,16.0,356,208,131,-,193.0,280,146,247.0,103,47.15
+165,Pompeu Fabra University,48.1,25.1,28.3,88.3,35.9,63.2,Spain,-,-,-,-,-,2015,2015.0,Pompeu Fabra University,Spain,375.0,9.0,367+,567+,218+,-,397.0,164,428,318.0,604,45.31
+165,Tohoku University,48.1,49.7,47.3,49.6,76.8,29.7,Japan,-,-,-,-,-,2015,2015.0,Tohoku University,Japan,73.0,6.0,41,170,218+,-,68.0,127,115,119.0,22,52.57
+169,University of Miami,48.0,42.7,27.2,73.1,-,56.7,United States,-,-,-,-,-,2015,2015.0,University of Miami,USA,137.0,64.0,367+,241,218+,-,159.0,130,82,112.0,73,49.09
+170,University of Antwerp,47.9,34.6,33.6,67.7,100.0,61.0,Belgium,-,-,-,-,-,2015,2015.0,University of Antwerp,Belgium,312.0,6.0,367+,567+,218+,-,265.0,307,234,265.0,372,45.84
+171,University of Nottingham,47.8,39.9,35.8,62.7,39.6,70.6,United Kingdom,-,-,-,-,-,2015,2015.0,University of Nottingham,United Kingdom,140.0,10.0,131,109,84,-,116.0,176,146,140.0,138,49.02
+171,Université catholique de Louvain,47.8,37.9,34.9,67.7,46.1,59.7,Belgium,-,-,-,-,-,2015,2015.0,Université catholique de Louvain,Belgium,231.0,4.0,367+,264,97,-,283.0,325,115,213.0,236,46.89
+173,Georgetown University,47.7,51.1,28.2,62.2,80.0,43.3,United States,-,-,-,-,-,2015,2015.0,Georgetown University,USA,113.0,59.0,159,34,218+,-,298.0,321,321,204.0,122,49.92
+173,University of Victoria,47.7,21.6,30.6,86.7,31.6,70.1,Canada,-,-,-,-,-,2015,2015.0,University of Victoria,Canada,352.0,16.0,367+,567+,218+,-,321.0,328,234,300.0,853,45.48
+175,University of Auckland,47.5,28.6,33.4,68.4,74.2,87.3,New Zealand,-,-,-,-,-,2015,2015.0,University of Auckland,New Zealand,266.0,1.0,235,419,218+,-,253.0,260,234,256.0,125,46.38
+175,University of Iowa,47.5,41.9,33.5,71.0,49.3,31.7,United States,-,-,-,-,-,2015,2015.0,University of Iowa,USA,141.0,67.0,233,296,167,-,103.0,83,115,112.0,121,49.01
+177,Syracuse University,47.3,32.4,24.4,87.1,40.6,41.2,United States,-,-,-,-,-,2015,2015.0,Syracuse University,USA,463.0,150.0,138,221,218+,-,453.0,494,428,495.0,392,44.91
+178,Joseph Fourier University,47.1,38.0,29.3,73.0,31.3,57.3,France,-,-,-,-,-,2015,2015.0,Joseph Fourier University,France,188.0,8.0,195,567+,218+,-,110.0,93,234,170.0,160,47.71
+178,University of Aberdeen,47.1,28.0,30.2,74.3,42.1,84.1,United Kingdom,-,-,-,-,-,2015,2015.0,University of Aberdeen,United Kingdom,285.0,26.0,360,314,199,-,273.0,207,287,225.0,422,46.17
+180,Paris Diderot University - Paris 7 ,47.0,25.6,19.7,92.2,29.1,67.4,France,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+180,University of Delaware,47.0,29.0,36.3,73.1,99.3,40.6,United States,-,-,-,-,-,2015,2015.0,University of Delaware,USA,281.0,109.0,318,337,135,-,272.0,304,234,292.0,120,46.21
+182,Arizona State University,46.9,35.7,37.5,73.1,32.6,29.5,United States,-,-,-,-,-,2015,2015.0,Arizona State University,USA,97.0,55.0,367+,455,66,-,143.0,85,76,140.0,21,51.13
+182,Sabanc? University,46.9,26.0,27.1,88.5,42.9,44.6,Turkey,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+182,University of Vienna,46.9,35.2,39.7,56.3,29.4,91.0,Austria,-,-,-,-,-,2015,2015.0,University of Vienna,Austria,223.0,1.0,191,185,101,-,231.0,154,161,200.0,671,47.03
+185,Northeastern University,46.8,36.4,21.9,81.3,34.0,54.7,United States,-,-,-,-,-,2015,2015.0,Northeastern University,USA,275.0,108.0,316,125,218+,-,370.0,312,264,362.0,86,46.29
+186,University of Oslo,46.7,36.1,35.2,66.3,36.6,60.3,Norway,-,-,-,-,-,2015,2015.0,University of Oslo,Norway,99.0,1.0,53,286,40,-,106.0,134,101,102.0,302,50.81
+186,Yeshiva University,46.7,45.2,23.9,77.8,-,27.6,United States,-,-,-,-,-,2015,2015.0,Yeshiva University,USA,171.0,76.0,200,567+,218+,-,195.0,91,161,109.0,128,48.11
+188,Stony Brook University,46.6,32.8,24.4,80.4,31.3,60.5,United States,-,-,-,-,-,2015,2015.0,Stony Brook University,USA,138.0,65.0,186,567+,58,-,173.0,84,93,134.0,96,49.09
+188,Tel Aviv University,46.6,43.5,51.1,45.5,42.6,46.1,Israel,-,-,-,-,-,2015,2015.0,Tel Aviv University,Israel,86.0,3.0,77,107,50,-,98.0,117,136,154.0,39,51.75
+188,University of Ottawa,46.6,37.9,34.7,62.9,45.9,63.2,Canada,-,-,-,-,-,2015,2015.0,University of Ottawa,Canada,193.0,9.0,223,163,218+,-,171.0,194,212,134.0,496,47.6
+191,University at Buffalo,46.5,40.1,39.8,57.5,39.6,57.0,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+192,City University of Hong Kong,46.3,31.0,32.9,68.6,49.8,71.3,Hong Kong,-,-,-,-,-,2015,2015.0,City University of Hong Kong,Hong Kong,373.0,5.0,367+,567+,218+,-,252.0,874,511,339.0,387,45.33
+193,Fudan University,46.2,45.6,34.0,61.0,49.4,37.4,China,-,-,-,-,-,2015,2015.0,Fudan University,China,195.0,5.0,367+,203,218+,-,112.0,252,368,204.0,123,47.56
+193,Iowa State University,46.2,36.4,30.9,72.0,54.4,40.6,United States,-,-,-,-,-,2015,2015.0,Iowa State University,USA,187.0,81.0,286,186,109,-,151.0,178,82,184.0,339,47.71
+195,University of Bonn,46.1,32.2,22.2,83.8,-,54.8,Germany,-,-,-,-,-,2015,2015.0,University of Bonn,Germany,158.0,8.0,58,249,65,-,153.0,107,146,150.0,341,48.54
+196,Lomonosov Moscow State University,46.0,55.9,42.1,33.8,78.5,60.4,Russian Federation,-,-,-,-,-,2015,2015.0,Lomonosov Moscow State University,Russia,59.0,1.0,14,175,48,-,268.0,254,287,344.0,861,54.19
+196,St George's,46.0,23.1,27.3,86.4,32.4,55.8,United Kingdom,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+198,University of East Anglia,45.9,25.2,22.6,83.7,29.2,76.5,United Kingdom,-,-,-,-,-,2015,2015.0,University of East Anglia,United Kingdom,336.0,31.0,206,567+,179,-,349.0,211,146,313.0,500,45.58
+199,University of Leicester,45.7,29.8,31.6,67.1,34.8,83.9,United Kingdom,-,-,-,-,-,2015,2015.0,University of Leicester,United Kingdom,240.0,19.0,367+,567+,218+,-,258.0,139,197,170.0,385,46.72
+200,Florida Institute of Technology,45.6,19.7,13.1,99.2,53.7,63.0,United States,-,-,-,-,-,2015,2015.0,Florida Institute of Technology,USA,823.0,214.0,367+,567+,218+,-,973.0,793,368,770.0,871+,44.21
+200,George Washington University,45.6,44.6,25.1,70.0,29.3,39.9,United States,-,-,-,-,-,2015,2015.0,George Washington University,USA,202.0,87.0,192,56,218+,-,301.0,227,264,235.0,326,47.46
+201-225,Bilkent University,-,28.0,27.7,76.0,46.4,44.6,Turkey,-,-,-,-,-,2015,2015.0,Bilkent University,Turkey,842.0,8.0,367+,475,218+,-,781.0,789,812+,796.0,871+,44.19
+201-225,Cardiff University,-,30.5,30.4,69.3,34.8,69.3,United Kingdom,-,-,-,-,-,2015,2015.0,Cardiff University,United Kingdom,201.0,16.0,321,218,143,-,178.0,153,146,170.0,193,47.46
+201-225,Goethe University Frankfurt,-,28.1,22.4,78.8,38.8,55.6,Germany,-,-,-,-,-,2015,2015.0,Goethe University Frankfurt,Germany,176.0,10.0,111,219,89,-,179.0,155,212,124.0,328,48.01
+201-225,Hebrew University of Jerusalem,-,41.5,36.3,57.2,31.5,53.3,Israel,-,-,-,-,-,2015,2015.0,Hebrew University of Jerusalem,Israel,23.0,1.0,15,164,15,-,120.0,97,368,143.0,35,65.71
+201-225,Hong Kong Polytechnic University,-,33.7,36.5,56.5,42.6,69.9,Hong Kong,-,-,-,-,-,2015,2015.0,Hong Kong Polytechnic University,Hong Kong,354.0,4.0,367+,166,218+,-,259.0,764,511,375.0,329,45.47
+201-225,Korea University,-,48.9,44.3,39.9,98.5,35.9,South Korea,-,-,-,-,-,2015,2015.0,Korea University,South Korea,115.0,3.0,367+,58,218+,-,172.0,411,321,273.0,26,49.79
+201-225,Newcastle University,-,30.3,29.6,70.3,35.0,73.8,United Kingdom,-,-,-,-,-,2015,2015.0,Newcastle University,United Kingdom,212.0,18.0,367+,222,218+,-,192.0,159,234,159.0,365,47.17
+201-225,Technion – Israel Institute of Technolog,-,36.9,37.5,52.0,36.5,60.6,Israel,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+201-225,Ulm University,-,35.0,22.0,73.0,56.7,54.1,Germany,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+201-225,University of Barcelona,-,28.4,28.8,79.7,31.0,47.8,Spain,-,-,-,-,-,2015,2015.0,University of Barcelona,Spain,116.0,1.0,367+,226,218+,-,61.0,108,93,83.0,215,49.79
+201-225,University of Bergen,-,29.5,27.9,68.5,34.2,65.3,Norway,-,-,-,-,-,2015,2015.0,University of Bergen,Norway,283.0,3.0,367+,567+,218+,-,229.0,201,212,227.0,871+,46.18
+201-225,University of Dundee,-,24.4,22.5,84.4,47.7,64.5,United Kingdom,-,-,-,-,-,2015,2015.0,University of Dundee,United Kingdom,242.0,20.0,178,567+,218+,-,354.0,200,161,176.0,216,46.68
+201-225,University of Illinois at Chicago,-,43.0,34.1,55.1,40.7,53.4,United States,-,-,-,-,-,2015,2015.0,University of Illinois at Chicago,USA,203.0,88.0,367+,541,218+,-,126.0,196,287,179.0,129,47.39
+201-225,University of Innsbruck,-,23.9,17.1,77.0,42.0,93.4,Austria,-,-,-,-,-,2015,2015.0,University of Innsbruck,Austria,347.0,3.0,197,397,112,-,430.0,222,287,311.0,442,45.51
+201-225,University of Reading,-,32.8,34.0,58.1,34.9,75.0,United Kingdom,-,-,-,-,-,2015,2015.0,University of Reading,United Kingdom,263.0,24.0,258,63,218+,-,400.0,347,182,361.0,666,46.4
+201-225,University of Science and Technology of China,-,36.9,27.3,73.6,71.6,26.3,China,-,-,-,-,-,2015,2015.0,University of Science and Technology of China,China,239.0,6.0,367+,192,218+,-,128.0,269,368,247.0,452,46.73
+201-225,University of Strasbourg,-,28.6,23.4,74.0,32.0,69.5,France,-,-,-,-,-,2015,2015.0,University of Strasbourg,France,182.0,7.0,71,567+,49,-,191.0,145,264,219.0,269,47.89
+201-225,University of São Paulo,-,51.6,51.6,32.3,40.1,25.3,Brazil,-,-,-,-,-,2015,2015.0,University of São Paulo,Brazil,132.0,1.0,297,71,218+,-,59.0,186,136,164.0,710,49.31
+201-225,University of Texas at Dallas,-,26.0,28.2,77.8,41.6,55.4,United States,-,-,-,-,-,2015,2015.0,University of Texas at Dallas,USA,139.0,66.0,367+,159,218+,-,250.0,151,59,49.0,313,49.05
+201-225,University of Trieste,-,28.7,16.0,88.1,33.3,50.7,Italy,-,-,-,-,-,2015,2015.0,University of Trieste,Italy,342.0,13.0,367+,443,218+,-,395.0,286,287,281.0,616,45.54
+201-225,University of Twente,-,32.3,45.3,49.4,89.2,67.2,Netherlands,-,-,-,-,-,2015,2015.0,University of Twente,Netherlands,408.0,12.0,367+,511,218+,-,343.0,511,368,358.0,288,45.14
+201-225,Université libre de Bruxelles,-,26.7,36.2,64.4,50.7,79.4,Belgium,-,-,-,-,-,2015,2015.0,Université libre de Bruxelles,Belgium,163.0,3.0,173,110,69,-,236.0,214,101,170.0,148,48.28
+201-225,Wake Forest University,-,33.3,23.5,81.3,38.2,26.0,United States,-,-,-,-,-,2015,2015.0,Wake Forest University,USA,159.0,73.0,265,83,218+,-,249.0,244,128,125.0,124,48.52
+201-225,École centrale de Lyon,-,36.8,19.9,78.7,30.0,26.5,United States,-,-,-,-,-,2015,2015.0,École centrale de Lyon,France,881.0,45.0,367+,255,218+,-,856.0,841,812+,991.0,570,44.15
+201-225,Yonsei University,-,44.5,45.8,44.3,69.7,35.7,South Korea,-,-,-,-,-,2015,2015.0,Yonsei University,South Korea,98.0,2.0,367+,45,218+,-,140.0,326,321,235.0,23,51.02
+226-250,Autonomous University of Barcelona,-,30.4,29.2,67.0,34.6,46.4,Spain,-,-,-,-,-,2015,2015.0,Autonomous University of Barcelona,Spain,241.0,3.0,367+,567+,218+,-,144.0,220,264,213.0,277,46.72
+226-250,Birkbeck  University of London,-,28.3,29.3,60.4,28.7,84.4,United Kingdom,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+226-250,Brunel University,-,22.1,21.4,75.3,31.9,88.8,United Kingdom,-,-,-,-,-,2015,2015.0,Brunel University,United Kingdom,472.0,37.0,367+,236,218+,-,497.0,676,511,437.0,667,44.86
+226-250,Carleton University,-,24.3,24.5,76.9,30.7,61.1,Canada,-,-,-,-,-,2015,2015.0,Carleton University,Canada,593.0,23.0,367+,538,218+,-,479.0,739,264,549.0,871+,44.53
+226-250,Dalhousie University,-,33.6,30.0,54.4,68.9,71.6,Canada,-,-,-,-,-,2015,2015.0,Dalhousie University,Canada,286.0,14.0,367+,137,218+,-,280.0,247,264,273.0,384,46.17
+226-250,Laval University,-,35.8,29.9,58.1,62.7,55.7,Canada,-,-,-,-,-,2015,2015.0,Laval University,Canada,229.0,11.0,292,273,218+,-,207.0,270,182,200.0,140,46.95
+226-250,Mines ParisTech,-,39.6,23.2,55.1,99.0,58.7,France,-,-,-,-,-,2015,2015.0,Mines ParisTech,France,104.0,5.0,278,23,169,-,977.0,834,812+,906.0,871+,50.34
+226-250,Nagoya University,-,37.5,31.8,59.9,86.3,31.8,Japan,-,-,-,-,-,2015,2015.0,Nagoya University,Japan,125.0,9.0,39,322,53,-,138.0,140,146,195.0,78,49.57
+226-250,Rensselaer Polytechnic Institute,-,30.9,26.2,67.8,49.9,42.8,United States,-,-,-,-,-,2015,2015.0,Rensselaer Polytechnic Institute,USA,282.0,110.0,137,142,218+,-,402.0,346,182,292.0,210,46.19
+226-250,Simon Fraser University,-,24.6,29.3,67.6,41.8,61.4,Canada,-,-,-,-,-,2015,2015.0,Simon Fraser University,Canada,362.0,17.0,367+,567+,218+,-,284.0,303,368,324.0,381,45.4
+226-250,State University of New York Albany,-,25.7,35.0,68.9,-,39.6,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+226-250,Technical University of Berlin,-,42.2,32.3,47.0,63.4,70.4,Germany,-,-,-,-,-,2015,2015.0,Technical University of Berlin,Germany,345.0,30.0,85,271,218+,-,360.0,412,368,388.0,177,45.52
+226-250,Tokyo Metropolitan University,-,19.6,9.8,100.0,31.0,39.5,Japan,-,-,-,-,-,2015,2015.0,Tokyo Metropolitan University,Japan,501.0,25.0,367+,415,218+,-,593.0,460,321,413.0,574,44.78
+226-250,TU Wien,-,43.3,32.4,41.7,64.1,75.9,Austria,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+226-250,University College Dublin,-,31.7,28.1,61.7,33.8,79.4,Ireland,-,-,-,-,-,2015,2015.0,University College Dublin,Ireland,238.0,2.0,241,112,218+,-,288.0,285,128,247.0,278,46.79
+226-250,University of Calgary,-,34.4,30.5,59.4,41.5,63.1,Canada,-,-,-,-,-,2015,2015.0,University of Calgary,Canada,167.0,8.0,367+,123,218+,-,145.0,180,101,127.0,778,48.23
+226-250,University of Gothenburg,-,24.1,38.2,64.4,37.0,46.8,Sweden,-,-,-,-,-,2015,2015.0,University of Gothenburg,Sweden,237.0,6.0,257,294,116,-,217.0,197,136,197.0,871+,46.79
+226-250,University of Kiel,-,31.1,24.3,70.8,42.0,44.2,Germany,-,-,-,-,-,2015,2015.0,University of Kiel,Germany,215.0,17.0,193,487,198,-,232.0,183,161,143.0,310,47.11
+226-250,University of Konstanz,-,30.5,33.4,59.4,52.5,57.0,Germany,-,-,-,-,-,2015,2015.0,University of Konstanz,Germany,490.0,38.0,367+,567+,218+,-,475.0,337,368,402.0,614,44.81
+226-250,University of Milano-Bicocca,-,27.1,23.0,76.6,45.0,40.6,Italy,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+226-250,University of Technology Sydney,-,27.8,32.5,58.7,40.1,86.9,Australia,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+226-250,University of Würzburg,-,28.6,17.3,81.4,30.0,50.2,Germany,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+226-250,Western University,-,38.3,35.7,47.0,50.7,63.7,Canada,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+226-250,York University,-,27.5,35.3,62.9,34.1,59.7,Canada,-,-,-,-,-,2015,2015.0,York University,Canada,337.0,15.0,367+,106,218+,-,382.0,408,264,388.0,871+,45.56
+251-275,Aalto University,-,31.8,31.3,50.2,64.5,59.4,Finland,-,-,-,-,-,2015,2015.0,Aalto University,Finland,421.0,4.0,367+,224,218+,-,336.0,403,645,424.0,246,45.1
+251-275,Federico Santa María Technical University,-,13.0,10.1,99.7,28.1,48.7,Chile,-,-,-,-,-,2015,2015.0,Federico Santa María Technical University,Chile,960.0,4.0,367+,567+,218+,-,955.0,923,368,946.0,645,44.07
+251-275,Medical University of Vienna,-,28.6,17.0,71.1,33.7,73.1,Austria,-,-,-,-,-,2015,2015.0,Medical University of Vienna,Austria,265.0,2.0,367+,567+,218+,-,251.0,228,212,197.0,366,46.39
+251-275,Nanjing University,-,34.6,23.3,59.6,51.7,50.2,China,-,-,-,-,-,2015,2015.0,Nanjing University,China,244.0,7.0,342,362,218+,-,134.0,358,234,265.0,164,46.61
+251-275,National Tsing Hua University,-,39.4,40.3,49.1,49.4,24.8,Taiwan,-,-,-,-,-,2015,2015.0,National Tsing Hua University,Taiwan,407.0,4.0,262,520,218+,-,238.0,425,428,375.0,731,45.14
+251-275,National University of Ireland  Galway,-,26.7,24.8,62.8,43.1,71.7,Ireland,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+251-275,Queen's University,-,37.3,33.4,48.2,59.0,55.4,Canada,-,-,-,-,-,2015,2015.0,Queen's University,Canada,284.0,13.0,322,155,218+,-,254.0,274,264,281.0,275,46.18
+251-275,Queen's University Belfast,-,30.1,25.1,52.2,43.7,88.6,United Kingdom,-,-,-,-,-,2015,2015.0,Queen's University Belfast,United Kingdom,343.0,33.0,183,387,218+,-,306.0,276,264,313.0,377,45.53
+251-275,Swedish University of Agricultural Sciences,-,27.9,25.2,59.9,99.8,49.6,Sweden,-,-,-,-,-,2015,2015.0,Swedish University of Agricultural Sciences,Sweden,416.0,10.0,146,567+,218+,-,393.0,268,428,353.0,871+,45.12
+251-275,Technical University of Darmstadt,-,36.9,33.7,42.0,88.9,59.6,Germany,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+251-275,University of Bremen,-,33.9,27.6,55.7,46.3,53.0,Germany,-,-,-,-,-,2015,2015.0,University of Bremen,Germany,535.0,43.0,367+,567+,218+,-,466.0,289,321,471.0,515,44.68
+251-275,University of Illinois at Urbana–Champaign,-,35.1,30.7,51.5,38.3,59.4,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+251-275,University of Iceland,-,14.9,24.7,74.8,64.0,59.1,Iceland,-,-,-,-,-,2015,2015.0,University of Iceland,Iceland,461.0,1.0,367+,567+,218+,-,612.0,295,321,369.0,839,44.91
+251-275,University of Münster,-,30.6,18.1,73.0,38.2,48.2,Germany,-,-,-,-,-,2015,2015.0,University of Münster,Germany,205.0,14.0,113,421,174,-,170.0,192,136,174.0,192,47.34
+251-275,University of New Mexico (Main campus),-,29.6,23.4,73.1,44.5,32.2,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+251-275,University of Newcastle,-,26.5,29.9,57.5,75.6,70.6,Australia,-,-,-,-,-,2015,2015.0,University of Newcastle,Australia,494.0,11.0,367+,567+,218+,-,408.0,496,812+,424.0,322,44.79
+251-275,University of Otago,-,27.1,27.7,57.6,31.9,81.5,New Zealand,-,-,-,-,-,2015,2015.0,University of Otago,New Zealand,357.0,2.0,367+,377,218+,-,312.0,353,287,313.0,542,45.44
+251-275,University of Pavia,-,26.3,19.2,75.6,64.4,43.5,Italy,-,-,-,-,-,2015,2015.0,University of Pavia,Italy,327.0,10.0,295,380,214,-,330.0,381,264,273.0,680,45.64
+251-275,University of Salento,-,32.3,25.6,64.5,38.4,40.3,Italy,-,-,-,-,-,2015,2015.0,University of Salento,Italy,765.0,43.0,367+,567+,218+,-,661.0,743,511,699.0,654,44.28
+251-275,University of South Florida - Tampa,-,27.7,37.9,55.1,99.8,41.0,United States,-,-,-,-,-,2015,2015.0,University of South Florida - Tampa,USA,190.0,83.0,367+,418,218+,-,233.0,251,197,164.0,70,47.66
+251-275,University of the Andes  Colombia,-,17.3,12.1,89.8,36.5,54.6,Colombia,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+251-275,University of the Witwatersrand,-,22.3,21.7,67.3,94.8,66.3,South Africa,-,-,-,-,-,2015,2015.0,University of the Witwatersrand,South Africa,149.0,1.0,61,32,172,-,442.0,237,321,447.0,291,48.75
+251-275,University of Trento,-,26.8,20.3,70.3,46.0,57.3,Italy,-,-,-,-,-,2015,2015.0,University of Trento,Italy,561.0,29.0,367+,567+,218+,-,488.0,556,368,486.0,861,44.61
+251-275,University of Turin,-,29.4,20.3,72.5,40.8,39.3,Italy,-,-,-,-,-,2015,2015.0,University of Turin,Italy,221.0,5.0,315,450,163,-,206.0,278,197,150.0,613,47.04
+251-275,University of Waterloo,-,30.9,40.4,47.0,41.7,63.1,Canada,-,-,-,-,-,2015,2015.0,University of Waterloo,Canada,269.0,12.0,367+,124,218+,-,190.0,333,234,292.0,626,46.34
+276-300,Chalmers University of Technology,-,35.7,32.8,40.8,75.8,62.5,Sweden,-,-,-,-,-,2015,2015.0,Chalmers University of Technology,Sweden,402.0,9.0,361,311,218+,-,367.0,426,428,349.0,871+,45.16
+276-300,Colorado State University - Fort Collins,-,27.6,31.3,59.9,38.8,30.4,United States,-,-,-,-,-,2015,2015.0,Colorado State University - Fort Collins,USA,271.0,104.0,211,493,148,-,244.0,203,234,231.0,257,46.32
+276-300,Indian Institute of Science,-,32.6,39.5,51.6,37.9,18.2,India,-,-,-,-,-,2015,2015.0,Indian Institute of Science,India,448.0,3.0,367+,332,218+,-,315.0,537,511,447.0,239,44.96
+276-300,Lappeenranta-Lahti University of Technology LUT,-,25.2,25.5,59.9,73.8,59.1,Finland,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+276-300,Montpellier University,-,23.7,22.5,67.4,33.6,56.6,France,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+276-300,National Chiao Tung University,-,35.0,40.7,40.4,98.2,30.7,Taiwan,-,-,-,-,-,2015,2015.0,National Chiao Tung University,Taiwan,386.0,3.0,367+,206,218+,-,240.0,651,428,413.0,871+,45.24
+276-300,Norwegian University of Science and Technology,-,33.5,29.6,49.6,45.0,54.7,Norway,-,-,-,-,-,2015,2015.0,Norwegian University of Science and Technology,Norway,243.0,2.0,252,119,75,-,279.0,366,212,273.0,327,46.67
+276-300,Panjab University,-,23.7,10.5,84.4,28.3,29.2,India,-,-,-,-,-,2015,2015.0,Panjab University,India,491.0,4.0,333,167,218+,-,720.0,786,368,540.0,824,44.8
+276-300,Queensland University of Technology,-,29.9,36.0,42.9,71.9,69.8,Australia,-,-,-,-,-,2015,2015.0,Queensland University of Technology,Australia,621.0,18.0,367+,567+,218+,-,477.0,750,511,558.0,492,44.48
+276-300,Shanghai Jiao Tong University,-,37.9,37.9,38.9,88.4,23.9,China,-,-,-,-,-,2015,2015.0,Shanghai Jiao Tong University,China,180.0,3.0,335,143,218+,-,81.0,267,212,209.0,198,47.96
+276-300,Stellenbosch University,-,30.0,31.2,45.6,94.7,47.8,South Africa,-,-,-,-,-,2015,2015.0,Stellenbosch University,South Africa,306.0,3.0,367+,66,218+,-,520.0,503,321,486.0,219,45.92
+276-300,Tilburg University,-,33.0,45.1,34.9,55.1,62.2,Netherlands,-,-,-,-,-,2015,2015.0,Tilburg University,Netherlands,689.0,13.0,367+,289,218+,-,566.0,878,428,732.0,871+,44.37
+276-300,Tokyo Medical and Dental University,-,42.7,22.9,51.1,56.9,21.8,Japan,-,-,-,-,-,2015,2015.0,Tokyo Medical and Dental University,Japan,392.0,15.0,367+,567+,218+,-,473.0,352,645,335.0,272,45.2
+276-300,University College Cork,-,26.7,22.2,56.9,45.9,70.8,Ireland,-,-,-,-,-,2015,2015.0,University College Cork,Ireland,436.0,3.0,367+,430,218+,-,426.0,431,368,402.0,195,45.03
+276-300,University of Bologna,-,31.0,23.2,64.5,34.9,43.1,Italy,-,-,-,-,-,2015,2015.0,University of Bologna,Italy,208.0,4.0,350,348,218+,-,136.0,281,212,161.0,354,47.28
+276-300,University of Cincinnati,-,32.0,22.4,67.8,35.6,26.0,United States,-,-,-,-,-,2015,2015.0,University of Cincinnati,USA,157.0,72.0,188,86,218+,-,150.0,171,128,127.0,263,48.56
+276-300,University of Erlangen–Nuremberg,-,28.4,15.3,68.7,46.8,49.0,Germany,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+276-300,University of Fribourg,-,29.2,19.7,58.6,48.2,84.4,Switzerland,-,-,-,-,-,2015,2015.0,University of Fribourg,Switzerland,573.0,8.0,232,252,218+,-,734.0,428,428,579.0,787,44.58
+276-300,University of Georgia,-,39.7,28.9,46.6,31.1,35.3,United States,-,-,-,-,-,2015,2015.0,University of Georgia,USA,198.0,86.0,93,188,172,-,181.0,132,234,256.0,82,47.5
+276-300,University of Macau,-,17.1,20.3,68.1,33.6,73.3,Macao,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+276-300,University of Milan,-,25.3,22.9,66.9,40.1,37.4,Italy,-,-,-,-,-,2015,2015.0,University of Milan,Italy,172.0,3.0,162,441,182,-,118.0,189,212,106.0,438,48.07
+276-300,University of Nebraska–Lincoln,-,31.0,24.4,57.5,35.0,47.8,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+276-300,University of Plymouth,-,18.4,18.1,80.5,28.8,51.3,United Kingdom,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+276-300,University of South Australia,-,25.7,24.0,52.7,83.9,80.8,Australia,-,-,-,-,-,2015,2015.0,University of South Australia,Australia,751.0,21.0,367+,324,218+,-,604.0,746,812+,781.0,431,44.3
+276-300,University of South Carolina - Columbia,-,34.5,27.5,55.1,31.8,37.3,United States,-,-,-,-,-,2015,2015.0,University of South Carolina - Columbia,USA,300.0,115.0,367+,299,185,-,262.0,367,146,273.0,649,45.95
+276-300,University of Wollongong,-,25.2,27.8,55.1,44.7,80.4,Australia,-,-,-,-,-,2015,2015.0,University of Wollongong,Australia,467.0,10.0,367+,269,218+,-,431.0,433,428,424.0,493,44.88
+276-300,Victoria University of Wellington,-,21.6,28.5,53.8,49.7,84.2,New Zealand,-,-,-,-,-,2015,2015.0,Victoria University of Wellington,New Zealand,588.0,4.0,317,223,218+,-,606.0,469,645,646.0,809,44.54
+276-300,Virginia Polytechnic Institute and State University,-,40.1,40.0,40.7,42.6,28.9,United States,-,-,-,-,-,2015,2015.0,Virginia Polytechnic Institute and State University,USA,256.0,98.0,283,152,218+,-,201.0,264,234,285.0,181,46.46
+301-350,Autonomous University of Madrid,-,28.6,19.3,59.7,32.2,48.8,Spain,-,-,-,-,-,2015,2015.0,Autonomous University of Madrid,Spain,304.0,5.0,367+,460,218+,-,225.0,256,321,262.0,443,45.92
+301-350,Bangor University,-,22.4,23.0,55.8,31.1,73.1,United Kingdom,-,-,-,-,-,2015,2015.0,Bangor University,United Kingdom,568.0,42.0,260,370,218+,-,622.0,568,511,529.0,342,44.59
+301-350,Charles Darwin University,-,20.3,17.8,64.5,32.7,45.5,Australia,-,-,-,-,-,2015,2015.0,Charles Darwin University,Australia,942.0,27.0,367+,567+,218+,-,931.0,742,645,896.0,871+,44.09
+301-350,Charles University in Prague,-,31.5,24.3,50.1,29.4,53.9,Czech Republic,-,-,-,-,-,2015,2015.0,Charles University in Prague,Czech Republic,270.0,1.0,238,560,116,-,228.0,238,182,227.0,636,46.32
+301-350,Creighton University,-,40.7,10.4,63.3,32.4,29.1,United States,-,-,-,-,-,2015,2015.0,Creighton University,USA,508.0,159.0,367+,567+,218+,-,824.0,724,368,402.0,615,44.75
+301-350,Deakin University,-,20.1,20.6,57.5,30.6,71.8,Australia,-,-,-,-,-,2015,2015.0,Deakin University,Australia,579.0,14.0,367+,424,218+,-,502.0,647,321,529.0,636,44.56
+301-350,Drexel University,-,31.8,14.3,57.5,34.6,42.2,United States,-,-,-,-,-,2015,2015.0,Drexel University,USA,258.0,99.0,367+,233,218+,-,362.0,338,287,273.0,91,46.43
+301-350,Hong Kong Baptist University,-,21.2,13.2,70.8,29.1,62.3,Hong Kong,-,-,-,-,-,2015,2015.0,Hong Kong Baptist University,Hong Kong,649.0,6.0,367+,516,218+,-,592.0,937,511,565.0,691,44.43
+301-350,Illinois Institute of Technology,-,40.2,17.3,50.3,-,59.4,United States,-,-,-,-,-,2015,2015.0,Illinois Institute of Technology,USA,480.0,154.0,274,114,218+,-,784.0,713,511,715.0,861,44.85
+301-350,Kansas State University,-,27.0,16.5,61.0,39.2,41.5,United States,-,-,-,-,-,2015,2015.0,Kansas State University,USA,353.0,125.0,130,229,218+,-,373.0,320,212,358.0,294,45.47
+301-350,Koç University,-,21.6,24.4,58.5,50.6,49.8,Turkey,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+301-350,Macquarie University,-,24.0,24.8,50.2,36.2,89.2,Australia,-,-,-,-,-,2015,2015.0,Macquarie University,Australia,449.0,9.0,367+,304,218+,-,391.0,292,321,402.0,530,44.96
+301-350,Novosibirsk State University,-,24.6,17.2,70.5,33.4,43.8,Russian Federation,-,-,-,-,-,2015,2015.0,Novosibirsk State University,Russia,985.0,5.0,167,567+,218+,-,819.0,858,645,991.0,871+,44.04
+301-350,Oregon State University,-,27.8,21.1,63.3,32.0,36.7,United States,-,-,-,-,-,2015,2015.0,Oregon State University,USA,260.0,101.0,189,239,218+,-,263.0,148,161,235.0,389,46.42
+301-350,Polytechnic University of Milan,-,27.6,26.6,55.8,67.8,42.9,Italy,-,-,-,-,-,2015,2015.0,Polytechnic University of Milan,Italy,397.0,20.0,103,181,191,-,358.0,510,428,503.0,292,45.17
+301-350,Renmin University of China,-,34.9,14.7,59.6,42.8,44.4,China,-,-,-,-,-,2015,2015.0,Renmin University of China,China,496.0,27.0,367+,100,218+,-,965.0,936,812+,896.0,715,44.79
+301-350,San Diego State University,-,19.7,24.8,65.6,29.2,26.9,United States,-,-,-,-,-,2015,2015.0,San Diego State University,USA,361.0,128.0,248,204,218+,-,467.0,302,264,339.0,509,45.41
+301-350,Sapienza University of Rome,-,32.3,28.1,50.7,34.2,37.5,Italy,-,-,-,-,-,2015,2015.0,Sapienza University of Rome,Italy,112.0,1.0,67,205,45,-,83.0,166,212,130.0,312,49.97
+301-350,Sharif University of Technology,-,28.7,34.7,50.4,86.2,19.4,Iran,-,-,-,-,-,2015,2015.0,Sharif University of Technology,Iran,697.0,1.0,116,567+,218+,-,563.0,950,511,732.0,871+,44.37
+301-350,Sun Yat-sen University,-,32.5,25.2,54.1,58.9,37.0,China,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+301-350,Tulane University,-,40.7,20.7,53.9,-,29.7,United States,-,-,-,-,-,2015,2015.0,Tulane University,USA,272.0,105.0,324,144,218+,-,365.0,299,264,251.0,258,46.31
+301-350,University of Bath,-,29.2,25.1,47.5,36.7,76.1,United Kingdom,-,-,-,-,-,2015,2015.0,University of Bath,United Kingdom,405.0,34.0,367+,368,218+,-,388.0,378,287,353.0,478,45.14
+301-350,University of Campinas,-,43.4,38.8,28.0,44.5,20.7,Brazil,-,-,-,-,-,2015,2015.0,University of Campinas,Brazil,404.0,3.0,367+,567+,218+,-,295.0,575,511,388.0,197,45.14
+301-350,University of Canterbury,-,21.1,23.4,53.8,49.5,88.2,New Zealand,-,-,-,-,-,2015,2015.0,University of Canterbury,New Zealand,533.0,3.0,190,195,218+,-,569.0,437,428,606.0,871+,44.68
+301-350,University of Cologne,-,25.6,18.4,65.3,28.8,52.1,Germany,-,-,-,-,-,2015,2015.0,University of Cologne,Germany,197.0,12.0,367+,132,201,-,204.0,138,146,161.0,421,47.52
+301-350,University of Connecticut,-,37.6,27.1,45.4,31.1,38.8,United States,-,-,-,-,-,2015,2015.0,University of Connecticut,USA,218.0,90.0,296,259,218+,-,168.0,193,197,190.0,186,47.06
+301-350,University of Crete,-,19.0,16.8,67.0,36.0,47.0,Greece,-,-,-,-,-,2015,2015.0,University of Crete,Greece,515.0,3.0,367+,567+,218+,-,491.0,518,511,420.0,871+,44.72
+301-350,University of Duisburg-Essen,-,21.9,13.7,64.1,44.2,49.2,Germany,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+301-350,University of Essex,-,31.6,29.0,39.3,29.1,86.7,United Kingdom,-,-,-,-,-,2015,2015.0,University of Essex,United Kingdom,632.0,48.0,119,358,218+,-,694.0,695,511,671.0,871+,44.45
+301-350,University of Houston,-,39.3,25.8,44.2,43.2,33.1,United States,-,-,-,-,-,2015,2015.0,University of Houston,USA,184.0,80.0,367+,42,218+,-,310.0,257,511,349.0,156,47.83
+301-350,University of Jyväskylä,-,27.6,24.0,50.2,-,47.2,Finland,-,-,-,-,-,2015,2015.0,University of Jyväskylä,Finland,671.0,8.0,367+,525,218+,-,456.0,443,812+,622.0,805,44.4
+301-350,University of Kansas,-,30.6,20.1,62.2,36.2,32.2,United States,-,-,-,-,-,2015,2015.0,University of Kansas,USA,196.0,85.0,228,91,218+,-,212.0,161,161,235.0,127,47.52
+301-350,University of Manitoba,-,31.6,29.4,48.2,43.5,43.4,Canada,-,-,-,-,-,2015,2015.0,University of Manitoba,Canada,222.0,10.0,157,93,155,-,261.0,308,212,256.0,175,47.04
+301-350,Cadi Ayyad University,-,16.3,6.5,83.0,28.6,45.1,Morocco,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+301-350,University of Montana,-,29.1,13.7,75.0,34.4,20.7,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+301-350,University of Nebraska Medical Center,-,36.4,16.5,51.5,34.5,34.8,United States,-,-,-,-,-,2015,2015.0,University of Nebraska Medical Center,USA,399.0,136.0,367+,567+,218+,-,463.0,399,368,344.0,253,45.16
+301-350,University of Oklahoma,-,32.6,15.7,57.5,34.5,30.0,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+301-350,University of Padua,-,20.7,18.2,68.0,32.9,40.4,Italy,-,-,-,-,-,2015,2015.0,University of Padua,Italy,169.0,2.0,281,567+,218+,-,99.0,105,182,119.0,351,48.17
+301-350,University of Pisa,-,22.4,18.8,69.2,37.7,36.7,Italy,-,-,-,-,-,2015,2015.0,University of Pisa,Italy,295.0,8.0,273,473,218+,-,227.0,360,212,255.0,528,46.03
+301-350,University of Southern Denmark,-,19.5,20.5,61.2,72.6,67.1,Denmark,-,-,-,-,-,2015,2015.0,University of Southern Denmark,Denmark,356.0,4.0,367+,567+,218+,-,386.0,327,321,295.0,320,45.46
+301-350,University of Stirling,-,21.5,25.1,49.9,30.7,66.9,United Kingdom,-,-,-,-,-,2015,2015.0,University of Stirling,United Kingdom,784.0,58.0,367+,357,218+,-,772.0,707,812+,754.0,871+,44.26
+301-350,University of Stuttgart,-,30.6,17.3,56.9,48.2,59.3,Germany,-,-,-,-,-,2015,2015.0,University of Stuttgart,Germany,316.0,27.0,82,172,218+,-,399.0,369,511,335.0,376,45.79
+301-350,University of Tampere,-,22.9,22.2,58.7,42.5,45.6,Finland,-,-,-,-,-,2015,2015.0,University of Tampere,Finland,442.0,5.0,367+,297,218+,-,526.0,439,511,362.0,679,45.02
+301-350,University of Tsukuba,-,33.4,21.6,51.1,36.9,36.1,Japan,-,-,-,-,-,2015,2015.0,University of Tsukuba,Japan,262.0,12.0,202,567+,107,-,230.0,255,212,242.0,213,46.41
+301-350,University of Valencia,-,17.9,12.0,72.7,30.8,43.7,Spain,-,-,-,-,-,2015,2015.0,University of Valencia,Spain,294.0,4.0,367+,470,218+,-,208.0,348,264,256.0,548,46.03
+301-350,University of Warsaw,-,20.8,13.6,70.0,28.5,41.6,Poland,-,-,-,-,-,2015,2015.0,University of Warsaw,Poland,462.0,2.0,118,562,150,-,409.0,462,428,437.0,716,44.91
+301-350,Wayne State University,-,32.0,15.2,61.0,-,30.7,United States,-,-,-,-,-,2015,2015.0,Wayne State University,USA,189.0,82.0,367+,183,218+,-,189.0,258,125,176.0,117,47.67
+301-350,Zhejiang University,-,36.0,33.1,40.2,88.6,21.5,China,-,-,-,-,-,2015,2015.0,Zhejiang University,China,191.0,4.0,367+,309,218+,-,71.0,290,368,265.0,106,47.66
+351-400,Aalborg University,-,23.8,28.5,39.9,43.9,65.8,Denmark,-,-,-,-,-,2015,2015.0,Aalborg University,Denmark,565.0,5.0,367+,439,218+,-,596.0,660,287,520.0,401,44.59
+351-400,Aberystwyth University,-,20.7,20.6,52.2,33.0,66.5,United Kingdom,-,-,-,-,-,2015,2015.0,Aberystwyth University,United Kingdom,814.0,59.0,367+,567+,218+,-,842.0,552,511,754.0,607,44.22
+351-400,Aston University,-,19.4,21.6,45.1,35.7,79.7,United Kingdom,-,-,-,-,-,2015,2015.0,Aston University,United Kingdom,720.0,56.0,367+,355,218+,-,827.0,895,645,754.0,306,44.33
+351-400,Bielefeld University,-,27.5,19.1,52.0,37.4,48.6,Germany,-,-,-,-,-,2015,2015.0,Bielefeld University,Germany,464.0,36.0,367+,567+,218+,-,480.0,375,511,369.0,774,44.91
+351-400,Claude Bernard University Lyon 1,-,19.1,17.2,62.6,33.6,52.1,France,-,-,-,-,-,2015,2015.0,Claude Bernard University Lyon 1,France,207.0,10.0,367+,567+,218+,-,132.0,121,234,184.0,151,47.31
+351-400,Curtin University,-,20.1,17.1,45.3,36.1,91.3,Australia,-,-,-,-,-,2015,2015.0,Curtin University,Australia,595.0,15.0,367+,559,218+,-,425.0,384,511,549.0,518,44.52
+351-400,Ewha Womans University,-,23.5,18.0,57.6,61.3,36.0,South Korea,-,-,-,-,-,2015,2015.0,Ewha Womans University,South Korea,390.0,11.0,367+,567+,218+,-,462.0,509,645,457.0,107,45.2
+351-400,George Mason University,-,26.3,20.3,53.9,28.7,35.8,United States,-,-,-,-,-,2015,2015.0,George Mason University,USA,414.0,140.0,367+,567+,98,-,450.0,371,264,388.0,526,45.13
+351-400,Hanyang University,-,31.5,32.3,29.0,88.7,48.4,South Korea,-,-,-,-,-,2015,2015.0,Hanyang University,South Korea,192.0,6.0,367+,168,218+,-,286.0,471,368,396.0,31,47.6
+351-400,Hokkaido University,-,38.4,27.5,32.2,43.4,25.2,Japan,-,-,-,-,-,2015,2015.0,Hokkaido University,Japan,178.0,10.0,279,277,135,-,148.0,173,287,251.0,53,47.97
+351-400,Indian Institute of Technology Bombay,-,34.2,24.6,43.5,49.7,19.5,India,-,-,-,-,-,2015,2015.0,Indian Institute of Technology Bombay,India,596.0,6.0,367+,507,218+,-,521.0,815,645,699.0,176,44.52
+351-400,Indian Institute of Technology Roorkee,-,25.2,14.3,62.6,69.0,16.6,India,-,-,-,-,-,2015,2015.0,Indian Institute of Technology Roorkee,India,638.0,9.0,367+,395,218+,-,839.0,931,428,565.0,871+,44.44
+351-400,Isfahan University of Technology,-,20.7,27.3,48.9,84.1,20.0,Iran,-,-,-,-,-,2015,2015.0,Isfahan University of Technology,Iran,914.0,5.0,367+,567+,218+,-,682.0,923,645,880.0,871+,44.12
+351-400,King Mongkut’s University of Technology Thonburi,-,16.7,10.0,75.0,56.5,22.5,Thailand,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+351-400,Kyushu University,-,36.5,28.5,33.6,68.7,26.1,Japan,-,-,-,-,-,2015,2015.0,Kyushu University,Japan,100.0,7.0,367+,49,218+,-,152.0,182,264,200.0,37,50.6
+351-400,Lehigh University,-,25.4,16.6,56.3,39.2,34.5,United States,-,-,-,-,-,2015,2015.0,Lehigh University,USA,264.0,102.0,367+,47,218+,-,615.0,542,511,511.0,534,46.4
+351-400,Linköping University,-,20.2,27.6,51.5,-,50.9,Sweden,-,-,-,-,-,2015,2015.0,Linköping University,Sweden,355.0,8.0,367+,237,218+,-,323.0,401,368,324.0,871+,45.47
+351-400,Murdoch University,-,21.2,17.8,46.5,40.5,85.3,Australia,-,-,-,-,-,2015,2015.0,Murdoch University,Australia,829.0,24.0,367+,527,218+,-,827.0,501,645,770.0,770,44.2
+351-400,National Cheng Kung University (NCKU),-,31.8,40.1,28.4,100.0,26.7,Taiwan,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+351-400,National Sun Yat-sen University,-,26.4,32.9,39.0,47.0,24.2,Taiwan,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+351-400,National Taiwan University of Science and Technology of Science and Technology (Taiwan Tech),-,27.7,42.6,30.9,82.0,26.7,Taiwan,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+351-400,RCSI University of Medicine and Health Sciences,-,24.7,18.9,43.5,28.4,82.6,Ireland,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+351-400,Ruhr University Bochum,-,31.5,22.5,42.0,47.4,53.6,Germany,-,-,-,-,-,2015,2015.0,Ruhr University Bochum,Germany,296.0,25.0,367+,235,218+,-,236.0,235,368,265.0,797,46.0
+351-400,Swinburne University of Technology,-,20.2,16.3,50.2,38.8,86.9,Australia,-,-,-,-,-,2015,2015.0,Swinburne University of Technology,Australia,688.0,20.0,367+,567+,218+,-,654.0,456,511,606.0,772,44.38
+351-400,UiT The Arctic University of Norway,-,20.7,16.9,53.2,38.8,60.0,Norway,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+351-400,Umeå University,-,21.2,25.7,52.7,31.3,50.3,Sweden,-,-,-,-,-,2015,2015.0,Umeå University,Sweden,287.0,7.0,367+,567+,218+,-,275.0,198,212,219.0,871+,46.14
+351-400,University of Bari Aldo Moro,-,29.1,18.1,52.0,35.2,38.1,Italy,-,-,-,-,-,2015,2015.0,University of Bari Aldo Moro,Italy,377.0,16.0,367+,567+,218+,-,352.0,322,511,313.0,527,45.31
+351-400,University of Bayreuth,-,21.3,12.9,61.8,34.8,53.9,Germany,-,-,-,-,-,2015,2015.0,University of Bayreuth,Germany,520.0,42.0,367+,567+,218+,-,457.0,331,321,447.0,603,44.71
+351-400,University of Eastern Finland,-,24.3,21.6,53.8,32.8,44.1,Finland,-,-,-,-,-,2015,2015.0,University of Eastern Finland,Finland,366.0,2.0,367+,567+,218+,-,374.0,388,321,300.0,861,45.37
+351-400,University of Ferrara,-,19.5,15.2,64.5,40.4,42.1,Italy,-,-,-,-,-,2015,2015.0,University of Ferrara,Italy,369.0,15.0,367+,567+,218+,-,416.0,392,287,300.0,656,45.36
+351-400,University of Florence,-,18.1,17.3,60.8,35.4,37.4,Italy,-,-,-,-,-,2015,2015.0,University of Florence,Italy,247.0,6.0,327,326,94,-,218.0,275,197,227.0,564,46.58
+351-400,University of Graz,-,23.7,17.3,55.1,30.2,64.8,Austria,-,-,-,-,-,2015,2015.0,University of Graz,Austria,584.0,7.0,349,453,204,-,571.0,547,812+,511.0,600,44.54
+351-400,University of Hertfordshire,-,16.2,10.9,65.0,29.6,74.9,United Kingdom,-,-,-,-,-,2015,2015.0,University of Hertfordshire,United Kingdom,604.0,46.0,367+,567+,218+,-,792.0,396,511,511.0,839,44.51
+351-400,University of Lisbon,-,30.1,22.8,44.8,33.9,46.8,Portugal,-,-,-,-,-,2015,2015.0,University of Lisbon,Portugal,257.0,1.0,337,465,152,-,155.0,296,197,251.0,495,46.43
+351-400,University of Liège,-,25.9,18.4,44.6,70.4,69.1,Belgium,-,-,-,-,-,2015,2015.0,University of Liège,Belgium,321.0,7.0,143,567+,144,-,317.0,218,234,300.0,285,45.73
+351-400,University of Minho,-,20.2,16.2,60.6,44.5,49.7,Portugal,-,-,-,-,-,2015,2015.0,University of Minho,Portugal,629.0,6.0,367+,567+,218+,-,588.0,652,287,606.0,363,44.46
+351-400,University of Missouri–Columbia,-,31.7,22.0,46.6,31.2,29.6,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+351-400,University of Navarra,-,29.5,22.3,41.7,90.2,46.2,Spain,-,-,-,-,-,2015,2015.0,University of Navarra,Spain,338.0,6.0,367+,76,218+,-,578.0,722,511,503.0,645,45.56
+351-400,University of Portsmouth,-,16.1,10.6,61.6,29.2,73.3,United Kingdom,-,-,-,-,-,2015,2015.0,University of Portsmouth,United Kingdom,597.0,45.0,367+,567+,218+,-,768.0,719,234,540.0,765,44.52
+351-400,University of Rome III,-,19.3,11.8,62.1,37.7,48.0,Italy,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+351-400,University of Seoul,-,21.0,20.2,63.3,29.1,34.3,South Korea,-,-,-,-,-,2015,2015.0,University of Seoul,South Korea,860.0,30.0,367+,567+,218+,-,989.0,907,645,921.0,259,44.17
+351-400,University of Turku,-,24.3,21.8,47.7,32.1,46.3,Finland,-,-,-,-,-,2015,2015.0,University of Turku,Finland,383.0,3.0,367+,531,218+,-,320.0,319,812+,330.0,568,45.27
+351-400,University of Vermont,-,26.8,19.4,57.5,-,21.0,United States,-,-,-,-,-,2015,2015.0,University of Vermont,USA,324.0,119.0,198,256,218+,-,357.0,288,368,285.0,397,45.7
+351-400,University of Waikato,-,18.6,17.0,50.0,50.0,80.3,New Zealand,-,-,-,-,-,2015,2015.0,University of Waikato,New Zealand,937.0,6.0,367+,474,218+,-,945.0,870,511,906.0,703,44.09
+351-400,Vrije Universiteit Brussel,-,31.2,17.9,48.1,44.8,54.5,Belgium,-,-,-,-,-,2015,2015.0,Vrije Universiteit Brussel,Belgium,280.0,5.0,110,567+,218+,-,294.0,301,161,231.0,506,46.21
+351-400,Waseda University,-,25.5,16.3,55.5,32.6,43.1,Japan,-,-,-,-,-,2015,2015.0,Waseda University,Japan,38.0,4.0,288,8,218+,-,406.0,389,368,388.0,248,58.17
+351-400,Washington State University,-,28.5,27.5,44.2,54.5,36.0,United States,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+351-400,Western Sydney University,-,17.8,22.4,58.7,30.4,50.1,Australia,-,-,-,-,-,2015,,,,,,,,,,,,,,,
+351-400,Wuhan University,-,34.1,17.4,48.5,85.9,33.1,China,-,-,-,-,-,2015,2015.0,Wuhan University,China,415.0,19.0,367+,258,218+,-,274.0,612,645,396.0,576,45.13
+351-400,Wuhan University of Technology,-,16.2,8.0,75.8,57.8,21.4,China,-,-,-,-,-,2015,2015.0,Wuhan University of Technology,China,677.0,38.0,367+,499,218+,-,738.0,931,428,590.0,763,44.39

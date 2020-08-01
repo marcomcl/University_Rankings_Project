@@ -85,8 +85,11 @@ DataLoader.prototype.loadData = function(){
     }
 
     //d3.csv("./PCA/datasetConPCA.csv", function (csvData) {
-    d3.csv("./PCA/finaDatasetConIDuePCA.csv", function (csvData) {
+    //d3.csv("./PCA/finaDatasetConIDuePCA.csv", function (csvData) {
+    d3.csv("./PCA/finaDatasetConNumbeo_2PCA.csv", function (csvData) {
 
+
+    
     //d3.csv("./PCA/perDebugInterazioni.csv", function (csvData) {
 
         k = d3.keys(csvData[0]).filter(function(d){return d;});
@@ -99,8 +102,12 @@ DataLoader.prototype.loadData = function(){
         var min_year = undefined;
         max_rank = undefined;
         min_rank = undefined;
+
+        max_life_cost = undefined;
+        min_life_cost = undefined;
         
         for (i = 0; i < csvData.length; i++) {
+            if(i == 0)console.log(csvData[i]);
             year = parseInt(csvData[i].year);
             if(max_year == undefined && min_year == undefined){
                 max_year = min_year = year;
@@ -131,14 +138,35 @@ DataLoader.prototype.loadData = function(){
                 if(rank < min_rank) min_rank = rank;
                 if(rank > max_rank) max_rank = rank;
             }
+
+            life_cost = parseInt(obs.allData[i].indice_affitto_e_vita);
+            if(max_life_cost == undefined && min_life_cost == undefined && year == max_year){
+                max_life_cost = min_life_cost = life_cost;
+            }
+            else if(year == max_year){
+                if(life_cost < min_life_cost) min_life_cost = life_cost;
+                if(life_cost > max_life_cost) max_life_cost = life_cost;
+            }
+
+
            
         }
+        //console.log("min_rank ",min_rank);
+        //console.log("max_rank ",max_rank);
 
+        console.log(" min life cost",min_life_cost);
+        console.log(" max life cost",max_life_cost);
+
+        console.log("curLifeCost ", curLifeCost);
+        console.log("curRank ", curRank);
+
+
+        setLifeCostRange(min_life_cost,max_life_cost);
         setRankRange(min_rank, max_rank);
         j = 0;
         for(i=0; i < obs.allData.length; i++){
             rank = parseInt(obs.allData[i].cwur_world_rank);
-            if(obs.allData[i].year == max_year && rank <= curRank){
+            if(obs.allData[i].year == max_year && rank <= curRank && life_cost <= curLifeCost){
             	obs.data.push(obs.allData[i]);
                 obs.filteredPar.push(obs.allData[i]);
                 //j += 1;
@@ -206,9 +234,15 @@ DataLoader.prototype.addListener = function (ev, foo) {
 
 DataLoader.prototype.changeYear = function(y){
 
+    console.log("curLifeCost ",curLifeCost);
+
     curYear = y;
     max_rank = undefined;
     min_rank = undefined;
+
+    max_life_cost = undefined;
+    min_life_cost = undefined;
+
     this.data.splice(0, this.data.length);
     this.filteredPar.splice(0, this.filteredPar.length);
     this.dotHighlighted.splice(0, this.dotHighlighted.length);
@@ -236,13 +270,23 @@ DataLoader.prototype.changeYear = function(y){
             if(rank < min_rank) min_rank = rank;
             if(rank > max_rank) max_rank = rank;
         }
-    }
 
+        life_cost = parseInt(obs.allData[i].indice_affitto_e_vita);
+        if(max_life_cost == undefined && min_life_cost == undefined && year == curYear){
+            max_life_cost = min_life_cost = life_cost;
+        }
+        else if(year == curYear){
+            if(life_cost < min_life_cost) min_life_cost = life_cost;
+            if(life_cost > max_life_cost) max_life_cost = life_cost;
+        }
+    }
+    setLifeCostRange(min_life_cost, max_life_cost);
     setRankRange(min_rank, max_rank);
 
     for(i in this.allData){
         rank = parseInt(this.allData[i].cwur_world_rank);
-        if(parseInt(this.allData[i].year) == y && rank <= curRank){
+        life_cost = parseFloat(this.allData[i].indice_costo_della_vita);
+        if(parseInt(this.allData[i].year) == y && rank <= curRank && life_cost <= curLifeCost){
             this.data.push(this.allData[i]);
             this.filteredPar.push(this.allData[i]);
 
@@ -364,7 +408,9 @@ DataLoader.prototype.changeFilter = function(r){
 
     for(i in this.allData){
         rank = parseInt(this.allData[i].cwur_world_rank);
-        if(parseInt(this.allData[i].year) == curYear && rank <= parseInt(r)){
+ 
+
+        if(parseInt(this.allData[i].year) == curYear && rank <= parseInt(r) ){
             this.data.push(this.allData[i]);
             this.filteredPar.push(this.allData[i]);
 
@@ -401,8 +447,75 @@ DataLoader.prototype.changeFilter = function(r){
     //updateMapData();
     document.getElementById("top").innerHTML = "Top " + r + " [cwur]";
 
+    //console.log("r vale ",r);
+
     obs.listeners.dispatchEvent(new Event('rankChanged'));
 }
+
+
+DataLoader.prototype.changeFilterLifeCost = function(r,l){
+    this.data.splice(0, this.data.length);
+    this.filteredPar.splice(0, this.filteredPar.length);
+    this.uniCoordinates.splice(0, this.uniCoordinates.length);
+    this.coordinatesPCA.splice(0, this.coordinatesPCA.length);
+    this.dotHighlighted.splice(0, this.dotHighlighted.length);
+    count = 0;
+    for(i in this.allData){
+        rank = parseInt(this.allData[i].cwur_world_rank);
+        lifeCost = parseFloat(this.allData[i].indice_affitto_e_vita);
+        if(count == 0){
+            lifeCost2 = parseFloat(this.allData[i].indice_affitto_e_vita);
+            //console.log("indice_affitto_e_vita vale : ",this.allData[i].indice_affitto_e_vita);
+            //console.log("lifeCost: ", lifeCost2);
+            //console.log("l vale ", l);
+        } 
+     
+        count += 1
+
+        if(parseInt(this.allData[i].year) == curYear && rank <= parseInt(r)   && lifeCost <= parseFloat(l)){
+            this.data.push(this.allData[i]);
+            this.filteredPar.push(this.allData[i]);
+
+            lat  = this.allData[i].latitude;
+            long = this.allData[i].longitude;
+            country = this.allData[i].the_country;
+            institution = this.allData[i].the_institution;
+
+            if(String(lat) == "" && String(long) == ""){
+                this.uniNoLatLong.push(obs.allData[i].the_institution);
+            }
+            else{
+                switch (country) {
+                    case "United Kingdom" : country = "UK"; break;
+                    case "United States" : country = "USA"; break;
+                    case "United Arab Emirates" : country = "UAE"; break;
+                    case "Saudi Arabia":country ="SAU";break;
+                    case "Czech Republic":country = "CECREP";break;
+                    case "South Africa": country = "SouthAfrica";break;
+                    case "South Korea": country = "Korea";break;
+                    case "New Zealand": country = "NewZealand";break;
+                }
+
+                this.uniCoordinates.push([parseFloat(long),parseFloat(lat),String(institution), String(country)]);
+                
+                pca_1 = this.allData[i].PCA_component1;
+                pca_2 = this.allData[i].PCA_component2;
+                //inizialmente carico tutti i PCAs
+                this.coordinatesPCA.push([String(institution),parseFloat(pca_1),parseFloat(pca_2)]);
+            }     
+        }
+    }
+
+    //updateMapData();
+    document.getElementById("top2").innerHTML = "Life Cost: " + l +" [numbeo]" ;
+
+    console.log("l vale ",l);
+    console.log("curLifeCost vale", curLifeCost);
+
+    obs.listeners.dispatchEvent(new Event('lifeCostChanged'));
+}
+
+
 
 
 

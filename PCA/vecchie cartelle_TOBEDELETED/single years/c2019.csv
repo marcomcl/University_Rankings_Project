@@ -1,0 +1,2001 @@
+cwur_year,cwur_institution,cwur_location,cwur_world_rank,cwur_national_rank,cwur_quality_of_education,cwur_alumni_employment,cwur_quality_of_faculty,cwur_research_performance,cwur_publications,cwur_influence,cwur_citations,cwur_broad_impact,cwur_patents,cwur_score
+2019,Harvard University,USA,1,1,2,1,1,1,-,-,-,-,-,100
+2019,Massachusetts Institute of Technology,USA,2,2,1,10,2,5,-,-,-,-,-,96.7
+2019,Stanford University,USA,3,3,9,3,3,2,-,-,-,-,-,95.2
+2019,University of Cambridge,United Kingdom,4,1,4,19,5,11,-,-,-,-,-,94.1
+2019,University of Oxford,United Kingdom,5,2,10,24,10,4,-,-,-,-,-,93.3
+2019,Columbia University,USA,6,4,13,12,8,12,-,-,-,-,-,92.6
+2019,Princeton University,USA,7,5,6,14,6,54,-,-,-,-,-,92.0
+2019,University of California - Berkeley,USA,8,6,5,48,9,6,-,-,-,-,-,91.6
+2019,University of Pennsylvania,USA,9,7,15,8,30,14,-,-,-,-,-,91.1
+2019,University of Chicago,USA,10,8,11,18,19,16,-,-,-,-,-,90.7
+2019,California Institute of Technology,USA,11,9,3,179,4,52,-,-,-,-,-,90.4
+2019,Yale University,USA,12,10,8,32,12,17,-,-,-,-,-,90.1
+2019,University of Tokyo,Japan,13,1,22,6,69,23,-,-,-,-,-,89.8
+2019,Cornell University,USA,14,11,12,26,13,22,-,-,-,-,-,89.5
+2019,Northwestern University,USA,15,12,160,16,31,24,-,-,-,-,-,89.3
+2019,University of California - Los Angeles,USA,16,13,32,57,15,10,-,-,-,-,-,89.0
+2019,University of Michigan - Ann Arbor,USA,17,14,35,35,85,9,-,-,-,-,-,88.8
+2019,Johns Hopkins University,USA,18,15,31,164,20,7,-,-,-,-,-,88.6
+2019,University of Washington - Seattle,USA,19,16,47,208,14,8,-,-,-,-,-,88.4
+2019,University of Illinois at Urbana - Champaign,USA,20,17,16,129,17,46,-,-,-,-,-,88.2
+2019,Kyoto University,Japan,21,2,33,29,36,58,-,-,-,-,-,88.0
+2019,University College London,United Kingdom,22,3,36,669,18,13,-,-,-,-,-,87.8
+2019,Duke University,USA,23,18,100,46,25,20,-,-,-,-,-,87.7
+2019,University of Toronto,Canada,24,1,236,162,24,3,-,-,-,-,-,87.5
+2019,University of Wisconsin - Madison,USA,25,19,28,80,35,27,-,-,-,-,-,87.3
+2019,New York University,USA,26,20,64,39,37,39,-,-,-,-,-,87.2
+2019,University of California San Diego,USA,27,21,67,-,16,15,-,-,-,-,-,87.1
+2019,Imperial College London,United Kingdom,28,4,60,101,53,18,-,-,-,-,-,86.9
+2019,ETH Zurich,Switzerland,29,1,41,90,28,36,-,-,-,-,-,86.8
+2019,McGill University,Canada,30,2,27,91,71,41,-,-,-,-,-,86.7
+2019,University of Texas at Austin,USA,31,22,72,58,43,44,-,-,-,-,-,86.5
+2019,École Polytechnique,France,32,1,94,4,178,356,-,-,-,-,-,86.4
+2019,Seoul National University,South Korea,33,1,-,21,-,48,-,-,-,-,-,86.3
+2019,University of California - San Francisco,USA,34,23,-,-,11,21,-,-,-,-,-,86.2
+2019,Sorbonne University,France,35,2,55,339,82,19,-,-,-,-,-,86.1
+2019,University of North Carolina at Chapel Hill,USA,36,24,214,107,46,28,-,-,-,-,-,85.9
+2019,University of Edinburgh,United Kingdom,37,5,38,336,65,47,-,-,-,-,-,85.8
+2019,University of Minnesota - Twin Cities,USA,38,25,77,291,90,25,-,-,-,-,-,85.7
+2019,University of Copenhagen,Denmark,39,1,119,352,48,26,-,-,-,-,-,85.6
+2019,University of Texas Southwestern Medical Center,USA,40,26,19,-,21,142,-,-,-,-,-,85.5
+2019,Washington University in St. Louis,USA,41,27,150,163,42,35,-,-,-,-,-,85.4
+2019,Karolinska Institute,Sweden,42,1,49,-,39,59,-,-,-,-,-,85.3
+2019,École normale supérieure,France,43,3,7,543,123,360,-,-,-,-,-,85.2
+2019,University of Southern California,USA,44,28,271,115,23,66,-,-,-,-,-,85.2
+2019,Brown University,USA,45,29,66,49,81,118,-,-,-,-,-,85.1
+2019,Vanderbilt University,USA,46,30,387,86,51,65,-,-,-,-,-,85.0
+2019,Pennsylvania State University,USA,47,31,320,161,52,45,-,-,-,-,-,84.9
+2019,Rutgers University - New Brunswick,USA,48,32,190,96,44,70,-,-,-,-,-,84.8
+2019,Dartmouth College,USA,49,33,109,17,131,243,-,-,-,-,-,84.7
+2019,University of California - Davis,USA,50,34,97,565,56,43,-,-,-,-,-,84.6
+2019,Ludwig Maximilian University of Munich,Germany,51,1,81,245,78,50,-,-,-,-,-,84.6
+2019,University of British Columbia,Canada,52,3,158,662,99,29,-,-,-,-,-,84.5
+2019,University of Virginia,USA,53,35,315,30,136,121,-,-,-,-,-,84.4
+2019,Ohio State University,USA,54,36,113,233,113,32,-,-,-,-,-,84.3
+2019,King's College London,United Kingdom,55,6,62,341,66,64,-,-,-,-,-,84.3
+2019,University of Oslo,Norway,56,1,30,636,67,103,-,-,-,-,-,84.2
+2019,University of Colorado Boulder,USA,57,37,139,168,29,81,-,-,-,-,-,84.1
+2019,Weizmann Institute of Science,Israel,58,1,17,-,34,232,-,-,-,-,-,84.0
+2019,Peking University,China,59,1,351,63,-,33,-,-,-,-,-,84.0
+2019,University of Manchester,United Kingdom,60,7,123,243,77,49,-,-,-,-,-,83.9
+2019,Purdue University,USA,61,38,107,76,64,102,-,-,-,-,-,83.8
+2019,Hebrew University of Jerusalem,Israel,62,2,25,381,41,150,-,-,-,-,-,83.8
+2019,University of Pittsburgh,USA,63,39,237,210,149,30,-,-,-,-,-,83.7
+2019,University of Melbourne,Australia,64,1,134,377,135,34,-,-,-,-,-,83.6
+2019,University of California - Irvine,USA,65,40,-,1427,22,85,-,-,-,-,-,83.6
+2019,University of California - Santa Barbara,USA,66,41,74,534,26,115,-,-,-,-,-,83.5
+2019,Rockefeller University,USA,67,42,20,-,7,336,-,-,-,-,-,83.5
+2019,University of Zurich,Switzerland,68,2,118,713,50,72,-,-,-,-,-,83.4
+2019,University of Arizona,USA,69,43,276,180,47,86,-,-,-,-,-,83.3
+2019,Tsinghua University,China,70,2,403,100,-,37,-,-,-,-,-,83.3
+2019,Free University of Berlin,Germany,71,2,133,1197,54,73,-,-,-,-,-,83.2
+2019,Heidelberg University,Germany,72,3,83,854,115,61,-,-,-,-,-,83.2
+2019,Utrecht University,Netherlands,73,1,241,353,143,42,-,-,-,-,-,83.1
+2019,Boston University,USA,74,44,487,112,144,62,-,-,-,-,-,83.0
+2019,National Taiwan University,Taiwan,75,1,155,36,-,114,-,-,-,-,-,83.0
+2019,Technical University of Munich,Germany,76,4,45,323,145,83,-,-,-,-,-,82.9
+2019,University of Bristol,United Kingdom,77,8,210,273,61,79,-,-,-,-,-,82.9
+2019,Paris - Sud University,France,78,4,90,862,57,90,-,-,-,-,-,82.8
+2019,École Polytechnique Fédérale de Lausanne,Switzerland,79,3,177,88,121,104,-,-,-,-,-,82.8
+2019,Osaka University,Japan,80,3,80,56,217,109,-,-,-,-,-,82.7
+2019,University of Florida,USA,81,45,243,453,124,55,-,-,-,-,-,82.7
+2019,Georgia Institute of Technology,USA,82,46,193,156,91,93,-,-,-,-,-,82.6
+2019,University of Utah,USA,83,47,152,175,88,97,-,-,-,-,-,82.6
+2019,Carnegie Mellon University,USA,84,48,71,140,38,169,-,-,-,-,-,82.5
+2019,National University of Singapore,Singapore,85,1,-,159,-,40,-,-,-,-,-,82.5
+2019,Keio University,Japan,86,4,429,11,-,357,-,-,-,-,-,82.4
+2019,Texas A&M University - College Station,USA,87,49,-,155,83,105,-,-,-,-,-,82.4
+2019,Paris Diderot University,France,88,5,216,-,55,96,-,-,-,-,-,82.3
+2019,University of Alberta,Canada,89,4,404,387,110,75,-,-,-,-,-,82.3
+2019,Emory University,USA,90,50,430,202,182,57,-,-,-,-,-,82.2
+2019,University of Groningen,Netherlands,91,2,182,479,98,78,-,-,-,-,-,82.2
+2019,Leiden University,Netherlands,92,3,98,1154,84,95,-,-,-,-,-,82.1
+2019,University of Texas MD Anderson Cancer Center,USA,93,51,-,-,59,100,-,-,-,-,-,82.1
+2019,Tufts University,USA,94,52,44,62,127,207,-,-,-,-,-,82.0
+2019,Aarhus University,Denmark,95,2,164,345,105,82,-,-,-,-,-,82.0
+2019,University of Chinese Academy of Sciences,China,96,3,-,1051,-,31,-,-,-,-,-,82.0
+2019,University of Rochester,USA,97,53,65,70,198,136,-,-,-,-,-,81.9
+2019,Erasmus University Rotterdam,Netherlands,98,4,-,83,234,77,-,-,-,-,-,81.9
+2019,University of Maryland - College Park,USA,99,54,106,438,201,60,-,-,-,-,-,81.8
+2019,University of Sydney,Australia,100,2,201,588,-,38,-,-,-,-,-,81.8
+2019,Humboldt University of Berlin,Germany,101,5,402,-,125,71,-,-,-,-,-,81.7
+2019,Monash University,Australia,102,3,441,390,162,68,-,-,-,-,-,81.7
+2019,Uppsala University,Sweden,103,2,196,478,111,98,-,-,-,-,-,81.7
+2019,University of Tübingen,Germany,104,6,50,1045,89,148,-,-,-,-,-,81.6
+2019,University of Montreal,Canada,105,5,397,431,116,92,-,-,-,-,-,81.6
+2019,University of Basel,Switzerland,106,4,51,290,122,147,-,-,-,-,-,81.5
+2019,University of Amsterdam,Netherlands,107,5,148,926,247,51,-,-,-,-,-,81.5
+2019,Australian National University,Australia,108,4,114,670,75,123,-,-,-,-,-,81.4
+2019,Rice University,USA,109,55,102,81,70,190,-,-,-,-,-,81.4
+2019,Tokyo Institute of Technology,Japan,110,5,183,69,49,228,-,-,-,-,-,81.4
+2019,Technion  -  Israel Institute of Technology,Israel,111,3,57,283,40,215,-,-,-,-,-,81.3
+2019,KU Leuven,Belgium,112,1,-,395,-,53,-,-,-,-,-,81.3
+2019,University of New South Wales,Australia,113,5,466,117,-,76,-,-,-,-,-,81.3
+2019,Case Western Reserve University,USA,114,56,46,244,195,127,-,-,-,-,-,81.2
+2019,University of Queensland,Australia,115,6,281,554,-,56,-,-,-,-,-,81.2
+2019,Nagoya University,Japan,116,6,59,284,68,179,-,-,-,-,-,81.1
+2019,University of Nottingham,United Kingdom,117,9,218,394,72,128,-,-,-,-,-,81.1
+2019,KTH Royal Institute of Technology,Sweden,118,3,132,44,130,218,-,-,-,-,-,81.1
+2019,Shanghai Jiao Tong University,China,119,4,-,216,-,69,-,-,-,-,-,81.0
+2019,University of Geneva,Switzerland,120,5,78,359,160,122,-,-,-,-,-,81.0
+2019,Zhejiang University,China,121,5,-,475,-,63,-,-,-,-,-,81.0
+2019,University of Birmingham,United Kingdom,122,10,85,356,171,113,-,-,-,-,-,80.9
+2019,Baylor College of Medicine,USA,123,57,175,-,101,125,-,-,-,-,-,80.9
+2019,University of Freiburg,Germany,124,7,84,200,118,152,-,-,-,-,-,80.8
+2019,University of Southampton,United Kingdom,125,11,468,328,134,112,-,-,-,-,-,80.8
+2019,University of Western Australia,Australia,126,7,101,671,128,124,-,-,-,-,-,80.8
+2019,McMaster University,Canada,127,6,153,673,153,108,-,-,-,-,-,80.7
+2019,University of São Paulo,Brazil,128,1,457,264,219,89,-,-,-,-,-,80.7
+2019,University of Barcelona,Spain,129,1,-,450,-,74,-,-,-,-,-,80.7
+2019,Nanyang Technological University,Singapore,130,2,-,1186,-,67,-,-,-,-,-,80.6
+2019,INSEAD,France,131,6,-,2,-,1583,-,-,-,-,-,80.6
+2019,Fudan University,China,132,6,-,167,-,99,-,-,-,-,-,80.6
+2019,University of Strasbourg,France,133,7,99,-,32,208,-,-,-,-,-,80.5
+2019,University of Helsinki,Finland,134,1,417,1007,226,80,-,-,-,-,-,80.5
+2019,University of Bonn,Germany,135,8,110,472,112,149,-,-,-,-,-,80.5
+2019,Ghent University,Belgium,136,2,415,621,233,84,-,-,-,-,-,80.4
+2019,University of Glasgow,United Kingdom,137,12,282,280,164,119,-,-,-,-,-,80.4
+2019,Sapienza University of Rome,Italy,138,1,421,454,155,117,-,-,-,-,-,80.4
+2019,Cardiff University,United Kingdom,139,13,310,480,58,166,-,-,-,-,-,80.3
+2019,University of Notre Dame,USA,140,58,147,33,-,277,-,-,-,-,-,80.3
+2019,Lund University,Sweden,141,4,203,684,-,87,-,-,-,-,-,80.3
+2019,University of Iowa,USA,142,59,197,300,142,134,-,-,-,-,-,80.2
+2019,Tel Aviv University,Israel,143,4,401,136,-,116,-,-,-,-,-,80.2
+2019,Radboud University,Netherlands,144,6,163,571,-,94,-,-,-,-,-,80.2
+2019,Grenoble Alpes University,France,145,8,317,1227,-,88,-,-,-,-,-,80.2
+2019,VU Amsterdam,Netherlands,146,7,-,1015,-,91,-,-,-,-,-,80.1
+2019,Brandeis University,USA,147,60,21,227,27,520,-,-,-,-,-,80.1
+2019,Icahn School of Medicine at Mount Sinai,USA,148,61,-,-,210,107,-,-,-,-,-,80.1
+2019,University of Colorado Denver | Anschutz Medical Campus,USA,149,62,-,-,100,154,-,-,-,-,-,80.0
+2019,University of Science and Technology of China,China,150,7,385,360,-,106,-,-,-,-,-,80.0
+2019,Aix - Marseille University,France,151,9,494,924,-,101,-,-,-,-,-,80.0
+2019,Indiana University Bloomington,USA,152,63,162,75,188,193,-,-,-,-,-,79.9
+2019,Michigan State University,USA,153,64,263,258,-,110,-,-,-,-,-,79.9
+2019,University of Göttingen,Germany,154,9,56,292,237,158,-,-,-,-,-,79.9
+2019,Goethe University Frankfurt,Germany,155,10,217,693,76,186,-,-,-,-,-,79.9
+2019,University of Gothenburg,Sweden,156,5,405,396,94,176,-,-,-,-,-,79.8
+2019,University of Bern,Switzerland,157,6,169,1212,166,133,-,-,-,-,-,79.8
+2019,Tohoku University,Japan,158,7,140,147,-,135,-,-,-,-,-,79.8
+2019,University of Massachusetts Amherst,USA,159,65,322,241,102,188,-,-,-,-,-,79.7
+2019,University of Padova,Italy,160,2,372,1456,208,120,-,-,-,-,-,79.7
+2019,Yonsei University,South Korea,161,2,-,111,-,145,-,-,-,-,-,79.7
+2019,Norwegian University of Science and Technology,Norway,162,2,333,391,33,259,-,-,-,-,-,79.7
+2019,University of Liverpool,United Kingdom,163,14,108,422,176,151,-,-,-,-,-,79.6
+2019,University of Sheffield,United Kingdom,164,15,130,469,202,137,-,-,-,-,-,79.6
+2019,MINES ParisTech,France,165,10,124,9,214,1011,-,-,-,-,-,79.6
+2019,Arizona State University,USA,166,66,-,756,200,130,-,-,-,-,-,79.5
+2019,University of Montpellier,France,167,11,497,1146,-,111,-,-,-,-,-,79.5
+2019,Waseda University,Japan,168,8,311,23,-,441,-,-,-,-,-,79.5
+2019,University of Hong Kong,Hong Kong,169,1,-,160,-,139,-,-,-,-,-,79.5
+2019,University of Leeds,United Kingdom,170,16,111,293,-,132,-,-,-,-,-,79.4
+2019,Queen Mary University of London,United Kingdom,171,17,104,711,152,164,-,-,-,-,-,79.4
+2019,University of Warwick,United Kingdom,172,18,343,199,156,173,-,-,-,-,-,79.4
+2019,Iowa State University,USA,173,67,325,203,137,192,-,-,-,-,-,79.4
+2019,North Carolina State University,USA,174,68,369,404,140,172,-,-,-,-,-,79.3
+2019,Nanjing University,China,175,8,463,473,-,126,-,-,-,-,-,79.3
+2019,University of Hamburg,Germany,176,11,248,427,-,129,-,-,-,-,-,79.3
+2019,Stockholm University,Sweden,177,6,173,299,158,174,-,-,-,-,-,79.3
+2019,Korea University,South Korea,178,3,-,94,-,178,-,-,-,-,-,79.2
+2019,University of Waterloo,Canada,179,7,-,215,138,200,-,-,-,-,-,79.2
+2019,Université catholique de Louvain,Belgium,180,3,-,491,117,198,-,-,-,-,-,79.2
+2019,University of Lausanne,Switzerland,181,7,-,834,104,204,-,-,-,-,-,79.2
+2019,University of Missouri - Columbia,USA,182,69,447,206,63,267,-,-,-,-,-,79.1
+2019,Wageningen University & Research,Netherlands,183,8,409,888,173,156,-,-,-,-,-,79.1
+2019,University of Calgary,Canada,184,8,-,218,-,144,-,-,-,-,-,79.1
+2019,HEC Paris,France,185,12,400,5,-,1871,-,-,-,-,-,79.1
+2019,University of Ottawa,Canada,186,9,-,423,-,131,-,-,-,-,-,79.0
+2019,Western University,Canada,187,10,-,93,-,184,-,-,-,-,-,79.0
+2019,Chinese University of Hong Kong,Hong Kong,188,2,393,1175,180,157,-,-,-,-,-,79.0
+2019,Hokkaido University,Japan,189,9,231,294,107,230,-,-,-,-,-,79.0
+2019,University of Milan,Italy,190,3,407,594,-,138,-,-,-,-,-,78.9
+2019,Sun Yat - sen University,China,191,9,-,523,-,141,-,-,-,-,-,78.9
+2019,Sungkyunkwan University,South Korea,192,4,-,229,-,155,-,-,-,-,-,78.9
+2019,Stony Brook University,USA,193,70,252,-,159,181,-,-,-,-,-,78.9
+2019,University of Bologna,Italy,194,4,-,728,-,140,-,-,-,-,-,78.8
+2019,Autonomous University of Barcelona,Spain,195,2,-,-,-,143,-,-,-,-,-,78.8
+2019,London School of Hygiene & Tropical Medicine,United Kingdom,196,19,479,-,179,171,-,-,-,-,-,78.8
+2019,University of Alabama at Birmingham,USA,197,71,-,986,-,146,-,-,-,-,-,78.8
+2019,Université libre de Bruxelles,Belgium,198,4,261,261,120,247,-,-,-,-,-,78.7
+2019,KAIST,South Korea,199,5,-,152,-,175,-,-,-,-,-,78.7
+2019,University of Texas Health Science Center at Houston,USA,200,72,-,-,96,246,-,-,-,-,-,78.7
+2019,University of Miami,USA,201,73,-,237,-,163,-,-,-,-,-,78.7
+2019,University of Leicester,United Kingdom,202,20,-,-,109,245,-,-,-,-,-,78.6
+2019,Georgetown University,USA,203,74,478,51,-,292,-,-,-,-,-,78.6
+2019,University of California - Riverside,USA,204,75,250,-,167,195,-,-,-,-,-,78.6
+2019,Huazhong University of Science and Technology,China,205,10,-,209,-,170,-,-,-,-,-,78.6
+2019,Virginia Commonwealth University,USA,206,76,-,983,74,278,-,-,-,-,-,78.6
+2019,University of Georgia,USA,207,77,348,319,196,194,-,-,-,-,-,78.5
+2019,University of California - Santa Cruz,USA,208,78,264,-,151,205,-,-,-,-,-,78.5
+2019,TU Dresden,Germany,209,12,-,-,-,153,-,-,-,-,-,78.5
+2019,Kyushu University,Japan,210,10,232,105,-,220,-,-,-,-,-,78.5
+2019,Newcastle University,United Kingdom,211,21,474,508,183,197,-,-,-,-,-,78.4
+2019,University of Cologne,Germany,212,13,471,271,215,185,-,-,-,-,-,78.4
+2019,Technical University of Denmark,Denmark,213,3,490,764,220,168,-,-,-,-,-,78.4
+2019,University of Massachusetts Medical School,USA,214,79,-,-,45,314,-,-,-,-,-,78.4
+2019,University of Kansas,USA,215,80,370,289,146,231,-,-,-,-,-,78.4
+2019,Oregon Health & Science University,USA,216,81,-,-,212,177,-,-,-,-,-,78.3
+2019,University of Adelaide,Australia,217,8,246,757,-,161,-,-,-,-,-,78.3
+2019,Paris Descartes University,France,218,13,316,843,239,162,-,-,-,-,-,78.3
+2019,University of Erlangen - Nuremberg,Germany,219,14,517,910,-,159,-,-,-,-,-,78.3
+2019,University of Illinois at Chicago,USA,220,82,359,1056,-,160,-,-,-,-,-,78.2
+2019,University of Münster,Germany,221,15,286,772,224,180,-,-,-,-,-,78.2
+2019,Lomonosov Moscow State University,Russia,222,1,95,348,174,249,-,-,-,-,-,78.2
+2019,University of Reading,United Kingdom,223,22,75,95,129,369,-,-,-,-,-,78.2
+2019,Wake Forest University,USA,224,83,-,68,-,284,-,-,-,-,-,78.2
+2019,Trinity College Dublin,Ireland,225,1,304,87,230,272,-,-,-,-,-,78.1
+2019,Paul Sabatier University,France,226,14,-,-,-,165,-,-,-,-,-,78.1
+2019,RWTH Aachen University,Germany,227,16,513,251,-,187,-,-,-,-,-,78.1
+2019,University of Lisbon,Portugal,228,1,321,1058,229,182,-,-,-,-,-,78.1
+2019,Yeshiva University,USA,229,84,142,-,204,206,-,-,-,-,-,78.1
+2019,Claude Bernard University Lyon 1,France,230,15,-,1127,-,167,-,-,-,-,-,78.0
+2019,University of Cincinnati,USA,231,85,357,204,-,203,-,-,-,-,-,78.0
+2019,Karlsruhe Institute of Technology,Germany,232,17,508,282,-,191,-,-,-,-,-,78.0
+2019,Colorado State University,USA,233,86,332,1190,157,235,-,-,-,-,-,78.0
+2019,University of Houston,USA,234,87,-,118,106,340,-,-,-,-,-,78.0
+2019,Johannes Gutenberg University Mainz,Germany,235,18,-,-,187,212,-,-,-,-,-,77.9
+2019,Delft University of Technology,Netherlands,236,9,280,382,-,199,-,-,-,-,-,77.9
+2019,Charles University in Prague,Czech Republic,237,1,486,1335,-,183,-,-,-,-,-,77.9
+2019,University of Würzburg,Germany,238,19,136,908,249,201,-,-,-,-,-,77.9
+2019,University of Turin,Italy,239,5,386,1096,-,189,-,-,-,-,-,77.9
+2019,Harbin Institute of Technology,China,240,11,-,433,-,202,-,-,-,-,-,77.8
+2019,University of Manitoba,Canada,241,11,346,220,150,287,-,-,-,-,-,77.8
+2019,Maastricht University,Netherlands,242,10,-,1367,-,196,-,-,-,-,-,77.8
+2019,Kiel University,Germany,243,20,476,885,213,221,-,-,-,-,-,77.8
+2019,University of Tsukuba,Japan,244,11,-,-,103,297,-,-,-,-,-,77.8
+2019,Wuhan University,China,245,12,-,357,-,211,-,-,-,-,-,77.7
+2019,University of Auckland,New Zealand,246,1,437,421,-,213,-,-,-,-,-,77.7
+2019,University of Delaware,USA,247,88,360,691,107,311,-,-,-,-,-,77.7
+2019,Oregon State University,USA,248,89,328,522,169,262,-,-,-,-,-,77.7
+2019,Complutense University of Madrid,Spain,249,3,253,127,245,265,-,-,-,-,-,77.7
+2019,Xi'an Jiaotong University,China,250,13,-,197,-,240,-,-,-,-,-,77.6
+2019,University of Sussex,United Kingdom,251,23,249,393,73,353,-,-,-,-,-,77.6
+2019,University of Cape Town,South Africa,252,1,195,263,-,236,-,-,-,-,-,77.6
+2019,University of Maryland - Baltimore,USA,253,90,-,-,-,209,-,-,-,-,-,77.6
+2019,University of the Witwatersrand,South Africa,254,2,293,79,-,308,-,-,-,-,-,77.6
+2019,University of Naples Federico II,Italy,255,6,-,896,-,210,-,-,-,-,-,77.5
+2019,Queen's University,Canada,256,12,477,367,139,296,-,-,-,-,-,77.5
+2019,University of Florence,Italy,257,7,-,730,-,214,-,-,-,-,-,77.5
+2019,University of Connecticut,USA,258,91,431,380,-,225,-,-,-,-,-,77.5
+2019,University of Aberdeen,United Kingdom,259,24,512,638,161,281,-,-,-,-,-,77.5
+2019,Florida State University,USA,260,92,-,619,-,219,-,-,-,-,-,77.5
+2019,University of Bergen,Norway,261,3,365,-,-,216,-,-,-,-,-,77.4
+2019,National Autonomous University of Mexico,Mexico,262,1,298,1344,189,253,-,-,-,-,-,77.4
+2019,University of East Anglia,United Kingdom,263,25,92,-,147,304,-,-,-,-,-,77.4
+2019,Indiana University  -  Purdue University Indianapolis,USA,264,93,-,912,-,217,-,-,-,-,-,77.4
+2019,University of Exeter,United Kingdom,265,26,202,634,-,227,-,-,-,-,-,77.4
+2019,University of Vienna,Austria,266,1,240,455,238,238,-,-,-,-,-,77.3
+2019,Xiamen University,China,267,14,-,150,-,266,-,-,-,-,-,77.3
+2019,Jilin University,China,268,15,-,528,-,226,-,-,-,-,-,77.3
+2019,University at Buffalo,USA,269,94,-,661,-,222,-,-,-,-,-,77.3
+2019,University of Liège,Belgium,270,5,185,-,92,339,-,-,-,-,-,77.3
+2019,Virginia Tech,USA,271,95,339,296,-,242,-,-,-,-,-,77.3
+2019,Shandong University,China,272,16,-,751,-,223,-,-,-,-,-,77.2
+2019,University of Tennessee - Knoxville,USA,273,96,472,333,-,241,-,-,-,-,-,77.2
+2019,Sichuan University,China,274,17,-,1124,-,224,-,-,-,-,-,77.2
+2019,University of Valencia,Spain,275,4,-,1261,-,229,-,-,-,-,-,77.2
+2019,University of New Mexico,USA,276,97,-,-,-,233,-,-,-,-,-,77.2
+2019,Autonomous University of Madrid,Spain,277,5,-,897,-,234,-,-,-,-,-,77.2
+2019,Laval University,Canada,278,13,459,461,-,244,-,-,-,-,-,77.1
+2019,Wayne State University,USA,279,98,445,265,-,254,-,-,-,-,-,77.1
+2019,University of South Florida,USA,280,99,-,729,-,237,-,-,-,-,-,77.1
+2019,Tianjin University,China,281,18,-,141,-,288,-,-,-,-,-,77.1
+2019,University College Dublin,Ireland,282,2,-,248,-,257,-,-,-,-,-,77.1
+2019,Washington State University,USA,283,100,269,786,141,310,-,-,-,-,-,77.0
+2019,City University of Hong Kong,Hong Kong,284,3,-,1101,-,239,-,-,-,-,-,77.0
+2019,University of Pisa,Italy,285,8,180,1103,-,248,-,-,-,-,-,77.0
+2019,Nankai University,China,286,19,-,249,-,260,-,-,-,-,-,77.0
+2019,George Washington University,USA,287,101,327,170,-,286,-,-,-,-,-,77.0
+2019,University of Kentucky,USA,288,102,313,513,-,250,-,-,-,-,-,77.0
+2019,Louisiana State University,USA,289,103,416,335,-,256,-,-,-,-,-,76.9
+2019,South China University of Technology,China,290,20,-,222,-,275,-,-,-,-,-,76.9
+2019,Hong Kong University of Science and Technology,Hong Kong,291,4,-,466,-,255,-,-,-,-,-,76.9
+2019,Grenoble INP,France,292,16,68,1244,199,343,-,-,-,-,-,76.9
+2019,London School of Economics and Political Science,United Kingdom,293,27,154,77,193,403,-,-,-,-,-,76.9
+2019,Durham University,United Kingdom,294,28,506,285,-,271,-,-,-,-,-,76.9
+2019,University of Duisburg - Essen,Germany,295,21,-,972,-,251,-,-,-,-,-,76.8
+2019,Medical University of Vienna,Austria,296,2,-,-,-,252,-,-,-,-,-,76.8
+2019,National and Kapodistrian University of Athens,Greece,297,1,-,641,-,258,-,-,-,-,-,76.8
+2019,University of Nebraska - Lincoln,USA,298,104,259,374,-,276,-,-,-,-,-,76.8
+2019,Hong Kong Polytechnic University,Hong Kong,299,5,-,297,-,279,-,-,-,-,-,76.8
+2019,King Abdulaziz University,Saudi Arabia,300,1,-,1231,-,261,-,-,-,-,-,76.8
+2019,Ruhr University Bochum,Germany,301,22,-,368,-,280,-,-,-,-,-,76.7
+2019,University of Dundee,United Kingdom,302,29,-,1349,119,351,-,-,-,-,-,76.7
+2019,University of Antwerp,Belgium,303,6,-,605,-,270,-,-,-,-,-,76.7
+2019,Northeastern University,USA,304,105,362,157,-,306,-,-,-,-,-,76.7
+2019,University of Parma,Italy,305,9,103,819,60,454,-,-,-,-,-,76.7
+2019,Ulm University,Germany,306,23,-,871,-,268,-,-,-,-,-,76.7
+2019,Soochow University - China,China,307,21,-,-,-,263,-,-,-,-,-,76.6
+2019,University of York,United Kingdom,308,30,-,-,-,264,-,-,-,-,-,76.6
+2019,University of Rome Tor Vergata,Italy,309,10,-,1433,-,269,-,-,-,-,-,76.6
+2019,Aalto University,Finland,310,2,-,207,-,294,-,-,-,-,-,76.6
+2019,École nationale d'administration,France,311,17,-,7,-,-,-,-,-,-,-,76.6
+2019,Southeast University,China,312,22,-,921,-,274,-,-,-,-,-,76.6
+2019,University of Lille,France,313,18,500,-,-,273,-,-,-,-,-,76.6
+2019,National Cheng Kung University,Taiwan,314,2,-,103,-,348,-,-,-,-,-,76.5
+2019,Southern Methodist University,USA,315,106,208,27,-,676,-,-,-,-,-,76.5
+2019,Leipzig University,Germany,316,24,448,-,241,282,-,-,-,-,-,76.5
+2019,Eindhoven University of Technology,Netherlands,317,11,-,803,209,298,-,-,-,-,-,76.5
+2019,University of Lorraine,France,318,19,491,378,216,307,-,-,-,-,-,76.5
+2019,Umeå University,Sweden,319,7,-,1282,-,283,-,-,-,-,-,76.5
+2019,University of Genoa,Italy,320,11,-,1308,-,285,-,-,-,-,-,76.4
+2019,Dalhousie University,Canada,321,14,198,279,-,302,-,-,-,-,-,76.4
+2019,University of Porto,Portugal,322,2,450,667,-,291,-,-,-,-,-,76.4
+2019,Central South University,China,323,23,-,228,-,309,-,-,-,-,-,76.4
+2019,Chinese Academy of Medical Sciences & Peking Union Medical College,China,324,24,-,-,-,289,-,-,-,-,-,76.4
+2019,Friedrich Schiller University Jena,Germany,325,25,-,-,-,290,-,-,-,-,-,76.4
+2019,Hanyang University,South Korea,326,6,-,219,-,318,-,-,-,-,-,76.4
+2019,Dalian University of Technology,China,327,25,-,246,-,315,-,-,-,-,-,76.3
+2019,Tongji University,China,328,26,-,242,-,317,-,-,-,-,-,76.3
+2019,Polytechnic University of Milan,Italy,329,12,373,424,184,346,-,-,-,-,-,76.3
+2019,Simon Fraser University,Canada,330,15,-,1289,-,293,-,-,-,-,-,76.3
+2019,Versailles Saint - Quentin - en - Yvelines University,France,331,20,-,-,-,295,-,-,-,-,-,76.3
+2019,University of South Carolina - Columbia,USA,332,107,-,515,-,300,-,-,-,-,-,76.3
+2019,University of Otago,New Zealand,333,2,-,833,-,299,-,-,-,-,-,76.2
+2019,University of Düsseldorf,Germany,334,26,228,-,-,303,-,-,-,-,-,76.2
+2019,Ben - Gurion University of the Negev,Israel,335,5,-,-,163,363,-,-,-,-,-,76.2
+2019,École des ponts ParisTech,France,336,21,96,25,-,937,-,-,-,-,-,76.2
+2019,University of Granada,Spain,337,6,-,-,-,301,-,-,-,-,-,76.2
+2019,National Tsing Hua University,Taiwan,338,3,188,1206,-,313,-,-,-,-,-,76.2
+2019,Drexel University,USA,339,108,-,260,205,362,-,-,-,-,-,76.2
+2019,Pohang University of Science and Technology,South Korea,340,7,-,-,-,305,-,-,-,-,-,76.1
+2019,Linköping University,Sweden,341,8,-,560,-,319,-,-,-,-,-,76.1
+2019,Beihang University,China,342,27,-,848,-,312,-,-,-,-,-,76.1
+2019,Queen's University Belfast,United Kingdom,343,31,449,791,-,316,-,-,-,-,-,76.1
+2019,University of Buenos Aires,Argentina,344,1,238,1222,-,320,-,-,-,-,-,76.1
+2019,University of Pavia,Italy,345,13,473,681,245,322,-,-,-,-,-,76.1
+2019,Beijing Normal University,China,346,28,-,1237,-,321,-,-,-,-,-,76.1
+2019,Lancaster University,United Kingdom,347,32,-,562,-,330,-,-,-,-,-,76.0
+2019,Temple University,USA,348,109,-,685,-,328,-,-,-,-,-,76.0
+2019,Federal University of Rio de Janeiro,Brazil,349,2,378,408,-,335,-,-,-,-,-,76.0
+2019,CentraleSupélec,France,350,22,-,38,-,653,-,-,-,-,-,76.0
+2019,University of St Andrews,United Kingdom,351,33,344,747,-,329,-,-,-,-,-,76.0
+2019,University of Southern Denmark,Denmark,352,4,-,1416,-,323,-,-,-,-,-,76.0
+2019,University of Campinas,Brazil,353,3,-,-,-,324,-,-,-,-,-,76.0
+2019,University of Milano - Bicocca,Italy,354,14,-,-,-,325,-,-,-,-,-,75.9
+2019,University of Turku,Finland,355,3,-,1388,-,326,-,-,-,-,-,75.9
+2019,Hannover Medical School,Germany,356,27,-,-,-,327,-,-,-,-,-,75.9
+2019,Kyung Hee University,South Korea,357,8,-,1104,-,331,-,-,-,-,-,75.9
+2019,University of the Basque Country,Spain,358,7,-,1147,-,332,-,-,-,-,-,75.9
+2019,University of Belgrade,Serbia,359,1,424,-,-,333,-,-,-,-,-,75.9
+2019,Curtin University,Australia,360,9,-,1347,-,334,-,-,-,-,-,75.9
+2019,Vrije Universiteit Brussel,Belgium,361,7,380,-,-,338,-,-,-,-,-,75.8
+2019,Jagiellonian University,Poland,362,1,-,-,-,337,-,-,-,-,-,75.8
+2019,University of Stuttgart,Germany,363,28,79,329,-,415,-,-,-,-,-,75.8
+2019,University of Regensburg,Germany,364,29,-,763,-,341,-,-,-,-,-,75.8
+2019,Technical University of Berlin,Germany,365,30,219,519,-,350,-,-,-,-,-,75.8
+2019,Medical University of South Carolina,USA,366,110,-,-,-,342,-,-,-,-,-,75.8
+2019,Aalborg University,Denmark,367,5,-,784,-,344,-,-,-,-,-,75.8
+2019,Pontifical Catholic University of Chile,Chile,368,1,502,191,-,390,-,-,-,-,-,75.7
+2019,University of Perugia,Italy,369,15,-,-,-,345,-,-,-,-,-,75.7
+2019,Justus Liebig University Giessen,Germany,370,31,-,-,-,347,-,-,-,-,-,75.7
+2019,Macquarie University,Australia,371,10,-,574,-,352,-,-,-,-,-,75.7
+2019,University of Victoria,Canada,372,16,-,-,-,349,-,-,-,-,-,75.7
+2019,University of Texas at Dallas,USA,373,111,186,494,-,366,-,-,-,-,-,75.7
+2019,University at Albany - SUNY,USA,374,112,135,874,177,426,-,-,-,-,-,75.7
+2019,University of Oklahoma - Norman,USA,375,113,-,362,-,374,-,-,-,-,-,75.7
+2019,Tampere University,Finland,376,4,-,379,-,373,-,-,-,-,-,75.6
+2019,Chalmers University of Technology,Sweden,377,9,516,372,-,378,-,-,-,-,-,75.6
+2019,Swedish University of Agricultural Sciences,Sweden,378,10,138,-,-,377,-,-,-,-,-,75.6
+2019,Griffith University,Australia,379,11,-,1324,-,354,-,-,-,-,-,75.6
+2019,University of Texas Health Science Center at San Antonio,USA,380,114,-,-,-,355,-,-,-,-,-,75.6
+2019,Stellenbosch University,South Africa,381,3,-,153,-,420,-,-,-,-,-,75.6
+2019,China Agricultural University,China,382,29,-,1105,-,359,-,-,-,-,-,75.6
+2019,Thomas Jefferson University,USA,383,115,-,-,-,358,-,-,-,-,-,75.5
+2019,Stockholm School of Economics,Sweden,384,11,-,20,222,1753,-,-,-,-,-,75.5
+2019,University of Wollongong,Australia,385,12,-,573,-,371,-,-,-,-,-,75.5
+2019,Beijing Institute of Technology,China,386,30,-,1038,-,361,-,-,-,-,-,75.5
+2019,University of Ljubljana,Slovenia,387,1,-,-,-,364,-,-,-,-,-,75.5
+2019,University of Newcastle,Australia,388,13,-,1285,-,365,-,-,-,-,-,75.5
+2019,University of Twente,Netherlands,389,12,-,960,-,368,-,-,-,-,-,75.5
+2019,Queensland University of Technology,Australia,390,14,-,1158,-,367,-,-,-,-,-,75.5
+2019,Pompeu Fabra University,Spain,391,8,-,-,-,370,-,-,-,-,-,75.4
+2019,University of Oregon,USA,392,116,379,-,-,372,-,-,-,-,-,75.4
+2019,École des Hautes Études en Sciences Sociales,France,393,23,14,718,-,1150,-,-,-,-,-,75.4
+2019,University of Warsaw,Poland,394,2,460,991,-,376,-,-,-,-,-,75.4
+2019,East China University of Science and Technology,China,395,31,-,-,-,375,-,-,-,-,-,75.4
+2019,King Saud University,Saudi Arabia,396,2,-,426,-,388,-,-,-,-,-,75.4
+2019,Hunan University,China,397,32,-,582,-,382,-,-,-,-,-,75.4
+2019,Kobe University,Japan,398,12,88,419,-,429,-,-,-,-,-,75.4
+2019,George Mason University,USA,399,117,-,1432,172,437,-,-,-,-,-,75.3
+2019,Lanzhou University,China,400,33,-,1060,-,379,-,-,-,-,-,75.3
+2019,University of Ulsan,South Korea,401,9,-,625,-,383,-,-,-,-,-,75.3
+2019,Deakin University,Australia,402,15,-,916,-,380,-,-,-,-,-,75.3
+2019,University of Rennes 1,France,403,24,-,-,-,381,-,-,-,-,-,75.3
+2019,York University,Canada,404,17,-,238,-,409,-,-,-,-,-,75.3
+2019,University of Oulu,Finland,405,5,-,657,-,387,-,-,-,-,-,75.3
+2019,University of Zaragoza,Spain,406,9,522,939,-,384,-,-,-,-,-,75.3
+2019,Tulane University,USA,407,118,340,344,-,404,-,-,-,-,-,75.2
+2019,University of Tasmania,Australia,408,16,-,-,-,385,-,-,-,-,-,75.2
+2019,University of Innsbruck,Austria,409,3,-,760,240,397,-,-,-,-,-,75.2
+2019,University of Seville,Spain,410,10,-,1464,-,386,-,-,-,-,-,75.2
+2019,National Chiao Tung University,Taiwan,411,4,-,307,-,407,-,-,-,-,-,75.2
+2019,Vienna University of Technology,Austria,412,4,518,696,-,394,-,-,-,-,-,75.2
+2019,Texas Tech University,USA,413,119,-,432,-,399,-,-,-,-,-,75.2
+2019,University of Trieste,Italy,414,16,439,956,-,392,-,-,-,-,-,75.2
+2019,Hiroshima University,Japan,415,13,-,1359,-,389,-,-,-,-,-,75.1
+2019,University of Coimbra,Portugal,416,3,514,1122,-,393,-,-,-,-,-,75.1
+2019,Aristotle University of Thessaloniki,Greece,417,2,-,-,-,391,-,-,-,-,-,75.1
+2019,University of Chile,Chile,418,2,-,470,-,401,-,-,-,-,-,75.1
+2019,University of Eastern Finland,Finland,419,6,-,-,-,395,-,-,-,-,-,75.1
+2019,Kansas State University,USA,420,120,413,425,-,405,-,-,-,-,-,75.1
+2019,University of Bari,Italy,421,17,-,-,-,396,-,-,-,-,-,75.1
+2019,China Europe International Business School,China,422,34,-,13,-,-,-,-,-,-,-,75.1
+2019,University of Navarra,Spain,423,11,-,99,192,574,-,-,-,-,-,75.0
+2019,University of KwaZulu - Natal,South Africa,424,4,484,267,-,424,-,-,-,-,-,75.0
+2019,University of Marburg,Germany,425,32,444,-,250,398,-,-,-,-,-,75.0
+2019,University of Hull,United Kingdom,426,34,127,225,114,618,-,-,-,-,-,75.0
+2019,University of Bath,United Kingdom,427,35,-,561,-,406,-,-,-,-,-,75.0
+2019,Boston College,USA,428,121,-,134,-,468,-,-,-,-,-,75.0
+2019,Kyungpook National University,South Korea,429,10,-,837,-,402,-,-,-,-,-,75.0
+2019,University of Vermont,USA,430,122,-,440,-,414,-,-,-,-,-,75.0
+2019,King Abdullah University of Science and Technology,Saudi Arabia,431,3,-,-,-,400,-,-,-,-,-,74.9
+2019,Hitotsubashi University,Japan,432,14,-,15,-,-,-,-,-,-,-,74.9
+2019,Colorado School of Mines,USA,433,123,-,52,-,669,-,-,-,-,-,74.9
+2019,East China Normal University,China,434,35,-,441,-,418,-,-,-,-,-,74.9
+2019,Indian Institute of Science,India,435,1,209,648,-,417,-,-,-,-,-,74.9
+2019,Rensselaer Polytechnic Institute,USA,436,124,291,143,-,479,-,-,-,-,-,74.9
+2019,University of Saskatchewan,Canada,437,18,455,647,-,412,-,-,-,-,-,74.9
+2019,University of Electronic Science and Technology of China,China,438,36,-,689,-,413,-,-,-,-,-,74.9
+2019,University of Louisville,USA,439,125,-,775,-,411,-,-,-,-,-,74.8
+2019,Medical College of Wisconsin,USA,440,126,-,-,-,408,-,-,-,-,-,74.8
+2019,Vita - Salute San Raffaele University,Italy,441,18,-,-,-,410,-,-,-,-,-,74.8
+2019,University of Malaya,Malaysia,442,1,-,363,-,434,-,-,-,-,-,74.8
+2019,Polytechnic University of Catalonia,Spain,443,12,-,600,-,423,-,-,-,-,-,74.8
+2019,São Paulo State University,Brazil,444,4,-,-,-,416,-,-,-,-,-,74.8
+2019,Pusan National University,South Korea,445,11,-,577,-,425,-,-,-,-,-,74.8
+2019,City College of New York,USA,446,127,24,418,-,751,-,-,-,-,-,74.8
+2019,Okayama University,Japan,447,15,275,529,-,432,-,-,-,-,-,74.8
+2019,University of Guelph,Canada,448,19,-,1162,-,419,-,-,-,-,-,74.7
+2019,Lehigh University,USA,449,128,165,59,-,674,-,-,-,-,-,74.7
+2019,University of Central Florida,USA,450,129,-,1050,-,421,-,-,-,-,-,74.7
+2019,Catholic University of the Sacred Heart,Italy,451,19,-,1203,-,422,-,-,-,-,-,74.7
+2019,Federal University of Minas Gerais,Brazil,452,5,-,651,-,431,-,-,-,-,-,74.7
+2019,University of Strathclyde,United Kingdom,453,36,-,325,-,448,-,-,-,-,-,74.7
+2019,Federal University of Rio Grande do Sul,Brazil,454,6,-,1218,-,427,-,-,-,-,-,74.7
+2019,Chonnam National University,South Korea,455,12,-,1196,-,428,-,-,-,-,-,74.7
+2019,University of Santiago de Compostela,Spain,456,13,-,898,-,430,-,-,-,-,-,74.7
+2019,University of Science and Technology Beijing,China,457,37,-,198,-,470,-,-,-,-,-,74.6
+2019,Amherst College,USA,458,130,18,61,-,-,-,-,-,-,-,74.6
+2019,James Cook University,Australia,459,17,-,1112,-,433,-,-,-,-,-,74.6
+2019,Chongqing University,China,460,38,-,539,-,446,-,-,-,-,-,74.6
+2019,University of Tennessee Health Science Center,USA,461,131,-,-,-,435,-,-,-,-,-,74.6
+2019,University of Clermont Auvergne,France,462,25,-,-,-,436,-,-,-,-,-,74.6
+2019,University of Technology Sydney,Australia,463,18,-,1041,-,439,-,-,-,-,-,74.6
+2019,Islamic Azad University,Iran,464,1,-,-,-,438,-,-,-,-,-,74.6
+2019,Saint Louis University,USA,465,132,367,342,220,487,-,-,-,-,-,74.5
+2019,École normale supérieure de Lyon,France,466,26,230,-,218,466,-,-,-,-,-,74.5
+2019,University of Mississippi,USA,467,133,-,-,-,440,-,-,-,-,-,74.5
+2019,West Virginia University,USA,468,134,-,312,-,457,-,-,-,-,-,74.5
+2019,University of Trento,Italy,469,20,-,-,-,442,-,-,-,-,-,74.5
+2019,University of Siena,Italy,470,21,-,1217,-,443,-,-,-,-,-,74.5
+2019,Polytechnic University of Valencia,Spain,471,14,-,-,-,444,-,-,-,-,-,74.5
+2019,University of Canterbury,New Zealand,472,3,384,346,175,543,-,-,-,-,-,74.5
+2019,Capital Medical University,China,473,39,-,-,-,445,-,-,-,-,-,74.5
+2019,Illinois Institute of Technology,USA,474,135,42,120,-,771,-,-,-,-,-,74.4
+2019,Rovira i Virgili University,Spain,475,15,-,-,-,447,-,-,-,-,-,74.4
+2019,TU Darmstadt,Germany,476,33,334,744,-,450,-,-,-,-,-,74.4
+2019,Martin Luther University Halle - Wittenberg,Germany,477,34,511,-,243,451,-,-,-,-,-,74.4
+2019,University of Alabama - Tuscaloosa,USA,478,136,467,223,-,491,-,-,-,-,-,74.4
+2019,Rush University,USA,479,137,-,-,-,449,-,-,-,-,-,74.4
+2019,University College Cork,Ireland,480,3,-,978,-,452,-,-,-,-,-,74.4
+2019,University of Catania,Italy,481,22,453,-,-,453,-,-,-,-,-,74.4
+2019,University of Hawaii at Manoa,USA,482,138,337,1076,-,455,-,-,-,-,-,74.4
+2019,Oklahoma State University,USA,483,139,-,430,-,473,-,-,-,-,-,74.4
+2019,Savoie Mont Blanc University,France,484,27,-,-,-,456,-,-,-,-,-,74.3
+2019,University of Surrey,United Kingdom,485,37,305,434,-,478,-,-,-,-,-,74.3
+2019,Chulalongkorn University,Thailand,486,1,-,113,-,577,-,-,-,-,-,74.3
+2019,University of Modena and Reggio Emilia,Italy,487,23,-,997,-,460,-,-,-,-,-,74.3
+2019,University of Bordeaux,France,488,28,-,1332,-,458,-,-,-,-,-,74.3
+2019,University of Tromsø  -  The Arctic University of Norway,Norway,489,4,-,-,-,459,-,-,-,-,-,74.3
+2019,Bar - Ilan University,Israel,490,6,-,822,-,464,-,-,-,-,-,74.3
+2019,China University of Geosciences,China,491,40,-,1040,-,461,-,-,-,-,-,74.3
+2019,University of Ferrara,Italy,492,24,-,-,-,462,-,-,-,-,-,74.3
+2019,Leibniz University Hannover,Germany,493,35,-,899,-,465,-,-,-,-,-,74.2
+2019,Florida International University,USA,494,140,-,1262,-,463,-,-,-,-,-,74.2
+2019,AgroParisTech,France,495,29,496,547,-,481,-,-,-,-,-,74.2
+2019,University of Rostock,Germany,496,36,520,-,-,467,-,-,-,-,-,74.2
+2019,National Yang - Ming University,Taiwan,497,5,-,-,-,469,-,-,-,-,-,74.2
+2019,University of Oviedo,Spain,498,16,-,958,-,471,-,-,-,-,-,74.2
+2019,Shanghai University,China,499,41,-,955,-,472,-,-,-,-,-,74.2
+2019,Mahidol University,Thailand,500,2,-,-,-,474,-,-,-,-,-,74.2
+2019,University of Bremen,Germany,501,37,-,-,-,475,-,-,-,-,-,74.2
+2019,University of Tartu,Estonia,502,1,521,-,-,476,-,-,-,-,-,74.1
+2019,Ewha Womans University,South Korea,503,13,-,-,-,477,-,-,-,-,-,74.1
+2019,Institute of Cancer Research - University of London,United Kingdom,504,38,-,-,-,480,-,-,-,-,-,74.1
+2019,Baylor University,USA,505,141,-,361,-,498,-,-,-,-,-,74.1
+2019,University of Wisconsin - Milwaukee,USA,506,142,319,405,-,495,-,-,-,-,-,74.1
+2019,Beijing University of Chemical Technology,China,507,42,-,1266,-,483,-,-,-,-,-,74.1
+2019,University of Iceland,Iceland,508,1,-,-,-,482,-,-,-,-,-,74.1
+2019,Flinders University,Australia,509,19,356,-,-,485,-,-,-,-,-,74.1
+2019,University of Potsdam,Germany,510,38,-,-,-,484,-,-,-,-,-,74.1
+2019,Royal Holloway - University of London,United Kingdom,511,39,295,850,185,555,-,-,-,-,-,74.1
+2019,University of Zagreb,Croatia,512,1,-,1461,-,486,-,-,-,-,-,74.0
+2019,University of South Australia,Australia,513,20,-,439,-,496,-,-,-,-,-,74.0
+2019,Clemson University,USA,514,143,-,934,-,489,-,-,-,-,-,74.0
+2019,Georgia State University,USA,515,144,-,633,-,493,-,-,-,-,-,74.0
+2019,Western Sydney University,Australia,516,21,-,-,-,488,-,-,-,-,-,74.0
+2019,Scuola Normale Superiore di Pisa,Italy,517,25,91,-,206,592,-,-,-,-,-,74.0
+2019,University of Nice Sophia Antipolis,France,518,30,-,-,-,490,-,-,-,-,-,74.0
+2019,Syracuse University,USA,519,145,355,231,-,536,-,-,-,-,-,74.0
+2019,Bocconi University,Italy,520,26,-,42,197,1072,-,-,-,-,-,74.0
+2019,Technical University of Dortmund,Germany,521,39,-,-,-,492,-,-,-,-,-,74.0
+2019,Medical University of Innsbruck,Austria,522,5,-,-,-,494,-,-,-,-,-,73.9
+2019,Indian Institute of Management Ahmedabad,India,523,2,354,22,-,-,-,-,-,-,-,73.9
+2019,San Diego State University,USA,524,146,-,435,-,510,-,-,-,-,-,73.9
+2019,Brigham Young University,USA,525,147,361,873,-,497,-,-,-,-,-,73.9
+2019,Nanjing University of Science and Technology,China,526,43,-,613,-,504,-,-,-,-,-,73.9
+2019,University of Arkansas - Fayetteville,USA,527,148,329,389,-,519,-,-,-,-,-,73.9
+2019,College of William & Mary,USA,528,149,-,89,-,681,-,-,-,-,-,73.9
+2019,La Trobe University,Australia,529,22,-,1204,-,499,-,-,-,-,-,73.9
+2019,Chiba University,Japan,530,16,-,-,-,500,-,-,-,-,-,73.9
+2019,University of Verona,Italy,531,27,-,-,-,501,-,-,-,-,-,73.8
+2019,NOVA University of Lisbon,Portugal,532,4,-,-,-,502,-,-,-,-,-,73.8
+2019,Wuhan University of Technology,China,533,44,-,1011,-,506,-,-,-,-,-,73.8
+2019,National Central University,Taiwan,534,6,-,-,-,503,-,-,-,-,-,73.8
+2019,Ulsan National Institute of Science and Technology,South Korea,535,14,-,-,-,505,-,-,-,-,-,73.8
+2019,Cairo University,Egypt,536,1,-,1095,-,507,-,-,-,-,-,73.8
+2019,University of Tehran,Iran,537,2,330,-,-,509,-,-,-,-,-,73.8
+2019,Chang Gung University,Taiwan,538,7,-,-,-,508,-,-,-,-,-,73.8
+2019,Moscow Institute of Physics and Technology,Russia,539,2,63,532,-,655,-,-,-,-,-,73.8
+2019,Nanjing Agricultural University,China,540,45,-,-,-,511,-,-,-,-,-,73.8
+2019,University of Sherbrooke,Canada,541,20,-,1023,-,513,-,-,-,-,-,73.8
+2019,Bielefeld University,Germany,542,40,-,-,-,512,-,-,-,-,-,73.7
+2019,Swansea University,United Kingdom,543,40,-,1121,-,516,-,-,-,-,-,73.7
+2019,Federal University of São Paulo,Brazil,544,7,-,-,-,514,-,-,-,-,-,73.7
+2019,University of Nantes,France,545,31,-,-,-,515,-,-,-,-,-,73.7
+2019,Masaryk University,Czech Republic,546,2,-,-,-,517,-,-,-,-,-,73.7
+2019,Huazhong Agricultural University,China,547,46,-,-,-,518,-,-,-,-,-,73.7
+2019,Indian Institute of Technology Delhi,India,548,3,-,102,-,680,-,-,-,-,-,73.7
+2019,Northwestern Polytechnical University,China,549,47,-,690,-,521,-,-,-,-,-,73.7
+2019,Toulouse INP,France,550,32,-,217,-,579,-,-,-,-,-,73.7
+2019,Utah State University,USA,551,150,318,761,-,525,-,-,-,-,-,73.7
+2019,RMIT University,Australia,552,23,-,1020,-,523,-,-,-,-,-,73.6
+2019,St George's - University of London,United Kingdom,553,41,-,-,-,522,-,-,-,-,-,73.6
+2019,Nanjing University of Aeronautics and Astronautics,China,554,48,-,1271,-,524,-,-,-,-,-,73.6
+2019,National Technical University of Athens,Greece,555,3,411,735,-,534,-,-,-,-,-,73.6
+2019,University of Pretoria,South Africa,556,5,-,707,-,537,-,-,-,-,-,73.6
+2019,University of Maine - Orono,USA,557,151,-,-,62,886,-,-,-,-,-,73.6
+2019,Konkuk University,South Korea,558,15,-,909,-,531,-,-,-,-,-,73.6
+2019,Tata Institute of Fundamental Research,India,559,4,-,-,-,526,-,-,-,-,-,73.6
+2019,Saint Petersburg University,Russia,560,3,194,428,-,560,-,-,-,-,-,73.6
+2019,Carleton University,Canada,561,21,-,1171,-,529,-,-,-,-,-,73.6
+2019,University of Salerno,Italy,562,28,-,-,-,527,-,-,-,-,-,73.5
+2019,University of Palermo,Italy,563,29,-,-,-,528,-,-,-,-,-,73.5
+2019,University of Nebraska Medical Center,USA,564,152,-,-,-,530,-,-,-,-,-,73.5
+2019,Polytechnic University of Madrid,Spain,565,17,427,589,-,545,-,-,-,-,-,73.5
+2019,National University of Ireland - Galway,Ireland,566,4,418,1372,-,532,-,-,-,-,-,73.5
+2019,University of Plymouth,United Kingdom,567,42,-,1400,-,533,-,-,-,-,-,73.5
+2019,University of Jyväskylä,Finland,568,7,-,1356,-,535,-,-,-,-,-,73.5
+2019,University of Texas at Arlington,USA,569,153,-,1031,-,538,-,-,-,-,-,73.5
+2019,Medical University of Graz,Austria,570,6,-,-,-,539,-,-,-,-,-,73.5
+2019,University of Wyoming,USA,571,154,-,603,-,548,-,-,-,-,-,73.5
+2019,Palacký University Olomouc,Czech Republic,572,3,-,-,-,540,-,-,-,-,-,73.5
+2019,Nanjing Medical University,China,573,49,-,-,-,541,-,-,-,-,-,73.4
+2019,University of Texas Medical Branch,USA,574,155,-,-,-,542,-,-,-,-,-,73.4
+2019,Concordia University,Canada,575,22,482,276,-,581,-,-,-,-,-,73.4
+2019,University of Bayreuth,Germany,576,41,-,1339,-,544,-,-,-,-,-,73.4
+2019,China Medical University - Taiwan,Taiwan,577,8,-,-,-,546,-,-,-,-,-,73.4
+2019,Tehran University of Medical Sciences,Iran,578,3,-,-,-,547,-,-,-,-,-,73.4
+2019,University of Burgundy,France,579,33,221,-,-,552,-,-,-,-,-,73.4
+2019,University of St.Gallen,Switzerland,580,8,-,28,-,1612,-,-,-,-,-,73.4
+2019,University of La Laguna,Spain,581,18,-,-,-,549,-,-,-,-,-,73.4
+2019,Middle East Technical University,Turkey,582,1,-,304,-,583,-,-,-,-,-,73.4
+2019,University of New Hampshire,USA,583,156,-,506,-,564,-,-,-,-,-,73.3
+2019,Shenzhen University,China,584,50,-,767,-,553,-,-,-,-,-,73.3
+2019,Tokushima University,Japan,585,17,37,914,-,859,-,-,-,-,-,73.3
+2019,University of Konstanz,Germany,586,42,-,-,-,550,-,-,-,-,-,73.3
+2019,Indian Institute of Technology Bombay,India,587,5,-,611,-,558,-,-,-,-,-,73.3
+2019,Zhengzhou University,China,588,51,-,1008,-,551,-,-,-,-,-,73.3
+2019,Polytechnic University of Turin,Italy,589,30,-,801,-,554,-,-,-,-,-,73.3
+2019,Loyola University Chicago,USA,590,157,260,864,-,561,-,-,-,-,-,73.3
+2019,Osaka City University,Japan,591,18,58,517,-,714,-,-,-,-,-,73.3
+2019,Saarland University,Germany,592,43,-,531,-,572,-,-,-,-,-,73.3
+2019,University of Aveiro,Portugal,593,5,-,-,-,556,-,-,-,-,-,73.3
+2019,Brunel University London,United Kingdom,594,43,-,533,-,573,-,-,-,-,-,73.2
+2019,Tokyo Metropolitan University,Japan,595,19,76,941,-,656,-,-,-,-,-,73.2
+2019,National University of La Plata,Argentina,596,2,495,1337,-,557,-,-,-,-,-,73.2
+2019,National Chung Hsing University,Taiwan,597,9,-,266,-,602,-,-,-,-,-,73.2
+2019,Eötvös Loránd University,Hungary,598,1,399,-,-,559,-,-,-,-,-,73.2
+2019,Auburn University,USA,599,158,-,240,-,608,-,-,-,-,-,73.2
+2019,Indian Institute of Technology Madras,India,600,6,-,178,-,642,-,-,-,-,-,73.2
+2019,Northeastern University - China,China,601,52,-,459,-,580,-,-,-,-,-,73.2
+2019,Institut national des sciences appliquées de Lyon,France,602,34,-,-,-,562,-,-,-,-,-,73.2
+2019,SUNY Downstate Medical Center,USA,603,159,-,-,96,841,-,-,-,-,-,73.2
+2019,Xidian University,China,604,53,-,1185,-,563,-,-,-,-,-,73.2
+2019,Tokyo Medical and Dental University,Japan,605,20,-,-,-,565,-,-,-,-,-,73.1
+2019,Memorial University of Newfoundland,Canada,606,23,-,734,-,570,-,-,-,-,-,73.1
+2019,Massey University,New Zealand,607,4,-,936,-,567,-,-,-,-,-,73.1
+2019,University of Delhi,India,608,7,461,133,-,679,-,-,-,-,-,73.1
+2019,University of Udine,Italy,609,31,-,-,-,566,-,-,-,-,-,73.1
+2019,Novosibirsk State University,Russia,610,4,307,1274,-,571,-,-,-,-,-,73.1
+2019,Fuzhou University,China,611,54,-,731,-,576,-,-,-,-,-,73.1
+2019,Kitasato University,Japan,612,21,-,-,86,874,-,-,-,-,-,73.1
+2019,University of Crete,Greece,613,4,-,-,-,568,-,-,-,-,-,73.1
+2019,University of Cagliari,Italy,614,32,-,-,-,569,-,-,-,-,-,73.1
+2019,Sharif University of Technology,Iran,615,4,262,-,-,578,-,-,-,-,-,73.1
+2019,University of Minho,Portugal,616,6,-,-,-,575,-,-,-,-,-,73.0
+2019,Tilburg University,Netherlands,617,13,-,364,-,598,-,-,-,-,-,73.0
+2019,Sciences Po,France,618,35,-,53,80,1869,-,-,-,-,-,73.0
+2019,Northwest A&F University,China,619,55,-,-,-,582,-,-,-,-,-,73.0
+2019,Inha University,South Korea,620,16,-,675,-,589,-,-,-,-,-,73.0
+2019,University of Missouri - Kansas City,USA,621,160,464,567,-,594,-,-,-,-,-,73.0
+2019,University of Haifa,Israel,622,7,-,968,-,584,-,-,-,-,-,73.0
+2019,China University of Petroleum,China,623,56,-,653,-,593,-,-,-,-,-,73.0
+2019,University of Québec at Montreal,Canada,624,24,-,857,-,588,-,-,-,-,-,73.0
+2019,University of Brescia,Italy,625,33,-,-,-,585,-,-,-,-,-,73.0
+2019,Chungnam National University,South Korea,626,17,-,-,-,586,-,-,-,-,-,73.0
+2019,University of Texas at San Antonio,USA,627,161,-,-,-,587,-,-,-,-,-,73.0
+2019,University of Ioannina,Greece,628,5,-,-,-,590,-,-,-,-,-,72.9
+2019,Nanjing Tech University,China,629,57,-,-,-,591,-,-,-,-,-,72.9
+2019,Shinshu University,Japan,630,22,-,1322,-,595,-,-,-,-,-,72.9
+2019,Rio de Janeiro State University,Brazil,631,8,-,1414,-,596,-,-,-,-,-,72.9
+2019,University of Oklahoma Health Sciences Center,USA,632,162,270,-,-,603,-,-,-,-,-,72.9
+2019,Second Military Medical University,China,633,58,-,-,-,597,-,-,-,-,-,72.9
+2019,University of Nevada - Reno,USA,634,163,-,993,-,601,-,-,-,-,-,72.9
+2019,University of Calabria,Italy,635,34,-,-,-,599,-,-,-,-,-,72.9
+2019,Loughborough University,United Kingdom,636,44,-,-,-,600,-,-,-,-,-,72.9
+2019,Mississippi State University,USA,637,164,239,365,-,639,-,-,-,-,-,72.9
+2019,Montana State University - Bozeman,USA,638,165,493,1207,-,604,-,-,-,-,-,72.9
+2019,Kanazawa University,Japan,639,23,-,615,-,611,-,-,-,-,-,72.8
+2019,Jiangnan University,China,640,59,-,1413,-,605,-,-,-,-,-,72.8
+2019,National Polytechnic Institute,Mexico,641,2,-,-,-,606,-,-,-,-,-,72.8
+2019,University of Maryland - Baltimore County,USA,642,166,-,-,207,666,-,-,-,-,-,72.8
+2019,Semmelweis University,Hungary,643,2,-,-,-,607,-,-,-,-,-,72.8
+2019,Istanbul University,Turkey,644,2,389,1032,-,610,-,-,-,-,-,72.8
+2019,Hacettepe University,Turkey,645,3,-,-,-,609,-,-,-,-,-,72.8
+2019,Chung - Ang University,South Korea,646,18,-,1055,-,612,-,-,-,-,-,72.8
+2019,Yokohama City University,Japan,647,24,-,201,-,682,-,-,-,-,-,72.8
+2019,Catholic University of Korea,South Korea,648,19,-,-,-,613,-,-,-,-,-,72.8
+2019,American University of Beirut,Lebanon,649,1,145,174,-,726,-,-,-,-,-,72.8
+2019,King Fahd University of Petroleum and Minerals,Saudi Arabia,650,4,-,116,-,773,-,-,-,-,-,72.8
+2019,Comenius University in Bratislava,Slovak Republic,651,1,-,-,-,614,-,-,-,-,-,72.7
+2019,Czech Technical University in Prague,Czech Republic,652,4,481,-,-,615,-,-,-,-,-,72.7
+2019,Chonbuk National University,South Korea,653,20,-,-,-,616,-,-,-,-,-,72.7
+2019,Tokyo University of Science,Japan,654,25,166,1223,-,631,-,-,-,-,-,72.7
+2019,University of Salamanca,Spain,655,19,-,928,-,617,-,-,-,-,-,72.7
+2019,Heriot - Watt University,United Kingdom,656,45,-,481,-,637,-,-,-,-,-,72.7
+2019,Victoria University of Wellington,New Zealand,657,5,381,678,-,623,-,-,-,-,-,72.7
+2019,University of Alaska Fairbanks,USA,658,167,398,697,-,625,-,-,-,-,-,72.7
+2019,Southwest University,China,659,60,462,1351,-,619,-,-,-,-,-,72.7
+2019,Jinan University,China,660,61,-,598,-,633,-,-,-,-,-,72.7
+2019,Central China Normal University,China,661,62,-,1161,-,621,-,-,-,-,-,72.7
+2019,Federal University of Santa Catarina,Brazil,662,9,-,-,-,620,-,-,-,-,-,72.7
+2019,Otto von Guericke University Magdeburg,Germany,663,44,-,-,-,622,-,-,-,-,-,72.6
+2019,Niigata University,Japan,664,26,-,674,-,632,-,-,-,-,-,72.6
+2019,University of Kent,United Kingdom,665,46,-,749,-,627,-,-,-,-,-,72.6
+2019,University of Lübeck,Germany,666,45,-,-,-,624,-,-,-,-,-,72.6
+2019,University of North Texas - Denton,USA,667,168,-,893,-,630,-,-,-,-,-,72.6
+2019,Gwangju Institute of Science and Technology,South Korea,668,21,-,-,-,626,-,-,-,-,-,72.6
+2019,Northeast Normal University,China,669,63,-,-,-,628,-,-,-,-,-,72.6
+2019,Montpellier SupAgro,France,670,36,-,-,-,629,-,-,-,-,-,72.6
+2019,École Pratique des Hautes Études,France,671,37,43,-,-,916,-,-,-,-,-,72.6
+2019,University of Massachusetts Boston,USA,672,169,-,1057,147,799,-,-,-,-,-,72.6
+2019,AGH University of Science and Technology,Poland,673,3,-,752,-,640,-,-,-,-,-,72.6
+2019,Indian Institute of Technology Kharagpur,India,674,8,-,464,-,651,-,-,-,-,-,72.6
+2019,University of Campania Luigi Vanvitelli,Italy,675,35,-,-,-,634,-,-,-,-,-,72.5
+2019,Hong Kong Baptist University,Hong Kong,676,6,-,1321,-,635,-,-,-,-,-,72.5
+2019,Taipei Medical University,Taiwan,677,10,-,-,-,636,-,-,-,-,-,72.5
+2019,University of Graz,Austria,678,7,509,1079,228,670,-,-,-,-,-,72.5
+2019,Swinburne University of Technology,Australia,679,24,-,-,-,638,-,-,-,-,-,72.5
+2019,École centrale de Lille,France,680,38,-,85,-,908,-,-,-,-,-,72.5
+2019,Ohio University,USA,681,170,220,337,-,686,-,-,-,-,-,72.5
+2019,University of Eastern Piedmont,Italy,682,36,-,-,-,641,-,-,-,-,-,72.5
+2019,Ankara University,Turkey,683,4,-,700,-,647,-,-,-,-,-,72.5
+2019,ESPCI Paris,France,684,39,425,-,190,718,-,-,-,-,-,72.5
+2019,Technical University of Braunschweig,Germany,685,46,335,1108,-,645,-,-,-,-,-,72.5
+2019,University of Málaga,Spain,686,20,-,-,-,643,-,-,-,-,-,72.5
+2019,Augusta University,USA,687,171,-,-,-,644,-,-,-,-,-,72.4
+2019,University of Science - Malaysia,Malaysia,688,2,-,-,-,646,-,-,-,-,-,72.4
+2019,Ocean University of China,China,689,64,-,1305,-,648,-,-,-,-,-,72.4
+2019,University of Vigo,Spain,690,21,-,-,-,649,-,-,-,-,-,72.4
+2019,University of Arkansas for Medical Sciences,USA,691,172,-,-,-,650,-,-,-,-,-,72.4
+2019,University of Szeged,Hungary,692,3,-,-,236,677,-,-,-,-,-,72.4
+2019,Kent State University,USA,693,173,-,-,-,652,-,-,-,-,-,72.4
+2019,Birkbeck - University of London,United Kingdom,694,47,284,-,165,796,-,-,-,-,-,72.4
+2019,University of Fribourg,Switzerland,695,9,-,338,-,690,-,-,-,-,-,72.4
+2019,International School for Advanced Studies,Italy,696,37,-,-,-,654,-,-,-,-,-,72.4
+2019,University of Idaho,USA,697,174,-,-,-,657,-,-,-,-,-,72.4
+2019,Kumamoto University,Japan,698,27,-,614,-,667,-,-,-,-,-,72.4
+2019,University of Salento,Italy,699,38,-,-,-,658,-,-,-,-,-,72.4
+2019,Boğaziçi University,Turkey,700,5,-,677,-,664,-,-,-,-,-,72.3
+2019,University of Cantabria,Spain,701,22,-,1348,-,659,-,-,-,-,-,72.3
+2019,Istanbul Technical University,Turkey,702,6,-,768,-,660,-,-,-,-,-,72.3
+2019,Vilnius University,Lithuania,703,1,-,-,-,661,-,-,-,-,-,72.3
+2019,Aberystwyth University,United Kingdom,704,48,-,823,170,802,-,-,-,-,-,72.3
+2019,University of Girona,Spain,705,23,-,-,-,662,-,-,-,-,-,72.3
+2019,University of Castilla - La Mancha,Spain,706,24,-,-,-,663,-,-,-,-,-,72.3
+2019,Wesleyan University,USA,707,175,172,43,-,1411,-,-,-,-,-,72.3
+2019,University of Angers,France,708,40,-,-,-,665,-,-,-,-,-,72.3
+2019,Ajou University,South Korea,709,22,-,931,-,668,-,-,-,-,-,72.3
+2019,Jawaharlal Nehru Centre for Advanced Scientific Research,India,710,9,-,-,95,1000,-,-,-,-,-,72.3
+2019,Renmin University of China,China,711,65,-,119,-,847,-,-,-,-,-,72.3
+2019,Getúlio Vargas Foundation,Brazil,712,10,-,31,-,-,-,-,-,-,-,72.2
+2019,Paris 13 University,France,713,41,-,-,-,671,-,-,-,-,-,72.2
+2019,Donghua University,China,714,66,-,1277,-,672,-,-,-,-,-,72.2
+2019,Télécom ParisTech,France,715,42,-,54,-,1165,-,-,-,-,-,72.2
+2019,Nanjing Normal University,China,716,67,-,987,-,673,-,-,-,-,-,72.2
+2019,Roma Tre University,Italy,717,39,-,-,-,675,-,-,-,-,-,72.2
+2019,National Sun Yat - sen University,Taiwan,718,11,-,-,-,678,-,-,-,-,-,72.2
+2019,University of Greifswald,Germany,719,47,-,-,244,684,-,-,-,-,-,72.2
+2019,University of Montana,USA,720,176,200,-,-,694,-,-,-,-,-,72.2
+2019,Jiangsu University,China,721,68,-,1298,-,683,-,-,-,-,-,72.2
+2019,University of Toledo,USA,722,177,-,-,-,685,-,-,-,-,-,72.2
+2019,Beijing Jiaotong University,China,723,69,-,1396,-,687,-,-,-,-,-,72.2
+2019,University of Debrecen,Hungary,724,4,-,-,-,688,-,-,-,-,-,72.2
+2019,University of Denver,USA,725,178,-,158,-,821,-,-,-,-,-,72.1
+2019,National Research Nuclear University MEPhI,Russia,726,5,456,-,-,689,-,-,-,-,-,72.1
+2019,Graz University of Technology,Austria,727,8,-,-,-,691,-,-,-,-,-,72.1
+2019,Kangwon National University,South Korea,728,23,-,1438,-,692,-,-,-,-,-,72.1
+2019,Warsaw University of Technology,Poland,729,4,469,1085,-,695,-,-,-,-,-,72.1
+2019,University of the Balearic Islands,Spain,730,25,-,-,-,693,-,-,-,-,-,72.1
+2019,All India Institute of Medical Sciences - New Delhi,India,731,10,-,-,-,696,-,-,-,-,-,72.1
+2019,Miami University,USA,732,179,-,121,-,867,-,-,-,-,-,72.1
+2019,Marche Polytechnic University,Italy,733,40,-,-,-,697,-,-,-,-,-,72.1
+2019,Southern Medical University,China,734,70,-,-,-,698,-,-,-,-,-,72.1
+2019,University of Murcia,Spain,735,26,-,-,-,699,-,-,-,-,-,72.1
+2019,University of Essex,United Kingdom,736,49,422,620,-,705,-,-,-,-,-,72.1
+2019,Kindai University,Japan,737,28,-,-,-,700,-,-,-,-,-,72.1
+2019,Yeungnam University,South Korea,738,24,-,386,-,730,-,-,-,-,-,72.0
+2019,Open University - UK,United Kingdom,739,50,-,1471,-,701,-,-,-,-,-,72.0
+2019,North China Electric Power University,China,740,71,-,463,-,716,-,-,-,-,-,72.0
+2019,Nagasaki University,Japan,741,29,309,230,-,775,-,-,-,-,-,72.0
+2019,Beijing University of Technology,China,742,72,-,-,-,702,-,-,-,-,-,72.0
+2019,Bangor University,United Kingdom,743,51,167,870,-,717,-,-,-,-,-,72.0
+2019,Air Force Medical University,China,744,73,-,-,-,703,-,-,-,-,-,72.0
+2019,Nanjing University of Information Science and Technology,China,745,74,-,-,-,704,-,-,-,-,-,72.0
+2019,Norwegian School of Economics,Norway,746,5,371,37,-,1989,-,-,-,-,-,72.0
+2019,Örebro University,Sweden,747,12,-,841,-,707,-,-,-,-,-,72.0
+2019,Isfahan University of Technology,Iran,748,5,-,-,-,706,-,-,-,-,-,72.0
+2019,National University of Defense Technology,China,749,75,-,1361,-,708,-,-,-,-,-,72.0
+2019,University of Patras,Greece,750,6,-,-,-,709,-,-,-,-,-,72.0
+2019,University of Cyprus,Cyprus,751,1,-,-,-,710,-,-,-,-,-,71.9
+2019,University Paris - Est Créteil,France,752,43,-,804,-,713,-,-,-,-,-,71.9
+2019,Binghamton University,USA,753,180,245,392,-,763,-,-,-,-,-,71.9
+2019,Federal University of Paraná,Brazil,754,11,-,1205,-,712,-,-,-,-,-,71.9
+2019,Tianjin Medical University,China,755,76,-,-,-,711,-,-,-,-,-,71.9
+2019,University of North Carolina at Charlotte,USA,756,181,-,542,-,732,-,-,-,-,-,71.9
+2019,Gyeongsang National University,South Korea,757,25,-,-,-,715,-,-,-,-,-,71.9
+2019,Norwegian University of Life Sciences,Norway,758,6,-,985,-,719,-,-,-,-,-,71.9
+2019,Hasselt University,Belgium,759,8,-,575,-,739,-,-,-,-,-,71.9
+2019,University of Louisiana at Lafayette,USA,760,182,-,-,-,720,-,-,-,-,-,71.9
+2019,University of Johannesburg,South Africa,761,6,-,999,-,722,-,-,-,-,-,71.9
+2019,University of Split,Croatia,762,2,-,-,-,721,-,-,-,-,-,71.9
+2019,University of Rhode Island,USA,763,183,-,477,-,753,-,-,-,-,-,71.9
+2019,Graduate University for Advanced Studies,Japan,764,30,-,-,-,723,-,-,-,-,-,71.8
+2019,South China Normal University,China,765,77,-,1005,-,727,-,-,-,-,-,71.8
+2019,University of Akron,USA,766,184,-,723,-,736,-,-,-,-,-,71.8
+2019,University of Wuppertal,Germany,767,48,-,-,-,724,-,-,-,-,-,71.8
+2019,Kaohsiung Medical University,Taiwan,768,12,-,-,-,725,-,-,-,-,-,71.8
+2019,University of L'Aquila,Italy,769,41,-,-,-,728,-,-,-,-,-,71.8
+2019,Army Medical University,China,770,78,-,-,-,729,-,-,-,-,-,71.8
+2019,École normale supérieure Paris - Saclay,France,771,44,-,211,154,1018,-,-,-,-,-,71.8
+2019,Zhejiang University of Technology,China,772,79,-,1280,-,731,-,-,-,-,-,71.8
+2019,Southern Illinois University Carbondale,USA,773,185,-,1358,-,733,-,-,-,-,-,71.8
+2019,University of Natural Resources and Life Sciences - Vienna,Austria,774,9,-,-,-,734,-,-,-,-,-,71.8
+2019,Jean Monnet University,France,775,45,-,-,-,735,-,-,-,-,-,71.8
+2019,Nanjing University of Posts and Telecommunications,China,776,80,-,927,-,740,-,-,-,-,-,71.8
+2019,INSA Toulouse,France,777,46,-,576,-,756,-,-,-,-,-,71.8
+2019,Amirkabir University of Technology,Iran,778,6,-,-,-,737,-,-,-,-,-,71.7
+2019,University of Córdoba - Spain,Spain,779,27,-,-,-,738,-,-,-,-,-,71.7
+2019,Hefei University of Technology,China,780,81,-,732,-,746,-,-,-,-,-,71.7
+2019,National University of Colombia,Colombia,781,1,-,759,-,745,-,-,-,-,-,71.7
+2019,University of Nevada - Las Vegas,USA,782,186,-,1059,-,741,-,-,-,-,-,71.7
+2019,New Mexico State University,USA,783,187,342,810,-,749,-,-,-,-,-,71.7
+2019,National Taiwan University of Science and Technology,Taiwan,784,13,-,-,-,742,-,-,-,-,-,71.7
+2019,Uniformed Services University of the Health Sciences,USA,785,188,-,-,-,743,-,-,-,-,-,71.7
+2019,Carl von Ossietzky University of Oldenburg,Germany,786,49,-,-,-,744,-,-,-,-,-,71.7
+2019,Carlos III University of Madrid,Spain,787,28,-,-,-,747,-,-,-,-,-,71.7
+2019,Indian Institute of Technology Roorkee,India,788,11,-,277,-,812,-,-,-,-,-,71.7
+2019,Jaume I University,Spain,789,29,-,-,-,748,-,-,-,-,-,71.7
+2019,Old Dominion University,USA,790,189,-,-,-,750,-,-,-,-,-,71.7
+2019,Liverpool John Moores University,United Kingdom,791,52,-,-,-,752,-,-,-,-,-,71.7
+2019,University of Tours,France,792,47,191,-,-,765,-,-,-,-,-,71.6
+2019,Ain Shams University,Egypt,793,2,-,-,-,754,-,-,-,-,-,71.6
+2019,University of Concepción,Chile,794,3,-,-,-,755,-,-,-,-,-,71.6
+2019,Ege University,Turkey,795,7,-,-,-,757,-,-,-,-,-,71.6
+2019,National University of Malaysia - UKM,Malaysia,796,3,-,-,-,758,-,-,-,-,-,71.6
+2019,University of Orléans,France,797,48,-,1379,-,759,-,-,-,-,-,71.6
+2019,Putra University - Malaysia,Malaysia,798,4,-,1403,-,760,-,-,-,-,-,71.6
+2019,China University of Mining and Technology,China,799,82,-,883,-,764,-,-,-,-,-,71.6
+2019,Nanchang University,China,800,83,-,1295,-,762,-,-,-,-,-,71.6
+2019,University of the Andes - Colombia,Colombia,801,2,-,383,-,801,-,-,-,-,-,71.6
+2019,Tarbiat Modares University,Iran,802,7,-,-,-,761,-,-,-,-,-,71.6
+2019,Panjab University,India,803,12,433,587,-,779,-,-,-,-,-,71.6
+2019,Cranfield University,United Kingdom,804,53,-,149,-,919,-,-,-,-,-,71.6
+2019,Michigan Technological University,USA,805,190,452,1052,-,768,-,-,-,-,-,71.6
+2019,University of Portsmouth,United Kingdom,806,54,-,1009,-,770,-,-,-,-,-,71.5
+2019,Polytechnic University of Bari,Italy,807,42,-,-,-,766,-,-,-,-,-,71.5
+2019,University of Hohenheim,Germany,808,50,-,-,-,767,-,-,-,-,-,71.5
+2019,University of Windsor,Canada,809,25,-,169,-,894,-,-,-,-,-,71.5
+2019,Beijing University of Posts and Telecommunications,China,810,84,-,445,-,795,-,-,-,-,-,71.5
+2019,Juntendo University,Japan,811,31,-,-,-,769,-,-,-,-,-,71.5
+2019,Rutgers University - Newark,USA,812,191,-,994,-,774,-,-,-,-,-,71.5
+2019,University of Alicante,Spain,813,30,-,-,-,772,-,-,-,-,-,71.5
+2019,Northern Illinois University,USA,814,192,-,607,-,788,-,-,-,-,-,71.5
+2019,Swarthmore College,USA,815,193,26,253,-,1786,-,-,-,-,-,71.5
+2019,University of Mons,Belgium,816,9,-,-,-,776,-,-,-,-,-,71.5
+2019,Makerere University,Uganda,817,1,-,1451,-,777,-,-,-,-,-,71.5
+2019,University of Science and Technology - Korea,South Korea,818,26,-,-,-,778,-,-,-,-,-,71.5
+2019,Bucknell University,USA,819,194,-,47,-,1714,-,-,-,-,-,71.5
+2019,Quaid - i - Azam University,Pakistan,820,1,-,-,-,780,-,-,-,-,-,71.4
+2019,University of Messina,Italy,821,43,-,-,-,781,-,-,-,-,-,71.4
+2019,University of Macau,Macau,822,1,-,442,-,818,-,-,-,-,-,71.4
+2019,Banaras Hindu University,India,823,13,349,618,-,798,-,-,-,-,-,71.4
+2019,University of Brasília,Brazil,824,12,-,845,-,787,-,-,-,-,-,71.4
+2019,Nihon University,Japan,825,32,454,1220,-,783,-,-,-,-,-,71.4
+2019,University of Insubria,Italy,826,44,-,-,-,782,-,-,-,-,-,71.4
+2019,TU Kaiserslautern,Germany,827,51,-,1028,-,786,-,-,-,-,-,71.4
+2019,Keele University,United Kingdom,828,55,-,-,-,784,-,-,-,-,-,71.4
+2019,Shaanxi Normal University,China,829,85,-,-,-,785,-,-,-,-,-,71.4
+2019,Indian Institute of Technology Kanpur,India,830,14,-,579,-,809,-,-,-,-,-,71.4
+2019,Adam Mickiewicz University in Poznań,Poland,831,5,-,-,-,789,-,-,-,-,-,71.4
+2019,London Business School,United Kingdom,832,56,-,55,-,1468,-,-,-,-,-,71.4
+2019,Portland State University,USA,833,195,-,334,-,845,-,-,-,-,-,71.4
+2019,University of Western Brittany,France,834,49,-,-,-,790,-,-,-,-,-,71.3
+2019,Johannes Kepler University Linz,Austria,835,10,-,741,-,803,-,-,-,-,-,71.3
+2019,University of Alcalá,Spain,836,31,-,-,-,791,-,-,-,-,-,71.3
+2019,University of the Republic - Uruguay,Uruguay,837,1,-,1467,-,792,-,-,-,-,-,71.3
+2019,East Carolina University,USA,838,196,-,701,-,807,-,-,-,-,-,71.3
+2019,Paul Valéry University,France,839,50,-,-,-,793,-,-,-,-,-,71.3
+2019,Sejong University,South Korea,840,27,-,-,-,794,-,-,-,-,-,71.3
+2019,Gazi University,Turkey,841,8,-,1297,-,797,-,-,-,-,-,71.3
+2019,Yangzhou University,China,842,86,-,1457,-,800,-,-,-,-,-,71.3
+2019,Bilkent University,Turkey,843,9,-,812,-,810,-,-,-,-,-,71.3
+2019,Ryerson University,Canada,844,26,-,-,-,804,-,-,-,-,-,71.3
+2019,University of Brighton,United Kingdom,845,57,-,-,-,805,-,-,-,-,-,71.3
+2019,South China Agricultural University,China,846,87,-,1447,-,806,-,-,-,-,-,71.3
+2019,University of Siegen,Germany,847,52,-,1377,-,808,-,-,-,-,-,71.3
+2019,Tokyo University of Agriculture and Technology,Japan,848,33,-,-,-,811,-,-,-,-,-,71.3
+2019,Southwest Jiaotong University,China,849,88,-,797,-,820,-,-,-,-,-,71.2
+2019,University of California - Merced,USA,850,197,-,-,-,813,-,-,-,-,-,71.2
+2019,University of Extremadura,Spain,851,32,-,-,-,814,-,-,-,-,-,71.2
+2019,Aga Khan University,Pakistan,852,2,-,-,-,815,-,-,-,-,-,71.2
+2019,Northwest University - China,China,853,89,-,-,-,816,-,-,-,-,-,71.2
+2019,National University of Córdoba,Argentina,854,3,-,-,-,817,-,-,-,-,-,71.2
+2019,Harbin Engineering University,China,855,90,-,-,-,819,-,-,-,-,-,71.2
+2019,Colgate University,USA,856,198,-,45,-,1838,-,-,-,-,-,71.2
+2019,Osaka Prefecture University,Japan,857,34,-,563,-,842,-,-,-,-,-,71.2
+2019,Federal University of Pelotas,Brazil,858,13,-,-,-,822,-,-,-,-,-,71.2
+2019,University of Hyogo,Japan,859,35,-,-,131,1077,-,-,-,-,-,71.2
+2019,University of Stirling,United Kingdom,860,58,-,593,-,840,-,-,-,-,-,71.2
+2019,University of Picardie Jules Verne,France,861,51,-,-,-,823,-,-,-,-,-,71.2
+2019,Budapest University of Technology and Economics,Hungary,862,5,212,-,-,837,-,-,-,-,-,71.2
+2019,University of Poitiers,France,863,52,341,-,-,826,-,-,-,-,-,71.1
+2019,North Dakota State University,USA,864,199,267,1180,-,833,-,-,-,-,-,71.1
+2019,Medical University of Warsaw,Poland,865,6,-,-,-,824,-,-,-,-,-,71.1
+2019,China Medical University - PRC,China,866,91,-,-,-,825,-,-,-,-,-,71.1
+2019,University of Jinan,China,867,92,-,1296,-,828,-,-,-,-,-,71.1
+2019,Harbin Medical University,China,868,93,-,-,-,827,-,-,-,-,-,71.1
+2019,North - West University,South Africa,869,7,-,-,-,829,-,-,-,-,-,71.1
+2019,Shanxi University,China,870,94,-,1419,-,830,-,-,-,-,-,71.1
+2019,University of Valladolid,Spain,871,33,-,1182,-,831,-,-,-,-,-,71.1
+2019,University of Franche - Comté,France,872,53,440,-,-,834,-,-,-,-,-,71.1
+2019,Gachon University,South Korea,873,28,-,-,-,832,-,-,-,-,-,71.1
+2019,Chungbuk National University,South Korea,874,29,-,-,-,835,-,-,-,-,-,71.1
+2019,Oberlin College,USA,875,200,23,-,-,1999,-,-,-,-,-,71.1
+2019,International Institute for Management Development,Switzerland,876,10,-,34,-,-,-,-,-,-,-,71.1
+2019,Ehime University,Japan,877,36,-,951,-,839,-,-,-,-,-,71.1
+2019,University of Texas Rio Grande Valley,USA,878,201,-,-,-,836,-,-,-,-,-,71.0
+2019,National Research University Higher School of Economics,Russia,879,6,-,-,-,838,-,-,-,-,-,71.0
+2019,Federal University of Pernambuco,Brazil,880,14,-,1221,-,843,-,-,-,-,-,71.0
+2019,Babeș - Bolyai University,Romania,881,1,-,-,-,844,-,-,-,-,-,71.0
+2019,Shizuoka University,Japan,882,37,-,1133,131,1107,-,-,-,-,-,71.0
+2019,Belarusian State University,Belarus,883,1,-,-,-,846,-,-,-,-,-,71.0
+2019,City - University of London,United Kingdom,884,59,396,355,-,889,-,-,-,-,-,71.0
+2019,Paris - Dauphine University,France,885,54,199,193,168,1200,-,-,-,-,-,71.0
+2019,Dongguk University,South Korea,886,30,-,510,-,865,-,-,-,-,-,71.0
+2019,Ulster University,United Kingdom,887,60,-,-,-,848,-,-,-,-,-,71.0
+2019,Federal University of Viçosa,Brazil,888,15,-,-,-,849,-,-,-,-,-,71.0
+2019,Qingdao University,China,889,95,-,-,-,850,-,-,-,-,-,71.0
+2019,Federico Santa María Technical University,Chile,890,4,-,1215,-,851,-,-,-,-,-,71.0
+2019,Chongqing Medical University,China,891,96,-,-,-,852,-,-,-,-,-,71.0
+2019,Victoria University,Australia,892,25,-,-,-,853,-,-,-,-,-,71.0
+2019,College of the Holy Cross,USA,893,202,301,41,-,-,-,-,-,-,-,71.0
+2019,Missouri University of Science and Technology,USA,894,203,-,385,-,891,-,-,-,-,-,70.9
+2019,Wenzhou Medical University,China,895,97,-,-,-,854,-,-,-,-,-,70.9
+2019,Murdoch University,Australia,896,26,-,855,-,858,-,-,-,-,-,70.9
+2019,Mansoura University,Egypt,897,3,-,-,-,855,-,-,-,-,-,70.9
+2019,University of Caen Normandy,France,898,55,-,-,-,856,-,-,-,-,-,70.9
+2019,Chuo University,Japan,899,38,-,66,-,1479,-,-,-,-,-,70.9
+2019,Wroclaw Medical University,Poland,900,7,-,-,-,857,-,-,-,-,-,70.9
+2019,Medical University of Lodz,Poland,901,8,-,-,-,860,-,-,-,-,-,70.9
+2019,University of Limerick,Ireland,902,5,-,818,-,866,-,-,-,-,-,70.9
+2019,Northern Arizona University,USA,903,204,410,1062,-,861,-,-,-,-,-,70.9
+2019,Sogang University,South Korea,904,31,-,643,-,875,-,-,-,-,-,70.9
+2019,Shahid Beheshti University of Medical Sciences,Iran,905,8,-,-,-,862,-,-,-,-,-,70.9
+2019,Beijing Forestry University,China,906,98,-,-,-,863,-,-,-,-,-,70.9
+2019,Southern University of Science and Technology,China,907,99,-,-,-,864,-,-,-,-,-,70.9
+2019,Tunis El Manar University,Tunisia,908,1,-,-,-,868,-,-,-,-,-,70.9
+2019,Hohai University,China,909,100,-,1315,-,869,-,-,-,-,-,70.8
+2019,Federal University of Ceará,Brazil,910,16,-,1292,-,871,-,-,-,-,-,70.8
+2019,Inje University,South Korea,911,32,-,-,-,870,-,-,-,-,-,70.8
+2019,University of Memphis,USA,912,205,-,462,-,900,-,-,-,-,-,70.8
+2019,Ritsumeikan University,Japan,913,39,-,580,-,887,-,-,-,-,-,70.8
+2019,Yamagata University,Japan,914,40,-,-,-,872,-,-,-,-,-,70.8
+2019,Gifu University,Japan,915,41,-,780,-,880,-,-,-,-,-,70.8
+2019,Sofia University,Bulgaria,916,1,256,-,-,881,-,-,-,-,-,70.8
+2019,University POLITEHNICA of Bucharest,Romania,917,2,-,-,-,873,-,-,-,-,-,70.8
+2019,National Taiwan Normal University,Taiwan,918,14,-,1036,-,877,-,-,-,-,-,70.8
+2019,Benemérita Autonomous University of Puebla,Mexico,919,3,-,-,-,876,-,-,-,-,-,70.8
+2019,Miguel Hernández University of Elche,Spain,920,34,-,-,-,878,-,-,-,-,-,70.8
+2019,University of Hertfordshire,United Kingdom,921,61,-,-,-,879,-,-,-,-,-,70.8
+2019,Gabriele d’Annunzio University,Italy,922,45,-,-,-,882,-,-,-,-,-,70.8
+2019,Shandong First Medical University & Shandong Academy of Medical Sciences,China,923,101,-,-,-,883,-,-,-,-,-,70.8
+2019,Chiang Mai University,Thailand,924,3,-,1434,-,884,-,-,-,-,-,70.8
+2019,University of Basilicata,Italy,925,46,-,-,-,885,-,-,-,-,-,70.7
+2019,Federal University of Bahia,Brazil,926,17,-,1436,-,888,-,-,-,-,-,70.7
+2019,University of Sassari,Italy,927,47,-,-,-,890,-,-,-,-,-,70.7
+2019,University of Wrocław,Poland,928,9,510,1269,-,892,-,-,-,-,-,70.7
+2019,Wrocław University of Science and Technology,Poland,929,10,-,902,-,896,-,-,-,-,-,70.7
+2019,Tokai University,Japan,930,42,-,-,-,893,-,-,-,-,-,70.7
+2019,Fluminense Federal University,Brazil,931,18,-,913,-,898,-,-,-,-,-,70.7
+2019,Meijo University,Japan,932,43,-,-,79,1604,-,-,-,-,-,70.7
+2019,Medical University of Silesia,Poland,933,11,-,-,-,895,-,-,-,-,-,70.7
+2019,University of Seoul,South Korea,934,33,-,-,-,897,-,-,-,-,-,70.7
+2019,Iran University of Science and Technology,Iran,935,9,-,-,-,899,-,-,-,-,-,70.7
+2019,Kagoshima University,Japan,936,44,-,622,-,917,-,-,-,-,-,70.7
+2019,Gunma University,Japan,937,45,-,-,-,901,-,-,-,-,-,70.7
+2019,Federal University of São Carlos,Brazil,938,19,-,-,-,902,-,-,-,-,-,70.7
+2019,University of Luxembourg,Luxembourg,939,1,-,-,-,903,-,-,-,-,-,70.7
+2019,Babson College,USA,940,206,-,40,-,-,-,-,-,-,-,70.6
+2019,University of Upper Alsace,France,941,56,-,-,-,904,-,-,-,-,-,70.6
+2019,Villanova University,USA,942,207,347,135,-,1101,-,-,-,-,-,70.6
+2019,Rochester Institute of Technology,USA,943,208,-,974,-,909,-,-,-,-,-,70.6
+2019,Tokyo Women's Medical University,Japan,944,46,-,-,-,905,-,-,-,-,-,70.6
+2019,Rouen Normandy University,France,945,57,515,-,-,906,-,-,-,-,-,70.6
+2019,Çukurova University,Turkey,946,10,-,-,-,907,-,-,-,-,-,70.6
+2019,University of Alabama in Huntsville,USA,947,209,-,-,-,910,-,-,-,-,-,70.6
+2019,University of Regina,Canada,948,27,-,-,-,911,-,-,-,-,-,70.6
+2019,University of Technology - Malaysia,Malaysia,949,5,-,-,-,912,-,-,-,-,-,70.6
+2019,University of Toyama,Japan,950,47,-,471,-,939,-,-,-,-,-,70.6
+2019,Shiraz University,Iran,951,10,-,-,-,913,-,-,-,-,-,70.6
+2019,China Pharmaceutical University,China,952,102,-,1194,-,915,-,-,-,-,-,70.6
+2019,Nara Institute of Science and Technology,Japan,953,48,-,-,-,914,-,-,-,-,-,70.6
+2019,Northumbria University,United Kingdom,954,62,-,829,-,921,-,-,-,-,-,70.6
+2019,University of Bucharest,Romania,955,3,419,-,-,918,-,-,-,-,-,70.6
+2019,Florida Institute of Technology,USA,956,210,-,584,-,935,-,-,-,-,-,70.5
+2019,Xiangtan University,China,957,103,-,954,-,920,-,-,-,-,-,70.5
+2019,Federal University of ABC,Brazil,958,20,-,-,-,922,-,-,-,-,-,70.5
+2019,COMSATS University Islamabad,Pakistan,959,3,-,-,-,923,-,-,-,-,-,70.5
+2019,Metropolitan Autonomous University,Mexico,960,4,-,-,-,924,-,-,-,-,-,70.5
+2019,Anhui University,China,961,104,-,957,-,927,-,-,-,-,-,70.5
+2019,Nicolaus Copernicus University,Poland,962,12,-,-,-,925,-,-,-,-,-,70.5
+2019,Åbo Akademi University,Finland,963,8,-,-,-,926,-,-,-,-,-,70.5
+2019,American University,USA,964,211,-,340,-,974,-,-,-,-,-,70.5
+2019,Guangzhou Medical University,China,965,105,-,-,-,928,-,-,-,-,-,70.5
+2019,Creighton University,USA,966,212,-,-,-,929,-,-,-,-,-,70.5
+2019,Hangzhou Normal University,China,967,106,-,1397,-,930,-,-,-,-,-,70.5
+2019,SUNY Upstate Medical University,USA,968,213,-,-,-,931,-,-,-,-,-,70.5
+2019,Indian Institute of Technology Guwahati,India,969,15,-,-,-,932,-,-,-,-,-,70.5
+2019,Auckland University of Technology,New Zealand,970,6,-,-,-,933,-,-,-,-,-,70.5
+2019,Royal College of Surgeons in Ireland,Ireland,971,6,-,-,-,934,-,-,-,-,-,70.5
+2019,New Jersey Institute of Technology,USA,972,214,412,712,-,942,-,-,-,-,-,70.5
+2019,Jichi Medical University,Japan,973,49,-,-,-,936,-,-,-,-,-,70.4
+2019,Jawaharlal Nehru University,India,974,16,93,-,203,1196,-,-,-,-,-,70.4
+2019,Hallym University,South Korea,975,34,-,-,-,938,-,-,-,-,-,70.4
+2019,Shanghai Normal University,China,976,107,-,1225,-,940,-,-,-,-,-,70.4
+2019,Alexandria University,Egypt,977,4,285,1469,-,944,-,-,-,-,-,70.4
+2019,Hunter College,USA,978,215,244,1142,-,951,-,-,-,-,-,70.4
+2019,University of Mannheim,Germany,979,53,-,889,-,945,-,-,-,-,-,70.4
+2019,Postgraduate Institute of Medical Education and Research,India,980,17,-,-,-,941,-,-,-,-,-,70.4
+2019,King Juan Carlos University,Spain,981,35,-,-,-,943,-,-,-,-,-,70.4
+2019,Guangdong University of Technology,China,982,108,-,-,-,946,-,-,-,-,-,70.4
+2019,Tomsk State University,Russia,983,7,-,-,-,947,-,-,-,-,-,70.4
+2019,Ningbo University,China,984,109,-,1444,-,949,-,-,-,-,-,70.4
+2019,Zhejiang Normal University,China,985,110,-,-,-,948,-,-,-,-,-,70.4
+2019,Dankook University,South Korea,986,35,-,1443,-,950,-,-,-,-,-,70.4
+2019,Anhui Medical University,China,987,111,-,-,-,952,-,-,-,-,-,70.4
+2019,Howard University,USA,988,216,-,-,-,953,-,-,-,-,-,70.4
+2019,Toulouse 1 Capitole University,France,989,58,-,-,191,1083,-,-,-,-,-,70.3
+2019,Khalifa University,United Arab Emirates,990,1,-,-,-,954,-,-,-,-,-,70.3
+2019,Florida Atlantic University,USA,991,217,-,-,-,955,-,-,-,-,-,70.3
+2019,Capital Normal University,China,992,112,-,923,-,959,-,-,-,-,-,70.3
+2019,Paderborn University,Germany,993,54,-,1235,-,956,-,-,-,-,-,70.3
+2019,New York Medical College,USA,994,218,-,-,-,957,-,-,-,-,-,70.3
+2019,Medical University of Gdańsk,Poland,995,13,-,-,-,958,-,-,-,-,-,70.3
+2019,University of Augsburg,Germany,996,55,-,-,-,960,-,-,-,-,-,70.3
+2019,Aston University,United Kingdom,997,63,-,631,-,970,-,-,-,-,-,70.3
+2019,Henan University,China,998,113,-,-,-,961,-,-,-,-,-,70.3
+2019,Guangxi University,China,999,114,-,-,-,962,-,-,-,-,-,70.3
+2019,Federal University of Rio Grande do Norte,Brazil,1000,21,-,-,-,963,-,-,-,-,-,70.3
+2019,Marmara University,Turkey,1001,11,-,-,-,964,-,-,-,-,-,70.3
+2019,ITMO University,Russia,1002,8,-,-,-,965,-,-,-,-,-,70.3
+2019,University of A Coruña,Spain,1003,36,-,-,-,966,-,-,-,-,-,70.3
+2019,University of New Brunswick,Canada,1004,28,-,778,-,969,-,-,-,-,-,70.3
+2019,Peter the Great St. Petersburg Polytechnic University,Russia,1005,9,507,948,-,968,-,-,-,-,-,70.3
+2019,Fordham University,USA,1006,219,-,182,-,1123,-,-,-,-,-,70.2
+2019,Jacobs University,Germany,1007,56,-,-,-,967,-,-,-,-,-,70.2
+2019,VetAgro Sup,France,1008,59,-,-,-,971,-,-,-,-,-,70.2
+2019,United States Military Academy,USA,1009,220,-,50,-,-,-,-,-,-,-,70.2
+2019,University of Jaén,Spain,1010,37,-,-,-,972,-,-,-,-,-,70.2
+2019,Nagoya City University,Japan,1011,50,-,655,-,988,-,-,-,-,-,70.2
+2019,Lappeenranta University of Technology,Finland,1012,9,-,820,-,983,-,-,-,-,-,70.2
+2019,University of Neuchâtel,Switzerland,1013,11,-,-,-,973,-,-,-,-,-,70.2
+2019,Franklin & Marshall College,USA,1014,221,34,1116,-,1889,-,-,-,-,-,70.2
+2019,University of Maribor,Slovenia,1015,2,-,-,-,975,-,-,-,-,-,70.2
+2019,National Defense Medical Center,Taiwan,1016,15,-,-,-,976,-,-,-,-,-,70.2
+2019,Liverpool School of Tropical Medicine,United Kingdom,1017,64,-,-,-,977,-,-,-,-,-,70.2
+2019,Federal University of Juiz de Fora,Brazil,1018,22,-,-,-,978,-,-,-,-,-,70.2
+2019,Jadavpur University,India,1019,18,-,1149,-,980,-,-,-,-,-,70.2
+2019,Henan Normal University,China,1020,115,-,-,-,979,-,-,-,-,-,70.2
+2019,University of Missouri - St. Louis,USA,1021,222,-,388,-,1025,-,-,-,-,-,70.2
+2019,University of Veterinary Medicine - Vienna,Austria,1022,11,-,-,-,981,-,-,-,-,-,70.2
+2019,University of New England - Australia,Australia,1023,27,-,537,-,1003,-,-,-,-,-,70.1
+2019,University of South Bohemia,Czech Republic,1024,5,-,-,-,982,-,-,-,-,-,70.1
+2019,Charles Sturt University,Australia,1025,28,-,-,-,984,-,-,-,-,-,70.1
+2019,Autonomous University of San Luis Potosí,Mexico,1026,5,-,-,-,985,-,-,-,-,-,70.1
+2019,Stevens Institute of Technology,USA,1027,223,438,142,-,1233,-,-,-,-,-,70.1
+2019,University of Texas at El Paso,USA,1028,224,-,1012,-,987,-,-,-,-,-,70.1
+2019,Federal University of Santa Maria,Brazil,1029,23,-,817,-,992,-,-,-,-,-,70.1
+2019,University of Tabriz,Iran,1030,11,-,-,-,986,-,-,-,-,-,70.1
+2019,Louisiana Tech University,USA,1031,225,-,268,-,1067,-,-,-,-,-,70.1
+2019,Worcester Polytechnic Institute,USA,1032,226,-,184,-,1155,-,-,-,-,-,70.1
+2019,San Francisco State University,USA,1033,227,-,1415,-,989,-,-,-,-,-,70.1
+2019,University of Western Cape,South Africa,1034,8,-,-,-,990,-,-,-,-,-,70.1
+2019,IMT Atlantique,France,1035,60,-,-,-,991,-,-,-,-,-,70.1
+2019,Claremont McKenna College,USA,1036,228,-,60,-,-,-,-,-,-,-,70.1
+2019,Federal University of Goiás,Brazil,1037,24,-,-,-,993,-,-,-,-,-,70.1
+2019,Chemnitz University of Technology,Germany,1038,57,-,1326,-,994,-,-,-,-,-,70.1
+2019,École centrale de Lyon,France,1039,61,-,322,-,1059,-,-,-,-,-,70.1
+2019,Addis Ababa University,Ethiopia,1040,1,-,-,-,995,-,-,-,-,-,70.0
+2019,Teikyo University,Japan,1041,51,-,-,-,996,-,-,-,-,-,70.0
+2019,Qatar University,Qatar,1042,1,-,710,-,1005,-,-,-,-,-,70.0
+2019,Yanshan University,China,1043,116,-,1437,-,997,-,-,-,-,-,70.0
+2019,University of Lleida,Spain,1044,38,-,-,-,998,-,-,-,-,-,70.0
+2019,Wright State University,USA,1045,229,-,-,-,999,-,-,-,-,-,70.0
+2019,University of Évry Val d'Essonne,France,1046,62,-,-,-,1001,-,-,-,-,-,70.0
+2019,University of Cádiz,Spain,1047,39,-,-,-,1002,-,-,-,-,-,70.0
+2019,Dublin City University,Ireland,1048,7,-,869,-,1007,-,-,-,-,-,70.0
+2019,Yıldız Technical University,Turkey,1049,12,-,1193,-,1004,-,-,-,-,-,70.0
+2019,University of Waikato,New Zealand,1050,7,-,592,-,1027,-,-,-,-,-,70.0
+2019,Clark University,USA,1051,230,-,146,-,1276,-,-,-,-,-,70.0
+2019,University of Antioquia,Colombia,1052,3,-,1211,-,1006,-,-,-,-,-,70.0
+2019,University of Dayton,USA,1053,231,358,123,-,1340,-,-,-,-,-,70.0
+2019,Pomona College,USA,1054,232,39,1065,231,-,-,-,-,-,-,70.0
+2019,University of Ibadan,Nigeria,1055,1,-,-,-,1008,-,-,-,-,-,70.0
+2019,Charles Darwin University,Australia,1056,29,-,-,-,1009,-,-,-,-,-,70.0
+2019,University of Thessaly,Greece,1057,7,-,-,-,1010,-,-,-,-,-,69.9
+2019,Saitama University,Japan,1058,52,176,722,-,1052,-,-,-,-,-,69.9
+2019,University of Pécs,Hungary,1059,6,-,-,-,1012,-,-,-,-,-,69.9
+2019,University of Puerto Rico - Medical Sciences Campus,Puerto Rico,1060,1,-,-,-,1013,-,-,-,-,-,69.9
+2019,University of Puerto Rico at Mayagüez,Puerto Rico,1061,2,-,-,-,1014,-,-,-,-,-,69.9
+2019,Loma Linda University,USA,1062,233,-,-,-,1015,-,-,-,-,-,69.9
+2019,University of North Carolina at Greensboro,USA,1063,234,-,-,-,1016,-,-,-,-,-,69.9
+2019,Mohammed V University,Morocco,1064,1,-,-,-,1017,-,-,-,-,-,69.9
+2019,University of Urbino,Italy,1065,48,-,1024,-,1019,-,-,-,-,-,69.9
+2019,University of Massachusetts Lowell,USA,1066,235,-,881,-,1028,-,-,-,-,-,69.9
+2019,Taiyuan University of Technology,China,1067,117,-,1302,-,1020,-,-,-,-,-,69.9
+2019,Hofstra University,USA,1068,236,390,878,-,1033,-,-,-,-,-,69.9
+2019,Toho University,Japan,1069,53,-,-,-,1021,-,-,-,-,-,69.9
+2019,ShanghaiTech University,China,1070,118,-,-,-,1022,-,-,-,-,-,69.9
+2019,Indian Association for the Cultivation of Science,India,1071,19,-,-,-,1023,-,-,-,-,-,69.9
+2019,Shandong Agricultural University,China,1072,119,-,-,-,1024,-,-,-,-,-,69.9
+2019,Ivane Javakhishvili Tbilisi State University,Georgia,1073,1,-,-,-,1026,-,-,-,-,-,69.9
+2019,University of Bradford,United Kingdom,1074,65,-,226,-,1153,-,-,-,-,-,69.9
+2019,University of Namur,Belgium,1075,10,170,590,-,1075,-,-,-,-,-,69.8
+2019,Edith Cowan University,Australia,1076,30,-,1241,-,1032,-,-,-,-,-,69.8
+2019,Ferdowsi University of Mashhad,Iran,1077,12,-,-,-,1029,-,-,-,-,-,69.8
+2019,Osnabrück University,Germany,1078,58,-,-,-,1030,-,-,-,-,-,69.8
+2019,University of Novi Sad,Serbia,1079,2,-,-,-,1031,-,-,-,-,-,69.8
+2019,Chimie ParisTech,France,1080,63,-,-,-,1034,-,-,-,-,-,69.8
+2019,Yamaguchi University,Japan,1081,54,-,-,-,1035,-,-,-,-,-,69.8
+2019,University of Silesia in Katowice,Poland,1082,14,-,-,-,1036,-,-,-,-,-,69.8
+2019,Yunnan University,China,1083,120,-,-,-,1037,-,-,-,-,-,69.8
+2019,National Taiwan Ocean University,Taiwan,1084,16,-,946,-,1041,-,-,-,-,-,69.8
+2019,Zhejiang Sci - Tech University,China,1085,121,-,1410,-,1038,-,-,-,-,-,69.8
+2019,National Taipei University of Technology,Taiwan,1086,17,-,895,-,1044,-,-,-,-,-,69.8
+2019,University of Canberra,Australia,1087,31,-,1338,-,1039,-,-,-,-,-,69.8
+2019,Pablo de Olavide University,Spain,1088,40,-,-,-,1040,-,-,-,-,-,69.8
+2019,Chung Shan Medical University,Taiwan,1089,18,-,-,-,1042,-,-,-,-,-,69.8
+2019,Kazan Federal University,Russia,1090,10,-,1450,-,1043,-,-,-,-,-,69.8
+2019,Hunan Normal University,China,1091,122,-,-,-,1045,-,-,-,-,-,69.8
+2019,Tokat Gaziosmanpaşa University,Turkey,1092,13,-,-,-,1046,-,-,-,-,-,69.8
+2019,Brock University,Canada,1093,29,-,-,-,1047,-,-,-,-,-,69.7
+2019,University of Naples Parthenope,Italy,1094,49,-,-,-,1048,-,-,-,-,-,69.7
+2019,National Chengchi University,Taiwan,1095,19,-,104,-,1515,-,-,-,-,-,69.7
+2019,Manchester Metropolitan University,United Kingdom,1096,66,-,989,-,1050,-,-,-,-,-,69.7
+2019,Soonchunhyang University,South Korea,1097,36,-,-,-,1049,-,-,-,-,-,69.7
+2019,Copenhagen Business School,Denmark,1098,6,-,176,-,1277,-,-,-,-,-,69.7
+2019,South Dakota State University,USA,1099,237,428,-,-,1053,-,-,-,-,-,69.7
+2019,University of Chemistry and Technology - Prague,Czech Republic,1100,6,-,-,-,1051,-,-,-,-,-,69.7
+2019,Bowling Green State University,USA,1101,238,268,687,-,1071,-,-,-,-,-,69.7
+2019,Erciyes University,Turkey,1102,14,-,-,-,1054,-,-,-,-,-,69.7
+2019,Kunming University of Science and Technology,China,1103,123,-,-,-,1055,-,-,-,-,-,69.7
+2019,Prince of Songkla University,Thailand,1104,4,-,-,-,1056,-,-,-,-,-,69.7
+2019,University of Salzburg,Austria,1105,12,-,545,-,1080,-,-,-,-,-,69.7
+2019,Gaziantep University,Turkey,1106,15,-,-,-,1057,-,-,-,-,-,69.7
+2019,Khon Kaen University,Thailand,1107,5,-,-,-,1058,-,-,-,-,-,69.7
+2019,Chung Yuan Christian University,Taiwan,1108,20,-,416,-,1104,-,-,-,-,-,69.7
+2019,University of Perpignan,France,1109,64,-,-,-,1060,-,-,-,-,-,69.7
+2019,Jikei University,Japan,1110,55,-,-,-,1061,-,-,-,-,-,69.7
+2019,Nippon Medical School,Japan,1111,56,-,-,-,1062,-,-,-,-,-,69.6
+2019,Yokohama National University,Japan,1112,57,-,295,-,1152,-,-,-,-,-,69.6
+2019,University of Las Palmas de Gran Canaria,Spain,1113,41,-,-,-,1063,-,-,-,-,-,69.6
+2019,University of the Ryukyus,Japan,1114,58,-,-,-,1064,-,-,-,-,-,69.6
+2019,University of Calcutta,India,1115,20,227,535,242,1121,-,-,-,-,-,69.6
+2019,Mie University,Japan,1116,59,-,-,-,1065,-,-,-,-,-,69.6
+2019,University of Lodz,Poland,1117,15,475,1313,-,1066,-,-,-,-,-,69.6
+2019,Dong - A University,South Korea,1118,37,-,842,-,1078,-,-,-,-,-,69.6
+2019,Shandong Normal University,China,1119,124,-,-,-,1068,-,-,-,-,-,69.6
+2019,Cadi Ayyad University,Morocco,1120,2,-,-,-,1069,-,-,-,-,-,69.6
+2019,Linnaeus University,Sweden,1121,13,-,-,-,1070,-,-,-,-,-,69.6
+2019,Brandenburg University of Technology,Germany,1122,59,-,-,-,1073,-,-,-,-,-,69.6
+2019,Maynooth University,Ireland,1123,8,-,-,-,1074,-,-,-,-,-,69.6
+2019,Dokuz Eylül University,Turkey,1124,16,-,-,-,1076,-,-,-,-,-,69.6
+2019,Santa Clara University,USA,1125,239,-,125,-,1446,-,-,-,-,-,69.6
+2019,Wilfrid Laurier University,Canada,1126,30,-,468,-,1112,-,-,-,-,-,69.6
+2019,Marquette University,USA,1127,240,-,350,-,1162,-,-,-,-,-,69.6
+2019,Poznan University of Medical Sciences,Poland,1128,16,-,-,-,1079,-,-,-,-,-,69.6
+2019,Fu Jen Catholic University,Taiwan,1129,21,-,963,-,1084,-,-,-,-,-,69.5
+2019,Shahid Beheshti University,Iran,1130,13,-,-,-,1081,-,-,-,-,-,69.5
+2019,Albany Medical College,USA,1131,241,-,-,-,1082,-,-,-,-,-,69.5
+2019,University of Yamanashi,Japan,1132,60,157,-,-,1117,-,-,-,-,-,69.5
+2019,Kwansei Gakuin University,Japan,1133,61,-,97,-,1693,-,-,-,-,-,69.5
+2019,Suez Canal University,Egypt,1134,5,-,-,-,1085,-,-,-,-,-,69.5
+2019,Manhattan College,USA,1135,242,-,124,-,1471,-,-,-,-,-,69.5
+2019,University of Kassel,Germany,1136,60,-,-,-,1086,-,-,-,-,-,69.5
+2019,Nantong University,China,1137,125,-,-,-,1087,-,-,-,-,-,69.5
+2019,Pukyong National University,South Korea,1138,38,-,-,-,1088,-,-,-,-,-,69.5
+2019,Qingdao University of Science and Technology,China,1139,126,-,1054,-,1091,-,-,-,-,-,69.5
+2019,Texas State University,USA,1140,243,-,1310,-,1090,-,-,-,-,-,69.5
+2019,Public University of Navarre,Spain,1141,42,-,-,-,1089,-,-,-,-,-,69.5
+2019,Kyoto Prefectural University of Medicine,Japan,1142,62,-,-,-,1092,-,-,-,-,-,69.5
+2019,Bowdoin College,USA,1143,244,156,82,-,1979,-,-,-,-,-,69.5
+2019,Jordan University of Science and Technology,Jordan,1144,1,-,-,-,1093,-,-,-,-,-,69.5
+2019,Carol Davila University of Medicine and Pharmacy,Romania,1145,4,-,-,-,1094,-,-,-,-,-,69.5
+2019,Brno University of Technology,Czech Republic,1146,7,-,-,-,1095,-,-,-,-,-,69.5
+2019,Medical University Sofia,Bulgaria,1147,2,-,-,-,1096,-,-,-,-,-,69.4
+2019,Federal University of Pará,Brazil,1148,25,-,-,-,1097,-,-,-,-,-,69.4
+2019,Hangzhou Dianzi University,China,1149,127,-,965,-,1099,-,-,-,-,-,69.4
+2019,United Arab Emirates University,United Arab Emirates,1150,2,-,1345,-,1098,-,-,-,-,-,69.4
+2019,Paracelsus Medical University,Austria,1151,13,-,-,-,1100,-,-,-,-,-,69.4
+2019,Conservatoire national des arts et métiers,France,1152,65,-,1288,-,1102,-,-,-,-,-,69.4
+2019,Carleton College,USA,1153,245,69,332,-,1691,-,-,-,-,-,69.4
+2019,State University of Maringá,Brazil,1154,26,-,-,-,1103,-,-,-,-,-,69.4
+2019,Haverford College,USA,1155,246,53,-,-,1716,-,-,-,-,-,69.4
+2019,Sant'Anna School of Advanced Studies,Italy,1156,50,-,-,-,1105,-,-,-,-,-,69.4
+2019,Sichuan Agricultural University,China,1157,128,-,-,-,1106,-,-,-,-,-,69.4
+2019,University of North Dakota,USA,1158,247,-,1184,-,1108,-,-,-,-,-,69.4
+2019,Fujian Agriculture and Forestry University,China,1159,129,-,-,-,1109,-,-,-,-,-,69.4
+2019,Mersin University,Turkey,1160,17,-,-,-,1110,-,-,-,-,-,69.4
+2019,Shandong University of Science and Technology,China,1161,130,-,1151,-,1113,-,-,-,-,-,69.4
+2019,"University ""Magna Graecia"" of Catanzaro",Italy,1162,51,-,-,-,1111,-,-,-,-,-,69.4
+2019,Hirosaki University,Japan,1163,63,-,890,-,1119,-,-,-,-,-,69.4
+2019,California State University - Fullerton,USA,1164,248,-,967,-,1118,-,-,-,-,-,69.4
+2019,Aligarh Muslim University,India,1165,21,-,1421,-,1114,-,-,-,-,-,69.4
+2019,California State University - Fresno,USA,1166,249,-,-,-,1115,-,-,-,-,-,69.3
+2019,University of Shanghai for Science and Technology,China,1167,131,-,-,-,1116,-,-,-,-,-,69.3
+2019,University of Algarve,Portugal,1168,7,-,-,-,1120,-,-,-,-,-,69.3
+2019,University of Electro - Communications,Japan,1169,64,-,-,-,1122,-,-,-,-,-,69.3
+2019,University of the West of England - Bristol,United Kingdom,1170,67,408,-,-,1127,-,-,-,-,-,69.3
+2019,National Chung Cheng University,Taiwan,1171,22,-,-,-,1124,-,-,-,-,-,69.3
+2019,University of Yaoundé I,Cameroon,1172,1,-,-,-,1125,-,-,-,-,-,69.3
+2019,Campus Bio - Medico University,Italy,1173,52,-,-,-,1126,-,-,-,-,-,69.3
+2019,Oakland University,USA,1174,250,-,-,-,1128,-,-,-,-,-,69.3
+2019,Ca' Foscari University of Venice,Italy,1175,53,-,-,-,1129,-,-,-,-,-,69.3
+2019,Australian Catholic University,Australia,1176,32,-,1425,-,1130,-,-,-,-,-,69.3
+2019,Shantou University,China,1177,132,-,-,-,1131,-,-,-,-,-,69.3
+2019,Clarkson University,USA,1178,251,-,679,-,1158,-,-,-,-,-,69.3
+2019,Saitama Medical University,Japan,1179,65,-,-,-,1132,-,-,-,-,-,69.3
+2019,Austral University of Chile,Chile,1180,5,-,940,-,1142,-,-,-,-,-,69.3
+2019,Nagoya Institute of Technology,Japan,1181,66,-,1251,-,1133,-,-,-,-,-,69.3
+2019,University of Central Lancashire,United Kingdom,1182,68,-,1148,-,1139,-,-,-,-,-,69.3
+2019,University of the Free State,South Africa,1183,9,-,-,-,1134,-,-,-,-,-,69.3
+2019,Soongsil University,South Korea,1184,39,-,-,-,1135,-,-,-,-,-,69.3
+2019,Tottori University,Japan,1185,67,254,663,-,1172,-,-,-,-,-,69.2
+2019,Qufu Normal University,China,1186,133,-,-,-,1136,-,-,-,-,-,69.2
+2019,Kōchi University,Japan,1187,68,-,-,-,1137,-,-,-,-,-,69.2
+2019,Federal University of Paraíba,Brazil,1188,27,-,-,-,1138,-,-,-,-,-,69.2
+2019,University of Camerino,Italy,1189,54,-,-,-,1140,-,-,-,-,-,69.2
+2019,Boise State University,USA,1190,252,-,1398,-,1141,-,-,-,-,-,69.2
+2019,Kasetsart University,Thailand,1191,6,-,1463,-,1143,-,-,-,-,-,69.2
+2019,Assiut University,Egypt,1192,6,-,1466,-,1144,-,-,-,-,-,69.2
+2019,Chosun University,South Korea,1193,40,-,-,-,1145,-,-,-,-,-,69.2
+2019,Catholic University of America,USA,1194,253,-,886,-,1156,-,-,-,-,-,69.2
+2019,Anna University,India,1195,22,504,1418,-,1147,-,-,-,-,-,69.2
+2019,University of Southern Mississippi,USA,1196,254,-,-,-,1146,-,-,-,-,-,69.2
+2019,Luleå University of Technology,Sweden,1197,14,-,-,-,1148,-,-,-,-,-,69.2
+2019,Ural Federal University,Russia,1198,11,-,942,-,1157,-,-,-,-,-,69.2
+2019,Singapore University of Technology and Design,Singapore,1199,3,-,-,-,1149,-,-,-,-,-,69.2
+2019,University of Pau and Pays de l'Adour,France,1200,66,-,-,-,1151,-,-,-,-,-,69.2
+2019,University of Gdańsk,Poland,1201,17,-,1230,-,1154,-,-,-,-,-,69.2
+2019,National University of Distance Education,Spain,1202,43,-,1248,-,1159,-,-,-,-,-,69.2
+2019,Federal University of Espírito Santo,Brazil,1203,28,-,-,-,1160,-,-,-,-,-,69.2
+2019,Visva - Bharati University,India,1204,23,-,-,-,1161,-,-,-,-,-,69.2
+2019,University of Hyderabad,India,1205,24,-,-,-,1163,-,-,-,-,-,69.1
+2019,ESSEC Business School,France,1206,67,-,67,-,-,-,-,-,-,-,69.1
+2019,California Polytechnic State University - San Luis Obispo,USA,1207,255,-,302,-,1285,-,-,-,-,-,69.1
+2019,San Jose State University,USA,1208,256,247,813,-,1199,-,-,-,-,-,69.1
+2019,Fujita Health University,Japan,1209,69,-,-,-,1164,-,-,-,-,-,69.1
+2019,Isfahan University of Medical Sciences,Iran,1210,14,-,-,-,1166,-,-,-,-,-,69.1
+2019,İzmir Institute of Technology,Turkey,1211,18,-,-,-,1167,-,-,-,-,-,69.1
+2019,Asia University - Taiwan,Taiwan,1212,23,-,-,-,1168,-,-,-,-,-,69.1
+2019,Tokyo Medical University,Japan,1213,70,-,-,-,1169,-,-,-,-,-,69.1
+2019,Saga University,Japan,1214,71,-,-,-,1170,-,-,-,-,-,69.1
+2019,University of the Punjab,Pakistan,1215,4,432,1472,-,1173,-,-,-,-,-,69.1
+2019,Fujian Normal University,China,1216,134,-,-,-,1171,-,-,-,-,-,69.1
+2019,Gran Sasso Science Institute,Italy,1217,55,-,-,-,1174,-,-,-,-,-,69.1
+2019,Lakehead University,Canada,1218,31,-,789,-,1185,-,-,-,-,-,69.1
+2019,University of Toulouse - Jean Jaurès,France,1219,68,-,-,-,1175,-,-,-,-,-,69.1
+2019,United States Naval Academy,USA,1220,257,146,151,-,1617,-,-,-,-,-,69.1
+2019,University of Reims Champagne - Ardenne,France,1221,69,-,1002,-,1181,-,-,-,-,-,69.1
+2019,Keimyung University,South Korea,1222,41,-,1411,-,1176,-,-,-,-,-,69.1
+2019,Süleyman Demirel University,Turkey,1223,19,-,-,-,1177,-,-,-,-,-,69.1
+2019,Rhodes University,South Africa,1224,10,443,903,-,1187,-,-,-,-,-,69.0
+2019,Shiga University of Medical Science,Japan,1225,72,-,-,-,1178,-,-,-,-,-,69.0
+2019,Koç University,Turkey,1226,20,-,-,-,1179,-,-,-,-,-,69.0
+2019,Kuwait University,Kuwait,1227,1,-,1320,-,1180,-,-,-,-,-,69.0
+2019,University of Occupational and Environmental Health Japan,Japan,1228,73,-,-,-,1182,-,-,-,-,-,69.0
+2019,Nanjing University of Chinese Medicine,China,1229,135,-,-,-,1183,-,-,-,-,-,69.0
+2019,University of Almería,Spain,1230,44,-,-,-,1184,-,-,-,-,-,69.0
+2019,Doshisha University,Japan,1231,74,-,177,-,1464,-,-,-,-,-,69.0
+2019,National Kaohsiung University of Science and Technology,Taiwan,1232,24,-,-,-,1186,-,-,-,-,-,69.0
+2019,Ramon Llull University,Spain,1233,45,-,398,-,1279,-,-,-,-,-,69.0
+2019,Federal University of Uberlândia,Brazil,1234,29,-,-,-,1188,-,-,-,-,-,69.0
+2019,Fujian Medical University,China,1235,136,-,-,-,1189,-,-,-,-,-,69.0
+2019,Daegu Gyeongbuk Institute of Science and Technology,South Korea,1236,42,-,-,-,1190,-,-,-,-,-,69.0
+2019,Hubei University,China,1237,137,-,1253,-,1191,-,-,-,-,-,69.0
+2019,University of Sfax,Tunisia,1238,2,-,-,-,1192,-,-,-,-,-,69.0
+2019,University of Costa Rica,Costa Rica,1239,1,-,-,-,1193,-,-,-,-,-,69.0
+2019,Hyogo College of Medicine,Japan,1240,75,-,-,-,1194,-,-,-,-,-,69.0
+2019,Nova Southeastern University,USA,1241,258,-,840,-,1204,-,-,-,-,-,69.0
+2019,Hassan II University of Casablanca,Morocco,1242,3,-,-,-,1195,-,-,-,-,-,69.0
+2019,University of Limoges,France,1243,70,-,-,-,1197,-,-,-,-,-,69.0
+2019,University of Nairobi,Kenya,1244,1,-,-,-,1198,-,-,-,-,-,68.9
+2019,Shenyang Pharmaceutical University,China,1245,138,-,-,-,1201,-,-,-,-,-,68.9
+2019,Polytechnic University of Hauts - de - France,France,1246,71,-,-,-,1202,-,-,-,-,-,68.9
+2019,University of Cergy - Pontoise,France,1247,72,-,-,-,1203,-,-,-,-,-,68.9
+2019,Trent University,Canada,1248,32,-,1084,-,1206,-,-,-,-,-,68.9
+2019,Baruch College,USA,1249,259,-,694,211,1400,-,-,-,-,-,68.9
+2019,Shanghai University of Finance and Economics,China,1250,139,-,171,-,1484,-,-,-,-,-,68.9
+2019,Andrés Bello University,Chile,1251,6,-,1449,-,1205,-,-,-,-,-,68.9
+2019,Guizhou University,China,1252,140,-,1170,-,1208,-,-,-,-,-,68.9
+2019,Royal Veterinary College,United Kingdom,1253,69,302,-,-,1214,-,-,-,-,-,68.9
+2019,Oxford Brookes University,United Kingdom,1254,70,-,-,-,1207,-,-,-,-,-,68.9
+2019,TU Ilmenau,Germany,1255,61,-,-,-,1209,-,-,-,-,-,68.9
+2019,K. N. Toosi University of Technology,Iran,1256,15,-,-,-,1210,-,-,-,-,-,68.9
+2019,Showa University,Japan,1257,76,-,1183,-,1212,-,-,-,-,-,68.9
+2019,Federal University of São João del - Rei,Brazil,1258,30,-,-,-,1211,-,-,-,-,-,68.9
+2019,Jiangsu Normal University,China,1259,141,-,-,-,1213,-,-,-,-,-,68.9
+2019,West University of Timișoara,Romania,1260,5,-,-,-,1215,-,-,-,-,-,68.9
+2019,Pepperdine University,USA,1261,260,-,71,-,-,-,-,-,-,-,68.9
+2019,Atatürk University,Turkey,1262,21,-,1336,-,1217,-,-,-,-,-,68.9
+2019,Mashhad University of Medical Sciences,Iran,1263,16,-,-,-,1216,-,-,-,-,-,68.9
+2019,Tuscia University,Italy,1264,56,-,-,-,1218,-,-,-,-,-,68.8
+2019,Selçuk University,Turkey,1265,22,-,-,-,1219,-,-,-,-,-,68.8
+2019,Hebei University,China,1266,142,-,1132,-,1222,-,-,-,-,-,68.8
+2019,University of Miyazaki,Japan,1267,77,-,-,-,1220,-,-,-,-,-,68.8
+2019,Autonomous University of Nuevo León,Mexico,1268,6,-,-,-,1221,-,-,-,-,-,68.8
+2019,Agrocampus Ouest,France,1269,73,-,-,-,1223,-,-,-,-,-,68.8
+2019,University of Guadalajara,Mexico,1270,7,-,-,-,1224,-,-,-,-,-,68.8
+2019,California State University - Northridge,USA,1271,261,-,1307,-,1227,-,-,-,-,-,68.8
+2019,Lodz University of Technology,Poland,1272,18,-,-,-,1225,-,-,-,-,-,68.8
+2019,Tallinn University of Technology,Estonia,1273,2,-,-,-,1226,-,-,-,-,-,68.8
+2019,Tianjin Polytechnic University,China,1274,143,-,-,-,1228,-,-,-,-,-,68.8
+2019,Kurume University,Japan,1275,78,-,-,-,1229,-,-,-,-,-,68.8
+2019,TOBB University of Economics and Technology,Turkey,1276,23,-,-,-,1230,-,-,-,-,-,68.8
+2019,Hanken School of Economics,Finland,1277,10,-,72,-,-,-,-,-,-,-,68.8
+2019,University of Lethbridge,Canada,1278,33,-,-,-,1231,-,-,-,-,-,68.8
+2019,Cayetano Heredia Peruvian University,Peru,1279,1,-,-,-,1232,-,-,-,-,-,68.8
+2019,University of Foggia,Italy,1280,57,-,-,-,1234,-,-,-,-,-,68.8
+2019,Democritus University of Thrace,Greece,1281,8,-,-,-,1235,-,-,-,-,-,68.8
+2019,Tamil Nadu Dr. M.G.R. Medical University,India,1282,25,-,-,-,1236,-,-,-,-,-,68.8
+2019,Feng Chia University,Taiwan,1283,25,-,572,-,1275,-,-,-,-,-,68.8
+2019,University of South Wales,United Kingdom,1284,71,-,644,-,1265,-,-,-,-,-,68.7
+2019,Dalian Medical University,China,1285,144,-,-,-,1237,-,-,-,-,-,68.7
+2019,Federal University of Lavras,Brazil,1286,31,-,-,-,1238,-,-,-,-,-,68.7
+2019,Ibaraki University,Japan,1287,79,-,-,-,1239,-,-,-,-,-,68.7
+2019,Heilongjiang University,China,1288,145,-,1441,-,1240,-,-,-,-,-,68.7
+2019,Witten/Herdecke University,Germany,1289,62,-,-,-,1241,-,-,-,-,-,68.7
+2019,Indian Institute of Science Education and Research - Pune,India,1290,26,-,-,-,1242,-,-,-,-,-,68.7
+2019,Anhui Normal University,China,1291,146,-,-,-,1243,-,-,-,-,-,68.7
+2019,Savitribai Phule Pune University,India,1292,27,489,1300,-,1244,-,-,-,-,-,68.7
+2019,California State University - Long Beach,USA,1293,262,-,1301,-,1245,-,-,-,-,-,68.7
+2019,Gdańsk University of Technology,Poland,1294,19,-,1138,-,1246,-,-,-,-,-,68.7
+2019,Williams College,USA,1295,263,129,148,-,1751,-,-,-,-,-,68.7
+2019,Changzhou University,China,1296,147,-,1226,-,1247,-,-,-,-,-,68.7
+2019,Monterrey Institute of Technology and Higher Education,Mexico,1297,8,-,305,-,1358,-,-,-,-,-,68.7
+2019,National University of Rosario,Argentina,1298,4,-,-,-,1248,-,-,-,-,-,68.7
+2019,Wenzhou University,China,1299,148,-,-,-,1249,-,-,-,-,-,68.7
+2019,Grinnell College,USA,1300,264,40,-,-,-,-,-,-,-,-,68.7
+2019,Bournemouth University,United Kingdom,1301,72,-,-,-,1250,-,-,-,-,-,68.7
+2019,Guangzhou University,China,1302,149,-,937,-,1260,-,-,-,-,-,68.7
+2019,Jackson State University,USA,1303,265,-,-,-,1251,-,-,-,-,-,68.7
+2019,Fukuoka University,Japan,1304,80,-,-,-,1252,-,-,-,-,-,68.6
+2019,Ibero - American University,Mexico,1305,9,-,256,-,1398,-,-,-,-,-,68.6
+2019,Kyushu Institute of Technology,Japan,1306,81,-,-,-,1253,-,-,-,-,-,68.6
+2019,University of Ghana,Ghana,1307,1,-,1439,-,1254,-,-,-,-,-,68.6
+2019,Singapore Management University,Singapore,1308,4,-,-,-,1255,-,-,-,-,-,68.6
+2019,University of Malawi,Malawi,1309,1,-,-,-,1256,-,-,-,-,-,68.6
+2019,Iran University of Medical Sciences,Iran,1310,17,-,-,-,1257,-,-,-,-,-,68.6
+2019,Kookmin University,South Korea,1311,43,-,1370,-,1258,-,-,-,-,-,68.6
+2019,University of Peradeniya,Sri Lanka,1312,1,-,-,-,1259,-,-,-,-,-,68.6
+2019,Ball State University,USA,1313,266,-,443,-,1316,-,-,-,-,-,68.6
+2019,Northeast Forestry University,China,1314,150,-,-,-,1261,-,-,-,-,-,68.6
+2019,Nanjing Forestry University,China,1315,151,-,-,-,1262,-,-,-,-,-,68.6
+2019,Nottingham Trent University,United Kingdom,1316,73,-,640,-,1288,-,-,-,-,-,68.6
+2019,Shimane University,Japan,1317,82,-,-,-,1263,-,-,-,-,-,68.6
+2019,University of South Alabama,USA,1318,267,-,-,-,1264,-,-,-,-,-,68.6
+2019,University of Santiago - Chile,Chile,1319,7,-,1010,-,1270,-,-,-,-,-,68.6
+2019,University of La Frontera,Chile,1320,8,-,-,-,1266,-,-,-,-,-,68.6
+2019,Hebei Medical University,China,1321,152,-,-,-,1267,-,-,-,-,-,68.6
+2019,Jiangxi Normal University,China,1322,153,-,1312,-,1269,-,-,-,-,-,68.6
+2019,University of Agriculture Faisalabad,Pakistan,1323,5,-,-,-,1268,-,-,-,-,-,68.6
+2019,Uludağ University,Turkey,1324,24,-,-,-,1271,-,-,-,-,-,68.6
+2019,University of South Dakota,USA,1325,268,273,-,-,1286,-,-,-,-,-,68.5
+2019,Akdeniz University,Turkey,1326,25,-,-,-,1272,-,-,-,-,-,68.5
+2019,Indian Institute of Science Education and Research - Kolkata,India,1327,28,-,-,-,1273,-,-,-,-,-,68.5
+2019,Karadeniz Technical University,Turkey,1328,26,-,1352,-,1274,-,-,-,-,-,68.5
+2019,University of Rijeka,Croatia,1329,3,-,-,-,1278,-,-,-,-,-,68.5
+2019,Taras Shevchenko National University of Kyiv,Ukraine,1330,1,-,-,-,1280,-,-,-,-,-,68.5
+2019,Kwame Nkrumah University of Science and Technology,Ghana,1331,2,374,-,-,1283,-,-,-,-,-,68.5
+2019,DePaul University,USA,1332,269,-,409,-,1355,-,-,-,-,-,68.5
+2019,Pavol Jozef Šafárik University in Košice,Slovak Republic,1333,2,-,-,-,1281,-,-,-,-,-,68.5
+2019,Trinity College,USA,1334,270,48,234,-,-,-,-,-,-,-,68.5
+2019,Adıyaman University,Turkey,1335,27,-,-,-,1282,-,-,-,-,-,68.5
+2019,Sabancı University,Turkey,1336,28,-,-,-,1284,-,-,-,-,-,68.5
+2019,Warsaw University of Life Sciences,Poland,1337,20,483,-,-,1287,-,-,-,-,-,68.5
+2019,Trinity University,USA,1338,271,-,145,-,1709,-,-,-,-,-,68.5
+2019,Czech University of Life Sciences Prague,Czech Republic,1339,8,-,-,-,1289,-,-,-,-,-,68.5
+2019,University of Zambia,Zambia,1340,1,-,-,-,1290,-,-,-,-,-,68.5
+2019,Vienna University of Economics and Business,Austria,1341,14,-,128,-,1767,-,-,-,-,-,68.5
+2019,National University of Mar del Plata,Argentina,1342,5,-,-,-,1291,-,-,-,-,-,68.5
+2019,Western Michigan University,USA,1343,272,-,-,-,1292,-,-,-,-,-,68.5
+2019,Jeju National University,South Korea,1344,44,-,-,-,1293,-,-,-,-,-,68.5
+2019,Huaqiao University,China,1345,154,-,-,-,1294,-,-,-,-,-,68.5
+2019,University of Veterinary Medicine Hanover,Germany,1346,63,-,-,-,1295,-,-,-,-,-,68.4
+2019,Northeast Agricultural University,China,1347,155,-,1260,-,1297,-,-,-,-,-,68.4
+2019,University of Huelva,Spain,1348,46,-,-,-,1296,-,-,-,-,-,68.4
+2019,Yuan Ze University,Taiwan,1349,26,-,-,-,1298,-,-,-,-,-,68.4
+2019,Alexandru Ioan Cuza University of Iaşi,Romania,1350,6,-,-,-,1299,-,-,-,-,-,68.4
+2019,Kafkas University,Turkey,1351,29,-,-,-,1300,-,-,-,-,-,68.4
+2019,Vellore Institute of Technology,India,1352,29,-,-,-,1301,-,-,-,-,-,68.4
+2019,Silesian University of Technology,Poland,1353,21,-,1401,-,1302,-,-,-,-,-,68.4
+2019,State University of Londrina,Brazil,1354,32,-,-,-,1303,-,-,-,-,-,68.4
+2019,Illinois State University,USA,1355,273,-,915,-,1307,-,-,-,-,-,68.4
+2019,Washington and Lee University,USA,1356,274,73,132,-,-,-,-,-,-,-,68.4
+2019,Queens College - City University of New York,USA,1357,275,-,695,-,1317,-,-,-,-,-,68.4
+2019,University of New Orleans,USA,1358,276,-,-,-,1304,-,-,-,-,-,68.4
+2019,Michoacán University of San Nicolás of Hidalgo,Mexico,1359,10,-,-,-,1305,-,-,-,-,-,68.4
+2019,Lincoln University,New Zealand,1360,8,-,-,-,1306,-,-,-,-,-,68.4
+2019,Marshall University,USA,1361,277,312,343,-,1418,-,-,-,-,-,68.4
+2019,I - Shou University,Taiwan,1362,27,-,-,-,1308,-,-,-,-,-,68.4
+2019,Agricultural University of Athens,Greece,1363,9,-,-,-,1309,-,-,-,-,-,68.4
+2019,Zagazig University,Egypt,1364,7,-,-,-,1310,-,-,-,-,-,68.4
+2019,Hamburg University of Technology,Germany,1365,64,-,-,-,1311,-,-,-,-,-,68.4
+2019,Iwate University,Japan,1366,83,-,-,-,1312,-,-,-,-,-,68.4
+2019,Sultan Qaboos University,Oman,1367,1,-,-,-,1313,-,-,-,-,-,68.3
+2019,Claremont Graduate University,USA,1368,278,-,-,231,1403,-,-,-,-,-,68.3
+2019,Mohamed First University Oujda,Morocco,1369,4,-,-,-,1314,-,-,-,-,-,68.3
+2019,University of the Philippines Manila,Philippines,1370,1,-,736,-,1328,-,-,-,-,-,68.3
+2019,Cha University,South Korea,1371,45,-,-,-,1315,-,-,-,-,-,68.3
+2019,Dalian Maritime University,China,1372,156,-,907,-,1325,-,-,-,-,-,68.3
+2019,Pontifical Javeriana University,Colombia,1373,4,-,998,-,1320,-,-,-,-,-,68.3
+2019,Maria Curie - Skłodowska University,Poland,1374,22,-,1243,-,1318,-,-,-,-,-,68.3
+2019,ENSTA ParisTech,France,1375,74,-,109,-,1997,-,-,-,-,-,68.3
+2019,Medical University of Lublin,Poland,1376,23,-,-,-,1319,-,-,-,-,-,68.3
+2019,University of Minnesota Duluth,USA,1377,279,-,1135,-,1324,-,-,-,-,-,68.3
+2019,Hunan Agricultural University,China,1378,157,-,-,-,1321,-,-,-,-,-,68.3
+2019,Kanazawa Institute of Technology,Japan,1379,84,299,-,93,-,-,-,-,-,-,68.3
+2019,Federal University of Sergipe,Brazil,1380,33,-,-,-,1322,-,-,-,-,-,68.3
+2019,Wakayama Medical University,Japan,1381,85,-,-,-,1323,-,-,-,-,-,68.3
+2019,Hampton University,USA,1382,280,-,-,-,1326,-,-,-,-,-,68.3
+2019,New Mexico Institute of Mining and Technology,USA,1383,281,-,-,-,1327,-,-,-,-,-,68.3
+2019,Architectural Association School of Architecture,United Kingdom,1384,74,29,-,-,-,-,-,-,-,-,68.3
+2019,University of Southern Queensland,Australia,1385,33,-,894,-,1335,-,-,-,-,-,68.3
+2019,Shiraz University of Medical Sciences,Iran,1386,18,-,-,-,1329,-,-,-,-,-,68.3
+2019,National Dong Hwa University,Taiwan,1387,28,-,-,-,1330,-,-,-,-,-,68.3
+2019,Henan University of Science and Technology,China,1388,158,-,1306,-,1331,-,-,-,-,-,68.3
+2019,Ontario Tech University,Canada,1389,34,-,-,-,1332,-,-,-,-,-,68.2
+2019,University Paris 1 Panthéon - Sorbonne,France,1390,75,-,497,-,1381,-,-,-,-,-,68.2
+2019,Kagawa University,Japan,1391,86,-,748,-,1350,-,-,-,-,-,68.2
+2019,Slovak University of Technology in Bratislava,Slovak Republic,1392,3,-,-,-,1333,-,-,-,-,-,68.2
+2019,Indian Agricultural Research Institute,India,1393,30,350,1065,-,1341,-,-,-,-,-,68.2
+2019,Guangxi Medical University,China,1394,159,-,-,-,1334,-,-,-,-,-,68.2
+2019,Cheung Kong Graduate School of Business,China,1395,160,-,64,-,-,-,-,-,-,-,68.2
+2019,University of León,Spain,1396,47,-,-,-,1336,-,-,-,-,-,68.2
+2019,Hebei University of Technology,China,1397,161,-,1386,-,1337,-,-,-,-,-,68.2
+2019,Tianjin University of Technology,China,1398,162,-,-,-,1338,-,-,-,-,-,68.2
+2019,Tomsk Polytechnic University,Russia,1399,12,-,-,-,1339,-,-,-,-,-,68.2
+2019,University of Évora,Portugal,1400,8,-,1319,-,1343,-,-,-,-,-,68.2
+2019,National University of Science and Technology MISiS,Russia,1401,13,-,1061,-,1344,-,-,-,-,-,68.2
+2019,Harokopio University,Greece,1402,10,-,-,-,1342,-,-,-,-,-,68.2
+2019,Pontifical Catholic University of Rio de Janeiro,Brazil,1403,34,-,270,-,1494,-,-,-,-,-,68.2
+2019,Anglia Ruskin University,United Kingdom,1404,75,-,-,-,1345,-,-,-,-,-,68.2
+2019,Fırat University,Turkey,1405,30,-,-,-,1346,-,-,-,-,-,68.2
+2019,Freiberg University of Mining and Technology,Germany,1406,65,-,-,-,1347,-,-,-,-,-,68.2
+2019,Drew University,USA,1407,282,-,1094,86,-,-,-,-,-,-,68.2
+2019,University of Sannio,Italy,1408,58,-,-,-,1348,-,-,-,-,-,68.2
+2019,Southern Cross University,Australia,1409,34,-,-,-,1349,-,-,-,-,-,68.2
+2019,Tamkang University,Taiwan,1410,29,-,-,-,1351,-,-,-,-,-,68.2
+2019,University of Beira Interior,Portugal,1411,9,-,-,-,1352,-,-,-,-,-,68.1
+2019,Tianjin University of Science and Technology,China,1412,163,-,-,-,1353,-,-,-,-,-,68.1
+2019,Fukushima Medical University,Japan,1413,87,-,-,-,1354,-,-,-,-,-,68.1
+2019,Macau University of Science and Technology,Macau,1414,2,-,559,-,1391,-,-,-,-,-,68.1
+2019,Sapporo Medical University,Japan,1415,88,-,-,-,1356,-,-,-,-,-,68.1
+2019,Texas Christian University,USA,1416,283,-,-,-,1357,-,-,-,-,-,68.1
+2019,University of South Africa,South Africa,1417,11,-,877,-,1362,-,-,-,-,-,68.1
+2019,Cleveland State University,USA,1418,284,-,876,-,1364,-,-,-,-,-,68.1
+2019,Texas Tech University Health Sciences Center,USA,1419,285,-,-,-,1359,-,-,-,-,-,68.1
+2019,University of Niš,Serbia,1420,3,-,-,-,1360,-,-,-,-,-,68.1
+2019,Eastern Virginia Medical School,USA,1421,286,-,-,-,1361,-,-,-,-,-,68.1
+2019,Shanghai University of Traditional Chinese Medicine,China,1422,164,-,-,-,1363,-,-,-,-,-,68.1
+2019,National University of Cuyo,Argentina,1423,6,-,-,-,1365,-,-,-,-,-,68.1
+2019,University of Salford,United Kingdom,1424,76,-,1236,-,1367,-,-,-,-,-,68.1
+2019,Iuliu Hațieganu University of Medicine and Pharmacy,Romania,1425,7,-,-,-,1366,-,-,-,-,-,68.1
+2019,University of the Aegean,Greece,1426,11,-,-,-,1368,-,-,-,-,-,68.1
+2019,Hamamatsu University School of Medicine,Japan,1427,89,-,-,-,1369,-,-,-,-,-,68.1
+2019,Anadolu University,Turkey,1428,31,-,-,-,1370,-,-,-,-,-,68.1
+2019,Razi University,Iran,1429,19,-,-,-,1371,-,-,-,-,-,68.1
+2019,Okinawa Institute of Science and Technology,Japan,1430,90,-,-,-,1372,-,-,-,-,-,68.1
+2019,University of Greenwich,United Kingdom,1431,77,233,1234,-,1396,-,-,-,-,-,68.1
+2019,Xinjiang University,China,1432,165,-,-,-,1373,-,-,-,-,-,68.1
+2019,University of Leoben,Austria,1433,15,-,-,-,1374,-,-,-,-,-,68.0
+2019,University of San Francisco,USA,1434,287,-,131,-,1907,-,-,-,-,-,68.0
+2019,Montclair State University,USA,1435,288,-,1233,-,1375,-,-,-,-,-,68.0
+2019,University of Kragujevac,Serbia,1436,4,-,-,-,1376,-,-,-,-,-,68.0
+2019,University of Puerto Rico - Río Piedras Campus,Puerto Rico,1437,3,-,-,-,1377,-,-,-,-,-,68.0
+2019,Coventry University,United Kingdom,1438,78,-,847,-,1384,-,-,-,-,-,68.0
+2019,Lithuanian University of Health Sciences,Lithuania,1439,2,-,-,-,1378,-,-,-,-,-,68.0
+2019,University of Stavanger,Norway,1440,7,-,-,-,1379,-,-,-,-,-,68.0
+2019,University of Isfahan,Iran,1441,20,-,-,-,1380,-,-,-,-,-,68.0
+2019,Western Washington University,USA,1442,289,-,1033,-,1386,-,-,-,-,-,68.0
+2019,Wuhan University of Science and Technology,China,1443,166,-,807,-,1401,-,-,-,-,-,68.0
+2019,Fayoum University,Egypt,1444,8,-,-,-,1382,-,-,-,-,-,68.0
+2019,Bohai University,China,1445,167,-,-,-,1383,-,-,-,-,-,68.0
+2019,Poznań University of Technology,Poland,1446,24,-,-,-,1385,-,-,-,-,-,68.0
+2019,University of Monastir,Tunisia,1447,3,-,-,-,1387,-,-,-,-,-,68.0
+2019,Kwangwoon University,South Korea,1448,46,-,-,-,1388,-,-,-,-,-,68.0
+2019,Polytechnic University of Cartagena,Spain,1449,48,-,-,-,1389,-,-,-,-,-,68.0
+2019,National University of the Littoral,Argentina,1450,7,-,-,-,1390,-,-,-,-,-,68.0
+2019,University of Zimbabwe,Zimbabwe,1451,1,-,781,-,1410,-,-,-,-,-,68.0
+2019,Menlo College,USA,1452,290,-,65,-,-,-,-,-,-,-,68.0
+2019,University of Avignon,France,1453,76,-,-,-,1392,-,-,-,-,-,68.0
+2019,Myongji University,South Korea,1454,47,-,1408,-,1393,-,-,-,-,-,68.0
+2019,Georgia Southern University,USA,1455,291,-,-,-,1394,-,-,-,-,-,67.9
+2019,King Mongkut's University of Technology Thonburi,Thailand,1456,7,-,1198,-,1397,-,-,-,-,-,67.9
+2019,Fairfield University,USA,1457,292,-,524,-,1449,-,-,-,-,-,67.9
+2019,Northwest Normal University,China,1458,168,-,-,-,1395,-,-,-,-,-,67.9
+2019,University of Tulsa,USA,1459,293,-,190,-,1728,-,-,-,-,-,67.9
+2019,Federal Institute of Education - Science and Technology of Rio Grande do Sul,Brazil,1460,35,-,-,-,1399,-,-,-,-,-,67.9
+2019,Rajiv Gandhi University of Health Sciences,India,1461,31,-,-,-,1402,-,-,-,-,-,67.9
+2019,Japan Advanced Institute of Science and Technology,Japan,1462,91,-,-,-,1404,-,-,-,-,-,67.9
+2019,Kocaeli University,Turkey,1463,32,-,-,-,1405,-,-,-,-,-,67.9
+2019,Erzincan Binali Yıldırım University,Turkey,1464,33,-,-,-,1406,-,-,-,-,-,67.9
+2019,PLA University of Science and Technology,China,1465,169,-,-,-,1407,-,-,-,-,-,67.9
+2019,China Jiliang University,China,1466,170,-,-,-,1408,-,-,-,-,-,67.9
+2019,University of the Sunshine Coast,Australia,1467,35,-,-,-,1409,-,-,-,-,-,67.9
+2019,St. John's University,USA,1468,294,-,183,-,1759,-,-,-,-,-,67.9
+2019,Indian Statistical Institute - Kolkata,India,1469,32,331,-,-,1414,-,-,-,-,-,67.9
+2019,Guangxi Normal University,China,1470,171,-,-,-,1412,-,-,-,-,-,67.9
+2019,Nagasaki Institute of Applied Science,Japan,1471,92,-,-,-,1413,-,-,-,-,-,67.9
+2019,National Institute of Technology - Rourkela,India,1472,33,-,247,-,1603,-,-,-,-,-,67.9
+2019,Central Michigan University,USA,1473,295,-,1039,-,1415,-,-,-,-,-,67.9
+2019,Central University of Venezuela,Venezuela,1474,1,-,1364,-,1416,-,-,-,-,-,67.9
+2019,University of Trier,Germany,1475,66,-,-,-,1417,-,-,-,-,-,67.9
+2019,University of Warmia and Mazury in Olsztyn,Poland,1476,25,-,-,-,1419,-,-,-,-,-,67.9
+2019,Pontifical Catholic University of Valparaíso,Chile,1477,9,-,-,-,1420,-,-,-,-,-,67.9
+2019,Incheon National University,South Korea,1478,48,-,-,-,1421,-,-,-,-,-,67.8
+2019,ESCP Europe,France,1479,77,-,73,-,-,-,-,-,-,-,67.8
+2019,Rikkyo University,Japan,1480,93,366,407,-,1512,-,-,-,-,-,67.8
+2019,Kyoto Institute of Technology,Japan,1481,94,-,-,-,1422,-,-,-,-,-,67.8
+2019,Wonkwang University,South Korea,1482,49,-,-,-,1423,-,-,-,-,-,67.8
+2019,Laurentian University,Canada,1483,35,-,436,-,1495,-,-,-,-,-,67.8
+2019,University of Fukui,Japan,1484,95,-,-,-,1424,-,-,-,-,-,67.8
+2019,Pomeranian Medical University in Szczecin,Poland,1485,26,-,-,-,1425,-,-,-,-,-,67.8
+2019,Qilu University of Technology,China,1486,172,-,-,-,1426,-,-,-,-,-,67.8
+2019,Middlesex University,United Kingdom,1487,79,368,959,-,1436,-,-,-,-,-,67.8
+2019,Hebei Normal University,China,1488,173,-,1188,-,1431,-,-,-,-,-,67.8
+2019,Southern Federal University,Russia,1489,14,-,-,-,1427,-,-,-,-,-,67.8
+2019,University of Latvia,Latvia,1490,1,-,-,-,1428,-,-,-,-,-,67.8
+2019,University of Valparaíso,Chile,1491,10,-,-,-,1429,-,-,-,-,-,67.8
+2019,University of Jordan,Jordan,1492,2,-,-,-,1430,-,-,-,-,-,67.8
+2019,Comillas Pontifical University,Spain,1493,49,-,106,-,-,-,-,-,-,-,67.8
+2019,National University of Sciences and Technology,Pakistan,1494,6,-,-,-,1432,-,-,-,-,-,67.8
+2019,Manipal Academy of Higher Education,India,1495,34,-,962,-,1440,-,-,-,-,-,67.8
+2019,Ochanomizu University,Japan,1496,96,-,-,-,1433,-,-,-,-,-,67.8
+2019,Tabriz University of Medical Sciences,Iran,1497,21,-,-,-,1434,-,-,-,-,-,67.8
+2019,Hiroshima Institute of Technology,Japan,1498,97,-,-,-,1435,-,-,-,-,-,67.8
+2019,Iwate Medical University,Japan,1499,98,-,-,-,1437,-,-,-,-,-,67.8
+2019,Henan Polytechnic University,China,1500,174,-,1452,-,1438,-,-,-,-,-,67.7
+2019,Medical University of Białystok,Poland,1501,27,-,-,-,1439,-,-,-,-,-,67.7
+2019,École de technologie supérieure,Canada,1502,36,-,-,-,1441,-,-,-,-,-,67.7
+2019,MARA University of Technology,Malaysia,1503,6,-,-,-,1442,-,-,-,-,-,67.7
+2019,Glasgow Caledonian University,United Kingdom,1504,80,-,-,-,1443,-,-,-,-,-,67.7
+2019,Lobachevsky University,Russia,1505,15,-,1173,-,1444,-,-,-,-,-,67.7
+2019,Shahid Bahonar University of Kerman,Iran,1506,22,-,-,-,1445,-,-,-,-,-,67.7
+2019,Xi'an University of Technology,China,1507,175,-,1018,-,1450,-,-,-,-,-,67.7
+2019,British University in Egypt,Egypt,1508,9,-,-,-,1447,-,-,-,-,-,67.7
+2019,University of Huddersfield,United Kingdom,1509,81,-,1385,-,1448,-,-,-,-,-,67.7
+2019,Vietnam National University - Hanoi,Vietnam,1510,1,-,-,-,1451,-,-,-,-,-,67.7
+2019,Leuphana University of Lüneburg,Germany,1511,67,-,-,-,1452,-,-,-,-,-,67.7
+2019,Kongju National University,South Korea,1512,50,-,-,-,1453,-,-,-,-,-,67.7
+2019,Doğuş University,Turkey,1513,34,-,-,-,1454,-,-,-,-,-,67.7
+2019,Helwan University,Egypt,1514,10,-,-,-,1455,-,-,-,-,-,67.7
+2019,University of North Carolina Wilmington,USA,1515,296,-,-,-,1456,-,-,-,-,-,67.7
+2019,Ondokuz Mayıs University,Turkey,1516,35,-,-,-,1457,-,-,-,-,-,67.7
+2019,University of Arkansas at Little Rock,USA,1517,297,-,1327,-,1460,-,-,-,-,-,67.7
+2019,Poznań University of Life Sciences,Poland,1518,28,-,-,-,1458,-,-,-,-,-,67.7
+2019,Indian Institute of Technology (BHU) Varanasi,India,1519,35,-,-,-,1459,-,-,-,-,-,67.7
+2019,SUNY College of Environmental Science and Forestry,USA,1520,298,-,-,-,1461,-,-,-,-,-,67.7
+2019,Education University of Hong Kong,Hong Kong,1521,7,-,-,-,1462,-,-,-,-,-,67.7
+2019,Federal University of Technology - Paraná,Brazil,1522,36,-,-,-,1463,-,-,-,-,-,67.7
+2019,Naval Postgraduate School,USA,1523,299,-,1137,-,1466,-,-,-,-,-,67.6
+2019,Bu - Ali Sina University,Iran,1524,23,-,-,-,1465,-,-,-,-,-,67.6
+2019,Aoyama Gakuin University,Japan,1525,99,-,566,-,1506,-,-,-,-,-,67.6
+2019,Dokkyo University,Japan,1526,100,-,-,-,1467,-,-,-,-,-,67.6
+2019,Grigore T. Popa University of Medicine and Pharmacy,Romania,1527,8,-,-,-,1469,-,-,-,-,-,67.6
+2019,Al - Azhar University,Egypt,1528,11,-,1426,-,1470,-,-,-,-,-,67.6
+2019,Tzu Chi University,Taiwan,1529,30,-,-,-,1472,-,-,-,-,-,67.6
+2019,Diego Portales University,Chile,1530,11,-,-,-,1473,-,-,-,-,-,67.6
+2019,University of Trás - os - Montes and Alto Douro,Portugal,1531,10,-,-,-,1474,-,-,-,-,-,67.6
+2019,Antonio Nariño University,Colombia,1532,5,-,-,-,1475,-,-,-,-,-,67.6
+2019,Xuzhou Medical University,China,1533,176,-,-,-,1476,-,-,-,-,-,67.6
+2019,Chang'an University,China,1534,177,-,1430,-,1477,-,-,-,-,-,67.6
+2019,University of Guanajuato,Mexico,1535,11,-,1191,-,1480,-,-,-,-,-,67.6
+2019,Zhejiang A&F University,China,1536,178,-,-,-,1478,-,-,-,-,-,67.6
+2019,Indian Institute of Management Calcutta,India,1537,36,-,74,-,-,-,-,-,-,-,67.6
+2019,Arts et Métiers ParisTech,France,1538,78,352,738,-,1501,-,-,-,-,-,67.6
+2019,Sanjay Gandhi Postgraduate Institute of Medical Sciences,India,1539,37,-,-,-,1481,-,-,-,-,-,67.6
+2019,University of Shizuoka,Japan,1540,101,-,884,-,1485,-,-,-,-,-,67.6
+2019,California State University - Los Angeles,USA,1541,300,-,762,-,1498,-,-,-,-,-,67.6
+2019,Kyoto Sangyo University,Japan,1542,102,-,1004,181,1963,-,-,-,-,-,67.6
+2019,Smith College,USA,1543,301,242,269,-,1732,-,-,-,-,-,67.6
+2019,Federal Rural University of Pernambuco,Brazil,1544,37,-,-,-,1482,-,-,-,-,-,67.6
+2019,University of Guilan,Iran,1545,24,-,-,-,1483,-,-,-,-,-,67.6
+2019,University of La Rioja,Spain,1546,50,-,-,-,1486,-,-,-,-,-,67.6
+2019,University of Gondar,Ethiopia,1547,2,-,-,-,1487,-,-,-,-,-,67.5
+2019,Kyorin University,Japan,1548,103,-,-,-,1488,-,-,-,-,-,67.5
+2019,Ilia State University,Georgia,1549,2,-,-,-,1489,-,-,-,-,-,67.5
+2019,Kunming Medical University,China,1550,179,-,-,-,1490,-,-,-,-,-,67.5
+2019,De Montfort University,United Kingdom,1551,82,-,-,-,1491,-,-,-,-,-,67.5
+2019,Akita University,Japan,1552,104,-,-,-,1492,-,-,-,-,-,67.5
+2019,College of Charleston,USA,1553,302,-,-,-,1493,-,-,-,-,-,67.5
+2019,University of Technology of Compiègne,France,1554,79,-,-,-,1496,-,-,-,-,-,67.5
+2019,Özyeğin University,Turkey,1555,36,-,-,-,1497,-,-,-,-,-,67.5
+2019,Paris Nanterre University,France,1556,80,-,601,-,1541,-,-,-,-,-,67.5
+2019,East Tennessee State University,USA,1557,303,-,-,-,1499,-,-,-,-,-,67.5
+2019,University of Kashan,Iran,1558,25,-,-,-,1500,-,-,-,-,-,67.5
+2019,Pontifical Catholic University of Rio Grande do Sul,Brazil,1559,38,-,660,-,1536,-,-,-,-,-,67.5
+2019,University of Carthage,Tunisia,1560,4,-,-,-,1502,-,-,-,-,-,67.5
+2019,Babol Noshirvani University of Technology,Iran,1561,26,-,-,-,1503,-,-,-,-,-,67.5
+2019,Muhimbili University of Health and Allied Sciences,Tanzania,1562,1,-,-,-,1504,-,-,-,-,-,67.5
+2019,Norwegian School of Sport Sciences,Norway,1563,8,-,-,-,1505,-,-,-,-,-,67.5
+2019,Southwest University of Science and Technology,China,1564,180,-,1417,-,1507,-,-,-,-,-,67.5
+2019,Tanta University,Egypt,1565,12,-,-,-,1508,-,-,-,-,-,67.5
+2019,North China University of Science and Technology,China,1566,181,-,-,-,1509,-,-,-,-,-,67.5
+2019,Shihezi University,China,1567,182,-,-,-,1510,-,-,-,-,-,67.5
+2019,Seoul National University of Science and Technology,South Korea,1568,51,-,-,-,1511,-,-,-,-,-,67.5
+2019,Wuhan Institute of Technology,China,1569,183,-,-,-,1513,-,-,-,-,-,67.5
+2019,National University of Comahue,Argentina,1570,8,-,-,-,1514,-,-,-,-,-,67.4
+2019,Liaocheng University,China,1571,184,-,-,-,1516,-,-,-,-,-,67.4
+2019,Catholic University of the North,Chile,1572,12,-,-,-,1517,-,-,-,-,-,67.4
+2019,University of Lincoln,United Kingdom,1573,83,-,-,-,1518,-,-,-,-,-,67.4
+2019,University of La Rochelle,France,1574,81,-,-,-,1519,-,-,-,-,-,67.4
+2019,École nationale vétérinaire d'Alfort,France,1575,82,-,139,-,-,-,-,-,-,-,67.4
+2019,Sheffield Hallam University,United Kingdom,1576,84,-,1423,-,1520,-,-,-,-,-,67.4
+2019,Malmö University,Sweden,1577,15,-,-,-,1521,-,-,-,-,-,67.4
+2019,National University of the South,Argentina,1578,9,-,-,-,1522,-,-,-,-,-,67.4
+2019,Reykjavík University,Iceland,1579,2,-,-,-,1523,-,-,-,-,-,67.4
+2019,College of Saint Benedict and Saint John's University,USA,1580,304,-,78,-,-,-,-,-,-,-,67.4
+2019,Nara Medical University,Japan,1581,105,-,-,-,1524,-,-,-,-,-,67.4
+2019,University of Québec at Trois - Rivières,Canada,1582,37,-,-,-,1525,-,-,-,-,-,67.4
+2019,Eskişehir Osmangazi University,Turkey,1583,37,-,-,-,1526,-,-,-,-,-,67.4
+2019,Embry - Riddle Aeronautical University,USA,1584,305,-,-,-,1527,-,-,-,-,-,67.4
+2019,Vietnam National University - Ho Chi Minh City,Vietnam,1585,2,-,-,-,1528,-,-,-,-,-,67.4
+2019,Aichi Medical University,Japan,1586,106,-,-,-,1529,-,-,-,-,-,67.4
+2019,Hainan University,China,1587,185,-,-,-,1530,-,-,-,-,-,67.4
+2019,Mekelle University,Ethiopia,1588,3,-,-,-,1531,-,-,-,-,-,67.4
+2019,Estonian University of Life Sciences,Estonia,1589,3,-,-,-,1532,-,-,-,-,-,67.4
+2019,Shanghai Ocean University,China,1590,186,-,-,-,1533,-,-,-,-,-,67.4
+2019,Birla Institute of Technology and Science - Pilani,India,1591,38,-,549,-,1591,-,-,-,-,-,67.4
+2019,National Institute of Technology - Tiruchirappalli,India,1592,39,-,373,-,1685,-,-,-,-,-,67.4
+2019,Oita University,Japan,1593,107,-,-,-,1534,-,-,-,-,-,67.4
+2019,Henan Agricultural University,China,1594,187,-,-,-,1535,-,-,-,-,-,67.3
+2019,Roskilde University,Denmark,1595,7,-,-,-,1537,-,-,-,-,-,67.3
+2019,Kansai Medical University,Japan,1596,108,-,-,-,1538,-,-,-,-,-,67.3
+2019,Kingston University,United Kingdom,1597,85,326,495,-,1631,-,-,-,-,-,67.3
+2019,Central European University,Hungary,1598,7,-,-,-,1539,-,-,-,-,-,67.3
+2019,James Madison University,USA,1599,306,-,1246,-,1540,-,-,-,-,-,67.3
+2019,University of Indonesia,Indonesia,1600,1,-,688,-,1567,-,-,-,-,-,67.3
+2019,Idaho State University,USA,1601,307,423,-,-,1543,-,-,-,-,-,67.3
+2019,Beijing University of Chinese Medicine,China,1602,188,-,-,-,1542,-,-,-,-,-,67.3
+2019,Thammasat University,Thailand,1603,8,-,512,-,1621,-,-,-,-,-,67.3
+2019,International Islamic University Malaysia,Malaysia,1604,7,-,-,-,1544,-,-,-,-,-,67.3
+2019,Tianjin Normal University,China,1605,189,-,-,-,1545,-,-,-,-,-,67.3
+2019,Zhejiang Gongshang University,China,1606,190,-,1189,-,1548,-,-,-,-,-,67.3
+2019,Industrial University of Santander,Colombia,1607,6,-,-,-,1546,-,-,-,-,-,67.3
+2019,Southwest Petroleum University,China,1608,191,-,990,-,1552,-,-,-,-,-,67.3
+2019,University of the Philippines Diliman,Philippines,1609,2,-,-,-,1547,-,-,-,-,-,67.3
+2019,University of the West Indies,Jamaica,1610,1,-,-,-,1549,-,-,-,-,-,67.3
+2019,Saint Mary's University,Canada,1611,38,-,1026,-,1555,-,-,-,-,-,67.3
+2019,Skolkovo Institute of Science and Technology,Russia,1612,16,-,-,-,1550,-,-,-,-,-,67.3
+2019,South Central University for Nationalities,China,1613,192,-,-,-,1551,-,-,-,-,-,67.3
+2019,Catholic University of Daegu,South Korea,1614,52,-,-,-,1553,-,-,-,-,-,67.3
+2019,Technological Institute of Aeronautics,Brazil,1615,39,-,166,-,-,-,-,-,-,-,67.3
+2019,Guangzhou University of Chinese Medicine,China,1616,193,-,-,-,1554,-,-,-,-,-,67.3
+2019,BI Norwegian Business School,Norway,1617,9,-,370,193,-,-,-,-,-,-,67.3
+2019,Hankuk University of Foreign Studies,South Korea,1618,53,-,327,-,1737,-,-,-,-,-,67.3
+2019,Southwestern University of Finance and Economics,China,1619,194,-,239,-,1811,-,-,-,-,-,67.2
+2019,Nelson Mandela University,South Africa,1620,12,-,1156,-,1558,-,-,-,-,-,67.2
+2019,Changsha University of Science and Technology,China,1621,195,-,-,-,1556,-,-,-,-,-,67.2
+2019,Qingdao Agricultural University,China,1622,196,-,-,-,1557,-,-,-,-,-,67.2
+2019,Mid Sweden University,Sweden,1623,16,-,1395,-,1559,-,-,-,-,-,67.2
+2019,Bond University,Australia,1624,36,-,-,-,1560,-,-,-,-,-,67.2
+2019,University of Science and Technology Houari Boumediene,Algeria,1625,1,-,-,-,1561,-,-,-,-,-,67.2
+2019,Payame Noor University,Iran,1626,27,-,-,-,1562,-,-,-,-,-,67.2
+2019,Central Queensland University,Australia,1627,37,-,-,-,1563,-,-,-,-,-,67.2
+2019,University of Agder,Norway,1628,10,-,-,-,1564,-,-,-,-,-,67.2
+2019,Anhui University of Technology,China,1629,197,-,904,-,1577,-,-,-,-,-,67.2
+2019,Chongqing University of Posts and Telecommunications,China,1630,198,-,-,-,1565,-,-,-,-,-,67.2
+2019,Kaunas University of Technology,Lithuania,1631,3,-,-,-,1566,-,-,-,-,-,67.2
+2019,University of South China,China,1632,199,-,1013,-,1573,-,-,-,-,-,67.2
+2019,Tokyo University of Pharmacy and Life Sciences,Japan,1633,109,-,-,-,1568,-,-,-,-,-,67.2
+2019,Brooklyn College,USA,1634,308,251,1375,-,1605,-,-,-,-,-,67.2
+2019,Dalarna University,Sweden,1635,17,-,-,-,1569,-,-,-,-,-,67.2
+2019,Sakarya University,Turkey,1636,38,-,-,-,1570,-,-,-,-,-,67.2
+2019,Meiji University,Japan,1637,110,-,716,-,1611,-,-,-,-,-,67.2
+2019,Wichita State University,USA,1638,309,-,846,-,1589,-,-,-,-,-,67.2
+2019,Jiangsu University of Science and Technology,China,1639,200,-,-,-,1571,-,-,-,-,-,67.2
+2019,Hongik University,South Korea,1640,54,-,1145,-,1578,-,-,-,-,-,67.2
+2019,Rowan University,USA,1641,310,-,-,-,1572,-,-,-,-,-,67.2
+2019,Utah Valley University,USA,1642,311,-,-,-,1574,-,-,-,-,-,67.2
+2019,Academy of Scientific & Innovative Research,India,1643,40,-,-,-,1575,-,-,-,-,-,67.1
+2019,Ariel University,Israel,1644,8,-,-,-,1576,-,-,-,-,-,67.1
+2019,Inner Mongolia University,China,1645,201,-,-,-,1579,-,-,-,-,-,67.1
+2019,Pontifical Catholic University of Paraná,Brazil,1646,40,-,1420,-,1580,-,-,-,-,-,67.1
+2019,Karlstad University,Sweden,1647,18,-,1047,-,1584,-,-,-,-,-,67.1
+2019,Manisa Celal Bayar University,Turkey,1648,39,-,-,-,1581,-,-,-,-,-,67.1
+2019,Technical University of Crete,Greece,1649,12,-,-,-,1582,-,-,-,-,-,67.1
+2019,Towson University,USA,1650,312,-,773,-,1610,-,-,-,-,-,67.1
+2019,Gheorghe Asachi Technical University of Iaşi,Romania,1651,9,-,-,-,1585,-,-,-,-,-,67.1
+2019,Kanagawa University,Japan,1652,111,-,-,-,1586,-,-,-,-,-,67.1
+2019,Technological University Dublin,Ireland,1653,9,-,771,-,1618,-,-,-,-,-,67.1
+2019,Semnan University,Iran,1654,28,-,-,-,1587,-,-,-,-,-,67.1
+2019,Danube University Krems,Austria,1655,16,-,-,-,1588,-,-,-,-,-,67.1
+2019,Indian Institute of Technology (Indian School of Mines) - Dhanbad,India,1656,41,-,704,-,1634,-,-,-,-,-,67.1
+2019,Sookmyung Women's University,South Korea,1657,55,-,1166,-,1592,-,-,-,-,-,67.1
+2019,Başkent University,Turkey,1658,40,-,-,-,1590,-,-,-,-,-,67.1
+2019,University of Malta,Malta,1659,1,-,-,-,1593,-,-,-,-,-,67.1
+2019,University of Madras,India,1660,42,434,511,-,1690,-,-,-,-,-,67.1
+2019,Sonoma State University,USA,1661,313,-,-,-,1594,-,-,-,-,-,67.1
+2019,Pamukkale University,Turkey,1662,41,-,-,-,1595,-,-,-,-,-,67.1
+2019,University of Djillali Liabès - Sidi Bel - Abbès,Algeria,1663,2,-,-,-,1596,-,-,-,-,-,67.1
+2019,European University Institute,Italy,1664,59,-,-,-,1597,-,-,-,-,-,67.1
+2019,Gangneung - Wonju National University,South Korea,1665,56,-,-,-,1598,-,-,-,-,-,67.1
+2019,Wellesley College,USA,1666,314,-,552,-,1669,-,-,-,-,-,67.1
+2019,Lanzhou University of Technology,China,1667,202,-,-,-,1599,-,-,-,-,-,67.1
+2019,Union College,USA,1668,315,213,154,-,-,-,-,-,-,-,67.0
+2019,Goldsmiths - University of London,United Kingdom,1669,86,204,-,-,1650,-,-,-,-,-,67.0
+2019,Institut d'Optique Graduate School,France,1670,83,-,-,-,1600,-,-,-,-,-,67.0
+2019,University of Molise,Italy,1671,60,-,-,-,1601,-,-,-,-,-,67.0
+2019,Tunghai University,Taiwan,1672,31,-,1366,-,1602,-,-,-,-,-,67.0
+2019,Duquesne University,USA,1673,316,-,859,-,1625,-,-,-,-,-,67.0
+2019,National Defense Medical College,Japan,1674,112,-,-,-,1606,-,-,-,-,-,67.0
+2019,Cyprus University of Technology,Cyprus,1675,2,-,-,-,1607,-,-,-,-,-,67.0
+2019,Chapman University,USA,1676,317,-,785,-,1632,-,-,-,-,-,67.0
+2019,Shanxi Medical University,China,1677,203,-,-,-,1608,-,-,-,-,-,67.0
+2019,Federal University of Mato Grosso,Brazil,1678,41,-,-,-,1609,-,-,-,-,-,67.0
+2019,University of Zielona Góra,Poland,1679,29,-,-,-,1613,-,-,-,-,-,67.0
+2019,École nationale supérieure de chimie de Montpellier,France,1680,84,-,-,-,1614,-,-,-,-,-,67.0
+2019,Kütahya Dumlupınar University,Turkey,1681,42,-,-,-,1615,-,-,-,-,-,67.0
+2019,Yantai University,China,1682,204,-,-,-,1616,-,-,-,-,-,67.0
+2019,University of Bialystok,Poland,1683,30,-,-,-,1619,-,-,-,-,-,67.0
+2019,University of Dhaka,Bangladesh,1684,1,-,-,-,1620,-,-,-,-,-,67.0
+2019,St. Lawrence University,USA,1685,318,-,98,-,-,-,-,-,-,-,67.0
+2019,Institut supérieur de l'aéronautique et de l'espace,France,1686,85,-,189,-,-,-,-,-,-,-,67.0
+2019,Changchun University of Science and Technology,China,1687,205,-,-,-,1622,-,-,-,-,-,67.0
+2019,Clausthal University of Technology,Germany,1688,68,-,599,-,1680,-,-,-,-,-,67.0
+2019,University of the West of Scotland,United Kingdom,1689,87,-,-,-,1623,-,-,-,-,-,67.0
+2019,University of Paris - Est Marne - la - Vallée,France,1690,86,-,-,-,1624,-,-,-,-,-,67.0
+2019,Shaanxi University of Science and Technology,China,1691,206,-,1172,-,1629,-,-,-,-,-,67.0
+2019,University of Valle,Colombia,1692,7,-,-,-,1626,-,-,-,-,-,67.0
+2019,Chubu University,Japan,1693,113,-,-,-,1627,-,-,-,-,-,66.9
+2019,Jamia Millia Islamia,India,1694,43,-,-,-,1628,-,-,-,-,-,66.9
+2019,Federal University of Ouro Preto,Brazil,1695,42,-,-,-,1630,-,-,-,-,-,66.9
+2019,National United University,Taiwan,1696,32,-,-,-,1633,-,-,-,-,-,66.9
+2019,Guglielmo Marconi University,Italy,1697,61,-,-,-,1635,-,-,-,-,-,66.9
+2019,University of Westminster,United Kingdom,1698,88,446,995,-,1641,-,-,-,-,-,66.9
+2019,North University of China,China,1699,207,-,-,-,1636,-,-,-,-,-,66.9
+2019,University of Nova Gorica,Slovenia,1700,3,-,-,-,1637,-,-,-,-,-,66.9
+2019,University of Alaska Anchorage,USA,1701,319,-,-,-,1638,-,-,-,-,-,66.9
+2019,Federal University of Rio Grande,Brazil,1702,43,-,-,-,1639,-,-,-,-,-,66.9
+2019,ISCTE  -  University Institute of Lisbon,Portugal,1703,11,-,586,-,1707,-,-,-,-,-,66.9
+2019,Yazd University,Iran,1704,29,-,-,-,1640,-,-,-,-,-,66.9
+2019,Guilin University of Electronic Technology,China,1705,208,-,-,-,1642,-,-,-,-,-,66.9
+2019,Eulji University,South Korea,1706,57,-,-,-,1643,-,-,-,-,-,66.9
+2019,Autonomous University of the State of Morelos,Mexico,1707,12,-,-,-,1644,-,-,-,-,-,66.9
+2019,Liaoning University of Technology,China,1708,209,-,-,-,1645,-,-,-,-,-,66.9
+2019,University of the Highlands and Islands,United Kingdom,1709,89,-,-,-,1646,-,-,-,-,-,66.9
+2019,Nagaoka University of Technology,Japan,1710,114,-,-,-,1647,-,-,-,-,-,66.9
+2019,University of Koblenz - Landau,Germany,1711,69,-,-,-,1648,-,-,-,-,-,66.9
+2019,University of Karachi,Pakistan,1712,7,-,-,-,1649,-,-,-,-,-,66.9
+2019,Appalachian State University,USA,1713,320,-,1381,-,1652,-,-,-,-,-,66.9
+2019,King Saud bin Abdulaziz University for Health Sciences,Saudi Arabia,1714,5,-,-,-,1651,-,-,-,-,-,66.9
+2019,IE University,Spain,1715,51,-,144,-,-,-,-,-,-,-,66.9
+2019,Chengdu University of Technology,China,1716,210,-,-,-,1653,-,-,-,-,-,66.9
+2019,Kansai University,Japan,1717,115,-,863,-,1677,-,-,-,-,-,66.9
+2019,Xinjiang Medical University,China,1718,211,-,-,-,1654,-,-,-,-,-,66.8
+2019,Federation University Australia,Australia,1719,38,-,-,-,1655,-,-,-,-,-,66.8
+2019,Amrita Vishwa Vidyapeetham,India,1720,44,-,-,-,1656,-,-,-,-,-,66.8
+2019,Osaka Medical College,Japan,1721,116,-,-,-,1657,-,-,-,-,-,66.8
+2019,Le Mans University,France,1722,87,-,-,-,1658,-,-,-,-,-,66.8
+2019,Annamalai University,India,1723,45,485,-,-,1659,-,-,-,-,-,66.8
+2019,Thapar Institute of Engineering and Technology,India,1724,46,-,-,-,1660,-,-,-,-,-,66.8
+2019,Guangdong Medical University,China,1725,212,-,-,-,1661,-,-,-,-,-,66.8
+2019,Liaoning University,China,1726,213,-,1027,-,1667,-,-,-,-,-,66.8
+2019,National Yunlin University of Science and Technology,Taiwan,1727,33,-,-,-,1662,-,-,-,-,-,66.8
+2019,Western Kentucky University,USA,1728,321,-,-,-,1663,-,-,-,-,-,66.8
+2019,Xavier University,USA,1729,322,-,114,-,-,-,-,-,-,-,66.8
+2019,Yunnan Normal University,China,1730,214,-,-,-,1664,-,-,-,-,-,66.8
+2019,Indian Institute of Technology Hyderabad,India,1731,47,-,-,-,1665,-,-,-,-,-,66.8
+2019,College of Staten Island,USA,1732,323,-,-,-,1666,-,-,-,-,-,66.8
+2019,Mendel University in Brno,Czech Republic,1733,9,-,-,-,1668,-,-,-,-,-,66.8
+2019,Polytechnic Institute of Porto,Portugal,1734,12,-,-,-,1670,-,-,-,-,-,66.8
+2019,Federal Rural University of Rio de Janeiro,Brazil,1735,44,-,-,-,1671,-,-,-,-,-,66.8
+2019,University of Burgos,Spain,1736,52,-,-,-,1672,-,-,-,-,-,66.8
+2019,Dicle University,Turkey,1737,43,-,-,-,1673,-,-,-,-,-,66.8
+2019,Rosalind Franklin University of Medicine and Science,USA,1738,324,-,-,-,1674,-,-,-,-,-,66.8
+2019,China Three Gorges University,China,1739,215,-,1163,-,1681,-,-,-,-,-,66.8
+2019,Sunchon National University,South Korea,1740,58,-,-,-,1675,-,-,-,-,-,66.8
+2019,University of Notre Dame Australia,Australia,1741,39,-,-,-,1676,-,-,-,-,-,66.8
+2019,National Chiayi University,Taiwan,1742,34,-,-,-,1678,-,-,-,-,-,66.8
+2019,University of Cassino and Southern Lazio,Italy,1743,62,-,-,-,1679,-,-,-,-,-,66.8
+2019,Guru Nanak Dev University,India,1744,48,-,1303,-,1682,-,-,-,-,-,66.7
+2019,Institute of Chemical Technology - Mumbai,India,1745,49,-,-,-,1683,-,-,-,-,-,66.7
+2019,National University of Tucumán,Argentina,1746,10,-,-,-,1684,-,-,-,-,-,66.7
+2019,Nanchang Hangkong University,China,1747,216,-,-,-,1686,-,-,-,-,-,66.7
+2019,Van Yüzüncü Yıl University,Turkey,1748,44,-,-,-,1687,-,-,-,-,-,66.7
+2019,West Pomeranian University of Technology - Szczecin,Poland,1749,31,-,-,-,1688,-,-,-,-,-,66.7
+2019,Menoufia University,Egypt,1750,13,-,-,-,1689,-,-,-,-,-,66.7
+2019,SOAS University of London,United Kingdom,1751,90,141,825,-,1815,-,-,-,-,-,66.7
+2019,Royal Military College of Canada,Canada,1752,39,-,1125,-,1698,-,-,-,-,-,66.7
+2019,Gebze Technical University,Turkey,1753,45,-,-,-,1692,-,-,-,-,-,66.7
+2019,Wrocław University of Environmental and Life Sciences,Poland,1754,32,-,-,-,1694,-,-,-,-,-,66.7
+2019,Federal University of Mato Grosso do Sul,Brazil,1755,45,-,-,-,1695,-,-,-,-,-,66.7
+2019,Shandong University of Technology,China,1756,217,-,1293,-,1697,-,-,-,-,-,66.7
+2019,National Changhua University of Education,Taiwan,1757,35,-,-,-,1696,-,-,-,-,-,66.7
+2019,Federal University of Campina Grande,Brazil,1758,46,-,-,-,1699,-,-,-,-,-,66.7
+2019,University of Rajasthan,India,1759,50,-,1460,-,1701,-,-,-,-,-,66.7
+2019,University of North Texas Health Science Center,USA,1760,325,-,-,-,1700,-,-,-,-,-,66.7
+2019,Anhui Agricultural University,China,1761,218,-,-,-,1702,-,-,-,-,-,66.7
+2019,St. Marianna University School of Medicine,Japan,1762,117,-,-,-,1703,-,-,-,-,-,66.7
+2019,Suranaree University of Technology,Thailand,1763,9,-,-,-,1704,-,-,-,-,-,66.7
+2019,XLRI - Xavier School of Management,India,1764,51,-,84,-,-,-,-,-,-,-,66.7
+2019,Bharathiar University,India,1765,52,-,1329,-,1706,-,-,-,-,-,66.7
+2019,Cheikh Anta Diop University of Dakar,Senegal,1766,1,-,-,-,1705,-,-,-,-,-,66.7
+2019,University of Mazandaran,Iran,1767,30,-,-,-,1708,-,-,-,-,-,66.7
+2019,University of San Diego,USA,1768,326,-,384,-,1839,-,-,-,-,-,66.7
+2019,Mazandaran University of Medical Sciences,Iran,1769,31,-,-,-,1710,-,-,-,-,-,66.6
+2019,İnönü University,Turkey,1770,46,-,-,-,1711,-,-,-,-,-,66.6
+2019,Western Norway University of Applied Sciences,Norway,1771,11,-,-,-,1712,-,-,-,-,-,66.6
+2019,Çanakkale Onsekiz Mart University,Turkey,1772,47,-,-,-,1713,-,-,-,-,-,66.6
+2019,University of Ostrava,Czech Republic,1773,10,-,-,-,1715,-,-,-,-,-,66.6
+2019,Harbin University of Science and Technology,China,1774,219,-,-,-,1717,-,-,-,-,-,66.6
+2019,Urmia University,Iran,1775,32,-,-,-,1718,-,-,-,-,-,66.6
+2019,Cracow University of Technology,Poland,1776,33,-,-,-,1719,-,-,-,-,-,66.6
+2019,Yangtze University,China,1777,220,-,918,-,1729,-,-,-,-,-,66.6
+2019,Kawasaki Medical School,Japan,1778,118,-,-,-,1720,-,-,-,-,-,66.6
+2019,Hanbat National University,South Korea,1779,59,-,-,-,1721,-,-,-,-,-,66.6
+2019,Florida Agricultural and Mechanical University,USA,1780,327,-,-,-,1722,-,-,-,-,-,66.6
+2019,Sivas Cumhuriyet University,Turkey,1781,48,-,-,-,1723,-,-,-,-,-,66.6
+2019,Shanghai Maritime University,China,1782,221,-,564,-,1770,-,-,-,-,-,66.6
+2019,Beni Suef University,Egypt,1783,14,-,-,-,1724,-,-,-,-,-,66.6
+2019,Northeast Ohio Medical University,USA,1784,328,-,-,-,1725,-,-,-,-,-,66.6
+2019,Alfaisal University,Saudi Arabia,1785,6,-,-,-,1726,-,-,-,-,-,66.6
+2019,Jimma University,Ethiopia,1786,4,-,-,-,1727,-,-,-,-,-,66.6
+2019,Ahmadu Bello University,Nigeria,1787,2,-,1195,-,1730,-,-,-,-,-,66.6
+2019,Autonomous University of Chile,Chile,1788,13,-,-,-,1731,-,-,-,-,-,66.6
+2019,University of Northern British Columbia,Canada,1789,40,-,-,-,1733,-,-,-,-,-,66.6
+2019,Shanghai Institute of Technology,China,1790,222,-,-,-,1734,-,-,-,-,-,66.6
+2019,Indian Institute of Science Education and Research - Thiruvananthapuram,India,1791,53,-,-,-,1735,-,-,-,-,-,66.6
+2019,Sohag University,Egypt,1792,15,-,-,-,1736,-,-,-,-,-,66.6
+2019,University of La Réunion,France,1793,88,-,-,-,1738,-,-,-,-,-,66.6
+2019,Ludong University,China,1794,223,-,-,-,1739,-,-,-,-,-,66.6
+2019,University of West Bohemia,Czech Republic,1795,11,-,-,-,1740,-,-,-,-,-,66.6
+2019,Liaoning Normal University,China,1796,224,-,1383,-,1741,-,-,-,-,-,66.5
+2019,Indian Institute of Technology Indore,India,1797,54,-,-,-,1742,-,-,-,-,-,66.5
+2019,Shenyang Agricultural University,China,1798,225,-,-,-,1743,-,-,-,-,-,66.5
+2019,Kosin University,South Korea,1799,60,-,-,-,1744,-,-,-,-,-,66.5
+2019,Interdisciplinary Center Herzliya,Israel,1800,9,-,498,-,1826,-,-,-,-,-,66.5
+2019,Gakushuin University,Japan,1801,119,-,272,-,1998,-,-,-,-,-,66.5
+2019,University of Agriculture in Krakow,Poland,1802,34,-,-,-,1745,-,-,-,-,-,66.5
+2019,Southern University and A&M College,USA,1803,329,-,-,-,1746,-,-,-,-,-,66.5
+2019,Far Eastern Federal University,Russia,1804,17,-,-,-,1747,-,-,-,-,-,66.5
+2019,Eduardo Mondlane University,Mozambique,1805,1,-,-,-,1748,-,-,-,-,-,66.5
+2019,University of Peshawar,Pakistan,1806,8,-,-,-,1749,-,-,-,-,-,66.5
+2019,Baqiyatallah University of Medical Sciences,Iran,1807,33,-,-,-,1750,-,-,-,-,-,66.5
+2019,University of Technology of Belfort - Montbéliard,France,1808,89,-,-,-,1752,-,-,-,-,-,66.5
+2019,Open University of Catalonia,Spain,1809,53,-,-,186,-,-,-,-,-,-,66.5
+2019,University of Life Sciences in Lublin,Poland,1810,35,-,-,-,1754,-,-,-,-,-,66.5
+2019,University of Nigeria,Nigeria,1811,3,-,1435,-,1756,-,-,-,-,-,66.5
+2019,Victor Babeș University of Medicine and Pharmacy - Timișoara,Romania,1812,10,-,-,-,1755,-,-,-,-,-,66.5
+2019,Tohoku Fukushi University,Japan,1813,120,-,-,126,-,-,-,-,-,-,66.5
+2019,Nara Women's University,Japan,1814,121,-,-,-,1757,-,-,-,-,-,66.5
+2019,Tezpur University,India,1815,55,-,-,-,1758,-,-,-,-,-,66.5
+2019,Ss. Cyril and Methodius University in Skopje,North Macedonia,1816,1,-,-,-,1760,-,-,-,-,-,66.5
+2019,University of Pannonia,Hungary,1817,8,-,-,-,1761,-,-,-,-,-,66.5
+2019,Mediterranean University of Reggio Calabria,Italy,1818,63,-,-,-,1762,-,-,-,-,-,66.5
+2019,California State University - Sacramento,USA,1819,330,-,659,-,1807,-,-,-,-,-,66.5
+2019,University of Richmond,USA,1820,331,-,-,-,1763,-,-,-,-,-,66.5
+2019,Kanazawa Medical University,Japan,1821,122,-,-,-,1764,-,-,-,-,-,66.5
+2019,PETRONAS University of Technology,Malaysia,1822,8,-,-,-,1765,-,-,-,-,-,66.4
+2019,Kermanshah University of Medical Sciences,Iran,1823,34,-,-,-,1766,-,-,-,-,-,66.4
+2019,Xi'an University of Architecture and Technology,China,1824,226,-,826,-,1789,-,-,-,-,-,66.4
+2019,Meharry Medical College,USA,1825,332,131,-,-,1918,-,-,-,-,-,66.4
+2019,Gettysburg College,USA,1826,333,125,186,-,-,-,-,-,-,-,66.4
+2019,National Institute of Pharmaceutical Education and Research - S.A.S. Nagar,India,1827,56,-,-,-,1768,-,-,-,-,-,66.4
+2019,Aydın Adnan Menderes University,Turkey,1828,49,-,-,-,1769,-,-,-,-,-,66.4
+2019,Peoples' Friendship University of Russia,Russia,1829,18,-,971,-,1784,-,-,-,-,-,66.4
+2019,Catholic University of Portugal,Portugal,1830,13,-,581,-,1834,-,-,-,-,-,66.4
+2019,Hebei Agricultural University,China,1831,227,-,-,-,1771,-,-,-,-,-,66.4
+2019,University of Rzeszów,Poland,1832,36,-,-,-,1772,-,-,-,-,-,66.4
+2019,Pontifical Catholic University of Peru,Peru,1833,2,-,1152,-,1777,-,-,-,-,-,66.4
+2019,National Pingtung University of Science and Technology,Taiwan,1834,36,-,-,-,1773,-,-,-,-,-,66.4
+2019,AgroSup Dijon,France,1835,90,-,-,-,1774,-,-,-,-,-,66.4
+2019,University of Winnipeg,Canada,1836,41,-,-,-,1775,-,-,-,-,-,66.4
+2019,Sophia University,Japan,1837,123,-,347,-,1966,-,-,-,-,-,66.4
+2019,Toyohashi University of Technology,Japan,1838,124,-,-,-,1776,-,-,-,-,-,66.4
+2019,Federal University of Alagoas,Brazil,1839,47,-,-,-,1778,-,-,-,-,-,66.4
+2019,Chia Nan University of Pharmacy & Science,Taiwan,1840,37,-,-,-,1779,-,-,-,-,-,66.4
+2019,Mimar Sinan Fine Arts University,Turkey,1841,50,-,-,-,1780,-,-,-,-,-,66.4
+2019,Oslo Metropolitan University,Norway,1842,12,-,-,-,1781,-,-,-,-,-,66.4
+2019,University of Québec at Chicoutimi,Canada,1843,42,-,-,-,1782,-,-,-,-,-,66.4
+2019,Transilvania University of Brașov,Romania,1844,11,-,-,-,1783,-,-,-,-,-,66.4
+2019,South Dakota School of Mines and Technology,USA,1845,334,205,-,-,1832,-,-,-,-,-,66.4
+2019,Hunan University of Science and Technology,China,1846,228,-,-,-,1785,-,-,-,-,-,66.4
+2019,Zhejiang Chinese Medical University,China,1847,229,-,-,-,1787,-,-,-,-,-,66.4
+2019,University of Colorado Colorado Springs,USA,1848,335,-,-,-,1788,-,-,-,-,-,66.4
+2019,SUNY Maritime College,USA,1849,336,-,165,-,-,-,-,-,-,-,66.3
+2019,Free University of Bozen - Bolzano,Italy,1850,64,-,-,-,1790,-,-,-,-,-,66.3
+2019,Autonomous University of Baja California,Mexico,1851,13,-,-,-,1791,-,-,-,-,-,66.3
+2019,University of Veracruz,Mexico,1852,14,-,-,-,1792,-,-,-,-,-,66.3
+2019,Technical University of Ostrava,Czech Republic,1853,12,-,706,-,1824,-,-,-,-,-,66.3
+2019,Duy Tan University,Vietnam,1854,3,-,-,-,1793,-,-,-,-,-,66.3
+2019,University of Hawaii at Hilo,USA,1855,337,-,-,-,1794,-,-,-,-,-,66.3
+2019,University of North Florida,USA,1856,338,-,-,-,1795,-,-,-,-,-,66.3
+2019,Hatay Mustafa Kemal University,Turkey,1857,51,-,-,-,1796,-,-,-,-,-,66.3
+2019,Bahauddin Zakariya University,Pakistan,1858,9,-,-,-,1797,-,-,-,-,-,66.3
+2019,Siberian Federal University,Russia,1859,19,-,-,-,1798,-,-,-,-,-,66.3
+2019,University of Ruhuna,Sri Lanka,1860,2,-,-,-,1799,-,-,-,-,-,66.3
+2019,Vilnius Gediminas Technical University,Lithuania,1861,4,-,-,-,1800,-,-,-,-,-,66.3
+2019,Minya University,Egypt,1862,16,-,-,-,1801,-,-,-,-,-,66.3
+2019,Henan University of Technology,China,1863,230,-,-,-,1802,-,-,-,-,-,66.3
+2019,Indian Institute of Technology Gandhinagar,India,1864,57,-,-,-,1803,-,-,-,-,-,66.3
+2019,National University of Kaohsiung,Taiwan,1865,38,-,-,-,1804,-,-,-,-,-,66.3
+2019,Davidson College,USA,1866,339,-,138,-,-,-,-,-,-,-,66.3
+2019,Federal University of Piauí,Brazil,1867,48,-,-,-,1805,-,-,-,-,-,66.3
+2019,University of South - Eastern Norway,Norway,1868,13,-,-,-,1806,-,-,-,-,-,66.3
+2019,Bharathidasan University,India,1869,58,-,-,-,1808,-,-,-,-,-,66.3
+2019,Bahir Dar University,Ethiopia,1870,5,-,-,-,1809,-,-,-,-,-,66.3
+2019,Kennesaw State University,USA,1871,340,-,-,-,1810,-,-,-,-,-,66.3
+2019,University of Kurdistan,Iran,1872,35,-,-,-,1812,-,-,-,-,-,66.3
+2019,University of Cartagena,Colombia,1873,8,-,-,-,1813,-,-,-,-,-,66.3
+2019,Morehouse School of Medicine,USA,1874,341,-,-,-,1814,-,-,-,-,-,66.3
+2019,Tokyo University of Agriculture,Japan,1875,125,-,-,-,1816,-,-,-,-,-,66.3
+2019,University of Talca,Chile,1876,14,-,-,-,1817,-,-,-,-,-,66.2
+2019,Edinburgh Napier University,United Kingdom,1877,91,-,-,-,1818,-,-,-,-,-,66.2
+2019,University of Jammu,India,1878,59,-,-,-,1819,-,-,-,-,-,66.2
+2019,Grand Valley State University,USA,1879,342,-,-,-,1820,-,-,-,-,-,66.2
+2019,Federal University of Triângulo Mineiro,Brazil,1880,49,-,-,-,1821,-,-,-,-,-,66.2
+2019,Istanbul Bilgi University,Turkey,1881,52,-,-,-,1822,-,-,-,-,-,66.2
+2019,Federal University of Amazonas,Brazil,1882,50,-,-,-,1823,-,-,-,-,-,66.2
+2019,University of the Pacific,USA,1883,343,-,1017,-,1831,-,-,-,-,-,66.2
+2019,USI - University of Italian Speaking Switzerland,Switzerland,1884,12,-,-,227,-,-,-,-,-,-,66.2
+2019,Kyoto University of Education,Japan,1885,126,-,-,-,1825,-,-,-,-,-,66.2
+2019,University of Kinshasa,Democratic Republic of the Congo,1886,1,-,-,-,1827,-,-,-,-,-,66.2
+2019,Asahikawa Medical University,Japan,1887,127,-,-,-,1828,-,-,-,-,-,66.2
+2019,Chongqing Normal University,China,1888,231,-,-,-,1829,-,-,-,-,-,66.2
+2019,Iona College,USA,1889,344,-,194,-,-,-,-,-,-,-,66.2
+2019,Tokyo University of Marine Science and Technology,Japan,1890,128,-,879,-,1849,-,-,-,-,-,66.2
+2019,National Institute of Mental Health and Neurosciences,India,1891,60,-,-,-,1830,-,-,-,-,-,66.2
+2019,University of Pardubice,Czech Republic,1892,13,-,-,-,1833,-,-,-,-,-,66.2
+2019,University of Chinese Academy of Social Sciences,China,1893,232,-,92,-,-,-,-,-,-,-,66.2
+2019,National Chi Nan University,Taiwan,1894,39,-,-,-,1835,-,-,-,-,-,66.2
+2019,Homi Bhabha National Institute,India,1895,61,-,-,-,1836,-,-,-,-,-,66.2
+2019,Birzeit University,Palestine,1896,1,-,-,-,1837,-,-,-,-,-,66.2
+2019,Konan University,Japan,1897,129,-,950,-,1851,-,-,-,-,-,66.2
+2019,Guangdong Pharmaceutical University,China,1898,233,-,-,-,1840,-,-,-,-,-,66.2
+2019,University of Roehampton,United Kingdom,1899,92,-,-,-,1841,-,-,-,-,-,66.2
+2019,Sree Chitra Tirunal Institute for Medical Sciences and Technology,India,1900,62,-,-,-,1842,-,-,-,-,-,66.2
+2019,Ningxia Medical University,China,1901,234,-,-,-,1843,-,-,-,-,-,66.2
+2019,Humanitas University,Italy,1902,65,-,-,235,2000,-,-,-,-,-,66.2
+2019,Harbin Normal University,China,1903,235,-,1446,-,1844,-,-,-,-,-,66.1
+2019,Beijing Technology and Business University,China,1904,236,-,964,-,1859,-,-,-,-,-,66.1
+2019,The New School,USA,1905,345,492,-,-,1846,-,-,-,-,-,66.1
+2019,Simmons University,USA,1906,346,-,-,-,1845,-,-,-,-,-,66.1
+2019,Dongbei University of Finance and Economics,China,1907,237,-,130,-,-,-,-,-,-,-,66.1
+2019,University of Bergamo,Italy,1908,66,-,-,-,1847,-,-,-,-,-,66.1
+2019,Jilin Agricultural University,China,1909,238,-,-,-,1848,-,-,-,-,-,66.1
+2019,Acadia University,Canada,1910,43,426,458,-,1968,-,-,-,-,-,66.1
+2019,Daegu University,South Korea,1911,61,-,-,-,1850,-,-,-,-,-,66.1
+2019,Polytechnic Institute of Bragança,Portugal,1912,14,-,-,-,1852,-,-,-,-,-,66.1
+2019,University of Desarrollo,Chile,1913,15,-,-,-,1853,-,-,-,-,-,66.1
+2019,Sam Houston State University,USA,1914,347,-,1387,-,1854,-,-,-,-,-,66.1
+2019,Alborz University of Medical Sciences,Iran,1915,36,-,-,-,1855,-,-,-,-,-,66.1
+2019,Yeditepe University,Turkey,1916,53,-,-,-,1856,-,-,-,-,-,66.1
+2019,Mae Fah Luang University,Thailand,1917,10,-,-,-,1857,-,-,-,-,-,66.1
+2019,Indian Institute of Science Education and Research - Bhopal,India,1918,63,-,-,-,1858,-,-,-,-,-,66.1
+2019,Lyon 2 University,France,1919,91,-,1049,-,1865,-,-,-,-,-,66.1
+2019,École nationale supérieure de formation de l’enseignement agricole,France,1920,92,-,-,-,1860,-,-,-,-,-,66.1
+2019,Indian Institute of Engineering Science and Technology - Shibpur,India,1921,64,-,-,-,1861,-,-,-,-,-,66.1
+2019,Benha University,Egypt,1922,17,-,-,-,1862,-,-,-,-,-,66.1
+2019,Guilin University of Technology,China,1923,239,-,-,-,1863,-,-,-,-,-,66.1
+2019,Pakistan Institute of Engineering and Applied Sciences,Pakistan,1924,10,-,-,-,1864,-,-,-,-,-,66.1
+2019,Zhengzhou University of Light Industry,China,1925,240,-,-,-,1866,-,-,-,-,-,66.1
+2019,Tshwane University of Technology,South Africa,1926,13,-,-,-,1867,-,-,-,-,-,66.1
+2019,Kettering University,USA,1927,348,-,108,-,-,-,-,-,-,-,66.1
+2019,Jönköping University,Sweden,1928,19,-,1448,-,1868,-,-,-,-,-,66.1
+2019,University of the Azores,Portugal,1929,15,-,-,-,1870,-,-,-,-,-,66.1
+2019,Yerevan State University,Armenia,1930,1,-,-,-,1872,-,-,-,-,-,66.1
+2019,École centrale de Nantes,France,1931,93,-,-,-,1873,-,-,-,-,-,66.0
+2019,Josip Juraj Strossmayer University of Osijek,Croatia,1932,4,-,-,-,1874,-,-,-,-,-,66.0
+2019,Bahçeşehir University,Turkey,1933,54,-,-,-,1875,-,-,-,-,-,66.0
+2019,Ferhat Abbas Sétif University 1,Algeria,1934,3,-,-,-,1876,-,-,-,-,-,66.0
+2019,V. N. Karazin Kharkiv National University,Ukraine,1935,2,523,-,-,1877,-,-,-,-,-,66.0
+2019,Pondicherry University,India,1936,65,-,-,-,1878,-,-,-,-,-,66.0
+2019,Open University of the Netherlands,Netherlands,1937,14,-,-,-,1879,-,-,-,-,-,66.0
+2019,Kahramanmaraş Sütçü İmam University,Turkey,1938,55,-,-,-,1880,-,-,-,-,-,66.0
+2019,Polytechnic University of Timișoara,Romania,1939,12,-,-,-,1881,-,-,-,-,-,66.0
+2019,Sichuan Normal University,China,1940,241,-,-,-,1882,-,-,-,-,-,66.0
+2019,Bates College,USA,1941,349,-,188,-,-,-,-,-,-,-,66.0
+2019,Necmettin Erbakan University,Turkey,1942,56,-,-,-,1883,-,-,-,-,-,66.0
+2019,Connecticut College,USA,1943,350,-,137,-,-,-,-,-,-,-,66.0
+2019,University of Lagos,Nigeria,1944,4,-,-,-,1884,-,-,-,-,-,66.0
+2019,Istanbul Aydın University,Turkey,1945,57,-,-,-,1885,-,-,-,-,-,66.0
+2019,University of Havana,Cuba,1946,1,-,-,-,1886,-,-,-,-,-,66.0
+2019,Middlebury College,USA,1947,351,-,686,-,1930,-,-,-,-,-,66.0
+2019,American University in Cairo,Egypt,1948,18,-,301,-,-,-,-,-,-,-,66.0
+2019,Lebanese University,Lebanon,1949,2,-,-,-,1887,-,-,-,-,-,66.0
+2019,North Carolina A&T State University,USA,1950,352,-,-,-,1888,-,-,-,-,-,66.0
+2019,Xinxiang Medical University,China,1951,242,-,-,-,1890,-,-,-,-,-,66.0
+2019,International University of Health and Welfare,Japan,1952,130,-,-,-,1891,-,-,-,-,-,66.0
+2019,Santa Catarina State University,Brazil,1953,51,-,938,-,1899,-,-,-,-,-,66.0
+2019,Antioch College,USA,1954,353,52,-,-,-,-,-,-,-,-,66.0
+2019,Kyonggi University,South Korea,1955,62,-,-,-,1892,-,-,-,-,-,66.0
+2019,Corvinus University of Budapest,Hungary,1956,9,-,315,-,-,-,-,-,-,-,66.0
+2019,China West Normal University,China,1957,243,-,-,-,1893,-,-,-,-,-,66.0
+2019,Central University of Finance and Economics,China,1958,244,-,838,-,1915,-,-,-,-,-,66.0
+2019,Technical University of Košice,Slovak Republic,1959,4,-,-,-,1894,-,-,-,-,-,65.9
+2019,Chung Hua University,Taiwan,1960,40,-,-,-,1895,-,-,-,-,-,65.9
+2019,University of Sharjah,United Arab Emirates,1961,3,-,-,-,1896,-,-,-,-,-,65.9
+2019,Çağ University,Turkey,1962,58,-,-,-,1897,-,-,-,-,-,65.9
+2019,Leeds Beckett University,United Kingdom,1963,93,-,-,-,1898,-,-,-,-,-,65.9
+2019,Szent István University,Hungary,1964,10,-,-,-,1900,-,-,-,-,-,65.9
+2019,Kerman University of Medical Sciences,Iran,1965,37,-,-,-,1901,-,-,-,-,-,65.9
+2019,École des hautes études en santé publique,France,1966,94,-,-,-,1902,-,-,-,-,-,65.9
+2019,Yanbian University,China,1967,245,-,-,-,1903,-,-,-,-,-,65.9
+2019,Shanghai University of Electric Power,China,1968,246,-,-,-,1904,-,-,-,-,-,65.9
+2019,Hashemite University,Jordan,1969,3,-,-,-,1905,-,-,-,-,-,65.9
+2019,Federal University of Maranhão,Brazil,1970,52,-,-,-,1906,-,-,-,-,-,65.9
+2019,Athens University of Economics and Business,Greece,1971,13,-,1323,-,1909,-,-,-,-,-,65.9
+2019,Shanxi Normal University,China,1972,247,-,-,-,1908,-,-,-,-,-,65.9
+2019,University of Wolverhampton,United Kingdom,1973,94,-,-,-,1910,-,-,-,-,-,65.9
+2019,Kunsan National University,South Korea,1974,63,-,-,-,1911,-,-,-,-,-,65.9
+2019,Sri Ramachandra Institute of Higher Education and Research,India,1975,66,-,-,-,1912,-,-,-,-,-,65.9
+2019,American University of Sharjah,United Arab Emirates,1976,4,-,-,-,1913,-,-,-,-,-,65.9
+2019,Bolu Abant İzzet Baysal University,Turkey,1977,59,-,-,-,1914,-,-,-,-,-,65.9
+2019,Tôn Đức Thắng University,Vietnam,1978,4,-,-,-,1916,-,-,-,-,-,65.9
+2019,Taibah University,Saudi Arabia,1979,7,-,-,-,1917,-,-,-,-,-,65.9
+2019,University of Massachusetts Dartmouth,USA,1980,354,-,1106,-,1926,-,-,-,-,-,65.9
+2019,Częstochowa University of Technology,Poland,1981,37,-,-,-,1919,-,-,-,-,-,65.9
+2019,California State Polytechnic University - Pomona,USA,1982,355,-,-,-,1920,-,-,-,-,-,65.9
+2019,Asian Institute of Technology,Thailand,1983,11,-,306,-,-,-,-,-,-,-,65.9
+2019,Catholic Kwandong University,South Korea,1984,64,-,-,-,1921,-,-,-,-,-,65.9
+2019,University of Piraeus,Greece,1985,14,-,996,-,1936,-,-,-,-,-,65.9
+2019,Bezmialem Vakıf University,Turkey,1986,60,-,-,-,1922,-,-,-,-,-,65.9
+2019,Jamia Hamdard,India,1987,67,-,-,-,1923,-,-,-,-,-,65.8
+2019,Minzu University of China,China,1988,248,-,-,-,1924,-,-,-,-,-,65.8
+2019,Technical University of Cluj - Napoca,Romania,1989,13,-,-,-,1925,-,-,-,-,-,65.8
+2019,Loyola Marymount University,USA,1990,356,-,835,-,1952,-,-,-,-,-,65.8
+2019,Colby College,USA,1991,357,-,318,-,-,-,-,-,-,-,65.8
+2019,Institut national des sciences appliquées de Rennes,France,1992,95,-,-,-,1927,-,-,-,-,-,65.8
+2019,University of Primorska,Slovenia,1993,4,-,-,-,1928,-,-,-,-,-,65.8
+2019,Linyi University,China,1994,249,-,-,-,1929,-,-,-,-,-,65.8
+2019,Pace University,USA,1995,358,-,205,-,-,-,-,-,-,-,65.8
+2019,University of Klagenfurt,Austria,1996,17,-,-,-,1931,-,-,-,-,-,65.8
+2019,National University of Río Cuarto,Argentina,1997,11,-,-,-,1932,-,-,-,-,-,65.8
+2019,Osmania University,India,1998,68,505,1035,-,1942,-,-,-,-,-,65.8
+2019,Muğla Sıtkı Koçman University,Turkey,1999,61,-,-,-,1933,-,-,-,-,-,65.8
+2019,Government College University Faisalabad,Pakistan,2000,11,-,-,-,1934,-,-,-,-,-,65.8

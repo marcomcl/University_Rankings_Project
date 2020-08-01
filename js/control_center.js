@@ -36,6 +36,7 @@ function removeGraphsTeacher(){
 }
 
 function updateGraphs(){
+    console.log("chiamato update dopo lifeCostChanged in control_center.js ");
     if(dl.student){
         updateParallel();
         updateMap();
@@ -52,6 +53,7 @@ function updateFilteredGraphs(e){
    // updateHeat();
    // updateBar();
     //updateScatter();
+
     if(e.type == "parFilterChanged"){
         updateMap();
         updateHeat();
@@ -116,6 +118,11 @@ dl.addListener('yearChanged', function (e) {
 
 dl.addListener('rankChanged', function (e) {
 
+    updateGraphs();
+});
+
+dl.addListener('lifeCostChanged', function (e) {
+    console.log("chiamato lifeCostChanged in control_center.js");
     updateGraphs();
 });
 

@@ -25,12 +25,13 @@ from sklearn.preprocessing import StandardScaler
 
 #regular expression to convert not understandable values
 import re
-
+"""
 #############################################################################
 #                   first PCA per lo studente
 #############################################################################
 data = []
-with open("finalDataset.csv", mode='r', encoding="utf-8") as csv_file:
+#with open("finalDataset.csv", mode='r', encoding="utf-8") as csv_file:
+with open("dataSetConNumbeo_1Agosto.csv", mode='r', encoding="utf-8") as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     #print(csv_reader)
     line_count = 0
@@ -44,6 +45,7 @@ with open("finalDataset.csv", mode='r', encoding="utf-8") as csv_file:
     print(f'Processed {line_count} lines from files')
     
 
+print(header)
 coordinatesLatLong = [] #toBeAdded
 data_for_pca = []
 
@@ -53,8 +55,8 @@ counter_data = 0;
 for el in data:
     #if counter_data < 10:
     cwur_world_rank = el[header.index("cwur_world_rank")]
-    sha_rank = el[header.index("sha_World Rank")]
-    #the_rank = el[header.index("the_rank")]
+    sha_rank = el[header.index("shg_world_rank")]
+    the_rank = el[header.index("the_rank")]
     #print("el vale: ",el)
     #attributes scelti
     #latitude =  el[header.index('latitude')]
@@ -66,6 +68,10 @@ for el in data:
     the_international_outlook =  el[header.index('the_international_outlook')]
     latitude = el[header.index('latitude')]
     longitude = el[header.index('longitude')] 
+    affitto_e_vita = el[header.index('indice_affitto_e_vita')]
+    generi_alimentari = el[header.index('generi_alimentari')]
+    #print(affitto_e_vita)
+    print(generi_alimentari)
     if latitude == "":
         print("Bella ciao ciao ciao")
         #counter2 += 1
@@ -86,7 +92,10 @@ for el in data:
         pca7 = str(sha_rank)
         pca8 = str(cwur_world_rank)
         #pca9 = str(the_rank)
-        
+        #pca9 = str()
+        #print("pca9 vale ", pca9);
+        pca10 = str(affitto_e_vita)
+        pca11 = str(generi_alimentari)
         #gestione pca7
         if "-" in pca7:
             new_pca7 = pca7.split("-")
@@ -98,11 +107,18 @@ for el in data:
         
         
         
+        if "-" in pca9:
+            new_pca9 = pca9.split("-")
+            #print("- in pca7")
+            pca9 = ((float(new_pca9[0])-1) + float(new_pca9[1]))/2
+            pca9 = str(pca9)
+            print("new_pca_9 : ",new_pca9)
+            print("pca9 finale : ",pca9)
         
         
         #print("the_rank = ", pca9)
         counter2 += 1
-        data_for_pca.append([pca1,pca2,pca3,pca4,pca5,pca6,pca7,pca8])
+        data_for_pca.append([pca1,pca2,pca3,pca4,pca5,pca6,pca7,pca8,pca10,pca11])
     counter += 1
     #counter_data += 1
     
@@ -152,13 +168,13 @@ with open("finaDataset.csv", 'w', newline='',encoding="utf-8") as csvfile:
         el.extend(principalComponents[index])
         writer.writerow(el)
         index += 1
-
+"""
 #############################################################################
 #                   second PCA per il rettore
 #############################################################################
 
 data = []
-with open("finaDatasetPCAon7att.csv", mode='r', encoding="utf-8") as csv_file:
+with open("finaDataset.csv", mode='r', encoding="utf-8") as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     print(csv_reader)
     line_count = 0
@@ -295,7 +311,7 @@ plt.legend()
 plt.title('Transformed data from sklearn.decomposition import PCA (7 attributes)')
 plt.show()
 
-with open("finaDataset.csv", 'w', newline='',encoding="utf-8") as csvfile:
+with open("finaDatasetConNumbeo_2PCA.csv", 'w', newline='',encoding="utf-8") as csvfile:
     print(header)
     writer = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
     lenComponents = len(principalComponents)
