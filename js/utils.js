@@ -29,16 +29,16 @@ function setRankRange(min, max){
 
 function setLifeCostRange(min, max){
     console.log("############## chiamato setLifeCostRange");
-    ran = document.getElementById("lifeCost");
-    console.log("############## ran vale:",ran);
-    ran.min = min;
-    ran.max = max;
-    ran.value = curLifeCost = parseInt(max/2);
-    console.log("############## ran.value vale ",ran.value);
-    ran.addEventListener('input', function () {
+    lfc = document.getElementById("lifeCost");
+    console.log("############## ran vale:",lfc);
+    lfc.min = min;
+    lfc.max = max;
+    lfc.value = curLifeCost = parseInt(max/2);
+    console.log("############## ran.value vale ",lfc.value);
+    lfc.addEventListener('input', function () {
         console.log("############## evento input");
 
-        dl.changeFilterLifeCost(curRank,ran.value);
+        dl.changeFilterLifeCost(curRank,lfc.value);
     });
     document.getElementById("top2").innerHTML = "Life Cost: "+ curLifeCost + " [numbeo]";
 }
