@@ -184,8 +184,9 @@ function initLollipop(){
 	        .attr("cx", function(d) { return x(d.the_institution); })
 	        .attr("cy", function(d) { return y(d.value); })
 	        .attr("r", 8)
-			.attr("fill", "#69b3a2")
-        .on("mouseover",function(){
+			.attr("fill", "#69b3a2");
+
+        svg_lollipop.selectAll("circle").on("mouseover",function(){
 	        	var attribute = d3.select(this).attr("val")
 	        	console.log(attribute)
 	           tooltipLol
