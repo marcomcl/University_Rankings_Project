@@ -155,7 +155,7 @@ function initHeat(){
         .style("fill", colors.getColorUniversity())
         .text(function (d) { /*console.log(d);*/return d; });
 
-
+        //x.tickSizeOuter(0);
   // disegna asse delle y con le specifiche indicate
   var y = d3.scaleBand()
     .range([height_heatmap, 0 ])

@@ -22,11 +22,11 @@ function initParallel(){
     countries = [];
       /////////////////////////////////////
     var legend = svg_par.selectAll('legend')
-        .data(['university','selected', 'selected from scatter'])
+        .data(['university','selected from scatter'])
         .enter().append('g')
         .attr('class', 'legend')
         .attr('transform', function (d, i) { return 'translate(500,' + i * 20 + ')'; });
-
+/*
       legend.append('rect')
         .attr('x', width_scatter)
         .attr('width', 15)
@@ -41,6 +41,58 @@ function initParallel(){
         .style('text-anchor', 'end')
         .style("fill", colors.getColorUniversity())
         .text(function (d) { return d; });
+*/
+
+
+
+         legend.append('rect')
+      .attr('x', width_scatter)
+      .attr('width', 15)
+      .attr('height', 15)
+      .attr('class', 'legend_rect')
+     .style('fill', function (d) { 
+        //console.log("d  ", d);
+          if(d == "university"){
+            return colors.getColorUniversity();
+          }
+    
+          else if(d == "selected from scatter"){
+            return  colors.getColorUniversityScatter();
+          }
+          else{
+
+            return "black";
+
+          }
+
+        });
+
+    legend.append('text')
+      .attr('x', width_scatter - 2)
+      .attr('y', 9)
+      .attr('dy', '.25em')
+      .style('text-anchor', 'end')
+
+          .style('fill', function (d) { 
+
+          if(d == "university"){
+            return colors.getColorUniversity();
+          }
+          else if(d == "selected"){
+            return colors.getColorSelectedUniversity();
+          }
+          else if(d == "selected from scatter"){
+            return  colors.getColorUniversityScatter();
+          }
+          else{
+
+            return "black";
+
+          }
+
+        })
+      .text(function (d) { return d; });
+
 
 
 

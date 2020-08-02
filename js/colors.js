@@ -15,10 +15,13 @@ Colors.prototype.setDarkMode = function (enabled) {
 }
 
 Colors.prototype.parallelHighlight = function () {
-    return '#99d8c9'; //prima #ff0000
+	//return '#ff0000';
+     // return '#99d8c9'; //prima #ff0000
+    return '#3397de';
 }
 
 Colors.prototype.parallelNormal = function () {
+	//return '#31a354';
     return "#2ca25f"; //prima #31a354
 }
 
@@ -58,7 +61,8 @@ Colors.prototype.getColorMarginCountry = function () {
 }
 
 Colors.prototype.getColorUniversity = function () {
-    return '#99d8c9'; //prima #f03b20
+	return '#2ca25f'; 
+    //return '#99d8c9'; //prima #f03b20
 }
 
 Colors.prototype.getColorUniversityScatter = function () {
@@ -77,12 +81,14 @@ Colors.prototype.getStartColorCountry= function () {
 
 Colors.prototype.getBackgroundColor = function () {
     if (this.isDarkModeEnabled()) return "#193e51";
-    else return "#ffffff";
+    //else return "#ffffff";
+    else return "#ebebe4";
 }
 
 Colors.prototype.getHeaderBackgroundColor = function () {
     if (this.isDarkModeEnabled()) return "#506a70";
-    else return "#f0f0f0";
+   // else return "#f0f0f0";
+   else return "#e3e3e3";
 }
 
 Colors.prototype.getTextColor = function () {

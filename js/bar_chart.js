@@ -48,7 +48,18 @@ function initBar(){
     x_bar = svg_bar.append("g")
     .attr("class", "x_bar_chart")
     .attr("transform", "translate(0," + heightBar + ")")
-    .call(d3.axisBottom(x));
+    .text("Stock Price")
+    .call(d3.axisBottom(x))
+    .append("text")
+         .attr("transform", "traslate(0,10)")
+         //.attr("y", 6)
+         .attr("dy", "-5.1em")
+         .attr("text-anchor", "end")
+         .attr("stroke", "black")
+         .text("Stock Price");
+
+
+
 
     x_bar.selectAll("text")
         .attr("transform", "translate(2,0)")
@@ -85,7 +96,7 @@ function initBar(){
 
     y_bar.select(".domain")
         .style("stroke", colors.getTextColor());
-
+   
     // bars
 
     svg_bar.selectAll("rect")

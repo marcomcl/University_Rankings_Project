@@ -20,6 +20,7 @@ var svg_scatter = d3.select(".scatterplot_area").append("svg")
 function initScatter(){
 
         /////////////////////////////////////
+    /*
     data_legend = [];
 
     if (dl.student == true) data_legend = ['university','selected', 'selected from scatter'];
@@ -48,7 +49,7 @@ function initScatter(){
         .style("fill", colors.getColorUniversity())
         .text(function (d) { return d; });
 
-
+    */
 
 
 
