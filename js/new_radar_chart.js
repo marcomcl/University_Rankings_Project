@@ -135,7 +135,8 @@ function initRadarChart(){
       dataPoints.push(point_USA);
     }
 
-    //console.log("dataPoints: ",dataPoints);
+
+    console.log("############ NEW RADAR ############### dataPoints: ",dataPoints);
 
 
 

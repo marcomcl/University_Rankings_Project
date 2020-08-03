@@ -122,12 +122,11 @@ function initBar(){
                 return colors.barChart();
             }
         })
-               
-         
         .attr("transform","translate(1,0)")
         .transition()
         .duration(800)
         .delay(function(d,i){return(i*100)});
+
 
     //animation
     svg_bar.selectAll("rect")

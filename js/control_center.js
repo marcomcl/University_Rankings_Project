@@ -36,7 +36,7 @@ function removeGraphsTeacher(){
 }
 
 function updateGraphs(){
-    console.log("chiamato update dopo lifeCostChanged in control_center.js ");
+    //console.log("chiamato update dopo lifeCostChanged in control_center.js ");
     if(dl.student){
         updateParallel();
         updateMap();
@@ -44,6 +44,10 @@ function updateGraphs(){
     }
     updateBar();
     updateScatter();
+    updateLollipop();
+    updateConnected();
+    updateLegend();
+    updateRadarChart();
     //updateLollipop();
     
 }
@@ -111,13 +115,19 @@ dl.addListener('dataReady', function (e) {
 
 dl.addListener('yearChanged', function (e) {
     //updateGraphs();
-    //console.log("chiamato cambio anno");
+    console.log("chiamato cambio anno");
     //console.log(dl.uniRadarChart);
     updateFilteredGraphs(e);
 });
 
 dl.addListener('rankChanged', function (e) {
 
+    updateGraphs();
+});
+
+
+dl.addListener('legendFilter', function (e) {
+    //console.log("legendFilter chiamato");
     updateGraphs();
 });
 

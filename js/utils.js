@@ -28,15 +28,15 @@ function setRankRange(min, max){
 }
 
 function setLifeCostRange(min, max){
-    console.log("############## chiamato setLifeCostRange");
+    //console.log("############## chiamato setLifeCostRange");
     lfc = document.getElementById("lifeCost");
-    console.log("############## ran vale:",lfc);
+    //console.log("############## ran vale:",lfc);
     lfc.min = min;
     lfc.max = max;
     lfc.value = curLifeCost = parseInt(max/2);
-    console.log("############## ran.value vale ",lfc.value);
+    //console.log("############## ran.value vale ",lfc.value);
     lfc.addEventListener('input', function () {
-        console.log("############## evento input");
+        //console.log("############## evento input");
 
         dl.changeFilterLifeCost(curRank,lfc.value);
     });
@@ -62,11 +62,14 @@ function switchUser()
     dl.student = !dl.student;
 
     if(!dl.student){
+
+
             removeGraphsStud();
             document.getElementById("bg").style.visibility = "visible";
             dl.keyLegend.splice(0,dl.keyLegend.length);
 
     }else{
+
             dl.university = "";
             dl.coloreUniversityRector = "";
             document.getElementById("uni").value = "";
@@ -83,16 +86,24 @@ function switchUser()
             document.getElementById("lollipop").style.display = "none";
             document.getElementById("bg").style.visibility = "hidden";
             document.getElementById("slider").style.visibility = "visible";
+            document.getElementById("slider2").style.visibility = "visible";
+
 
             //svuoto la legenda
             dl.keyLegend.splice(0,dl.keyLegend.length);
+
+            document.getElementById("title_rector").innerHTML = ""; 
+
+
+   
+
 
 
     }
 }
 
 function initTeacher(){
-
+    //console.log("chiamato teacher");
     manageTeacherStuffs();
 
     dl.initUniData();
@@ -109,7 +120,22 @@ function initTeacher(){
     document.getElementById("connected").style.display = "block"; 
     document.getElementById("legend").style.display = "block";
     document.getElementById("bg").style.visibility = "hidden";
-    document.getElementById("slider").style.visibility = "hidden";
+    //document.getElementById("slider").style.visibility = "hidden";
+
+    document.getElementById("slider2").style.visibility = "hidden";
+
+
+    //span = document.getElementById("title_rector");
+    //txt = document.createTextNode(dl.university);
+    //span.appendChild(txt);
+
+    document.getElementById("title_rector").innerHTML = "<b>"+dl.university+"</b>"; 
+
+    dl.numberOfUniInCountry = dl.universityDelPaeseDellaMiaScelta.length;
+    document.getElementById("top").innerHTML = "Top " + 0 + " /"+dl.numberOfUniInCountry;
+
+
+
 
 }
 
@@ -155,6 +181,7 @@ function manageTeacherStuffs(){
 
     //console.log("UTIL.JS dl.data",dl.data);
     //riempio universityDelPaeseDellaMiaScelta
+    //console.log("from utils: ",dl.universityDelPaeseDellaMiaScelta);
      for( el in dl.data){
 
         if(dl.data[el].the_country == dl.universityCountry){
@@ -165,7 +192,7 @@ function manageTeacherStuffs(){
 
      //di questo prendo il range di 10 che caratterizzano l'uni del rettore
 
-     dl.indice_di_range = dl.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
+     /*dl.indice_di_range = dl.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
      //console.log("index: ", dl.indice_di_range);
 
      //ar2 = [];
@@ -180,7 +207,7 @@ function manageTeacherStuffs(){
         dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-10, indice_di_range);
 
 
-     }
+     }*/
 
     dl.coordinatesPCATeacher.splice(0,dl.coordinatesPCATeacher.length);
 

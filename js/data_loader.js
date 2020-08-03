@@ -55,6 +55,9 @@ DataLoader  = function(){
     this.coloreUniversityRector = "";
 
     this.uniDataConnected = [];
+    //per il filtraggio dalla legenda in modalita rettore
+    this.numberOfUniInCountry = 0;
+    this.cliccateInLegenda = [];
 }
 
 //year_Selezionato = 2019;
@@ -154,11 +157,11 @@ DataLoader.prototype.loadData = function(){
         //console.log("min_rank ",min_rank);
         //console.log("max_rank ",max_rank);
 
-        console.log(" min life cost",min_life_cost);
-        console.log(" max life cost",max_life_cost);
+        //console.log(" min life cost",min_life_cost);
+        //console.log(" max life cost",max_life_cost);
 
-        console.log("curLifeCost ", curLifeCost);
-        console.log("curRank ", curRank);
+        //console.log("curLifeCost ", curLifeCost);
+        //console.log("curRank ", curRank);
 
 
         setLifeCostRange(min_life_cost,max_life_cost);
@@ -400,56 +403,178 @@ DataLoader.prototype.changeYear = function(y){
 }
 
 DataLoader.prototype.changeFilter = function(r){
-    this.data.splice(0, this.data.length);
-    this.filteredPar.splice(0, this.filteredPar.length);
-    this.uniCoordinates.splice(0, this.uniCoordinates.length);
-    this.coordinatesPCA.splice(0, this.coordinatesPCA.length);
-    this.dotHighlighted.splice(0, this.dotHighlighted.length);
+	if(dl.student){
+	    this.data.splice(0, this.data.length);
+	    this.filteredPar.splice(0, this.filteredPar.length);
+	    this.uniCoordinates.splice(0, this.uniCoordinates.length);
+	    this.coordinatesPCA.splice(0, this.coordinatesPCA.length);
+	    this.dotHighlighted.splice(0, this.dotHighlighted.length);
 
-    for(i in this.allData){
-        rank = parseInt(this.allData[i].cwur_world_rank);
- 
+	    for(i in this.allData){
+	        rank = parseInt(this.allData[i].cwur_world_rank);
+	 
 
-        if(parseInt(this.allData[i].year) == curYear && rank <= parseInt(r) ){
-            this.data.push(this.allData[i]);
-            this.filteredPar.push(this.allData[i]);
+	        if(parseInt(this.allData[i].year) == curYear && rank <= parseInt(r) ){
+	            this.data.push(this.allData[i]);
+	            this.filteredPar.push(this.allData[i]);
 
-            lat  = this.allData[i].latitude;
-	        long = this.allData[i].longitude;
-	        country = this.allData[i].the_country;
-	        institution = this.allData[i].the_institution;
+	            lat  = this.allData[i].latitude;
+		        long = this.allData[i].longitude;
+		        country = this.allData[i].the_country;
+		        institution = this.allData[i].the_institution;
 
-	        if(String(lat) == "" && String(long) == ""){
-	            this.uniNoLatLong.push(obs.allData[i].the_institution);
+		        if(String(lat) == "" && String(long) == ""){
+		            this.uniNoLatLong.push(obs.allData[i].the_institution);
+		        }
+		        else{
+	                switch (country) {
+	                    case "United Kingdom" : country = "UK"; break;
+	                    case "United States" : country = "USA"; break;
+	                    case "United Arab Emirates" : country = "UAE"; break;
+	                    case "Saudi Arabia":country ="SAU";break;
+	                    case "Czech Republic":country = "CECREP";break;
+	                    case "South Africa": country = "SouthAfrica";break;
+	                    case "South Korea": country = "Korea";break;
+	                    case "New Zealand": country = "NewZealand";break;
+	                }
+
+		            this.uniCoordinates.push([parseFloat(long),parseFloat(lat),String(institution), String(country)]);
+		            
+		            pca_1 = this.allData[i].PCA_component1;
+			        pca_2 = this.allData[i].PCA_component2;
+	                //inizialmente carico tutti i PCAs
+			        this.coordinatesPCA.push([String(institution),parseFloat(pca_1),parseFloat(pca_2)]);
+		        }     
 	        }
-	        else{
-                switch (country) {
-                    case "United Kingdom" : country = "UK"; break;
-                    case "United States" : country = "USA"; break;
-                    case "United Arab Emirates" : country = "UAE"; break;
-                    case "Saudi Arabia":country ="SAU";break;
-                    case "Czech Republic":country = "CECREP";break;
-                    case "South Africa": country = "SouthAfrica";break;
-                    case "South Korea": country = "Korea";break;
-                    case "New Zealand": country = "NewZealand";break;
-                }
+	    }
 
-	            this.uniCoordinates.push([parseFloat(long),parseFloat(lat),String(institution), String(country)]);
-	            
-	            pca_1 = this.allData[i].PCA_component1;
-		        pca_2 = this.allData[i].PCA_component2;
-                //inizialmente carico tutti i PCAs
-		        this.coordinatesPCA.push([String(institution),parseFloat(pca_1),parseFloat(pca_2)]);
-	        }     
-        }
-    }
+	    //updateMapData();
+	    document.getElementById("top").innerHTML = "Top " + r + " [cwur]";
 
-    //updateMapData();
-    document.getElementById("top").innerHTML = "Top " + r + " [cwur]";
+	    //console.log("r vale ",r);
 
-    //console.log("r vale ",r);
+	    obs.listeners.dispatchEvent(new Event('rankChanged'));
+	}
 
-    obs.listeners.dispatchEvent(new Event('rankChanged'));
+	else{
+
+		console.log(this.universityDelPaeseDellaMiaScelta);
+		document.getElementById("top").innerHTML = "Top " + r + " /"+dl.numberOfUniInCountry;
+		
+
+			  //console.log("entrato in manageTeacherStuffs");
+	     this.university  = document.getElementById("uni").value;
+
+	    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	    //prelevo il paese
+
+	    //console.log("data in initTeacher -> ",dl.data);
+	    //console.log(" dl.university -> ", dl.university);
+
+	    var mia_uni = null;
+
+	     //di questo prendo il range di 10 che caratterizzano l'uni del rettore
+
+	     /*dl.indice_di_range = dl.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
+	     //console.log("index: ", dl.indice_di_range);
+
+	     //ar2 = [];
+	     if(dl.indice_di_range < 10){
+
+	        dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(0, 10);
+	        dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(0, 10);
+
+	     }
+	     else if(dl.indice_di_range >= 10){
+	       dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-10, indice_di_range);
+	        dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-10, indice_di_range);
+
+
+	     }*/
+
+	      dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(0, 5);
+
+	    dl.coordinatesPCATeacher.splice(0,dl.coordinatesPCATeacher.length);
+
+
+	    for( i in dl.universityDelPaeseDellaMiaScelta){
+	         institution = dl.universityDelPaeseDellaMiaScelta[i].the_institution;
+	         pca_1 = dl.universityDelPaeseDellaMiaScelta[i].PCA_component3;
+	         pca_2 = dl.universityDelPaeseDellaMiaScelta[i].PCA_component4;
+	         //console.log("bellaaaaaaaa ",String(institution),parseFloat(pca_1),parseFloat(pca_2));
+	        dl.coordinatesPCATeacher.push([String(institution),parseFloat(pca_1),parseFloat(pca_2)]);
+
+
+	    }
+
+	     obs.listeners.dispatchEvent(new Event('rankChanged'));
+
+
+	}
+}
+
+
+DataLoader.prototype.legendFilter = function(r){
+	
+		console.log("entrato");
+		/*console.log(this.universityDelPaeseDellaMiaScelta);
+		document.getElementById("top").innerHTML = "Top " + r + " /"+dl.numberOfUniInCountry;
+		
+
+			  //console.log("entrato in manageTeacherStuffs");
+	     this.university  = document.getElementById("uni").value;
+
+	    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	    //prelevo il paese
+
+	    //console.log("data in initTeacher -> ",dl.data);
+	    //console.log(" dl.university -> ", dl.university);
+
+	    var mia_uni = null;
+
+	     //di questo prendo il range di 10 che caratterizzano l'uni del rettore
+
+	     /*dl.indice_di_range = dl.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
+	     //console.log("index: ", dl.indice_di_range);
+
+	     //ar2 = [];
+	     if(dl.indice_di_range < 10){
+
+	        dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(0, 10);
+	        dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(0, 10);
+
+	     }
+	     else if(dl.indice_di_range >= 10){
+	       dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-10, indice_di_range);
+	        dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-10, indice_di_range);
+
+
+	     }*/
+/*
+	      dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(0, 11);
+
+	    dl.coordinatesPCATeacher.splice(0,dl.coordinatesPCATeacher.length);
+        */
+
+        this.coordinatesPCATeacher.splice(0, this.coordinatesPCATeacher.length);
+
+	    for( i in dl.universityDelPaeseDellaMiaScelta){
+	         institution = dl.universityDelPaeseDellaMiaScelta[i].the_institution;
+
+             if(this.cliccateInLegenda.includes(institution)){
+                 pca_1 = this.universityDelPaeseDellaMiaScelta[i].PCA_component3;
+                 pca_2 = this.universityDelPaeseDellaMiaScelta[i].PCA_component4;
+                 //console.log("bellaaaaaaaa ",String(institution),parseFloat(pca_1),parseFloat(pca_2));
+                this.coordinatesPCATeacher.push([String(institution),parseFloat(pca_1),parseFloat(pca_2)]);
+
+             }
+	       
+	    }
+        console.log("data connected: ",this.uniDataConnected);
+	     obs.listeners.dispatchEvent(new Event('legendFilter'));
+
+
+	
 }
 
 

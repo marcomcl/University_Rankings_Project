@@ -22,6 +22,8 @@ function initLegend(){
 
 	var keys = dl.keyLegend;
 
+	//console.log("------ > keyLegend: ",dl.keyLegend);
+
 	//console.log("keys: ",keys);
 
 	/*countKey = 0;
@@ -53,6 +55,27 @@ function initLegend(){
 	    .attr("cy", function(d,i){ return 100 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
 	    .attr("r", 7)
 	    .style("fill", function(d){ /*console.log("d vale ",d , " color vale ", color(d));*/return color(d)})
+	    .on("click", function(d){
+
+	    		//d3.select(this).style("fill", "black");
+	    		//d3.select(this)._groups[0].attr("fill", "black")
+	    		//console.log("-------------------------> ",d3.select(this)._groups[0] );
+	    		if(!dl.cliccateInLegenda.includes(d)){
+		    		console.log("legenda cliccata vale : ",d);
+		    		dl.cliccateInLegenda.push(d);
+		    		console.log("cliccateInLegenda ", dl.cliccateInLegenda);
+					dl.legendFilter();
+				}else{
+					const index = dl.cliccateInLegenda.indexOf(d);
+						if (index > -1) {
+							dl.cliccateInLegenda.splice(index, 1);
+						}
+
+					dl.legendFilter();
+				}
+
+		});
+
 
 	// Add one dot in the legend for each name.
 	Svg.selectAll("mylabels")
@@ -79,7 +102,16 @@ function initLegend(){
 
 function updateLegend (){
    svg_legend.selectAll("*").remove();
+   //console.log("updateLegend called");
+   //console.log("universityDelPaeseDellaMiaScelta: ",dl.universityDelPaeseDellaMiaScelta);
+   dl.keyLegend.splice(0,  dl.keyLegend.length);
 
+   for (el in dl.universityDelPaeseDellaMiaScelta){
+   		string_uni_legend = dl.universityDelPaeseDellaMiaScelta[el].the_institution;
+   		dl.keyLegend.push(string_uni_legend );
+
+   }
+   //console.log(dl.keyLegend);
    initLegend();
 }
 
