@@ -362,18 +362,22 @@ DataLoader.prototype.changeYear = function(y){
 					        if(this.filteredPar[el].the_country == dl.universityCountry){
 					            dl.universityDelPaeseDellaMiaScelta.push(this.filteredPar[el]);
 					        }
-					     }
+                         }
+                         
+                        dl.universityDelPaeseDellaMiaScelta.sort(function(a,b){
+                            return b.cwur_score - a.cwur_score;
+                        });
 
 					     this.indice_di_range = this.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
 			    		
-					     if(this.indice_di_range < 10){
+					     if(this.indice_di_range <= 5){
 
 					        this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(0, 10);
 
 					     }
-					     else if(this.indice_di_range >= 10){
+					     else{
 
-					       this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(indice_di_range-10, indice_di_range);
+					       this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
 
 					     }
 
@@ -412,9 +416,9 @@ DataLoader.prototype.changeFilter = function(r){
 
 	    for(i in this.allData){
 	        rank = parseInt(this.allData[i].cwur_world_rank);
-	 
+            lifeCost = parseFloat(this.allData[i].indice_affitto_e_vita);
 
-	        if(parseInt(this.allData[i].year) == curYear && rank <= parseInt(r) ){
+	        if(parseInt(this.allData[i].year) == curYear && rank <= parseInt(r) && lifeCost <= curLifeCost){
 	            this.data.push(this.allData[i]);
 	            this.filteredPar.push(this.allData[i]);
 
@@ -458,7 +462,6 @@ DataLoader.prototype.changeFilter = function(r){
 
 	else{
 
-		console.log(this.universityDelPaeseDellaMiaScelta);
 		document.getElementById("top").innerHTML = "Top " + r + " /"+dl.numberOfUniInCountry;
 		
 
@@ -548,6 +551,7 @@ DataLoader.prototype.changeFilterLifeCost = function(r,l){
     this.coordinatesPCA.splice(0, this.coordinatesPCA.length);
     this.dotHighlighted.splice(0, this.dotHighlighted.length);
     count = 0;
+    curLifeCost = l;
     for(i in this.allData){
         rank = parseInt(this.allData[i].cwur_world_rank);
         lifeCost = parseFloat(this.allData[i].indice_affitto_e_vita);

@@ -127,8 +127,7 @@ dl.addListener('rankChanged', function (e) {
 
 
 dl.addListener('legendFilter', function (e) {
-    //console.log("legendFilter chiamato");
-    updateGraphs();
+    updateConnected();
 });
 
 dl.addListener('lifeCostChanged', function (e) {

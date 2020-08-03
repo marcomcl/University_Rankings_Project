@@ -1,5 +1,6 @@
 var curYear = 0;
 var curRank = 0;
+var curRankRec = 0;
 var curLifeCost = 0;
 function setYearRange(min, max){
     sel = document.getElementById("year");
@@ -25,6 +26,17 @@ function setRankRange(min, max){
         dl.changeFilter(ran.value);
     });
     document.getElementById("top").innerHTML = "Top "+ curRank + " [cwur]";
+}
+
+function setRankRangeRec(min, max){
+    ranrec = document.getElementById("rank_rector");
+    ranrec.min = min;
+    ranrec.max = max;
+    ranrec.value = curRankRec = parseInt(max/2);
+    ranrec.addEventListener('input', function () {
+        //dl.changeFilter(ranrec.value);
+    });
+    document.getElementById("top_rec").innerHTML = "Top "+ curRank + " [cwur]";
 }
 
 function setLifeCostRange(min, max){
@@ -85,7 +97,8 @@ function switchUser()
             document.getElementById("connected").style.display = "none";
             document.getElementById("lollipop").style.display = "none";
             document.getElementById("bg").style.visibility = "hidden";
-            document.getElementById("slider").style.visibility = "visible";
+            document.getElementById("slider").style.display = "block";
+            document.getElementById("slider_rec").style.display = "none";
             document.getElementById("slider2").style.visibility = "visible";
 
 
@@ -120,8 +133,8 @@ function initTeacher(){
     document.getElementById("connected").style.display = "block"; 
     document.getElementById("legend").style.display = "block";
     document.getElementById("bg").style.visibility = "hidden";
-    //document.getElementById("slider").style.visibility = "hidden";
-
+    document.getElementById("slider").style.display = "none";
+    document.getElementById("slider_rec").style.display = "block";
     document.getElementById("slider2").style.visibility = "hidden";
 
 
@@ -132,7 +145,7 @@ function initTeacher(){
     document.getElementById("title_rector").innerHTML = "<b>"+dl.university+"</b>"; 
 
     dl.numberOfUniInCountry = dl.universityDelPaeseDellaMiaScelta.length;
-    document.getElementById("top").innerHTML = "Top " + 0 + " /"+dl.numberOfUniInCountry;
+    //document.getElementById("top").innerHTML = "Top " + 0 + " /"+dl.numberOfUniInCountry;
 
 
 
@@ -190,24 +203,32 @@ function manageTeacherStuffs(){
         }
      }
 
+    dl.universityDelPaeseDellaMiaScelta.sort(function(a,b){
+        return b.cwur_score - a.cwur_score;
+    });
+
+    dl.USED_universityDelPaeseDellaMiaScelta.sort(function(a,b){
+        return b.cwur_score - a.cwur_score;
+    });
+
      //di questo prendo il range di 10 che caratterizzano l'uni del rettore
 
-     /*dl.indice_di_range = dl.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
-     //console.log("index: ", dl.indice_di_range);
+
+     dl.indice_di_range = dl.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
 
      //ar2 = [];
-     if(dl.indice_di_range < 10){
+     if(dl.indice_di_range <= 5){
 
         dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(0, 10);
         dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(0, 10);
 
      }
-     else if(dl.indice_di_range >= 10){
-       dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-10, indice_di_range);
-        dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-10, indice_di_range);
+     else{
+       dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-5, dl.indice_di_range+5);
+        dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-5, dl.indice_di_range+5);
+        console.log(dl.universityDelPaeseDellaMiaScelta);
 
-
-     }*/
+     }
 
     dl.coordinatesPCATeacher.splice(0,dl.coordinatesPCATeacher.length);
 

@@ -24,9 +24,13 @@
       <table id="title_table">
         <tr>
           <th>
-            <span class="slider" id="slider">
+            <span class="slider" id="slider" style="display: block;">
               <span id="top"></span>
               <input id = "rank" type="range" min="0" max="0" id="top" value="0" step='1'>
+            </span>
+            <span class="slider" id="slider_rec" style="display: none;">
+              <span id="top_rec"></span>
+              <input id = "rank_rector" type="range" min="0" max="0" id="top" value="0" step='1'>
             </span>
           </th>
 
@@ -36,16 +40,16 @@
               <input id = "lifeCost" type="range" min="0" max="0" id="top2" value="0" step='1'>
             </span>
           </th>
-           <th>
-            <span class="title_university_rector">
-              <p id = "title_rector"></p>
-            </span>
-          </th>
-
 
           <th>
             <span class="title_container">
               <p id = "title"><b>University Rankings - Visual Analytics</b></p>
+            </span>
+          </th> 
+          
+          <th>
+            <span class="title_university_rector">
+              <p id = "title_rector"></p>
             </span>
           </th>
 

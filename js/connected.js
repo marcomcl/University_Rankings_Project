@@ -186,7 +186,9 @@ function initConnected(){
 
 	    	 if(selected == "Teaching") dataFilter2 = datiPerSingolaInstitution.map(function(d){return {university:d.the_institution, year : d.year, value : d.the_teaching} });
 	         else if(selected == "Research") dataFilter2 = datiPerSingolaInstitution.map(function(d){return {university:d.the_institution,year : d.year, value : d.the_reseach} });
-	         else dataFilter2 = datiPerSingolaInstitution.map(function(d){return {university:d.the_institution,year : d.year, value : d.the_citations} });
+           else dataFilter2 = datiPerSingolaInstitution.map(function(d){return {university:d.the_institution,year : d.year, value : d.the_citations} });
+           
+          console.log(dataFilter2);
 
 	        list_lines[series]
 	            .datum(dataFilter2)
@@ -215,14 +217,6 @@ function initConnected(){
 
 
     }
-
-
-     
-
-
-
-
-
 
     
     d3.select("#connectedSelect").on("change", function() {

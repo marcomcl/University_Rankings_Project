@@ -47,7 +47,8 @@ function initMap(){
 	    .data(['university','selected', 'selected from scatter'])
 	    .enter().append('g')
 	    .attr('class', 'legend')
-	    .attr('transform', function (d, i) { return 'translate(20,' + i * 20 + ')'; });
+		.attr('transform', function (d, i) { return 'translate(20,' + i * 20 + ')'; })
+		.style("z-index", 1000);
 
 	  legend.append('rect')
 	    .attr('x', width_scatter)
