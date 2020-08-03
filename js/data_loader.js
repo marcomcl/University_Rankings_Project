@@ -89,9 +89,9 @@ DataLoader.prototype.loadData = function(){
 
     //d3.csv("./PCA/datasetConPCA.csv", function (csvData) {
     //d3.csv("./PCA/finaDatasetConIDuePCA.csv", function (csvData) {
-    d3.csv("./PCA/finaDatasetConNumbeo_2PCA.csv", function (csvData) {
+    //d3.csv("./PCA/finaDatasetConNumbeo_2PCA.csv", function (csvData) {
 
-
+    d3.csv("./PCA/finaDatasetConNumbeoFINALE.csv", function (csvData) {
     
     //d3.csv("./PCA/perDebugInterazioni.csv", function (csvData) {
 
@@ -517,46 +517,9 @@ DataLoader.prototype.changeFilter = function(r){
 DataLoader.prototype.legendFilter = function(r){
 	
 		console.log("entrato");
-		/*console.log(this.universityDelPaeseDellaMiaScelta);
-		document.getElementById("top").innerHTML = "Top " + r + " /"+dl.numberOfUniInCountry;
-		
-
-			  //console.log("entrato in manageTeacherStuffs");
-	     this.university  = document.getElementById("uni").value;
-
-	    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-	    //prelevo il paese
-
-	    //console.log("data in initTeacher -> ",dl.data);
-	    //console.log(" dl.university -> ", dl.university);
-
-	    var mia_uni = null;
-
-	     //di questo prendo il range di 10 che caratterizzano l'uni del rettore
-
-	     /*dl.indice_di_range = dl.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
-	     //console.log("index: ", dl.indice_di_range);
-
-	     //ar2 = [];
-	     if(dl.indice_di_range < 10){
-
-	        dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(0, 10);
-	        dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(0, 10);
-
-	     }
-	     else if(dl.indice_di_range >= 10){
-	       dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-10, indice_di_range);
-	        dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-10, indice_di_range);
 
 
-	     }*/
-/*
-	      dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(0, 11);
-
-	    dl.coordinatesPCATeacher.splice(0,dl.coordinatesPCATeacher.length);
-        */
-
-        this.coordinatesPCATeacher.splice(0, this.coordinatesPCATeacher.length);
+        /*this.coordinatesPCATeacher.splice(0, this.coordinatesPCATeacher.length);
 
 	    for( i in dl.universityDelPaeseDellaMiaScelta){
 	         institution = dl.universityDelPaeseDellaMiaScelta[i].the_institution;
@@ -569,8 +532,8 @@ DataLoader.prototype.legendFilter = function(r){
 
              }
 	       
-	    }
-        console.log("data connected: ",this.uniDataConnected);
+	    }*/
+       // console.log("data connected: ",this.uniDataConnected);
 	     obs.listeners.dispatchEvent(new Event('legendFilter'));
 
 

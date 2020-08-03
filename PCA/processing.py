@@ -61,7 +61,7 @@ for el in data:
     #attributes scelti
     #latitude =  el[header.index('latitude')]
     #longitude =  el[header.index('longitude')]
-    #the_rank = el[header.index()]
+    the_rank = el[header.index()]
     the_teaching = el[header.index('the_teaching')]
     the_research = el[header.index('the_reseach')]
     the_citations = el[header.index('the_citations')]
@@ -91,7 +91,7 @@ for el in data:
         pca6 = str(longitude)
         pca7 = str(sha_rank)
         pca8 = str(cwur_world_rank)
-        #pca9 = str(the_rank)
+        pca9 = str(the_rank)
         #pca9 = str()
         #print("pca9 vale ", pca9);
         pca10 = str(affitto_e_vita)
@@ -118,7 +118,7 @@ for el in data:
         
         #print("the_rank = ", pca9)
         counter2 += 1
-        data_for_pca.append([pca1,pca2,pca3,pca4,pca5,pca6,pca7,pca8,pca10,pca11])
+        data_for_pca.append([pca1,pca2,pca3,pca4,pca5,pca6,pca7,pca8,pca9,pca10,pca11])
     counter += 1
     #counter_data += 1
     
@@ -207,6 +207,9 @@ for el in data:
     the_research = el[header.index('the_reseach')]
     the_citations = el[header.index('the_citations')]
     
+    the_international_outlook = el[header.index('the_international_outlook')]
+    the_income = el[header.index('the_industry_income')]
+    
       
     
      
@@ -215,6 +218,10 @@ for el in data:
     pca3 = str(cwur_influence)
     pca4 = str(the_research)
     pca5 = str(the_citations)
+    
+    pca6 = str(the_international_outlook)
+    pca7 = str(the_income);
+    #print("pca7 vale :",pca7);
     
     
     #print("cwur_influence ",pca3)
@@ -274,7 +281,11 @@ for el in data:
         #pca1 = new_pca1[0]
         print("pca1  ", pca1)
     #counter += 1
-
+    
+    
+    if "-" in pca7:
+        pca7 = 0;
+        print(pca7)
     
    
     
@@ -285,7 +296,7 @@ for el in data:
     #print(counter4)   
   
      
-    data_for_pca.append([pca1,pca2,pca3,pca4,pca5])
+    data_for_pca.append([pca1,pca2,pca3,pca4,pca5,pca6,pca7])
  
     #print(data_for_pca)
 
@@ -311,7 +322,7 @@ plt.legend()
 plt.title('Transformed data from sklearn.decomposition import PCA (7 attributes)')
 plt.show()
 
-with open("finaDatasetConNumbeo_2PCA.csv", 'w', newline='',encoding="utf-8") as csvfile:
+with open("finaDatasetConNumbeoFINALE.csv", 'w', newline='',encoding="utf-8") as csvfile:
     print(header)
     writer = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
     lenComponents = len(principalComponents)
