@@ -91,7 +91,7 @@ function initLollipop(){
         return d; 
     })
 
-    
+      color = d3.scaleOrdinal().domain(dl.keyLegend).range(d3.schemeTableau10);
    //d3.select("div.tooltip_lollipop").style("visibility", "hidden");
     //var tooltip = d3.select("div.tooltip_lollipop");
     var tooltipLol = d3.select("body").append("div").attr("class", "toolTipLollipop");
@@ -119,7 +119,7 @@ function initLollipop(){
 	          .attr("cx", function(d) { return x(d.the_institution); })
 	          .attr("cy", function(d) { return y(d.cwur_quality_of_education); })
 	          .attr("r", 8)
-	          .attr("fill", "#69b3a2")
+	          .attr("fill", function(d) { return color(d.the_institution); })
 	        .on("mouseover",function(){
 	        	var attribute = d3.select(this).attr("val")
 	        	//console.log(attribute)
@@ -156,6 +156,7 @@ function initLollipop(){
 		svg_lollipop.selectAll("text").style("fill", colors.getTextColor());
 	    
 
+
 	    // variable j: map data to existing line
 	    j
 	      .data(dataFilter)
@@ -184,7 +185,7 @@ function initLollipop(){
 	        .attr("cx", function(d) { return x(d.the_institution); })
 	        .attr("cy", function(d) { return y(d.value); })
 	        .attr("r", 8)
-			.attr("fill", "#69b3a2");
+			 .attr("fill", function(d) { return color(d.the_institution); })
 
         svg_lollipop.selectAll("circle").on("mouseover",function(){
 	        	var attribute = d3.select(this).attr("val")
