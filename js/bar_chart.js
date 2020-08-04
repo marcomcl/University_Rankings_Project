@@ -16,7 +16,7 @@ function initBar(){
 
     dataBar = getDataBar();
 
-    console.log(dataBar);
+    //console.log(dataBar);
 
     var dict = {};
 

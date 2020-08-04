@@ -237,7 +237,7 @@ DataLoader.prototype.addListener = function (ev, foo) {
 
 DataLoader.prototype.changeYear = function(y){
 
-    console.log("curLifeCost ",curLifeCost);
+    //console.log("curLifeCost ",curLifeCost);
 
     curYear = y;
     max_rank = undefined;
@@ -335,69 +335,104 @@ DataLoader.prototype.changeYear = function(y){
         }
     }
         if(dl.student == false){
-        	//console.log("entro perchè dl.student è false");
-	        for(i in this.allData){
-		        if(parseInt(this.allData[i].year) == y ){
-		            this.data.push(this.allData[i]);
-		            this.filteredPar.push(this.allData[i]);
+            console.log("########################################### change year rector");
+            this.university  = document.getElementById("uni").value;
 
-		            lat  = this.allData[i].latitude;
-			        long = this.allData[i].longitude;
-			        country = this.allData[i].the_country;
-			        institution = this.allData[i].the_institution;
+            console.log("entrato in changeYear modalità rettore ");
+             this.university  = document.getElementById("uni").value;
+             console.log("mia university è ",this.university);
 
+            ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+            //prelevo il paese
 
-		        //parte per aggiornare dati del prof     
+            //console.log("data in initTeacher -> ",this.data);
+            //console.log(" this.university -> ", this.university);
 
-			        ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-			        if(String(institution) == dl.university){
-			        	
-			            dl.universityRank = this.allData[i].the_rank;
-			            mia_uni = this.allData[i];
-			          
-			   		    this.universityDelPaeseDellaMiaScelta.splice(0,this.universityDelPaeseDellaMiaScelta.length);
+            var mia_uni = null;
+            //var indice_di_range = null;
 
-			   		        //riempio universityDelPaeseDellaMiaScelta
-					     for( el in this.filteredPar){
-					        if(this.filteredPar[el].the_country == dl.universityCountry){
-					            dl.universityDelPaeseDellaMiaScelta.push(this.filteredPar[el]);
-					        }
-                         }
-                         
-                        dl.universityDelPaeseDellaMiaScelta.sort(function(a,b){
-                            return b.cwur_score - a.cwur_score;
-                        });
+            //mi prendo il paese di quella universitàù
 
-					     this.indice_di_range = this.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
-			    		
-					     if(this.indice_di_range <= 5){
+            for(i in this.allData){
+                    //rank = parseInt(this.allData[i].cwur_world_rank);
 
-					        this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(0, 10);
-
-					     }
-					     else{
-
-					       this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
-
-					     }
-
-		    			this.coordinatesPCATeacher.splice(0,this.coordinatesPCATeacher.length);
+                    if(parseInt(this.allData[i].year) == y ){
+                        this.data.push(this.allData[i]);
+                    }
+            }
 
 
-					    for( i in this.universityDelPaeseDellaMiaScelta){
-					         institution = this.universityDelPaeseDellaMiaScelta[i].the_institution;
-					         pca_1 = this.universityDelPaeseDellaMiaScelta[i].PCA_component3;
-					         pca_2 = this.universityDelPaeseDellaMiaScelta[i].PCA_component4;
-					        this.coordinatesPCATeacher.push([String(institution),parseFloat(pca_1),parseFloat(pca_2)]);
+            console.log("this.data vale ", this.data);
+            console.log("this.allData vale ",this.allData);
+            for( el in this.data){
+                if(this.data[el].the_institution == this.university){
+                    
+                    this.universityCountry = this.data[el].the_country;
+                    this.universityRank = this.data[el].the_rank;
+                    mia_uni = this.data[el];
+
+                }
+            }
 
 
-					    }
+            //mia università
 
-		      		 }
+            this.universityDelPaeseDellaMiaScelta.splice(0,this.universityDelPaeseDellaMiaScelta.length);
 
-	       	 	}
-	   		 }
+            //console.log("UTIL.JS this.data",this.data);
+            //riempio universityDelPaeseDellaMiaScelta
+            //console.log("from utils: ",this.universityDelPaeseDellaMiaScelta);
+             for( el in this.data){
 
+                if(this.data[el].the_country == this.universityCountry){
+                    this.universityDelPaeseDellaMiaScelta.push(this.data[el]);
+                    this.USED_universityDelPaeseDellaMiaScelta.push(this.data[el]);
+                }
+             }
+
+            this.universityDelPaeseDellaMiaScelta.sort(function(a,b){
+                return b.cwur_score - a.cwur_score;
+            });
+
+            this.USED_universityDelPaeseDellaMiaScelta.sort(function(a,b){
+                return b.cwur_score - a.cwur_score;
+            });
+
+             //di questo prendo il range di 10 che caratterizzano l'uni del rettore
+
+
+             this.indice_di_range = this.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
+
+             //ar2 = [];
+             if(this.indice_di_range <= 5){
+
+                this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(0, 10);
+                this.USED_universityDelPaeseDellaMiaScelta = this.USED_universityDelPaeseDellaMiaScelta.slice(0, 10);
+
+             }
+             else{
+               this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
+                this.USED_universityDelPaeseDellaMiaScelta = this.USED_universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
+                console.log(this.universityDelPaeseDellaMiaScelta);
+
+             }
+
+            this.coordinatesPCATeacher.splice(0,this.coordinatesPCATeacher.length);
+
+
+            for( i in this.universityDelPaeseDellaMiaScelta){
+                 institution = this.universityDelPaeseDellaMiaScelta[i].the_institution;
+                 pca_1 = this.universityDelPaeseDellaMiaScelta[i].PCA_component3;
+                 pca_2 = this.universityDelPaeseDellaMiaScelta[i].PCA_component4;
+                 //console.log("bellaaaaaaaa ",String(institution),parseFloat(pca_1),parseFloat(pca_2));
+                this.coordinatesPCATeacher.push([String(institution),parseFloat(pca_1),parseFloat(pca_2)]);
+
+
+            }
+
+            console.log(" - this.universityDelPaeseDellaMiaScelta: ",this.universityDelPaeseDellaMiaScelta);
+
+            console.log("########################################### change year rector end");
 
     	}
     //console.log("key legend dopo vale : ",this.keyLegend);
@@ -794,6 +829,100 @@ DataLoader.prototype.initUniDataConnected = function () {
     }
     //console.log("uniDataConnected ", this.uniDataConnected);
     //console.log("paesi della mia scelta: ",this.universityDelPaeseDellaMiaScelta);
+
+
+}
+
+
+DataLoader.prototype.initDataForRector = function(){
+
+
+     console.log("--------------------------------------------------- entrato in initDataForRector ");
+     this.university  = document.getElementById("uni").value;
+     console.log("mia university è ",this.university);
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //prelevo il paese
+
+    //console.log("data in initTeacher -> ",this.data);
+    //console.log(" this.university -> ", this.university);
+
+    var mia_uni = null;
+    //var indice_di_range = null;
+
+    //mi prendo il paese di quella università
+    console.log("this.data vale: ",this.data);
+    for( el in this.data){
+        if(this.data[el].the_institution == this.university){
+            
+            this.universityCountry = this.data[el].the_country;
+            this.universityRank = this.data[el].the_rank;
+            mia_uni = this.data[el];
+
+        }
+    }
+
+
+    //mia università
+
+    this.universityDelPaeseDellaMiaScelta.splice(0,this.universityDelPaeseDellaMiaScelta.length);
+
+    //console.log("UTIL.JS this.data",this.data);
+    //riempio universityDelPaeseDellaMiaScelta
+    //console.log("from utils: ",this.universityDelPaeseDellaMiaScelta);
+     for( el in this.data){
+
+        if(this.data[el].the_country == this.universityCountry){
+            this.universityDelPaeseDellaMiaScelta.push(this.data[el]);
+            this.USED_universityDelPaeseDellaMiaScelta.push(this.data[el]);
+        }
+     }
+
+    this.universityDelPaeseDellaMiaScelta.sort(function(a,b){
+        return b.cwur_score - a.cwur_score;
+    });
+
+    this.USED_universityDelPaeseDellaMiaScelta.sort(function(a,b){
+        return b.cwur_score - a.cwur_score;
+    });
+
+     //di questo prendo il range di 10 che caratterizzano l'uni del rettore
+
+
+     this.indice_di_range = this.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
+
+     //ar2 = [];
+     if(this.indice_di_range <= 5){
+
+        this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(0, 10);
+        this.USED_universityDelPaeseDellaMiaScelta = this.USED_universityDelPaeseDellaMiaScelta.slice(0, 10);
+
+     }
+     else{
+       this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
+        this.USED_universityDelPaeseDellaMiaScelta = this.USED_universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
+        console.log(this.universityDelPaeseDellaMiaScelta);
+
+     }
+
+    this.coordinatesPCATeacher.splice(0,this.coordinatesPCATeacher.length);
+
+
+    for( i in this.universityDelPaeseDellaMiaScelta){
+         institution = this.universityDelPaeseDellaMiaScelta[i].the_institution;
+         pca_1 = this.universityDelPaeseDellaMiaScelta[i].PCA_component3;
+         pca_2 = this.universityDelPaeseDellaMiaScelta[i].PCA_component4;
+         //console.log("bellaaaaaaaa ",String(institution),parseFloat(pca_1),parseFloat(pca_2));
+        this.coordinatesPCATeacher.push([String(institution),parseFloat(pca_1),parseFloat(pca_2)]);
+
+
+    }
+
+    console.log(" - this.universityDelPaeseDellaMiaScelta: ",this.universityDelPaeseDellaMiaScelta);
+
+     console.log("--------------------------------------------------- esco da initDataForRector ");
+    
+
 
 
 }

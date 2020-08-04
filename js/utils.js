@@ -117,7 +117,8 @@ function switchUser()
 
 function initTeacher(){
     //console.log("chiamato teacher");
-    manageTeacherStuffs();
+    //manageTeacherStuffs();
+    dl.initDataForRector();
 
     dl.initUniData();
     dl.initUniDataConnected();
@@ -161,88 +162,3 @@ function addUniToSelect(uni){
 }
 
 
-function manageTeacherStuffs(){
-
-
-    //console.log("entrato in manageTeacherStuffs");
-     dl.university  = document.getElementById("uni").value;
-
-    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    //prelevo il paese
-
-    //console.log("data in initTeacher -> ",dl.data);
-    //console.log(" dl.university -> ", dl.university);
-
-    var mia_uni = null;
-    //var indice_di_range = null;
-
-    //mi prendo il paese di quella università
-    for( el in dl.data){
-        if(dl.data[el].the_institution == dl.university){
-            
-            dl.universityCountry = dl.data[el].the_country;
-            dl.universityRank = dl.data[el].the_rank;
-            mia_uni = dl.data[el];
-
-        }
-    }
-
-
-    //mia università
-
-    dl.universityDelPaeseDellaMiaScelta.splice(0,dl.universityDelPaeseDellaMiaScelta.length);
-
-    //console.log("UTIL.JS dl.data",dl.data);
-    //riempio universityDelPaeseDellaMiaScelta
-    //console.log("from utils: ",dl.universityDelPaeseDellaMiaScelta);
-     for( el in dl.data){
-
-        if(dl.data[el].the_country == dl.universityCountry){
-            dl.universityDelPaeseDellaMiaScelta.push(dl.data[el]);
-            dl.USED_universityDelPaeseDellaMiaScelta.push(dl.data[el]);
-        }
-     }
-
-    dl.universityDelPaeseDellaMiaScelta.sort(function(a,b){
-        return b.cwur_score - a.cwur_score;
-    });
-
-    dl.USED_universityDelPaeseDellaMiaScelta.sort(function(a,b){
-        return b.cwur_score - a.cwur_score;
-    });
-
-     //di questo prendo il range di 10 che caratterizzano l'uni del rettore
-
-
-     dl.indice_di_range = dl.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
-
-     //ar2 = [];
-     if(dl.indice_di_range <= 5){
-
-        dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(0, 10);
-        dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(0, 10);
-
-     }
-     else{
-       dl.universityDelPaeseDellaMiaScelta = dl.universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-5, dl.indice_di_range+5);
-        dl.USED_universityDelPaeseDellaMiaScelta = dl.USED_universityDelPaeseDellaMiaScelta.slice(dl.indice_di_range-5, dl.indice_di_range+5);
-        console.log(dl.universityDelPaeseDellaMiaScelta);
-
-     }
-
-    dl.coordinatesPCATeacher.splice(0,dl.coordinatesPCATeacher.length);
-
-
-    for( i in dl.universityDelPaeseDellaMiaScelta){
-         institution = dl.universityDelPaeseDellaMiaScelta[i].the_institution;
-         pca_1 = dl.universityDelPaeseDellaMiaScelta[i].PCA_component3;
-         pca_2 = dl.universityDelPaeseDellaMiaScelta[i].PCA_component4;
-         //console.log("bellaaaaaaaa ",String(institution),parseFloat(pca_1),parseFloat(pca_2));
-        dl.coordinatesPCATeacher.push([String(institution),parseFloat(pca_1),parseFloat(pca_2)]);
-
-
-    }
-
-
-
-}

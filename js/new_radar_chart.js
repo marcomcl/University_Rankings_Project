@@ -73,6 +73,7 @@ function initRadarChart(){
     //console.log("data  -> ",data2);
 
     //prova solo su USA
+    //console.log("dataRadar: ",dataRadar);
     for( i in dataRadar){
     
 
@@ -136,7 +137,8 @@ function initRadarChart(){
     }
 
 
-    console.log("############ NEW RADAR ############### dataPoints: ",dataPoints);
+    //console.log("############ NEW RADAR ############### dataPoints: ",dataPoints);
+    //console.log("dl.university vale", dl.university);
 
 
 
