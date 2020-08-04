@@ -64,13 +64,15 @@ for i in range(2012,2020):
         combined_csv.to_csv( "tcsLatLong/inner/finalDataset.csv", index=False, encoding='utf-8-sig')
 
 """
-a = pd.read_csv("finalDataset_1Agosto.csv", keep_default_na=False, na_values=[""])
+a = pd.read_csv("tcsLatLong/inner/finalDataset.csv", keep_default_na=False, na_values=[""])
 
 b = pd.read_csv("numbeo2020_1st_semester.csv", keep_default_na=False, na_values=[""])  
 
 last_merged_left = pd.merge(left=a, right=b, how='inner', left_on='the_country', right_on='nazione')
 
-last_merged_left.to_csv("dataSetConNumbeo_1Agosto.csv",index=False) 
+last_merged_left.to_csv("dataSetConNumbeo_4Agosto.csv",index=False) 
+
+
 
 
 

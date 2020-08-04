@@ -31,7 +31,7 @@ import re
 #############################################################################
 data = []
 #with open("finalDataset.csv", mode='r', encoding="utf-8") as csv_file:
-with open("dataSetConNumbeo_1Agosto.csv", mode='r', encoding="utf-8") as csv_file:
+with open("dataSetConNumbeo_4Agosto.csv", mode='r', encoding="utf-8") as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     #print(csv_reader)
     line_count = 0
@@ -91,7 +91,7 @@ for el in data:
         pca6 = str(longitude)
         pca7 = str(sha_rank)
         pca8 = str(cwur_world_rank)
-        pca9 = str(the_rank)
+        #pca9 = str(the_rank)
         #pca9 = str()
         #print("pca9 vale ", pca9);
         pca10 = str(affitto_e_vita)
@@ -114,6 +114,7 @@ for el in data:
             pca9 = str(pca9)
             print("new_pca_9 : ",new_pca9)
             print("pca9 finale : ",pca9)
+        
         
         
         #print("the_rank = ", pca9)
@@ -157,7 +158,7 @@ plt.legend()
 plt.title('Transformed data from sklearn.decomposition import PCA (7 attributes)')
 plt.show()
 
-with open("finaDataset.csv", 'w', newline='',encoding="utf-8") as csvfile:
+with open("finaDatasetConNumbeo_4Agosto.csv", 'w', newline='',encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
     lenComponents = len(principalComponents)
     index = 0
@@ -174,7 +175,7 @@ with open("finaDataset.csv", 'w', newline='',encoding="utf-8") as csvfile:
 #############################################################################
 
 data = []
-with open("finaDataset.csv", mode='r', encoding="utf-8") as csv_file:
+with open("finaDatasetConNumbeo_4Agosto.csv", mode='r', encoding="utf-8") as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     print(csv_reader)
     line_count = 0
