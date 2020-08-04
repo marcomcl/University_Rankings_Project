@@ -97,23 +97,6 @@ function initScatter(){
 
   yAxis.selectAll("text")
   .style("fill", colors.getTextColor())
-
-  // Add X axis label:
-  svg_scatter.append("text")
-      .attr("text-anchor", "end")
-      .attr("x", width_scatter/2 + margin.left)
-      .attr("y", height_scatter + margin.top + 10)
-      .attr("stroke", "black")
-      .text("PCA component 1");
-
-  // Y axis label:
-  svg_scatter.append("text")
-      .attr("text-anchor", "end")
-      .attr("transform", "rotate(-90)")
-      .attr("y", -margin.left + 20)
-      .attr("x", -margin.top - height_scatter/2 + 10)
-      .attr("stroke", "black")
-      .text("PCA component 2");
     
 
   d3.select("div.tooltip_scatter").style("visibility", "hidden");
