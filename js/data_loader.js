@@ -258,6 +258,7 @@ DataLoader.prototype.changeYear = function(y){
     this.uniRadarChart.splice(0,this.uniRadarChart.length);
     //
     this.keyLegend.splice(0,this.keyLegend.length);
+    this.cliccateInLegenda.splice(0,this.cliccateInLegenda.length);
 
     //console.log("key legend prima vale : ",this.keyLegend);
 
@@ -554,7 +555,7 @@ DataLoader.prototype.changeFilter = function(r){
 
 DataLoader.prototype.legendFilter = function(r){
 	
-		console.log("entrato");
+		//console.log("entrato");
 
 
         /*this.coordinatesPCATeacher.splice(0, this.coordinatesPCATeacher.length);
@@ -837,9 +838,9 @@ DataLoader.prototype.initUniDataConnected = function () {
 DataLoader.prototype.initDataForRector = function(){
 
 
-     console.log("--------------------------------------------------- entrato in initDataForRector ");
+     //console.log("--------------------------------------------------- entrato in initDataForRector ");
      this.university  = document.getElementById("uni").value;
-     console.log("mia university è ",this.university);
+     //console.log("mia university è ",this.university);
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     //prelevo il paese
@@ -851,7 +852,7 @@ DataLoader.prototype.initDataForRector = function(){
     //var indice_di_range = null;
 
     //mi prendo il paese di quella università
-    console.log("this.data vale: ",this.data);
+    //console.log("this.data vale: ",this.data);
     for( el in this.data){
         if(this.data[el].the_institution == this.university){
             
@@ -918,9 +919,9 @@ DataLoader.prototype.initDataForRector = function(){
 
     }
 
-    console.log(" - this.universityDelPaeseDellaMiaScelta: ",this.universityDelPaeseDellaMiaScelta);
+    //console.log(" - this.universityDelPaeseDellaMiaScelta: ",this.universityDelPaeseDellaMiaScelta);
 
-     console.log("--------------------------------------------------- esco da initDataForRector ");
+    //console.log("--------------------------------------------------- esco da initDataForRector ");
     
 
 

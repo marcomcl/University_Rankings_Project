@@ -128,6 +128,7 @@ dl.addListener('rankChanged', function (e) {
 
 dl.addListener('legendFilter', function (e) {
     updateConnected();
+    updateRadarChart();
 });
 
 dl.addListener('lifeCostChanged', function (e) {

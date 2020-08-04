@@ -99,7 +99,7 @@ function initConnected(){
 
     	institution = dl.universityDelPaeseDellaMiaScelta[el].the_institution;
     	//console.log("institution  ", institution);
-        if(dl.cliccateInLegenda.includes(institution)){
+        //if(dl.cliccateInLegenda.includes(institution)){
 
         	datiPerSingolaInstitution = [];
 
@@ -125,6 +125,16 @@ function initConnected(){
                     )
                     //.attr("stroke", color(dl.university))
                     .attr("stroke", color(institution))
+                    .attr("stroke-opacity",function(d){
+                             //console.log("cliccateInLegenda " ,dl.cliccateInLegenda);
+
+                             if(!dl.cliccateInLegenda.includes(institution)){
+                                return 0.10
+                             }
+
+                            return 1;
+                
+                     })
                     
                     .style("stroke-width", 3)
                     .style("fill", "none")
@@ -139,12 +149,24 @@ function initConnected(){
                         .attr("r", 6)
                         //dl.coloreUniversityRector
                         //.style("fill", color(dl.university))
-                        .style("fill",
+                        .attr("fill",
 
-                         color(institution));
+                         color(institution))
+                        .attr("fill-opacity",function(d){
+                             //console.log("cliccateInLegenda " ,dl.cliccateInLegenda);
+
+                             if(!dl.cliccateInLegenda.includes(institution)){
+                                return 0.10
+                             }
+                             else{
+                                  return 1;
+
+                             }
+                
+                     })
             //}
             //list_lines.push(line);
-        }
+        //}
           
         series += 1;
 
@@ -157,7 +179,7 @@ function initConnected(){
     // A function that update the chart on the single attributes
     function update(selected) {
 
-        
+        console.log("chiamo update")
          
         series = 0;
      
@@ -177,7 +199,7 @@ function initConnected(){
 	    	}
 
 
-	    	console.log("datiPerSingolaInstitution: ",datiPerSingolaInstitution);
+	    	//console.log("datiPerSingolaInstitution: ",datiPerSingolaInstitution);
 
 	    	//console.log("dataFilter",dataFilter);
 
@@ -188,24 +210,25 @@ function initConnected(){
 	         else if(selected == "Research") dataFilter2 = datiPerSingolaInstitution.map(function(d){return {university:d.the_institution,year : d.year, value : d.the_reseach} });
            else dataFilter2 = datiPerSingolaInstitution.map(function(d){return {university:d.the_institution,year : d.year, value : d.the_citations} });
            
-          console.log(dataFilter2);
+          //console.log("dataFilter2: ",dataFilter2[0].university);
 
 	        list_lines[series]
 	            .datum(dataFilter2)
 	            .transition()
 	            .duration(1000)
+        
 	            .attr("d", d3.line()
 	                .x(function(d) { return x(parseInt(d.year)) })
 	                .y(function(d) { return y(parseFloat(d.value)) })
-	            )
-
+	            );
+               
 
 	        list_dots[series]
 		        .data(dataFilter2)
 		        .transition()
 		        .duration(1000)
 		        .attr("cx", function(d) { return x(parseInt(d.year)) })
-		        .attr("cy", function(d) { return y(parseFloat(d.value)) })
+		        .attr("cy", function(d) { return y(parseFloat(d.value)) });
 
 	        series += 1;
 

@@ -351,6 +351,18 @@ var RadarChart = {
              .attr("uni",keysLegend[series])
              .style("stroke-width", "2px")
              .style("stroke", cfg.color(keysLegend[series]))
+             .attr("stroke-opacity",function(d){
+                             //console.log("cliccateInLegenda " ,keysLegend[series]);
+
+                             if(!dl.cliccateInLegenda.includes(keysLegend[series])){
+                                return 0.10
+                             }
+                             else{
+                              return 1;
+
+                             }
+                
+              })
              .attr("points",function(d) {
                var str="";
                for(var pti=0;pti<d.length;pti++){
@@ -394,11 +406,24 @@ var tooltip = d3.select("body").append("div").attr("class", "toolTip");
 
       //.style("fill", "#fff")
       .style("fill", cfg.color(keysLegend[series]))
+      .attr("fill-opacity",function(d){
+                             //console.log("cliccateInLegenda " ,keysLegend[series]);
+
+                             if(!dl.cliccateInLegenda.includes(keysLegend[series])){
+                                return 0.10
+                             }
+                             else{
+                              return 1;
+
+                             }
+                
+              })
 
 
 
       .style("stroke-width", "2px")
-      .style("stroke",cfg.color(keysLegend[series])).style("fill-opacity", .9)
+      //.style("stroke",cfg.color(keysLegend[series])).style("fill-opacity", .9)
+
       .on('mouseover', function (d){
         //console.log(d.area)
           //console.log("nome uni",d3.select(this).attr("uni"));

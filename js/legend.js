@@ -54,16 +54,16 @@ function initLegend(){
 	    .attr("cx", 100)
 	    .attr("cy", function(d,i){ return 100 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
 	    .attr("r", 7)
-	    .style("fill", function(d){ /*console.log("d vale ",d , " color vale ", color(d));*/return color(d)})
+	    //.style("fill", function(d){ /*console.log("d vale ",d , " color vale ", color(d));*/return color(d)})
+	    .attr("fill",function(d){ /*console.log("d vale ",d , " color vale ", color(d));*/return color(d)})
 	    .on("click", function(d){
 
 	    		//d3.select(this).style("fill", "black");
-	    		//d3.select(this)._groups[0].attr("fill", "black")
 	    		//console.log("-------------------------> ",d3.select(this)._groups[0] );
 	    		if(!dl.cliccateInLegenda.includes(d)){
-		    		console.log("legenda cliccata vale : ",d);
+		    		//console.log("legenda cliccata vale : ",d);
 		    		dl.cliccateInLegenda.push(d);
-		    		console.log("cliccateInLegenda ", dl.cliccateInLegenda);
+		    		//console.log("cliccateInLegenda ", dl.cliccateInLegenda);
 					dl.legendFilter();
 				}else{
 					const index = dl.cliccateInLegenda.indexOf(d);
@@ -72,6 +72,7 @@ function initLegend(){
 						}
 
 					dl.legendFilter();
+
 				}
 
 		});
