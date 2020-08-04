@@ -97,11 +97,7 @@ function initScatter(){
 
   yAxis.selectAll("text")
   .style("fill", colors.getTextColor())
-<<<<<<< HEAD
-  
-=======
 
->>>>>>> e1f2e937ba71cf0efc2a232b2d2352969c41b41f
   // Add X axis label:
   svg_scatter.append("text")
       .attr("text-anchor", "end")
@@ -118,11 +114,7 @@ function initScatter(){
       .attr("x", -margin.top - height_scatter/2 + 10)
       .attr("stroke", "black")
       .text("PCA component 2");
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> e1f2e937ba71cf0efc2a232b2d2352969c41b41f
 
   d3.select("div.tooltip_scatter").style("visibility", "hidden");
 
