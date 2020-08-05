@@ -136,11 +136,6 @@ function initHeat(){
     .attr("transform", "translate(0," + height_heatmap + ")")
     .call(d3.axisBottom(x).tickSize(0))
     .select(".domain").remove(); //non mostrare asse delle x sotto
-    /*.selectAll("text")
-    .style("font-size", 10)
-      .style("text-anchor", "start")
-      .attr("transform", "rotate(-65)" );
-      //.attr("transform", "rotate(-65)" );*/
   
    svg_heatmap.selectAll("text")
       .style("font-size", 10)
