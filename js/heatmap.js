@@ -134,18 +134,19 @@ function initHeat(){
     .padding(0.01);
   svg_heatmap.append("g")
     .attr("transform", "translate(0," + height_heatmap + ")")
-    .call(d3.axisBottom(x))
-    .select(".domain").remove() //non mostrare asse delle x sotto
-    .selectAll("text")
+    .call(d3.axisBottom(x).tickSize(0))
+    .select(".domain").remove(); //non mostrare asse delle x sotto
+    /*.selectAll("text")
     .style("font-size", 10)
       .style("text-anchor", "start")
       .attr("transform", "rotate(-65)" );
-      //.attr("transform", "rotate(-65)" );
-
+      //.attr("transform", "rotate(-65)" );*/
+  
    svg_heatmap.selectAll("text")
       .style("font-size", 10)
       .style("text-anchor", "start")
-      .attr("transform", "rotate(15)" );
+      .attr("transform", "translate(7,5)" + "rotate(15)");
+      //.attr("transform", "rotate(15)" );
 
     legend.append('text')
         .attr('x', width_heatmap - 2)
