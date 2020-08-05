@@ -42,11 +42,11 @@ function updateGraphs(){
         updateMap();
         updateHeat();
     }
+    updateLegend();
     updateBar();
     updateScatter();
     updateLollipop();
     updateConnected();
-    updateLegend();
     updateRadarChart();
     //updateLollipop();
     

@@ -895,6 +895,7 @@ DataLoader.prototype.initDataForRector = function(){
             this.universityCountry = this.data[el].the_country;
             this.universityRank = this.data[el].the_rank;
             mia_uni = this.data[el];
+            console.log(mia_uni);
 
         }
     }

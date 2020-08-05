@@ -21,7 +21,7 @@ function initLollipop(){
 
 	for(i in dataLollipop){
 	    k = dataLollipop[i].institution;
-	    dict[k] = dataLollipop[i].cwur_score;
+	    dict[k] = dataLollipop[i].avg;
 	}
 
 	var elements = Object.keys(dict).map(function (key) {
