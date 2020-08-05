@@ -68,6 +68,10 @@ th {
   position: absolute;
 }
 
+.legend_mappa_area{
+  top: 20px;
+}
+
 
 .slider {
   -webkit-appearance: none;
