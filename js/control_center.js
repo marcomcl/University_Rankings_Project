@@ -170,6 +170,7 @@ dl.addListener("cleanMap", function(e){
 
      d3.selectAll("p").transition().duration(duration).style("color", colors.getTextColor());
      d3.selectAll("span").transition().duration(duration).style("color", colors.getTextColor());
+     d3.select(".legendMap").transition().duration(duration).style("color", colors.getTextColor());
  }
  
  d3.select(window).on("load", addColor);

@@ -324,6 +324,7 @@ var RadarChart = {
       .text(function(d){return d})
       .style("font-family", "sans-serif")
       .style("font-size", "11px")
+      .style("fill", colors.getTextColor())
       .attr("text-anchor", "middle")
       .attr("dy", "1.5em")
       .attr("transform", function(d, i){return "translate(0, -10)"})
@@ -463,8 +464,6 @@ dl.addListener("changeColor", function (e) {
     var duration = 0;
     if (animate) duration = 300;
     
-    svg_radar.selectAll(".domain").transition().duration(duration).style("stroke", colors.getTextColor());
-    svg_radar.selectAll("line").transition().duration(duration).style("stroke", colors.getTextColor());
-    svg_radar.selectAll("text").transition().duration(duration).style("fill", colors.getTextColor());
+    d3.selectAll(".legend").transition().duration(duration).style("fill", colors.getTextColor());
 
  }

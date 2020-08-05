@@ -9,7 +9,7 @@ var margin_map = { top: 10, right: 10, bottom: 10, left: 10 },
 var svg_map = d3.select(".map_area")
 .append("svg")
 //.attr("class", "tooltip") //manage click event ADD TOOLTIP
-.attr("width", '100%')
+.attr("width", '85%')
 .attr("height", '100%')
 .append("g")//
 .attr("transform", "translate(" + margin_map.left + "," + margin_map.top + ")");

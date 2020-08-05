@@ -61,12 +61,13 @@ th {
   position: relative;
 }
 
-.clear_area,.clear_area2, .select_area, .select_bar_area, .lollipop_button{
+.clear_area,.clear_area2, .select_area, .select_bar_area, .lollipop_button, .legend_mappa_area{
   right: 0;
   margin-right: 4px;
   margin-top: 4px;
   position: absolute;
 }
+
 
 .slider {
   -webkit-appearance: none;

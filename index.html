@@ -22,11 +22,11 @@
   <body>
     <div class='myHeader'>
       <table id="title_table">
+        
         <tr>
           <th>
-            <span class="slider" id="slider" style="display: block;">
-              <span id="top"></span>
-              <input id = "rank" type="range" min="0" max="0" id="top" value="0" step='1'>
+            <span class="title_container">
+              <p id = "title"><b>University Rankings - Visual Analytics</b></p>
             </span>
           </th>
 
@@ -40,6 +40,13 @@
               <label for="shg"> Score [shg]</label>
             </span>
           </th>
+          
+          <th>
+            <span class="slider" id="slider" style="display: block;">
+              <span id="top"></span>
+              <input id = "rank" type="range" min="0" max="0" id="top" value="0" step='1'>
+            </span>
+          </th>
 
           <th>
             <span class="slider" id="slider2">
@@ -47,12 +54,6 @@
               <input id = "lifeCost" type="range" min="0" max="0" id="top2" value="0" step='1'>
             </span>
           </th>
-
-          <th>
-            <span class="title_container">
-              <p id = "title"><b>University Rankings - Visual Analytics</b></p>
-            </span>
-          </th> 
           
           <th>
             <span class="title_university_rector">
@@ -93,20 +94,16 @@
         <div class="map_area" id="map" style="display: block;">
           <div class ="clear_area" id = "clear_area">
             <input type="button" id="clear" value="Clear Map" onclick="cleanMap()">
+          </div>
+          <br>
+
+          <div class = "legend_mappa_area" id ="legend_mappa">
              <ul class="legendMap">
               <li><span class="superawesome"></span> universities</li><br>
               <li><span class="awesome"></span> selected</li><br>
               <li><span class="kindaawesome"></span> from scatter</li><br>
             </ul>
           </div>
-          <!--<div class = "legend_mappa_area" id ="legend_mappa">
-            <ul class="legendaMap">
-              <li><span class="superawesome" color="blue"></span> Super Awesome</li>
-              <li><span class="awesome"></span> Awesome</li>
-              <li><span class="kindaawesome"></span> Kinda Awesome</li>
-              <li><span class="notawesome"></span> Not Awesome</li>
-            </ul>
-          </div>-->
 
           <div class="tooltip"></div>
         </div>

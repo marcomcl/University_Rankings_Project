@@ -103,7 +103,7 @@ function initScatter(){
       .attr("text-anchor", "end")
       .attr("x", width_scatter/2 + margin.left)
       .attr("y", height_scatter + margin.top + 10)
-      .attr("stroke", "black")
+      .attr("fill", colors.getTextColor())
       .text("PCA component 1");
 
   // Y axis label:
@@ -112,7 +112,7 @@ function initScatter(){
       .attr("transform", "rotate(-90)")
       .attr("y", -margin.left + 30)
       .attr("x", -margin.top + height_scatter/10 + 10)
-      .attr("stroke", "black")
+      .attr("fill", colors.getTextColor())
       .text("PCA component 2");
 
 

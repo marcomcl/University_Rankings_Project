@@ -24,7 +24,7 @@ function initBar(){
 
     for(i in dataBar){
         k = dataBar[i].institution;
-        dict[k] = dataBar[i].avg;
+        dict[k] = (dl.student) ? dataBar[i].cwur_score : dataBar[i].avg;
     }
 
     var elements = Object.keys(dict).map(function (key) {
@@ -105,7 +105,7 @@ function initBar(){
       .attr("text-anchor", "end")
       .attr("x", widthBar/2 + margin.left)
       .attr("y", heightBar + margin.top + 15)
-      .attr("stroke", "black")
+      .attr("fill", colors.getTextColor())
       .text("Score");
 
    
