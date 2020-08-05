@@ -353,7 +353,7 @@ function initMap(){
 						uni_selected_with_the_country = svg_map.selectAll("circle[country=USA]").style("fill", colors.getColorUniversity());
 					} 
 					else if(paeseId == "Saudi Arabia"){
-						uni_selected_with_the_country = svg_map.selectAll("circle[country=SA]").style("fill", colors.getColorUniversity());
+						uni_selected_with_the_country = svg_map.selectAll("circle[country=SAU]").style("fill", colors.getColorUniversity());
 					}
 					else if(paeseId == "United Kingdom"){
 						uni_selected_with_the_country = svg_map.selectAll("circle[country=UK]").style("fill", colors.getColorUniversity());
