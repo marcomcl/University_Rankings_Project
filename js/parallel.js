@@ -25,7 +25,7 @@ function initParallel(){
         .data(['university','selected from scatter'])
         .enter().append('g')
         .attr('class', 'legend')
-        .attr('transform', function (d, i) { return 'translate(500,' + i * 20 + ')'; });
+        .attr('transform', function (d, i) { return 'translate(550,' + i * 20 + ')'; });
 /*
       legend.append('rect')
         .attr('x', width_scatter)

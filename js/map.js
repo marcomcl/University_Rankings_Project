@@ -43,7 +43,7 @@ function initMap(){
 	//var tooltip = d3.select("div.tooltip");
 	//data = getDataMap();
 	/////////////////////////////////////
-	var legend = svg_map.selectAll('legend')
+	/*var legend = svg_map.selectAll('legend')
 	    .data(['university','selected', 'selected from scatter'])
 	    .enter().append('g')
 	    .attr('class', 'legend')
@@ -98,7 +98,57 @@ function initMap(){
           }
 
         })
-	    .text(function (d) { return d; });
+	    .text(function (d) { return d; });*/
+	/*const svg = d3.create("svg")
+    .attr("width", 400)
+    .attr("height", 400)*/
+  
+  // Legend as a group
+  /*const legend = svg_map.append("g")
+    // Apply a translation to the entire group 
+    .attr("transform", "translate(100, 100)")
+  
+  const size = 20;
+  const border_padding = 15;
+  const item_padding = 5;
+  const text_offset = 2;
+  domains = ["Phase 1", "Phase 2", "Phase 3", "Phase 4"];
+  palette = ["#f58442", "#ede02d", "#9fbda2", "#6dbfd6"];
+  colorMap = d3.scaleOrdinal(palette).domain(domains);
+  // Border
+  legend
+    .append('rect')
+    .attr("width", 120)
+    .attr("height", 125)
+    .style("fill", "none")
+    .style("stroke-width", 1)
+    .style("stroke", "black");
+  
+  // Boxes
+  legend.selectAll("boxes")
+    .data(domains)
+    .enter()
+    .append("rect")
+      .attr("x", border_padding)
+      .attr("y", (d, i) => border_padding + (i * (size + item_padding)))
+      .attr("width", size)
+      .attr("height", size)
+      .style("fill", (d) => colorMap(d));
+  
+  // Labels
+  legend.selectAll("labels")
+    .data(domains)
+    .enter()
+    .append("text")
+      .attr("x", border_padding + size + item_padding)
+      .attr("y", (d, i) => border_padding + i * (size + item_padding) + (size / 2) + text_offset)
+      // .style("fill", (d) => color(d))
+      .text((d) => d)
+      .attr("text-anchor", "left")
+      .style("alignment-baseline", "middle")
+      .style("font-family", "sans-serif");*/
+  
+  //return svg.node();
 
 
 
@@ -119,7 +169,7 @@ function initMap(){
 	d3.json("./data/countries.topo.json", function(error, us,names) {
 	     
 		 //disegno la mappa
-		 svg_map.append("g")
+		 svg_map.append("g").append("g")
 			 .selectAll("path")
 			 .data(topojson.feature(us, us.objects.countries).features)//prendo i singoli paesi dal topo.json
 			 .enter()
@@ -137,7 +187,7 @@ function initMap(){
 		dataMap = dl.uniCoordinates;
 		//console.log(dataMap[0]);
 		//console.log(dataMap);
-        svg_map.append('g').attr('class', 'circles_container').selectAll("circle")
+        svg_map.append('g').append("g").attr('class', 'circles_container').selectAll("circle")
 
             .data(dataMap)//qua si passa la funzione per i punti asseconda degli anni
             .enter()
@@ -533,3 +583,5 @@ function arrNum(numero,nDecimali){
 	 svg_map.selectAll(".map_path").transition().duration(duration).style("stroke", colors.getColorMarginCountry());
 	 svg_map.selectAll(".map_path").transition().duration(duration).style("fill", colors.getBgMap());
  }
+
+

@@ -160,5 +160,3 @@ function addUniToSelect(uni){
     //console.log(uni);
     sel.appendChild(option);
 }
-
-

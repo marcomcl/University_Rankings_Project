@@ -61,7 +61,7 @@ th {
   position: relative;
 }
 
-.clear_area, .select_area, .select_bar_area, .lollipop_button{
+.clear_area,.clear_area2, .select_area, .select_bar_area, .lollipop_button{
   right: 0;
   margin-right: 4px;
   margin-top: 4px;
@@ -453,3 +453,26 @@ select, input[type=button]{
   font-weight: 500;
   color: #081F2C;
 }
+
+/*legenda mappa*/
+
+/* basic positioning */
+.legendMap { 
+  list-style: none; 
+   position: center;
+   margin-left:4px;
+
+ 
+}
+.legendMap li { float: left; margin-right: 10px; }
+.legendMap span { border: 1px solid #ccc; float: left; width: 12px; height: 12px; margin: 2px; }
+/* your colors */
+.legendMap .superawesome { background-color: #2ca25f; }
+.legendMap .awesome { background-color: #252850; }
+.legendMap .kindaawesome { background-color: #3397de; }
+
+ /* right: 0;
+  margin-right: 4px;
+  margin-top: 4px;
+  position: absolute;
+}*/
