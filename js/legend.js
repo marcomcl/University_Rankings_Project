@@ -60,7 +60,7 @@ function initLegend(){
 
 	    		if(!dl.cliccateInLegenda.includes(d)){
 		    		//console.log("legenda cliccata vale : ",d);
-		    		d3.select(this).style("fill", "black");
+		    		//d3.select(this).style("fill", "black");
 		    		dl.cliccateInLegenda.push(d);
 		    		//console.log("cliccateInLegenda ", dl.cliccateInLegenda);
 					dl.legendFilter();
