@@ -1,7 +1,7 @@
 clientWidth = document.documentElement.clientWidth;
 clientHeight = document.documentElement.clientHeight;
 
-var margin = {top: 40, right: 60, bottom: 10, left: 20},
+var margin = {top: 40, right: 60, bottom: 10, left: 60},
     width_scatter = Math.round(clientWidth * 0.35) - margin.left - margin.right,
     height_scatter = Math.round(clientHeight * 0.35) - margin.top - margin.bottom;
 
@@ -9,7 +9,7 @@ var svg_scatter = d3.select(".scatterplot_area").append("svg")
     .attr("width", '100%')
     .attr("height", '100%')
   .append("g")
-  .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+  .attr("transform", "translate(" + margin.left  + "," + margin.top + ")")
   .on("dblclick", function(){
     dl.dotHighlighted.splice(0, dl.dotHighlighted.length);
     dl.scatterFilter();
@@ -110,8 +110,8 @@ function initScatter(){
   svg_scatter.append("text")
       .attr("text-anchor", "end")
       .attr("transform", "rotate(-90)")
-      .attr("y", -margin.left + 20)
-      .attr("x", -margin.top - height_scatter/2 + 10)
+      .attr("y", -margin.left + 30)
+      .attr("x", -margin.top + height_scatter/10 + 10)
       .attr("stroke", "black")
       .text("PCA component 2");
 

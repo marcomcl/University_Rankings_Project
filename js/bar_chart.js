@@ -104,7 +104,7 @@ function initBar(){
       .attr("x", widthBar/2 + margin.left)
       .attr("y", heightBar + margin.top + 15)
       .attr("stroke", "black")
-      .text("Stock Price");
+      .text("cwur score");
 
    
     // bars
