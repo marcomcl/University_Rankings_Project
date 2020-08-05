@@ -274,6 +274,9 @@ function initMap(){
 						else if(paeseId == "South Africa"){
 							uni_selected_with_the_country = svg_map.selectAll("circle[country=SouthAfrica]").style("fill", colors.getColorSelectedUniversity());
 						}
+						else if(paeseId == "Russian Federation"){
+							uni_selected_with_the_country = svg_map.selectAll("circle[country=Russia]").style("fill", colors.getColorSelectedUniversity());
+						}
 						else if(paeseId == "South Korea"){
 							uni_selected_with_the_country = svg_map.selectAll("circle[country=SouthKorea]").style("fill", colors.getColorSelectedUniversity());
 						}
@@ -360,6 +363,15 @@ function initMap(){
 					}
 					else if(paeseId == "South Africa"){
 						uni_selected_with_the_country = svg_map.selectAll("circle[country=SAF]").style("fill", colors.getColorUniversity());
+					}
+					else if(paeseId == "Russian Federation"){
+						uni_selected_with_the_country = svg_map.selectAll("circle[country=Russia]").style("fill", colors.getColorUniversity());
+					}
+					else if(paeseId == "South Korea"){
+						uni_selected_with_the_country = svg_map.selectAll("circle[country=SouthKorea]").style("fill", colors.getColorUniversity());
+					}
+					else if(paeseId == "New Zealand"){
+						uni_selected_with_the_country = svg_map.selectAll("circle[country=NewZealand]").style("fill", colors.getColorUniversity());
 					}
 					else if(paeseId == "Czech Rep."){
 						uni_selected_with_the_country = svg_map.selectAll("circle[country=CZ]").style("fill", colors.getColorUniversity());

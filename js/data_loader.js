@@ -199,6 +199,7 @@ DataLoader.prototype.loadData = function(){
                         case "Saudi Arabia":country ="SAU";break;
                         case "Czech Republic":country = "CECREP";break;
                         case "South Africa": country = "SouthAfrica";break;
+                        case "Russian Federation": country = "Russia";break;
                         case "South Korea": country = "Korea";break;
                         case "New Zealand": country = "NewZealand";break;
                     }
@@ -312,6 +313,7 @@ DataLoader.prototype.changeYear = function(y){
                     case "Saudi Arabia":country ="SAU";break;
                     case "Czech Republic":country = "CECREP";break;
                     case "South Africa": country = "SouthAfrica";break;
+                    case "Russian Federation": country = "Russia";break;
                     case "South Korea": country = "Korea";break;
                     case "New Zealand": country = "NewZealand";break;
                 }
@@ -503,6 +505,7 @@ DataLoader.prototype.changeFilter = function(r){
 	                    case "Saudi Arabia":country ="SAU";break;
 	                    case "Czech Republic":country = "CECREP";break;
 	                    case "South Africa": country = "SouthAfrica";break;
+                        case "Russian Federation": country = "Russia";break;
 	                    case "South Korea": country = "Korea";break;
 	                    case "New Zealand": country = "NewZealand";break;
 	                }
@@ -649,6 +652,7 @@ DataLoader.prototype.changeFilterLifeCost = function(r,l){
                     case "Saudi Arabia":country ="SAU";break;
                     case "Czech Republic":country = "CECREP";break;
                     case "South Africa": country = "SouthAfrica";break;
+                    case "Russian Federation": country = "Russia";break;
                     case "South Korea": country = "Korea";break;
                     case "New Zealand": country = "NewZealand";break;
                 }
@@ -704,6 +708,7 @@ DataLoader.prototype.parFilter = function () {
                     case "Saudi Arabia":country ="SAU";break;
                     case "Czech Republic":country = "CECREP";break;
                     case "South Africa": country = "SouthAfrica";break;
+                    case "Russian Federation": country = "Russia";break;
                     case "South Korea": country = "Korea";break;
                     case "New Zealand": country = "NewZealand";break;
                 }
@@ -756,6 +761,7 @@ DataLoader.prototype.cleanMap = function(){
                 case "Saudi Arabia":country ="SAU";break;
                 case "Czech Republic":country = "CECREP";break;
                 case "South Africa": country = "SouthAfrica";break;
+                case "Russian Federation": country = "Russia";break;
                 case "South Korea": country = "Korea";break;
                 case "New Zealand": country = "NewZealand";break;
             }
@@ -800,6 +806,7 @@ DataLoader.prototype.mapFilter = function () {
                 case "United Arab Emirates" : country = "UAE"; break;
                 case "Saudi Arabia":country ="SAU";break;
                 case "Czech Republic":country = "CECREP";break;
+                case "Russian Federation": country = "Russia";break;
                 case "South Africa": country = "SouthAfrica";break;
                 case "South Korea": country = "Korea";break;
                 case "New Zealand": country = "NewZealand";break;

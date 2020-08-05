@@ -145,8 +145,14 @@ function initHeat(){
    svg_heatmap.selectAll("text")
       .style("font-size", 10)
       .style("text-anchor", "start")
-      .attr("transform", "translate(7,5)" + "rotate(15)");
-      //.attr("transform", "rotate(15)" );
+      .each(function(d,i){
+        console.log(i);
+        if(i < 2)
+          d3.select(this).attr("transform", "translate(7,5)" + "rotate(15)");
+        else if(i < 4) 
+          d3.select(this).attr("transform", "translate(14,5)" + "rotate(15)");
+        else d3.select(this).attr("transform", "translate(28,5)" + "rotate(15)");
+      })
 
     legend.append('text')
         .attr('x', width_heatmap - 2)
