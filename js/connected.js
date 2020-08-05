@@ -179,7 +179,7 @@ function initConnected(){
     // A function that update the chart on the single attributes
     function update(selected) {
 
-        console.log("chiamo update")
+        //console.log("chiamo update")
          
         series = 0;
      

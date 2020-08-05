@@ -336,12 +336,12 @@ DataLoader.prototype.changeYear = function(y){
         }
     }
         if(dl.student == false){
-            console.log("########################################### change year rector");
+            //console.log("########################################### change year rector");
             this.university  = document.getElementById("uni").value;
 
-            console.log("entrato in changeYear modalità rettore ");
+            //console.log("entrato in changeYear modalità rettore ");
              this.university  = document.getElementById("uni").value;
-             console.log("mia university è ",this.university);
+            //console.log("mia university è ",this.university);
 
             ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
             //prelevo il paese
@@ -363,8 +363,8 @@ DataLoader.prototype.changeYear = function(y){
             }
 
 
-            console.log("this.data vale ", this.data);
-            console.log("this.allData vale ",this.allData);
+            //console.log("this.data vale ", this.data);
+            //console.log("this.allData vale ",this.allData);
             for( el in this.data){
                 if(this.data[el].the_institution == this.university){
                     
@@ -431,9 +431,9 @@ DataLoader.prototype.changeYear = function(y){
 
             }
 
-            console.log(" - this.universityDelPaeseDellaMiaScelta: ",this.universityDelPaeseDellaMiaScelta);
+            //console.log(" - this.universityDelPaeseDellaMiaScelta: ",this.universityDelPaeseDellaMiaScelta);
 
-            console.log("########################################### change year rector end");
+            //console.log("########################################### change year rector end");
 
     	}
     //console.log("key legend dopo vale : ",this.keyLegend);
@@ -800,7 +800,7 @@ DataLoader.prototype.initUniData = function () {
             this.uniData.push(this.allData[i]);  
     }
 
-    console.log("uniData vale", this.uniData);
+    //console.log("uniData vale", this.uniData);
 }
 
 

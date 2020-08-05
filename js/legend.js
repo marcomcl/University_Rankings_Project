@@ -58,10 +58,9 @@ function initLegend(){
 	    .attr("fill",function(d){ /*console.log("d vale ",d , " color vale ", color(d));*/return color(d)})
 	    .on("click", function(d){
 
-	    		//d3.select(this).style("fill", "black");
-	    		//console.log("-------------------------> ",d3.select(this)._groups[0] );
 	    		if(!dl.cliccateInLegenda.includes(d)){
 		    		//console.log("legenda cliccata vale : ",d);
+		    		d3.select(this).style("fill", "black");
 		    		dl.cliccateInLegenda.push(d);
 		    		//console.log("cliccateInLegenda ", dl.cliccateInLegenda);
 					dl.legendFilter();
@@ -70,7 +69,7 @@ function initLegend(){
 						if (index > -1) {
 							dl.cliccateInLegenda.splice(index, 1);
 						}
-
+					d3.select(this).style("fill",function(d){ /*console.log("d vale ",d , " color vale ", color(d));*/return color(d)})
 					dl.legendFilter();
 
 				}
