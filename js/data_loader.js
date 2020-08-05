@@ -391,8 +391,39 @@ DataLoader.prototype.changeYear = function(y){
                 }
              }
 
-            this.universityDelPaeseDellaMiaScelta.sort(function(a,b){
-                return b.cwur_score - a.cwur_score;
+             this.universityDelPaeseDellaMiaScelta.sort(function(a,b){
+                var tot = 0;
+                var sumB = 0;
+                var sumA = 0;
+                var cwur = document.getElementById("cwur");
+                var the = document.getElementById("the");
+                var shg = document.getElementById("shg");
+                if(cwur.checked == true){
+                    if(String(a.cwur_score) != "-" && String(b.cwur_score) != "-"){
+                        tot++;
+                        sumB += parseFloat(b.cwur_score);
+                        sumA += parseFloat(a.cwur_score);
+                    }
+                    
+                }
+                if(the.checked == true){
+                    if(String(a.the_overall) != "-" && String(b.the_overall) != "-"){
+                        tot++;
+                        sumB += parseFloat(b.the_overall);
+                        sumA += parseFloat(a.the_overall);
+                    }
+                }
+                if(shg.checked == true){
+                    if(String(a.shg_score) != "-" && String(b.shg_score) != "-"){
+                        tot++;
+                        sumB += parseFloat(b.shg_score);
+                        sumA += parseFloat(a.shg_score);
+                    }
+                }
+                b.avg = sumB / tot;
+                a.avg = sumA / tot;
+                if(tot == 0) return 0;
+                return sumB / tot - sumA / tot;
             });
 
             this.USED_universityDelPaeseDellaMiaScelta.sort(function(a,b){
@@ -409,13 +440,11 @@ DataLoader.prototype.changeYear = function(y){
 
                 this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(0, 10);
                 this.USED_universityDelPaeseDellaMiaScelta = this.USED_universityDelPaeseDellaMiaScelta.slice(0, 10);
-
              }
              else{
                this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
                 this.USED_universityDelPaeseDellaMiaScelta = this.USED_universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
-                console.log(this.universityDelPaeseDellaMiaScelta);
-
+        
              }
 
             this.coordinatesPCATeacher.splice(0,this.coordinatesPCATeacher.length);
@@ -879,8 +908,39 @@ DataLoader.prototype.initDataForRector = function(){
         }
      }
 
-    this.universityDelPaeseDellaMiaScelta.sort(function(a,b){
-        return b.cwur_score - a.cwur_score;
+     this.universityDelPaeseDellaMiaScelta.sort(function(a,b){
+        var tot = 0;
+        var sumB = 0;
+        var sumA = 0;
+        var cwur = document.getElementById("cwur");
+        var the = document.getElementById("the");
+        var shg = document.getElementById("shg");
+        if(cwur.checked == true){
+            if(String(a.cwur_score) != "-" && String(b.cwur_score) != "-"){
+                tot++;
+                sumB += parseFloat(b.cwur_score);
+                sumA += parseFloat(a.cwur_score);
+            }
+            
+        }
+        if(the.checked == true){
+            if(String(a.the_overall) != "-" && String(b.the_overall) != "-"){
+                tot++;
+                sumB += parseFloat(b.the_overall);
+                sumA += parseFloat(a.the_overall);
+            }
+        }
+        if(shg.checked == true){
+            if(String(a.shg_score) != "-" && String(b.shg_score) != "-"){
+                tot++;
+                sumB += parseFloat(b.shg_score);
+                sumA += parseFloat(a.shg_score);
+            }
+        }
+        b.avg = sumB / tot;
+        a.avg = sumA / tot;
+        if(tot == 0) return 0;
+        return sumB / tot - sumA / tot;
     });
 
     this.USED_universityDelPaeseDellaMiaScelta.sort(function(a,b){
@@ -897,12 +957,10 @@ DataLoader.prototype.initDataForRector = function(){
 
         this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(0, 10);
         this.USED_universityDelPaeseDellaMiaScelta = this.USED_universityDelPaeseDellaMiaScelta.slice(0, 10);
-
      }
      else{
        this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
         this.USED_universityDelPaeseDellaMiaScelta = this.USED_universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
-        console.log(this.universityDelPaeseDellaMiaScelta);
 
      }
 
@@ -926,6 +984,117 @@ DataLoader.prototype.initDataForRector = function(){
 
 
 
+}
+
+DataLoader.prototype.computeAttributes = function(){
+
+    var mia_uni = null;
+    //var indice_di_range = null;
+
+    //mi prendo il paese di quella università
+    //console.log("this.data vale: ",this.data);
+    for( el in this.data){
+        if(this.data[el].the_institution == this.university){
+            
+            this.universityCountry = this.data[el].the_country;
+            this.universityRank = this.data[el].the_rank;
+            mia_uni = this.data[el];
+
+        }
+    }
+
+    this.universityDelPaeseDellaMiaScelta.splice(0,this.universityDelPaeseDellaMiaScelta.length);
+
+    //console.log("UTIL.JS this.data",this.data);
+    //riempio universityDelPaeseDellaMiaScelta
+    //console.log("from utils: ",this.universityDelPaeseDellaMiaScelta);
+     for( el in this.data){
+
+        if(this.data[el].the_country == this.universityCountry){
+            this.universityDelPaeseDellaMiaScelta.push(this.data[el]);
+            this.USED_universityDelPaeseDellaMiaScelta.push(this.data[el]);
+        }
+     }
+
+     this.universityDelPaeseDellaMiaScelta.sort(function(a,b){
+        var tot = 0;
+        var sumB = 0;
+        var sumA = 0;
+        var cwur = document.getElementById("cwur");
+        var the = document.getElementById("the");
+        var shg = document.getElementById("shg");
+        if(cwur.checked == true){
+            if(String(a.cwur_score) != "-" && String(b.cwur_score) != "-"){
+                tot++;
+                sumB += parseFloat(b.cwur_score);
+                sumA += parseFloat(a.cwur_score);
+            }
+            
+        }
+        if(the.checked == true){
+            if(String(a.the_overall) != "-" && String(b.the_overall) != "-"){
+                tot++;
+                sumB += parseFloat(b.the_overall);
+                sumA += parseFloat(a.the_overall);
+            }
+        }
+        if(shg.checked == true){
+            if(String(a.shg_score) != "-" && String(b.shg_score) != "-"){
+                tot++;
+                sumB += parseFloat(b.shg_score);
+                sumA += parseFloat(a.shg_score);
+            }
+        }
+        b.avg = sumB / tot;
+        a.avg = sumA / tot;
+        if(tot == 0) return 0;
+        return sumB / tot - sumA / tot;
+    });
+
+    /*this.USED_universityDelPaeseDellaMiaScelta.sort(function(a,b){
+        var tot = 1;
+        var sumB = b.cwur_score;
+        var sumA = a.cwur_score
+        var qoe = document.getElementById("qoe")
+        if(qoe.checked == true){
+            tot++;
+            sumB += b.cwur_quality_of_education;
+            sumA += a.cwur_quality_of_education; 
+        }
+        return sumB / tot - sumA / tot;
+    });*/
+
+     //di questo prendo il range di 10 che caratterizzano l'uni del rettore
+
+
+     this.indice_di_range = this.universityDelPaeseDellaMiaScelta.indexOf(mia_uni);
+
+     //ar2 = [];
+     if(this.indice_di_range <= 5){
+
+        this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(0, 10);
+        this.USED_universityDelPaeseDellaMiaScelta = this.USED_universityDelPaeseDellaMiaScelta.slice(0, 10);
+     }
+     else{
+       this.universityDelPaeseDellaMiaScelta = this.universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
+        this.USED_universityDelPaeseDellaMiaScelta = this.USED_universityDelPaeseDellaMiaScelta.slice(this.indice_di_range-5, this.indice_di_range+5);
+
+     }
+
+    this.coordinatesPCATeacher.splice(0,this.coordinatesPCATeacher.length);
+
+
+    for( i in this.universityDelPaeseDellaMiaScelta){
+         institution = this.universityDelPaeseDellaMiaScelta[i].the_institution;
+         pca_1 = this.universityDelPaeseDellaMiaScelta[i].PCA_component3;
+         pca_2 = this.universityDelPaeseDellaMiaScelta[i].PCA_component4;
+         //console.log("bellaaaaaaaa ",String(institution),parseFloat(pca_1),parseFloat(pca_2));
+        this.coordinatesPCATeacher.push([String(institution),parseFloat(pca_1),parseFloat(pca_2)]);
+
+
+    }
+
+    obs.listeners.dispatchEvent(new Event('check'));
 }
 
 var dl = new DataLoader();

@@ -125,6 +125,10 @@ dl.addListener('rankChanged', function (e) {
     updateGraphs();
 });
 
+dl.addListener('check', function (e) {
+    updateGraphs();
+});
+
 
 dl.addListener('legendFilter', function (e) {
     updateConnected();

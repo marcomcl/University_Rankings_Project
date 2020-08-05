@@ -16,13 +16,15 @@ function initBar(){
 
     dataBar = getDataBar();
 
+    //the_teaching,the_reseach,the_citations,the_industry_income
+
     //console.log(dataBar);
 
     var dict = {};
 
     for(i in dataBar){
         k = dataBar[i].institution;
-        dict[k] = dataBar[i].cwur_score;
+        dict[k] = dataBar[i].avg;
     }
 
     var elements = Object.keys(dict).map(function (key) {
@@ -104,7 +106,7 @@ function initBar(){
       .attr("x", widthBar/2 + margin.left)
       .attr("y", heightBar + margin.top + 15)
       .attr("stroke", "black")
-      .text("cwur score");
+      .text("Score");
 
    
     // bars

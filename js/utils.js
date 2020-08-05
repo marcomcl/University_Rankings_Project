@@ -28,17 +28,6 @@ function setRankRange(min, max){
     document.getElementById("top").innerHTML = "Top "+ curRank + " [cwur]";
 }
 
-function setRankRangeRec(min, max){
-    ranrec = document.getElementById("rank_rector");
-    ranrec.min = min;
-    ranrec.max = max;
-    ranrec.value = curRankRec = parseInt(max/2);
-    ranrec.addEventListener('input', function () {
-        //dl.changeFilter(ranrec.value);
-    });
-    document.getElementById("top_rec").innerHTML = "Top "+ curRank + " [cwur]";
-}
-
 function setLifeCostRange(min, max){
     //console.log("############## chiamato setLifeCostRange");
     lfc = document.getElementById("lifeCost");
@@ -98,19 +87,14 @@ function switchUser()
             document.getElementById("lollipop").style.display = "none";
             document.getElementById("bg").style.visibility = "hidden";
             document.getElementById("slider").style.display = "block";
-            document.getElementById("slider_rec").style.display = "none";
             document.getElementById("slider2").style.visibility = "visible";
+            document.getElementById("attr").style.visibility = "hidden";
 
 
             //svuoto la legenda
             dl.keyLegend.splice(0,dl.keyLegend.length);
 
             document.getElementById("title_rector").innerHTML = ""; 
-
-
-   
-
-
 
     }
 }
@@ -119,7 +103,7 @@ function initTeacher(){
     //console.log("chiamato teacher");
     //manageTeacherStuffs();
     dl.initDataForRector();
-
+    
     dl.initUniData();
     dl.initUniDataConnected();
 
@@ -135,8 +119,8 @@ function initTeacher(){
     document.getElementById("legend").style.display = "block";
     document.getElementById("bg").style.visibility = "hidden";
     document.getElementById("slider").style.display = "none";
-    document.getElementById("slider_rec").style.display = "block";
     document.getElementById("slider2").style.visibility = "hidden";
+    document.getElementById("attr").style.visibility = "visible";
 
 
     //span = document.getElementById("title_rector");
@@ -159,4 +143,8 @@ function addUniToSelect(uni){
     option.value = option.textContent = uni;
     //console.log(uni);
     sel.appendChild(option);
+}
+
+function computeAttributes(){
+    dl.computeAttributes();
 }

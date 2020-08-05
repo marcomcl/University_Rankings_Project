@@ -28,9 +28,16 @@
               <span id="top"></span>
               <input id = "rank" type="range" min="0" max="0" id="top" value="0" step='1'>
             </span>
-            <span class="slider" id="slider_rec" style="display: none;">
-              <span id="top_rec"></span>
-              <input id = "rank_rector" type="range" min="0" max="0" id="top" value="0" step='1'>
+          </th>
+
+          <th>
+            <span class="attributes" id="attr" style="visibility: hidden">
+              <input type="checkbox" id="cwur" name="cwur" value="cwur_score" onclick = "computeAttributes()" checked>
+              <label for="cwur"> Score [cwur]</label>
+              <input type="checkbox" id="the" name="the" value="the_overall" onclick = "computeAttributes()">
+              <label for="the"> Score [the]</label>
+              <input type="checkbox" id="shg" name="shg" value="shg_score" onclick = "computeAttributes()">
+              <label for="shg"> Score [shg]</label>
             </span>
           </th>
 
